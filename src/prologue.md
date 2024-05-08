@@ -1,0 +1,71 @@
+# Prologue
+
+Tick, tock. Tick, tock. It was one minute to 6 in the evening. The sky emanates a red-orange hue. Lights were already on. The city square was busy. 
+
+A little girl with wings on the back of her head was running and jumping, pushing and shoving through the crowd. She was clearly on her way, not noticing even when stepped on a puddle. A while later, she turned to her back, waiving to her friends: "Come on! Hurry up! The Queen's anniversary is going to start without us, guys!"
+
+A tanned boy was tailing behind closely, acknowledged immediately, "Yeah, move your feet! Hop hop! Run like you mean it!" and continue running behind the girl. 
+
+Two other boys, one thin, another chubby, was panting trying to catch up with the two. "Slow down, guys!" He had to push himself others on the side for someone his size to tune his direction while passing between the crowds. Nonetheless, we could see his eyes lighting up, asking, "Is it true, though, there's gonna be fireworks!" 
+
+The third boy, long hair tied to a pony tail, stopped and turned for a moment to look at him before continue running, while replying, "yeah, saw them setting up yesterday. There were loads of them. It'll be worth it. Promise!" 
+
+As soon as he finished his sentence, everyone looked up into the night sky. The sound of fireworks shooting up in the distant. To his right, fireworks had already launched while they were still running. It was too late. He stopped and looked at it. The fat boy slowly catching up to him. 
+
+"Ahahah" The distant sounds of children splashing at each other while laughing in the square's fountain. The winged girl arrived at the square first, the tanned boy followed. She turned to her back and wave to the other 2 guys, as if saying, "over here!"
+
+The fat boy dashed past the pony-tail boy without turning his head to look at him while waving his hand back. Awestruck, the pony-tail boy was slow to react, and followed a second later. The girl and the tanned boy, assured that they didn't fall behind, continue to lead their way. 
+
+Tick, tock. Tick, tock. Tick, tock. Time didn't wait for them. The cranking sound of the mechanical clock continues. The long hand struck zero, and it's officially 6 p.m when pigeons were flying around, the pony-tail boy was still running, and time suddenly stop. 
+
+==================
+
+He slowed down to a walk. Everything around him move in slow motion, as if resisting time, to no avail. Everything reached a full stop. Pigeons stretching their wings defy Newton's 2nd law, stopping in mid air. People froze in their position. The pony-tail boy is the only person who could move at the moment. He looked around, flabbergasted and worried with what is happening. Time had stop, but the clock had not stop ticking. Even the 2 boys and the girl, his friends, looking back at him, were frozen in position, smiling and waving their hands. This is more worrying. It might not be real. He closed his eyes, hoping that everything he see will return to normal upon opening. No, they did not. 
+
+Then, all of a sudden, something catches the glimpse of his vision. He turned back and look. The night sky was replaced by an image of a planet, growing larger in sight, moving towards him. Its shadow cast onto the town he is standing. He looked at it, eyes and jaws wide open, couldn't believe his eyes, and suddenly, blackout. 
+
+Seen from space, 2 planets, one emanating yellow globules of energy, another blue globules, are attracted to one another, like magnetic field lines seen when spreading iron fillings on paper with two attractive magnetic poles lying below the paper, how the iron fillings arranged themselves. The planets are moving closer and closer, attracted by gravity. Their collisions is inevitable. A large burst of greenish energy is released upon contact, the burst of energy whiteout the nearby space. 
+
+On a new planet, or perhaps, the remnants after the planets collided, we don't know. A mountain the shape of an animal's head lies in the distance. Suddenly, a burst of energy ball exist out of nowhere, expand, and swallows a part of the mountain, as if a black hole was thrown at it. The ball of energy quickly dissipated and disappeared, and a hole was left in the mountains, rocks still flying in the sky, temporarily resisting gravity. A shockwave was sent to the surrounding, the blast of dusty air shook the ground. More of these energy ball appear on the ground randomly, anywhere, everywhere. They carved crevasse out of flat landscape, blowing off mountains. 
+
+As we turn our attention, there are 2 tribes in war. Guns and cannons were firing at each other. Machines with wheels were navigating the dark soil. The air was filled with heavy dust, heavily reducing the field of vision. People and machines which were hit were sent flying off in all directions. Nonetheless, no one were scared. Armies marching towards the enemies, against the cannons. Behind them, an extremely giant machine roll its wheel, following behind. The machine that shapes like a monster has a head. In its mouth, a clocklike structure with blue flames roaring. We'll call it the **flame clock.** One-third of the gauge was filled. 
+
+> Two colossal marshal nations locked in war. Keves and Agnus. 
+
+Keves is "blue," for their flames are blue, their blade lights up blue; while Agnus is yellow-green. Keves soldiers mostly use single-blade as short-range melee weapon, while Agnus, double-blade. Keves machines have wheels, while Agnus floats its machine torso on rotating ball bearings. As the people got killed, red particles emanates into the sky. An Agnus soldier fall onto the ground, helmet fallen off his head, raised his hand up, still grasping for his life, ultimately failed. A few seconds after his death, his corpse stonified, as if he had seen Medusa, and red particles floated out of his remains. Lots of red particles float into the sky towards the two largest machine with the flame clock. As more and more red particles fill, the clock gauge starts replenishing, already reaching half its fullness from just a while ago. 
+
+> But what we need most, is life itself. 
+
+As the clock fills, the retina of their respective soldiers reflects the clock. The more it fills, the more courage they fill, the stronger they get. 
+
+> Taken the flames, becoming your own, in turn. 
+
+As Agnus sees defeat, they retreat while a giant machine replaced their position. The Keves soldiers, seeing the cannon machine, stopped their feet, turned backward, and run for their dear lives. Too late! Laser beam (or maybe plasma beam?) shoots out the cannon's mouth, wiping through where the Keves soldiers are. Upon clearing a large area, Agnus soldiers now marches towards Keves, seeing their victory. 
+
+> While the others, the one whose essence is stolen, leaves only a husk. 
+
+At the top of the flame clock machine stands the boss at the soldiers, looking over the war from above. Keves surely wasn't giving up. One leader was calling out from his bluetooth: 
+
+"Bombardier. What are you playing at? How can we claim their life if you blow up the whole sparking thing?! Cripple them! Aim lower!"
+
+"Y-yessir! Lowering aim, sir!" The bombardier was controlling a machine with a cannon, aiming at Agnus flame clock machine's belly. A blast fired turned successful. It seems to destroyed the flame clock machine's support. It's hands come falling down. More and more red particles, "lives," now are drawn into Keves' flame clock, Agnus defeat is inevitable. 
+
+> Fighting in order to live, and living to fight. That's the way of our world, Aionios. 
+
+The main protagonist group, a young adult with a pony tail, a tanned adult with huge muscles, tall and strong; a girl with two short wings behind her head, and a short egglike creature that has their face feature growing on their torso, with very short feet, and hands that resembles wing, which we'll call **"Nopon"**, running towards Agnus. More faceless soldiers following behind their lead. 
+
+> Because slowly but surely, our world is now dying. Even though, we have yet to realize that fate. 
+
+As the eye glowing with flame clock turns bright yellow, an interface appears. Surely, this is something high tech installed in the iris. It displays some information, the flame clock status to the lower left; and when the shape of a blade fills the middle of the screen, it materialize in his hand. 
+
+"Lanz," the pony tail guy called out to the tanned guy with his blade hold up against an opponent's halberd. He saw him in danger. 
+
+"Worry about yourself, Noah." Turning his blade and kill his opponent, he looked back and reply. "There's still more of them."
+
+Noah's iris glance at Lanz, "even so, urg..." The strength of his opponent suddenly grew strong. He thrust his hands forward, pushing his opponent backward; then someone behind the opponent helped kill it with his gun. 
+
+Turning his attention to another enemy, he shouted to the protagonist, "Shut it! Stop flapping your gums and move." 
+
+The winged girl, her weapon was a long stick with wings attached to the back like the blades of a helicopter, shouted, "Yeah, we got more incoming." 
+
+Noah turned his back, and the others are quickly to join him. The Agnus soldiers are running toward them while they get into stance. 
