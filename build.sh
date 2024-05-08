@@ -12,8 +12,10 @@
 # git push --force origin gh-pages
 # cd -
 
+mdbook build
+
 git worktree add --orphan -B gh-pages gh-pages
-cp -r book/ gh-pages
+cp -r book/* gh-pages
 git config user.name "CI"
 git config user.email ""
 cd gh-pages
