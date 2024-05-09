@@ -7,3 +7,5 @@ Yet, creating a story from scratch proved too hard for one. Translating the cuts
 Perhaps this book will never be publicized, for it's the first attempt. Plus, one might get into copyright trouble, who knows? It'll stay private, for now. 
 
 
+### Notes
+1. The cutscenes are taken from [this playlist on YouTube](https://www.youtube.com/watch?v=sXDE1P7WvI8&list=PLpVpBRIlzWuBPW1F4h7t1bJwl1567hzfY&index=3). As it has no subtitle, one also refer to [another video for the subtitle](https://www.youtube.com/watch?v=UnuRO8WfZWc&t=382s&ab_channel=BeardBear). Because the cutscenes are separated by game in between, we would join the cutscenes that seems to match a single scene, than to have them slip into separate chapters. The chapters do not match the game chapters, as if it is, it would be too long a single chapter, which isn't (too long) in video but is when put in words. 
