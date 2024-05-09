@@ -28,8 +28,20 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Install mdbook
-        run: cargo install mdbook
+        run: |
+          mkdir bin
+          curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.37/mdbook-v0.4.37-x86_64-unknown-linux-gnu.tar.gz | tar -xz --directory=bin
+          bin/mdbook build
 
       # Runs a set of commands using the runners shell
       - name: Run the script to build. 
-        run: bash build.sh
+        run: |
+          git worktree add --orphan -B gh-pages gh-pages
+          cp -r book/* gh-pages
+          git config user.name "CI"
+          git config user.email ""
+          cd gh-pages
+          git add -A
+          git commit -m "deploy new book"
+          git push origin +gh-pages
+          cd ..
