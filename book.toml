@@ -5,3 +5,5 @@ multilingual = false
 src = "src"
 title = "Xenoblade Chronicles 3"
 description = "Xenoblade Chronicles 3 the movie put into words."
+
+[preprocessor.footnote]
