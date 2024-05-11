@@ -7,6 +7,7 @@
 - [Memories: Born For War](./02_born_for_war.md)
 - [Homecoming, Off Seers, Shower](./03_homecoming_off_seer.md)
 - [Emergency, A New Battle](./04_emergency.md)
+- [The Operation, Ouroboros, and Moebius](./05_battle.md)
 
 ---
 - [Noah's Past]()

@@ -82,7 +82,7 @@ Noah took a final look at the battlefield by himself, still had many questions i
 
 (Upon arrival at the colony)
 
-The flame clock levnis parked in the middle of the colony. Around it, rectangular bunker camps, probably with beds, were made of metals. Below it from a distance, we saw a cloth tent covering many tables, probably the canteen. There were also some barrels of unknown use, to the right of the canteen. To its right, another metal bunker structure, the shower. It was evening, street-lights holding with very long fluorescent filament stood, itself emanating yellow-orange hue against the yellow-orange light from the setting sun. 
+The flame clock levnis parked in the middle of the colony. Around it, rectangular bunker camps made of metal roofs were set up; they are the barracks. Below it from a distance, we saw a cloth tent covering many tables, probably the canteen. There were also some barrels of unknown use, to the right of the canteen. To its right, another metal bunker structure, the shower. It was evening, street-lights holding with very long fluorescent filament stood, itself emanating yellow-orange hue against the yellow-orange light from the setting sun. 
 
 "Ah, made it back at last. What a hike!" Good old Lanz. 
 
@@ -94,7 +94,7 @@ To which Lanz replied, "Yeah, well, I guess that's the upside of going against a
 
 Eunie: "On the flipside, we didn't manage to fill up the Flame Clock all that much..."
 
-The last guy whom shot when Noah first blocked and signaled to Lanz, slightly tanned, with rolls of his hair arranged like zebra crossing, named **Mwamba.** "Ah, it's all for the best. At least we've all come back in one piece." 
+The last guy whom shot when Noah first blocked and signaled to Lanz, slightly tanned, with his hair stripped with rolls, named **Mwamba.** "Ah, it's all for the best. At least we've all come back in one piece." 
 
 Noah: "I agree. And anyway, we should be all right on that front, for the time being." 
 

@@ -8,7 +8,7 @@ Somewhere inside the castle, a winged woman, too dark to see her facial features
 
 Taking a closer look, an embryo was floating inside the orange liquid. As bubbles emerged and washed through the embryo, the embryo transformed into a child around age 10, eyes shut, laying inside the chamber, wearing clothes (???). God knows what fertilizer did the winged woman gave them; not even cancer can grow at this rate! Nor do they need oxygen, as no tubings were attached to their mouth or nose, like baby submerged in amniotic fluid; except a baby can get its oxygen from the umbilical cord, this has nothing. 
 
-Probably not long later, at some barrack, daytime. A Kevesi Levnis propelled itself on the air towards the landing point inside the barrack, stretching its arms while lowering itself onto the ground. After it landed, its doors opened, and young Kevesi soldiers marched out from the Levnises. These seems untrained, perhaps they just got "borned" from the castle. In the crowd, we spot Noah, Lanz, Eunie, that fat guy, all as a child, the age we first saw them during the Queen's anniversary. They were lining up in perfect rows and columns. 
+Probably not long later, at a training ground, daytime. A Kevesi Levnis propelled itself on the air towards the landing point inside the training ground, stretching its arms while lowering itself onto the ground. After it landed, its doors opened, and young Kevesi soldiers marched out from the Levnises. These seems untrained, perhaps they just got "borned" from the castle. In the crowd, we spot Noah, Lanz, Eunie, that fat guy, all as a child, the age we first saw them during the Queen's anniversary. They were lining up in perfect rows and columns. 
 
 > Every one of us, is born looking like this. As soldiers. As weapons for slaying Agnians... Yes. All of us live only to fight.
 
@@ -150,7 +150,7 @@ Lanz, looking back from the tip of his glimpse, "What?"
 
 > We each have a lifespan of 10 years. We call them terms. Life begins with our first term, and ends at the close of our tenth. And over the course of those 10 years, we fight, continually. Though in reality, there aren't that many who can hold their flame for the whole 10 years. Most lose their lives on the battlefield, before they reach year 10. But those who do survive to the end... are honored in a special service. 
 
-The next day, at the barracks. Noah, Lanz, and Eunie were standing in a circle. Soldiers were seen walking, some gathered together, speaking to each other. A group of younger term soldiers dashed out a door near them, past them, and went out of view. The green Nopon joined Noah's and the others. 
+The next day, at the training grounds. Noah, Lanz, and Eunie were standing in a circle. Soldiers were seen walking, some gathered together, speaking to each other. A group of younger term soldiers dashed out a door near them, past them, and went out of view. The green Nopon joined Noah's and the others. 
 
 > We call it... the Homecoming. 
 
