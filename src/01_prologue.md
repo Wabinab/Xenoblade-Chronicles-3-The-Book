@@ -4,7 +4,7 @@ Tick, tock. Tick, tock. It was one minute to 6 in the evening. The sky emanates 
 
 A little girl with wings on the back of her head was running and jumping, pushing and shoving through the crowd. She was clearly on her way, not noticing even when stepped on a puddle. A while later, she turned to her back, waiving to her friends: "Come on! Hurry up! The Queen's anniversary is going to start without us, guys!"
 
-A tanned boy was tailing behind closely, acknowledged immediately, "Yeah, move your feet! Hop hop! Run like you mean it!" and continue running behind the girl. 
+A grey-skin boy was tailing behind closely, acknowledged immediately, "Yeah, move your feet! Hop hop! Run like you mean it!" and continue running behind the girl. 
 
 Two other boys, one thin, another chubby, was panting trying to catch up with the two. "Slow down, guys!" The fat boy, green haired, his hair so long his right eye was covered, had to push himself others on the side for someone his size to tune his direction while passing between the crowds. Nonetheless, we could see his eyes lighting up, asking, "Is it true, though, there's gonna be fireworks!" 
 
@@ -12,9 +12,9 @@ The third boy, long hair tied to a pony tail, stopped and turned for a moment to
 
 As soon as he finished his sentence, everyone looked up into the night sky. The sound of fireworks shooting up in the distant. To his right, fireworks had already launched while they were still running. It was too late. He stopped and looked at it. The fat boy slowly catching up to him. 
 
-"Ahahah" The distant sounds of children splashing at each other while laughing in the square's fountain. The winged girl arrived at the square first, the tanned boy followed. She turned to her back and wave to the other 2 guys, as if saying, "over here!"
+"Ahahah" The distant sounds of children splashing at each other while laughing in the square's fountain. The winged girl arrived at the square first, the grey-skin boy followed. She turned to her back and wave to the other 2 guys, as if saying, "over here!"
 
-The fat boy dashed past the pony-tail boy without turning his head to look at him while waving his hand back. Awestruck, the pony-tail boy was slow to react, and followed a second later. The girl and the tanned boy, assured that they didn't fall behind, continue to lead their way. 
+The fat boy dashed past the pony-tail boy without turning his head to look at him while waving his hand back. Awestruck, the pony-tail boy was slow to react, and followed a second later. The girl and the grey-skin boy, assured that they didn't fall behind, continue to lead their way. 
 
 Tick, tock. Tick, tock. Tick, tock. Time didn't wait for them. The cranking sound of the mechanical clock continues. The long hand struck zero, and it's officially 6 p.m when pigeons were flying around, the pony-tail boy was still running, and time suddenly stop. 
 
@@ -59,13 +59,13 @@ Keves wasn't giving up. A commander standing around the bottom of the flame cloc
 
 > Fighting in order to live, and living to fight. That's the way of our world, Aionios. 
 
-Enough with the faceless. A group of young adult marching towards their enemies, one with a pony tail, thin, moderately tall; another tanned, very tall, very buff and muscular; a woman with two short wings behind her head, slim; and a short egglike creature, their face features on their green torso, very short legs, hands that resembles wings, we'll call them **"Nopon"**. Countless of faceless soldiers followed their lead. 
+Enough with the faceless. A group of young adult marching towards their enemies, one with a pony tail, thin, moderately tall; another grey-skin, very tall, very buff and muscular; a woman with two short wings behind her head, slim; and a short egglike creature, their face features on their green torso, very short legs, hands that resembles wings, we'll call them **"Nopon"**. Countless of faceless soldiers followed their lead. 
 
 > Because slowly but surely, our world is now dying. Even though, we have yet to realize that fate. 
 
 On the right eye of the pony-tail guy, we could see his flame clock iris turning yellow. From his vision, an interface appeared, with some information at both sides, the flame clock gauge on the lower left. When he focuses his attention, a sword-like blade floats into his center of focus, and a moment later, the same blade materialize in his hand. Others also summoned their weapons. 
 
-He swooshed and slashed, cutting grass... ahem... cutting through a few Agnus soldiers, before finally raising his weapon in front of his head to block an attack from an enemy. He caught a glimpse of the tanned guy suffering a blow from an Agnus soldier. 
+He swooshed and slashed, cutting grass... ahem... cutting through a few Agnus soldiers, before finally raising his weapon in front of his head to block an attack from an enemy. He caught a glimpse of the grey-skin guy suffering a blow from an Agnus soldier. 
 
 **"Lanz,"** he called out. 
 

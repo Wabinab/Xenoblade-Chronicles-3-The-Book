@@ -1,8 +1,6 @@
 # The Operation, Ouroboros, and Moebius
 
-=== 
-
-Night time, at the fireplace. Noah checked his iris: "It's almost time. Let's review the details of the operation. Our mission objective lies in Alfeto Valley. An unidentified ether source has been reported. We are tasked with surveying it and destroying it."
+A few hours later. The sky already turned dark. The glimmer of fire sparks lit their proximity. Noah checked his iris: "It's almost time. Let's review the details of the operation. Our mission objective lies in Alfeto Valley. An unidentified ether source has been reported. We are tasked with surveying it and destroying it."
 
 "Waypoint marked out on map now. Please to have look at waypoint on map!" Riku added. 
 
@@ -14,9 +12,9 @@ Lanz was getting excited: "Let's get the snuff out of here. A royal decree, eh? 
 
 ---
 
-They ran along the path, stopped by some feet before a cliff. A few specks of purple particles can occasionally be seen floated in the night sky. They knelt down and looked out, Lanz asking: "It's really supposed to be here? I don't see much." 
+It was foggy. A few specks of purple particles floated in the night sky before disappearing into inexistence. As they ran to above a ledge, they got down to check the situation: "It's really supposed to be here? I don't see much," questioned Lanz. 
 
-"Shh" Noah checking his iris to scan the horizon. Agnian levnises, one like before, floated on a rolling ball with two blades on its arms; another slightly larger levnis defies gravity, floated on the ground, like wearing a white coat and two ball on its shoulders, travelling in the distance. "Agnian troops." 
+"Shh" With his iris, Noah scanned the horizon. Agnian levnises came into vision. One, like before, its torso floated on a rolling ball, it's arms equipped with blades. Another levnis is slightly larger, floats in the air, looked like someone wearing a white coat, with two balls attached to its shoulder joints. "Agnian troops." 
 
 Eunie: "Seriously?"
 
@@ -24,31 +22,33 @@ Noah: "They're still far off. They haven't spotted us."
 
 Lanz: "Goin' in?" 
 
-Noah looked back at him from the tip of his sight: "We don't have permission to engage. The only thing we need to focus on... is our target." 
+"We don't have permission to engage. The only thing we need to focus on... is our target." {{footnote: Noah looked back at him from the tip of his sight, before turning back to look at the Agnian troops.}}
 
-He tried to communicate the other squads with his iris, but an error screen popped up with the error message, written: "Communications down due to **black fog** interference."{{footnote: So the purple particles were emanated from the black fog?}}
+As he tried to transmit information to other squads with his iris, an error screen popped up, with a message: "Communications down due to **black fog** interference."
 
-He quickly pointed to a faceless soldier, asked him to come forward to him. "What?" 
+He turned and pointed to a faceless soldier, whom came forward: "What?" 
 
 "Heads up. Enemies at two o'clock. Go tell the main force. I'm worried about Mwamba and the others. I think we'll go on alone." 
 
-"Ok then. I'll handle it." The faceless soldier ran towards the other faceless soldiers and levnises behind. Noah and the others ran in a different direction, descending the cliff from the ledge beside. 
+"Ok then. I'll handle it." The faceless soldier ran back where he was, where other soldiers and levnises were, while Noah and his team crossed to the side, a ledge for them to enter the lower areas. 
 
-As they dashed past and reached another ledge, Noah and the group knelt down while he used his iris to scanned the situation. After a while, a "commence mission" came onto the center of the screen. Meanwhile, Kevesi levnises make a move and fired their cannons at an invisible ship, the blast send turmoils on the invisible shield. 
+Reaching the bottom of the ledge, they knelt down while Noah scanned the horizon with his iris. A "commence mission" popped onto the center of the screen. Kevesi levnises started firing their cannons onto mid air... no, it hit an invisible ship floating in the sky. As fires raged at point of impact, the invisible shield cloaked it from outside view. 
 
-Not far away, Agnian levnises also fired their cannon at the vehicle. The vehicle's invisible shield was suffering blast that it almost cannot maintain its invisibility. 
+Agnian levnises weren't late to join the party either. A few blast and the invisible shield almost lose its invisibility status. 
 
-Noah was watching from a distance: "Is that it? It's not Kevesi... Definitely not Agnian either..." 
+Noah, watching from his position, questioned: "Is that it? It's not Kevesi... Definitely not Agnian either..." 
 
 Lanz: "The spark is that?"
 
-Finally, the invisibility status was lost. A ship, seen army green under the orange light from the blast, was suffering damage at its hull. It had several pixels of light by its side, an engine attached to its back emanates a yellow-orange hue. 
+One more hit, the invisible shield was zeroed. A ship came into view, floating in the air, army green seen under the blast' illumination, looked like a space ship combined with a submarine. Several pixels of of light emanates from the side, aggregate in 3 groups. It's rocket engine that gave it forward thrust emit a yellow-orange hue. 
 
-While suffering damage, some tubes were released from its belly, turning to face the ground. It turns out to be rocket nozzle, small flames emit from its tip to control its balance while it landed onto the ground. 
+As it released its legs, the tip resembles a rocket-engine nozzle, which they could tune the direction as it land. 
 
-Eunie: "It's coming down." Alas, before it could balanced, its belly hit onto a ledge too high, damaging its belly in the process. Sparks and flames flew from the damaged position, before it dragged along the ground. A ring came fell out from one of the pixelated lights. It dragged for some distance before stopping. Noah stood up with the others, prepared to take action. 
+Eunie: "It's coming down." 
 
-Meanwhile, the Kevesi and Agnian soldiers were busy warring each other before they take a look at their target. Beams and bullets flew towards each other. Levnises destroyed. All tried to prevent the others from getting after their target before them. 
+The landing wasn't entirely a success. As it crossed a ledge, it's belly smashed on the ledge. Sparks and flames engulfed the point of contact as it lose balance and smashed into the dirt, dragging along for a distance before coming to a stop. A ring was ejected from one of the pixelated light group. 
+
+The Kevesi and Agnians, seeing their target down, did not went first after the target but after each other. Beams and bullets exchanged, levnises destroyed, soldiers killed. 
 
 Lanz exclaimed: "Starting without us!" 
 
@@ -58,121 +58,121 @@ Eunie: "You got it."
 
 ---
 
-An Agnian levnises suffered a blast, rolled backward, destroyed in the process. Noah and the others was panting after the strenuous fight. More Agnian levnises coming behind them. They turned and faced their direction, running towards the Agnian soldiers and killing them. An Agnian levnis sword beamed up, firing a sword at Noah. Lanz saw it, quickly ran in front, stuck his sword to the ground, and generated a frequency shield. The sword pinched into the frequency shield, itself rotating, and the shield broke into pieces in a second. Before the Agnian levnis could retreat the sword, Kevesi blasted its way and it bursted into flames. It was from the sharp-tipped Kevesi levnises, which continued to fire more shots at other levnises.
+It wasn't a smooth ride. Noah and his team just destroyed a ball-bearing Agnian levnises. They were panting. Yet, more Agnian levnises and soldiers were seen from behind where they'd engaged. Noah and Lanz turned, ran towards the soldiers, each blow downed a soldier. An Agnian levnis not far away in a trajectory shoot its blade towards Noah. Lanz ran up and activated the shield, which the blade bit into, turning itself like a drill before the shield shattered. The Agnian levnis was about to continue when it suffered beams from a nearby Kevesi levnis, destroyed it. 
 
-Lanz and Noah looked at each other for a second, before running off in opposite direction. Lanz recalled his blade, made a swing as he approached 3 soldiers. 
+Lanz and Noah exchanged glance, ran off in opposite direction. Lanz summoned his blade and swung at the 3 soldiers whom blocked his way. 
 
-As some faceless Kevesi soldiers were injured, Eunie stuck his staff on the ground, and a healing ring rejuvenate their strengths while they glowed green. She turned her staff around, as if she had eyes behind her head, and made a shot, which brought down one of the Agnians above a ledge below a tree. Then, she stuck her staff onto the ground once more, this time, an orange ring (support ring) became active, the soldiers glowing the same color, got stronger. 
+A levnis knocked some Kevesi soldiers down. Eunie stuck her staff onto the ground, a green ring encircles them, healing them. As if she sensed something, she squeezed her staff through her armpits, aiming backwards and fired. Two agnian soldiers at the top of the ledge behind her was shot down before they could do anything. She turned her staff back toward the ground, an orange ring replaced the green, the soldiers seem to increased in strength. 
 
-Noah jumped down from a ledge, seeing Kevesi and Agnians soldiers fighting one on one in the distance, hit the ground and get running. The last of the Kevesi was outmatched, and Agnians turned their attention towards him, exchanging blows. While he was outnumbered, only one soldier fought him while others didn't disturbed.{{footnote: Movie always have some stupid scene. In real life, you'd have outnumbered them in the first place, not letting your colleague wasting their energy in a duel, and not giving your enemy any chance.}} Noah was knocked back, looked for his chance, and with a few blows, brought the 3 Agnians down, husks glowing red. 
+Noah hopped off a ledge while the last Kevesi killed. Several Agnians approached him in a fan shape formation, with one ran forward and exchanged hits while the other watched. {{footnote: Movie always have some stupid scene. In real life, you'd have outnumbered them in the first place, not letting your colleague wasting their energy in a duel, and not giving your enemy any chance.}} As Noah repelled him, he calculated a series of blows and executed them thereafter as the Agnians turned into husks. 
 
-He noticed his flame clock filling up: "My Flame Clock... It's filling up... but..." Turning to look at the sky, the "lives" actually doesn't float in any particular direction, nor the flame clock levnises nearby to absorb flame. That's probably the weird phenomena he noticed. 
+As he looked at his iris, he noticed his flame clock filled up: "My Flame Clock... It's filling up... but..." The "lives" weren't moving in any particular direction, nor the flame clock levnises nearby either. An unexplained phenomena. 
 
-Noah's team were walking up to where their target was. A robot appeared on the ground, it's fae was 3 beam of lights, head and torso as one. Upon detecting them as enemy, it raised its arms, fired bullets at them via the machine guns equipped. Noah summoned his blade to slice the shots, before Lanz raised a frequency shield a second later. The automaton started walking towards them, another automaton rose from the ground and followed. 
+As they regrouped, Noah lead them towards their actual target. A robot sharing a head and a torso, face towards them, it's 3 beam of lights which made up its face flickers for a moment, determined they're enemy, and started firing bullets at them. Noah sliced some bullet away while Lanz raised a shield a second later. The automaton stopped firing while reducing its distance with another **automaton** that joined it. 
 
 Eunie: "What *are* these things?" 
 
 Riku: "There no pilot inside!" 
 
-Lanz withdrew his broadsword, not needing the shield now: "They're automatons." 
+Lanz changed stance to offensive: "They're automatons." 
 
 ---
 
-(After they finished the battle)
+(A while later, battle completed)
 
-Kevesi and Agnian were still warring each other. Flames were seen everywhere on the ground. Noah checked his iris, scanned the ship, and saw a bright green light floated in front, emanating green ring like how GPS point emanates blue ring from its centre dot. It's the ether source they were after. "Is that it?" 
+The battlefield raged with flames. Beams were still being exchanged. With his iris, Noah located their target, a bright green blob of light.{{footnote: It actually emanates a ring every second, like how the GPS blue dot when it showed location.}} "Is that it?" 
 
-Nodding to the others, they ran to it. 
-
----
-
-More automatons were destroyed as they got near. Bullets were fired at the automatons. Boxes were piled everywhere behind the the ship. A large flame can be seen in a distance, while a small flame lit up near the boxes. 
-
-One man was hiding behind the boxes, using it as a barrier. He fired weapon at the enemies. As he stood up and fire, we could see he wore a coat, had strong muscles. We can't see anything above his nose, but he had a moustache. The suppressing fire was too strong. He had to lay down behind the boxes. "Damn it! Fighting both of 'em? That's gonna be a tough break. But what did I expect?" 
-
-Looking at the source of ether, an egg-shaped structure with some space between the upper half and lower half. Ether can be seen flowing inside it via the transparent glass, illuminating it. "They'll do just about anything... for our precious **Ouroboros Stone.**" 
-
-Then, he stood up again to continue firing at the soldiers. Other of his group were also hiding behind barriers, helping him. An automaton was down again. 
-
-The other guy, dark skin, oval face, wearing an eyepatch, looked at the muscular guy, "**Guernica**! That's the last of the Automatons! We won't last long!" 
-
-Other people of his team, holding guns, wearing glasses or mask, firing. "The battle unit's still holding," Guernica shouted at the guy, replying, "Go, save yourself! Get that Stone to the **City**!" 
-
-"Argh!" One of the battle unit was blasted down, dead. Seeing it down, Guernica signaled while he continued firing, "Zuo!" 
-
-He make his way toward the battle unit named Zuo. Suddenly, a blast went the other way, and the eyepatch guy was down. "Arrrghhh!" 
-
-Guernica turned and faced his direction. Seeing soldiers on top of the ledge, he fired at them, bringing them down. No more shots were firing at him, but he was also the last one from the City standing. 
-
-He quickly rushed to the eyepatch guy to see if he can still be rescued, putting his hands on his shoulder. The guy, haven't died, held up his hands and bring it to his, "Guernica. S-sorry... I should... have been more... perceptive..." 
-
-Guernica brought his hands up, held his palm with both hands, to reassure him. After some coughing, his head laid to the side. "Yew!" He put his hands down, put his heads over his corpse, "YEW!!!" 
+Nodding to the others, they ran towards it. 
 
 ---
 
-Noah and his team was running fast towards the destination, hiding behind trees just before he arrived. Lanz iris scanned for details, saw themselves near the final destination. "There it is. The ether source." 
+Kevesi and Agnians teamed up against the ship's crew. Boxed fell out of the ship earlier piled the area. Large and small flames rose from the ground in the distance. 
+
+A muscular man was hiding behind boxes arranged like a barrier, firing at enemies with his machine gun, got down to catch a breathe. The dark night, plus him wearing a pair of goggles, could not render his facial features; we could only see his moustache and a thick hair. "Damn it! Fighting both of 'em? That's gonna be a tough break. But what did I expect?" 
+
+The source of ether, an egg-shaped structure, some space split its upper and lower part of its shell. Ether lines were distinctive characteristic. "They'll do just about anything... for our precious **Ouroboros Stone.**" 
+
+He wasn't alone. Two others in a fan formation behind boxes firing at enemy from forward direction.{{footnote: Behind them was a cliff so high that no enemy was there; maybe they could if someone climbed up and sniped down...}}
+
+As one automaton went down, one of his colleague, dark skin, oval face, wearing an eyepatch, signaled to the muscular guy,"**Guernica**! That's the last of the Automatons! We won't last long!" 
+
+The other guy wearing glasses kept firing. Guernica looked at him, shouted: "The battle unit's still holding. (paused) Go, save yourself! Get that Stone to the **City**!"
+
+"Argh!" Just as he finished his sentence, the eyeglasses guy suffered a blast, dead on the spot. Guernica whom continued firing, eyed the situation, "Zuo!" 
+
+As he made his way towards Zuo, he heard another shout: "Arrrghhh!" It came from the eyepatch colleague. 
+
+Guernica looked up onto the ledge where bullets hit his colleague. Agnian soldiers were lining up, pointing their guns at him. He made a few shots that brought them down. That's the last of 'em, Kevesi and Agnians. No more faceless soldiers, no more levnises at where he was. 
+
+Guernica quickly ran towards the eyepatch colleague, almost dead. He put his hands on his shoulders, the guy brought his hands up and put it on his palm. "Guernica. S-sorry... I should... have been more... perceptive..." 
+
+Guernica wrapped both his hands around the eyepatch guys' hand, as if to reassure him. "Yew!" He coughed, head fell to his side, and that's the last of him. "YEW!!!" 
+
+---
+
+Noah and his team approached their destination, hid behind tree barks. Lanz scanned for details with his iris, "There it is. The ether source." 
 
 Eunie: "First there was those Automatons. Now another unknown weapon."
 
-Noah was also confused like the others: "What in the flames... are we even fighting?{{footnote: It sounded weird though, because the sentences after this footnote seemed to bear different voice than the former, but it didn't sound like Lanz or Riki either}} No, not just us... Agnus too..." 
+Noah and his team learned a lot of new things today: "What in the flames... are we even fighting? No, not just us... Agnus too..."
 
-From a distance, Guernica was beside the Ouroboros Stone, "So you{{footnote: "you" means the Ouroboros Stone}} made it this far. It'll have to be here." He looked at the Stone, perhaps made a decision.
+Guernica laid beside the Ouroboros Stone, "So you made it this far. It'll have to be here."
 
-Eunie: "Noah. Look." 
+Eunie: "Noah. Look." She was pointing to Guernica. 
 
 Lanz: "Is that... a man?" {{footnote: Yes, they never saw a man outside of Kevesi and Agnian. That was their whole world.}}
 
-Noah stood up: "He's no Agnian soldier. What is he? Was he controlling those Automatons, maybe?" He dugged down and made his way towards Guernica. Yet, before he could reached him, some paper units were flying towards him. Eunie quickly got out trying to save Noah. We could see a faceless Agnian controlling those paper units, with a single paper unit floating behind his left shoulder. 
+Noah stood up: "He's no Agnian soldier. What is he? Was he controlling those Automatons, maybe?" He dugged low as he emerged from his hiding place, made his way towards Guernica. Suddenly, paper cards flew at him. Eunie saw him in danger, got out and pointed her rifle{{footnote: Eunie's weapon is a staff-rifle, on one end, it's a staff, on the other end, it's a rifle.}} at the Agnian soldier, wearing a helmet. A paper card floated behind his left shoulder, cut into the shape of a dove-shaped kite, with eyes encarved within it. 
 
-Eunie fired shots at the Agnian soldier, while Lanz moved forward. To dodge, the Agnian soldier hid behind a tree trunk, bullets swooshed beside him. 
+The agnian soldier, suffering shots, hid himself behind tree trunks while bullets swooshed past. 
 
-Another girl, wearing a white dress with orange linen, made her way towards Lanz. Her weapon composed of two rings, glowing yellow. She was masked. 
+From another direction, an agnian girl wearing a helmet, white dress with orange linen{{footnote: one of the standard Agnian soldier suit}}, two semicircle rings with its sharp tip glowing yellow. 
 
-Lanz stuck his broadsword to the ground. It splits aside, and turned the handle 90 degrees to reveal a machine gun, which he fired at the girl. Yet, the girl had high agility, dodged all his shots, jumped onto the air, and landed while Lanz brought his sword up to shield against her hits. 
+Lanz drew the machine gun encapsulated within its broadsword and fired at the girl. The girl was agile, dodged all his shot as she made her way towards him, jumped into the air toward Lanz while he brought his sword up to block. 
 
-Noah reached Lanz on time, sliced his blade up at the intercepting region, separated them. Meanwhile, the paper weapon guy got up behind her. Another girl carrying a massive hammer, one that certainly looked larger given her short size, stood to the right. They were facing each other. 
+Noah's sword cut at the point of contact, separating the girl and Lanz. Her team, the guy and another girl carrying a massive hammer, so massive it could fit her inside{{footnote: author think she's probably less than 1.5 meters, assuming Noah around 1.7 meters, and Lanz 1.9 meters.}} if it was hollow, in wedge formation. 
 
 "Kevesi troops..." The double-ringed girl sounded. 
 
 "Three of 'em." Said the hammer girl. 
 
-"It seems... we are just about the only ones left." The paper weapon guy spoke. Then, turned his head at the Ouroboros Stone, "And there's our objective." 
+"It seems... we are just about the only ones left." The card weapon guy spoke, and turned his head at the Ouroboros Stone, "And there's our objective." 
 
-Eunie signaled to Noah for instructions: "Noah."
+"Noah," Eunie signaled. 
 
 Noah, seeing they had no choice, raised his blade in affirmation, "Yeah. We'll have to fight." 
 
-The paper guy: "Mio." 
+The card guy: "Mio." 
 
-The double-ringed girl, **Mio**, agreed with Noah too, "Got it." 
+The girl with high agility, double-ringed weapon, **Mio**, agreed, "Got it." 
 
 ---
 
 (Some fights later)
 
-Noah sliced his blade and broke Mio's mask, shattered to pieces. It revealed a short silver hair, yellow-ochre iris, ears that resembles a cat. They continued to exchanged blows. Mio ran in a semicircle while Noah tried intercepting her. She turned and ran at Noah, continued fighting. 
+As Noah sliced his blade, it shattered Mio's helmet into pieces, revealing her face. Her silver hair was short, reaching her shoulder. Her yellow-ochre iris gleamed in the darkness. Her ears stuck towards the top of her head, resembled that of a cat. Her broken helmet did not stop them from exchanging hits.{{footnote: A stupid scene here, Noah ran right into a flame and emerged unscathed, can you believe it?}}
 
-Meanwhile, Guernica was looking at them fighting, "These kids are gonna end up stealing each other's life force..." He held up his hands, clenching it into a fish, "And me... I've robbed them even of that kindness." 
+Meanwhile, Guernica looked from a distance. "These kids are gonna end up stealing each other's life force..." He held his hand up, clenched into a fist, "And me... I've robbed them even of that kindness." 
 
-**Memories:** Guernica was driving an automaton{{footnote: perhaps not auto but manual}}, firing at Kevesi soldiers. 
+**Memories:** Guernica was piloting an automaton-like robot, but larger, torso stick out, handling a gatling gun{{footnote: Like how you handle a tank when a soldier got out its top and handle the gun}} and firing it at the Kevesi soldiers. 
 
-As Noah and Mio splitted, the hammer girl emerged from Mio's side, running towards Noah, whom was shocked, "Huh?! Where did...?!" 
+The hammer girl, her helmet already broken, emerged by Mio's side, jumped into the air, about to slammed into Noah. "Huh?! Where did...?!" Noah was shocked as he didn't see how did she appeared from behind Mio. 
 
-She jumped into the air, hammer about to smash onto Noah. "Call that a swing?" Lanz sounded from behind, intercept in front of Noah and made a frequency shield, "You're way too slow!" 
+"Call that a swing?" Lanz sounded and emerged from behind Noah, set up a shield while her hammer smashed onto it. "You're way too slow!" She shattered the shield while Newton's Third Law brought her back up into the air. 
 
-"He blocked it! No way!" The shield shattered into pieces, sending the girl up back into the air; but her mask also shattered. She is slightly tanned, small arms having ocean blue, as if ocean blue blood travelling through. On one side of her hair, flames of the same color continuously burning, certainly a feature, not her hair catching flames from external sources. She then made a backward somersault and landed beside Mio. 
+"He blocked it! No way!" Her shocking face did not prevent her from back-somersault to land beside Mio. We could see she was slightly tanned, with visible blue veins on both her arms, while characteristically a blue flame lit one side of her hair, as a feature, not a bug. 
 
-Lanz wasn't in a good situation either, her hit was strong. "Gah! For a little munchkin, she sure packs a real wallop!" 
+Suffering the blow wasn't easy for Lanz either, "Gah! For a little munchkin, she sure packs a real wallop!" He had to shook the numbness off his right hand. 
 
-Meanwhile, paper weapons the shaped like kite with two wings, but drawn eyes onto it, were catching after Eunie. "Urg... How many of those cards has this geek got?!" She dugged down to face that direction. 
+A distance away, Eunie was dodging the array of dove-like cards, as she hid behind a rock, looking at the guy, also lost his helmet: "Urg... How many of those cards has this geek got?!"
 
-The cards were seen rotating around where he put his hands up, "There's no escape! When my **Mondo** have you... They'll follow you to the ends of the world!" His mask was also gone, not sure when. He looked very intelligent, hands touching his eyeglass. He had brown skin, thick hair. 
+From a distance, we see cards flying around him in circles. He put his hands to his nose and pushed his black-frame glasses up, a stereotypical 'genius dude'. He had tanned brown skin, thick hair. "There's no escape! When my **Mondo** have you... They'll follow you to the ends of the world!" 
 
-His mondo transformed into bird shape as he sent them against Eunie. "Spark that! Why don't you back off?!" She stuck her staff onto the floor. An unseen shockwave was sent in his direction, destroying some of the Mondo. He put his hands to his face, awestruck: "Ahh(gasp)... How did she fool my Mondo?!"
+As he finished his sentence, he swiped the Mondo at Eunie, some transformed into bird shape, others remained kite shape, flew at her. "Spark that! Why don't you back off?!" Sticking her staff onto the ground, she sent an invisible shockwave that shattered the bird shaped Mondo, while other Mondo we didn't saw their fate. The guy protected his face from the back-flying burning cards, awed: "ahh (gasp)... How did she fool my Mondo?!"
 
-Eunie continued running while shouting at him, "Creep. Try following that!" 
+Eunie ran off while shouting from the distance, "Creep. Try followin' that!" 
 
-Meanwhile, Mio and the hammer girl landed behind him, as he turned around. Eunie made his way to Noah and Lanz. Noah: "These guys are tough..." 
+Meanwhile, Mio and the hammer girl landed behind him, as he turned towards Mio's direction. Eunie stopped beside Noah and Lanz; Noah exclaimed, panting: "These guys are tough..." 
 
 Eunie agreed: "I hate to say it, but I think you're right." 
 
@@ -182,25 +182,29 @@ Eunie agreed: "Yeah, deffo. That'll be why they've got an off-seer with 'em."
 
 Mio ran towards them while Lanz prepared his machine gun, saying: "Well, so are we! Even-stevens, Right?!" 
 
-Mio and the guy was running from both flanks, his cards flying in front of Mio to back her up. She landd in front of Eunie, one hit and knock her to the side. Fight Noah, yet his blades could not land a blow on her, "How can she react so quickly?! Can't seem to... hit her!" 
+The Mondo backed Mio up while she made her way to the team. One slice knocked Eunie off to the side, as she concentrated on Noah. Noah spoke to himself while he was busy blocking, "How can she react so quickly?! Can't seem to... hit her!" 
 
-Finally, Noah seemed to landed a slice on her face. Mio groaned in pain, one hand at the pain, another holding towards Noah. 
+As his sword traversed her ears, a sharp-pitch sound generated from the sword damaged her ears. She held up her left hand to soothed its pain, holding another at Noah. 
 
-"What's... What's that sound?" Ok, not a hit, but a sound that hurts Mio's ears. {{footnote: Cat had better hearings, but more sensitive to high pitch loud noise?}}
+"What's... What's that sound?" 
 
-As they exchanged blows, Noah thought:{{footnote: **Anything in italics is inner thoughts, not spoken out.**}} "_She's so fast... And yet... her moves are really simple... It's almost... like they have a rhythm..._" And he realized something: "_The Agnian off-seeing tune? I know how that goes..._" He looked at her steps, counted, "_One, two, three, four... One, two, three!_" 
+> (Note from the author: **For this rest of this section, Noah's and Mio's thoughts would be rendered in italics.**)
 
-Noah turned and faced her side at Mio, to which Mio was shocked, "He's not even looking at me?!"
+Noah continued to analyze the situation while they exchanged hits: "_She's so fast... And yet... her moves are really simple... It's almost... like they have a rhythm..._" 
 
-Noah, meanwhile, countinued counting, looking away to not be flooded with vision inputs, "_One, two, three, four... One, two..._" 
+The word "rhythm" reminded him of something: "_The Agnian off-seeing tune? I know how that goes..._" He looked at her steps, counted, "_One, two, three, four... One, two, three!_" 
 
-"There!" He shouted, sliced his sword vertically at Mio. It sliced and some shirt pieces flew off Mio. Shocked in her mind, "_He hit me?!_" She can't stop now, yet Noah already know her pace. Once slice up to the air threw one of her blades flying off, which she caught on a second later. "Why you...!" 
+Noah turned to the side, ears facing Mio. Mio was shocked at his action, "He's not even looking at me?!"
 
-Noah suddenly realized something as he ran towards her, "_Hang on...The fighting's stopped?_" There was no sound coming from a distance. He looked around at the ledge while on his course, saw nobody else except for them: "_When did that...?_" Only Noah and Mio was still exchanging blows, while the others were already exhausted, panting as they bent on the floor. 
+Noah relied on the tempo rather than his vision, "_One, two, three, four... One, two..._" 
 
-"_At this rate, one of us is going to get killed... No, maybe both of us will..._" He stopped, needed time to think, "_Something strange is going on. We shouldn't be fighting like this._" Unconsciously, he spoke out: "We should run!" He was surprised by what he just spoken, thought: "_Run? Was it... me who just said that?What is this? There's no time to think.. Have to trust my gut... This is all too real! I hope I'll be able to..._" 
+"There!" He gripped his blade, sliced his sword vertically as Mio jumped back just on time. Some pieces of her shirt fell off, in shocked, "_He hit me?!_" As she landed, Noah thrusted forward and sent one of her ring flying off into the air, which she caught as it fell back down, still awed: "Why you...!" 
 
-Mio also stopped, one blade in front of her, gritted her teeth. Noah's thought continued: "_get through... to her...!_" Mio continued to ran towards Noah and fought. Noah wanted to communicate, blocking her shot while speaking: "You are an off-seer! From Agnus, right?!" 
+As they exchanged blows, Noah's brain managed to catch an empty window for clear thinking. "_Hang on...The fighting's stopped?_" He looked and listened, no sounds nor sights coming from the distance. Lanz and the others were seen exhausted, lending support from their weapons while bending forward. Only Noah and Mio continued their fights, "_When did that...?_"
+
+"_At this rate, one of us is going to get killed... No, maybe both of us will..._" He stopped moving forward, need time to think, "_Something strange is going on. We shouldn't be fighting like this._" Unconsciously, he spoke out: "We should run!" He immediately realized what he had spoke from his unconscious, shock-ridden: "_Run? Was it... me who just said that?What is this? There's no time to think.. Have to trust my gut... This is all too real! I hope I'll be able to..._" 
+
+Mio was seen gritting her teeth, stopping to face him. "_get through... to her...!_" She didn't stop for long before running towards him. As he blocked her attacks, spoke out to her: "You are an off-seer! From Agnus, right?!" 
 
 "What the...?"
 
@@ -208,136 +212,205 @@ Mio also stopped, one blade in front of her, gritted her teeth. Noah's thought c
 
 "As if you can talk?! You're the ones attacking us! What, too scared to fight now? Too late!" 
 
-"It's not to do with fear. It's that sound... You can hear it too, I know you can!" 
+"It's not to do with fear. It's that sound... You can hear it too, I know you can!" He raised his voice on the second sentence. 
 
-Running towards each other, Mio replied "We're fighting because there are enemies to kill! You think we'll just let you go?!" Meanwhile, Lanz and the others, after resting a bit, continued their fighting course. 
+Mio could only replied with a standard reason, "We're fighting because there are enemies to kill! You think we'll just let you go?!" Meanwhile, Lanz and the others continued their exchange. 
 
-Noah seemed to not getting through to her: "_Ugh...! This is bad... At this rate...!_" Then prompted Mio, "Is that all you have to say, Agnus?" 
+Noah: "_Ugh...! This is bad... At this rate...!_" Then prompted while thrusting his sword forward, "Is that all you have to say, Agnus?"{{footnote: Eunie was seen firing a shot at the Mondos, which lined vertically like an array of shields}}
 
-Meanwhile, Eunie was shooting at the guy, whom builded a shield with his Mondo. Noah landed a hit which Mio blocked, shouting to her: "I'm telling you..."
+Noah landed a hit which Mio blocked, shouting to her: "I'm telling you..."
 
-Mio shouted back: "Enough! I'm telling you that you're full of it! Take that!" His sword thrusted towards her, just a few centimeters from her neck. Her ring thrusting towards him, though short compared to the sword. Both dodged and did not kill each other even if they had the chance, looking at each other, after which they slid on the floor in opposing direction. 
+Mio shouted back: "Enough! I'm telling you that you're full of it! Take that!" His sword thrusted towards her, just a few centimeters from her neck. Her ring thrusted towards him, short of his torso. Both dodged aside as they flew and looked at each other, sliding on the floor with their trajectory before turning and got up. 
 
-Noah now questioned himself: "Do I really have to kill her? But she's so fast... If I lose focus for a second, I'm done for!" 
+"Do I really have to kill her? But she's so fast... If I lose focus for a second, I'm done for!" Noah was questioning himself. 
 
-Mio, wiping her sweat, also speaking to herself: "These Kevesi off-seers... I thought they were just window dressing. But he's different... And there's his sword... What's up with that?" Noah's sword had blue blades, with a central green line (ether, maybe) running up the sword's skeleton, and a glowing blue ring where it joins with the handle. He shoved forward, slicing towards her. 
+Mio wiped her sweat from her chin, speaking to herself: "These Kevesi off-seers... I thought they were just window dressing. But he's different... And there's his sword... What's up with that?" 
 
-Guernica, watching the show for a moment now, also saw that something was different with Noah's blade, "Uh...? What's that?!" He then looked back at the Ouroboros Stone, the central line the same color with Noah's sword's skeleton color. "Ahh I see...{{footnote: So, it's the Ouroboros Stone that was in sync with his sword?}} I s'pose this is the reason I'm here then, eh? Heh! Guess this is what they call fate. Fine then. Time for Guernica Vandham... to make an entrance!" He unsheathed his flare pistol, pointing it into the air, and made a shot, the light emanated so bright that Noah and Mio had diverted their attention while their head almost hit one another. 
+Noah's sword, a blue ring joined its handle to its blade. While the outer blade glowed in blue, vibrating at a fast pace, it's skeleton was filled with green liquid. 
 
-Guernica took the chance, ran up towards them while the flare is on air, one hand on Mio's face, another on Noah's. Noah: "What the...!" 
+Guernica took notice of his sword, a situation he hadn't yet understood: "Uh...? What's that?!" Looking back at the Ouroboros Stone, lit with the same color as Noah's sword's skeleton, realized: "Ahh I see... I s'pose this is the reason I'm here then, eh? Heh! Guess this is what they call fate. Fine then. Time for Guernica Vandham... to make an entrance!"
 
-Guernica asked them, his hands moved and pressed on their shoulders instead, so strong both couldn't get up: "What do you all think you're doing? Why the fighting?!" 
+As Noah and Mio's face glared close to each other, eye for eye, Guernica unsheathed his flare pistol, pointed it towards the sky and fire a shot. The flare shoned so brightly that Noah and Mio look from the tip of their eye toward the flare, and saw Guernica jumping right at them, both his hands pressed against their torso, bringing them to the ground. As Noah exclaimed: "What the...!" 
 
-Noah was having difficulty listening, "What's this... guy saying?" 
+Guernica asked, continued pressing them to the ground: "What do you all think you're doing? Why the fighting?!" 
 
-While he tried to get up, he pressed him back down onto the ground, asking, "Just why? Answer me!" The rest of both teams ran to their flanks, stopping by a distance. 
+Noah didn't get it{{footnote: Or maybe, he was focusing on getting away from his grip, so he can't think properly.}}, "What's this... guy saying?" 
 
-Mio asked while trying to get up, "What do you mean, 'why'? If I see an enemy, I fight! So don't you... interfere!!!" With the last word, she managed to break free of his grip, retreated to where her group was. She ran towards him, but he's so skilled that before she could start landing a hit, he already hit her in the stomach. She lost her energy, whole body relied on his hand for support. 
+Guernica pressed him back into the ground, "Just why? Answer me!" Lanz and the others, seeing their situation, ran from both flanks of Guernica and stopped at a distance. 
 
-Guernica spoke: "Pull the wool from your eyes, kid." She lowered her, allowed her to fell to the ground. Then, he stood up straight, holding his right hand into a fist, "Think about your real target: that thing!" He pointed at the Ouroboros Stone; then punched his hands at his heart, leaned forward, "And me!" 
+Mio used her reply as a chance to get back up: "What do you mean, 'why'? If I see an enemy, I fight! So don't you... interfere!!!" With her final word, she broke free from his grip, landed in front of her teammates. She ran forward, trying to finished Guernica first, but before she could slashed her weapons, Guernica fist punched her stomach while she lost her strength to remain standing, pressing her whole weight against his fist for support. 
 
-And he turned to face Eunie and the others, continued, "No, you just have your little scrap. D'you have any idea, who the real enemy is?" He held his fist up high into the air, "It's over!" and he punched down towards where Mio and Noah were, the ground broke into pieces, sending shockwaves and soil while both flew backwards, gasping. 
+Guernica lower his hand a bit before letting her fell to the ground, "Pull the wool from your eyes, kid. Think about your real target: that thing!" He pointed at the Ouroboros Stone, and put his fist on his chest, leaning forward, "And me!" 
 
-His hand dangling from his shoulders, Guernica asked again, "Now. Is that all you need to fight? Truly? That's all?" He looked up at the sky. 
+Turning to face the others, he continued, "No, you just have your little scrap. D'you have any idea, who the real enemy is?" He held his fist up high into the air, "It's over!" He punched down to the floor, sending a shockwave. Dirt, Noah, Mio, and dust particles rippled away from the point of contact. 
 
-Mio and the other stood up, while the Mondo guy explained, "Of course. Countless comrades have lost their lives, thanks to this filth." 
+His hands dangling from his shoulder while he stood up, continued his speech: "Now. Is that all you need to fight? Truly? That's all?" He looked up at the sky. 
 
-Lanz walked forward, looking at the guy, "Oh really now? I could say the exact same thing. What'd you think it's like for us? Losing friend, after friend..." He didn't stopped, continued walking towards Mio and her team. They got ready into a defensive stance. "You steal everything from us!" 
+The Mondo guy immediately replied, "Of course. Countless comrades have lost their lives, thanks to this filth." He nudged at Noah's team direction. 
 
-Eunie got up from behind Lanz, "You think we're even just because both sides do some killing? What good's filling up these flickering Clocks in our eyes! It'll never replace the friends we've lost. That's why!" Her blue eyes glowed with the flame clock. 
+Lanz walked forward, looking at Mio's team, "Oh really now? I could say the exact same thing. What'd you think it's like for us? Losing friend, after friend..." Mio's team raised their blade in a defensive stance in case he march towards them. "You steal everything from us!" 
 
-Noah reasoned: "We aren't fighting because we _want_ to." 
+Eunie got up and lined up with Lanz, "You think we're even just because both sides do some killing? What good's filling up these flickering Clocks in our eyes! It'll never replace the friends we've lost. That's why!" Her right eye revealed the flame clock as she spoke to them. 
 
-Eunie was awed, drew back her flame clock, looked back at him, questioned, "We're not?"
+Noah reasoned from behind: "We aren't fighting because we _want_ to." 
 
-Noah continued, walking forward: "We can see our lives written before our eyes. Fighting is all we have! Is it any wonder... we lose loved ones? Or have to take them from others?" He stopped beside Guernica. "All of us... We have to fight so we can go on living!" {{footnote: Perhaps this was the thing he had been thinking about for so long, lost in his mind without ever saying it out.}} 
+Eunie was awed, darkened the flame clock and looked back at him, questioned, "We're not?"
 
-Mio seemed not to think about it before, drew a breathe at his conclusion. 
+Noah walked forward: "We can see our lives written before our eyes. Fighting is all we have! Is it any wonder... we lose loved ones? Or have to take them from others?" As he stopped beside Guernica, "All of us... We have to fight so we can go on living!" {{footnote: Perhaps this was the thing he had been thinking about for so long, lost in his mind without ever saying it out.}} 
 
-Noah looked down to the side, questioned and raised his voice, "Just who decided that this was how it should be? If I knew who they were, or where, I'd..." He paused to think of what actions he would take, while Guernica interrupted him. 
+Mio drew a breathe at his conclusion, never thought about it before. 
 
-"I know who they are. You'll what?" He went up to him, shadowing and questioning him. 
+Noah looked to the side, raised his voice and questioned, "Just who decided that this was how it should be? If I knew who they were, or where, I'd..." He paused to think what actions he would want to take, while Guernica interrupted him. 
 
-Noah looked up at him. Guernica scanned his attire, prompted, "You're an off-seer, eh?" He put his hands on his chin, thinking. The blade was emanating a sharp sound. "I guess I can trust you with this. You better listen up now." He walked up to him and put his hand on his shoulder. 
+"I know who they are. You'll what?" He went up to him, shadowing him. Noah's eye lit up as he heard that he had an answer.
 
-"'Cause the face of your real enemy is..." Suddenly, a yellow shot fired at him before he could have spoken anything, sending him down. Purple sparks emanate from where the bullet had thrusted through his chest, while he dropped to the ground. Noah, seeing him fall, ran up to him, but turned his attention to the bullet direction as the Mondo zoomed past him. 
+Noah looked up at him, while Guernica scanned his attire, prompted, "You're an off-seer, eh?" He put his hands on his chin, like when you're thinking. The blade was emanating the sound Mio heard just now. "I guess I can trust you with this. You better listen up now." He walked up to him and slightly touched his chest with his fingers. "'Cause the face of your real enemy is..."
 
-Meanwhile, Mio's team joined with Noah, the Mondo and Lanz's getting into defensive position. A giant creature with horns, two core on the center of its torso{{footnote: not necessarily his/her chest, just torso, too dark to see what exact body part it is}}, purple with 2 rings, with an "infinity" sign on the middle, walked out from the black fog, the floor thud with each step. 
+Suddenly, a glowing yellow object the shape of a scythe pierced him in the chest. As the object emerged behind his torso, purple specks released into the air, several purple electricity flowed through his torso while he fell to the ground, groaning in pain. The Mondo guy was first to react, his Mondo flewed past Noah and his team while the rest turned to face the direction. 
 
-On the same side, Mwamba appeared from behind a tree bark, which Noah reflected unconsciously, "Mwamba..."
+Thud, thud, thud.{{footnote: "er ung, er ung", FRENCH, NOT ENGLISH pronounciation of the alphabets, the sound of the joints of robots when they walked due to air pressure applied on the piston. }} A monster, it's chest had two rings, with a smaller ring inside, displaying a "infinity symbol" (or moebius strip). Leaf-like lobes and incision carved into its both sides, emanating a dark blue glow, probably its arms; walking towards them. 
 
-Mwamba murmured back to Noah, "N... Noah! I... I messed up..." He was held on the right hand of the giant creature. The creature looks like a monster, with red muscles, we can see blue indigo horns the shape of a bull horn glowing in the dark, having sharp eyes of a jaguar, like the red-suit guy. A leaf-shaped openings glows indigo on its biceps, with other openings of various shapes at its belly and hips. We now see the two infinity rings at his chest and above his belly. A ring horizontally aligned floats on its hips, like when you play a hula hoop, except it didn't touches. It had sharp teeth. On his left hand, Mio's colleague was held, raised his hands towards her, "H... Help me, Mio...!" 
+From behind the bark, Mwamba's body first appeared, dangling, as Noah immediately reacted, "Mwamba..."
+
+Mwamba looked at Noah, having a hard time replying, "N... Noah! I... I messed up..." The creature probably waited for him to finish his sentence before emerging from behind the bark. Mwamba was held on its right hand. With a brighter background light and angle, we could see some crystal-like structure emerged from its shoulders. It had two horn resembling a bull's horn, sharp jaguar-like eyes like those of the red-suit guy we seen during homecoming. It's skin dark red, like those of the red-suit guy. We could see its teeth as sharp as razors. It had rings on its torso, as if it was playing hula hoop. 
+
+His left hand gripped an Agnian, "Mio...H... Help me, Mio...!" 
 
 "Hackt!" Mio shouted back. 
 
-Noah's blade was reverberating at a frequency. He almost couldn't hold onto it. "My Blade... What the...?" 
+As it walked closer, Noah's blade reverberate at an even higher frequency, to which he almost can't grip on it. "My Blade... What the...?" 
 
-He looked up{{footnote: no time to figure out what the heck is going on with his blade}}, hearing groans in agony, "Mwamba?!" 
+He looked up{{footnote: no time to figure out what the heck is going on with his blade}}, hearing Mwamba's and Hackt's groans, "Mwamba?!" 
 
-The monster continued walking in their direction. Lanz was sounding scared, "Wh-what is that thing?!" 
+The monster did not stop. Lanz's voice was shaking, "Wh-what is that thing?!" 
 
-Eunie replied, "Never seen anything like that before..." She seemed to recalled something from another hyperspace
+Eunie replied, "Never seen anything like that before..." Yet, recalling from another hyperspace: 
 
-> **Eunie's memories**: A monster like this, but without horns, came up upon the adult Eunie. 
+> **Eunie's unknown memories**: A monster similarly resembled this, but without horns, flat head, jaguar eyed but glowing purple, brought it's sharp yellow-glowing nails in front of adult Eunie. Smoke rising from the distance. A tall rock seen pierced into the sky in the background. 
 
-Meanwhile, Lanz was trying to get her back, "Eunie! Eunie! What's wrong?!" Eunie's eyes was wide open, mouth gasping, taking her step backwards. The fear emanates in her even if she can't recall anything from this terms. "What is it? Seen that thing before?!" 
+"Eunie! Eunie! What's wrong?!" As Lanz tried to get Eunie's attention back, she gasp as her eyes opened to its maximum and took a step backward. "What is it? Seen that thing before?!"
 
-Eunie couldn't believed what she recalled, "No, h-how could I have?" 
+Eunie didn't understand where her memory came from; it wasn't from her younger self, at her current reincarnation: "No, h-how could I have?" 
 
 Lanz: "Noah?"
 
 "No, never. This is no normal creature... It's something else." 
 
-It's eyes gleamed with an infinite, a moebius string glowing in it, like how their flame clock glowed. It spoke: "Oi, oi! Don't go stopping on my account. Get back to killin' each other! Come on. I thought that was your whole 'raison d'être'?" 
+"Oi, oi! Don't go stopping on my account. Get back to killin' each other! Come on. I thought that was your whole 'raison d'être'?" As the monster spoke, its eyes turned red, an infinity symbol appeared inside its eyes. 
 
 Mio was shocked, "It's... speaking?!" 
 
-Guernica hadn't died yet, though badly injured, hands on where he was shot: "M-**Moebius**..." 
+Guernica, badly injured, held his hand by the wound, "M-**Moebius**..." 
 
-Moebius continued: "What's wrong? Too worried about your buddies to fight?" He{{footnote: We'll assume it's male, for it sounded male-ish.}} held them up a little, then turned, "Can't have that! All right!" He held them higher up into the air while Noah looked at him pressing his arms, ending their lives, their husks falling onto the ground. 
+The moebius continued: 
 
-"Mwamba!" Noah shouted. Mio gasped. He looked like he ate Mwamba and Hackt. 
+Moebius continued: "What's wrong? Too worried about your buddies to fight?" He{{footnote: We'll assume it's male, for it sounded male-ish, though we'll use "he" and "it" interchangeably, for "it" assumes the "monster," while "he" assumes his gender.}} held them up a little, concluded, "Can't have that! All right!" He held them high up into the air while Noah looked. He pressed hard, they made their final groan as he released his hand, their husk dropped to the ground while he made a series of action that looked like a wolf tearing meat from its prey. 
+
+"Mwamba!" Noah shouted. Mio gasped.
 
 Lanz: "Grgh, you scum!" 
 
-Moebius: "Oh, wow. This is some entertainment." He showed his hands at the Ouroboros Stone, "Two rival factions, murdering each other over one little rock." Turned back and faced them: "Well! Your objective is staring you in the face! Try and take it! 'Course, you'll be dead before you can lay a finger on it." He sat down on the floor. "Don't you just love it? Don't you wanna savor it? The sweet taste of a life cut short!" 
+Moebius: "Oh, wow. This is some entertainment." He signaled at the Ouroboros Stone, "Two rival factions, murdering each other over one little rock." Then, he held both hands towards the Ouroboros Stone while walking taking a few steps towards it: "Well! Your objective is staring you in the face! Try and take it! 'Course, you'll be dead before you can lay a finger on it." Then, stopping at a series of ledges, he put his feet on the first ledge, hands supporting on that feet while he sat down on the second ledge. "Don't you just love it? Don't you wanna savor it? The sweet taste of a life cut short!" 
 
-Lanz: "Ngh... You mudder!" Lanz and Eunie can't stand it anymore, runnin towards it. Noah was trying to hold them back,
+Lanz: "Ngh... You mudder!" Lanz and Eunie can't stand it anymore, both running towards him. 
 
-"Wait, Lanz! Eunie!" ran after them. 
+"Wait, Lanz! Eunie!" Noah shouted back, but they don't seem like they could calm down, so he had no choice but to run after them. 
 
-"You killed Hackt!" Mio ran towards him too. 
+On the other side, Mio was enraged and started running towards him too, "You killed Hackt!" 
 
-"Mimi!" the hammer girl signaled to Mio, ran up and followed. 
+The hammer girl was worried about her, running up behind, "Mimi!"
 
-The intelligent guy couldn't hold it back, though it's an unintelligent move, "Spark!" And ran after them. 
+The intelligent guy probably thought it wasn't intelligent to make such move, but he, like Noah, had no choice but to run after them: "Spark!"
 
-Meanwhile, Guernica struggled to get up, controlling the manual automaton from a distance. It's flames shot from its rocket nozzle, getting started up. 
+Guernica struggled and got up. He managed to get onto the manually-controlled robot which he brought with him, it's thrusters activated as it got up from the ground, warming up. He was sitting in the controller's seat, seen from the glass windows. 
 
-The moebius put one blast at Noah and Mio's team, and they were down. Smoke raised where he blasted from. It raised its arm to slice through, Lanz shielded in front of Noah. 
+The moebius shot his fingernail at where Noah and Mio team ran, hit the ground, sending smoke rippling outward, covering our view. As he stood up and slashed its finger at Noah, Lanz got in front of him, it's fingers almost knock on his broadsword. 
 
-Before he could land a blow, Guernica was handling the manual robot, in the driver's seat, hit and dragged the Moebius from the flanks, dragging it along the ground. The robot arm gripped onto the moebius hands, "Hmph. Well... What did I expect?" It stand up and grabbed the robot's arm, the robot 2 times taller than him. "That's about... all you're... good for!" It swings, together with the robot, and flinched it into the distance. The robot dragged along, Guernica's upper torso resting on the entry door. 
+Suddenly, Guernica's robot flanked him, like how he flanked Noah and Mio earlier, pressing on the moebius's chest as they dragged along. It's other arm, clearly resembles a grip, punched towards the moebius, whom held his right arm and caught the grip. "Hmph. Well... What did I expect?"
 
-"Well, crud. Helluva throwing arm." The hand of the robot had broke away, still holding in the MOebius's hands, he threw it aside. 
+The robot, about three times the size of Moebius, wasn't holding on to its torso. It stood up, threw the grip to the side, while gripping the arm of the grip with both of its arms, swinging it with himself as the center of rotation. "That's about... all you're... good for!" About half a round, the robot's arm broke off, sending the machine flying in a short distance. The moebius still gripped onto the arm, which he threw to the side. 
 
-Guernica: "But y'know... I ain't... takin' that lying down!" As he finished his sentence, he aimed the robot's machine gun and fired at the moebius. Most hits missed, while some, the Moebius waved his hands and deflected it to the side, shot one of its fingernails (the thing that hit Guernica earlier) towards the robot, which exploded in flames. 
+Guernica, seated in his seat, called back: "Well, crud. Helluva throwing arm. But y'know... I ain't... takin' that lying down!" The other robot arm, equipped with a gatling gun, fired at the moebius as he walked towards the robot. Most of the hit missed. Some that shot, he deflected them to the side by flinching his arms. Then, he pointed his fingernails at the robot, it glowed more yellow, and shot. The robot bursted into flames. 
 
-Moebius then bent onto the floor, took more stored energy, jumped into mid-air towards him. It landed a punch so hard it shattered the robots' glasses, with Guernica groaned in pain. It then stuck its hand through the window at Guernica, left hand ready to punch him. Noah was looking at the drama all the time. 
+Like a frog, he jumped forward and punched into the driving seat, shattering the glass. Guernica groaned in pain. Noah watched him sticking his hands through the windows, grabbing Guernica out and held him up dangling. 
 
-Moebius caught Guernica and bring him up on his arms. 
+Noah: "Leave him alone..." His right eye glowed blue, and he ran towards the Moebius: "Let him go!" On his mark, the others (including Mio's team) quickly followed behind. The Mondo guy actually stopped for a second to think before he make his way. 
 
-Noah: "Leave him alone..." His eyes glowed blue, and he started running towards the Moebius: "Let him go!" Lanz and Eunie followed behind. Mio and his team followed. The Mondo guy took a second to deide whether to follow or not, before finally deciding it's not good to let the team deal with himself out, then caught up. 
+Noah jumped, his sword seemed to slice the moebius' hand, whom released Guernica witha few red "lives" burst from the point of contact. Noah hit the floor beside Guernica. 
 
-It gripped on Guernica, red sparks of "lives" drew from his body, while moebius let Guernica fall down. Noah launched himself into the air, blades up high, slicing towards the Moebius. He missed and landed beside Guernica. 
+"Tsk. Don't get on yer high horse. You're nothing more..." The moebius got angry, standing up, a ball of purple energy ball glowed from his left hand with electrical current flowing on its surface. "than a grunt!" He jumped mid-air and punched in front of the ground where Noah was, sending him flying backward. Lanz was in his trajectory and stop him on his track, after which Lanz summoned his blade. 
 
-Moebius sniped: "Tsk. Don't get on yer high horse. You're nothing more..." He stood up, hands glowed with indigo particles and red electricity, gather into a ball of energy. He jumped into the air, punched the ball of energy at Noah. "than a grunt!" 
-
-Noah flew backward, Lanz caught him. 
-
-Moebius: "You've got a real death wish. Maybe I'll take care of you first! How 'bout that!" He pointed his fingers at them, and get into a fighting stance. 
+Moebius: "You've got a real death wish. Maybe I'll take care of you first! How 'bout that!" He pointed his fingers up, nudged Noah and the others. 
 
 ---
 
+(Halfway through the fight)
 
+The moebius slid back, jumped into the air, his yellow fingernail shot towards the ground right in front of the hammer girl. A purple electric emits from it sent her flying backwards. Eunie ran towards her, casted a healing ring. She climbed, with her feet knelt on the floor, looked at Eunie: "Uhh... Thanks for that." 
+
+Eunie wasn't appreciating it, "Pfft... If you're done thanking me maybe you can get up!" She continued, reload her rifle and pointed it at the moebius and shoot, "We have to beat him together or we're dead in the mud!"
+
+The moebius didn't even bothered blocking, letting it explode in his face. He was busy breaking Lanz's defense. Two hits and his broadsword flew off his hand. The moebius brought both hands up, a purple energy ball gathered, and smashed it towards him. The Mondo guy got in front of him, his Mondo arranged in defensive form, blocked the ball of energy on time. Red and black particles emit from the point of contact, red electricity flowed across the mondos. 
+Signaling to Lanz: "Get out the way! You're just slowing me down!" 
+
+"Tch... The nerve on this guy!" Lanz gritted his teeth, swung his broadsword at the legs of the mondo guy, which he retreated his mondo and jumped to prevent being hit, and the moebius slid back for the same reason. 
+
+As the battle continues, Guernica crawled on all fours towards the Ouroboros Stone. He supported himself with both hands on the egg{{footnote: the Ouroboros Stone, egg-shaped.}}, then start punching the top of the egg with his right fist continuously. "Start working...! Wooork!!!" Blows he landed more furiously. 
+
+After a few punches, he talked to the egg, which isn't responding: "Ugh... If you don't start up soon..." 
+
+As if it listened, its upper shell starts cracking aside. Seeing his success, he continued his course, landing a hit with each phrase, "Those kids...!" Each harder than before, "And the world!" It's almost fully cracked open, as it started revealing a bottle with metal mesh. A second later, blue particles and smoke emanates from the gap, it's force sent Guernica fell on his back. 
+
+He didn't mind a bit. He had succeeded, "Ahahahah! That's what I'm talkin' about. Looks like it wasn't all for nothing!" The egg opened up, it's upper shell sliding downwards, covering its lower shell, fully revealing the mesh bottle. 
+
+Meanwhile, the moebius swing around and send his fingernails, hitting the ground before Mio as she fell. "One down, good start!" The moebius walked up to her, his fingernail thrusted towards her. She was still on the ground. Noah emerged from the left and deflected his fingernail, looked back at Mio, before grabbing her by the neck to help her move out of the way. A few steps later, she fell on the ground while they looked back, the moebius just took a step forward, shadowing them. It raised its left arm up, prepare to thrust his fingernail at the two, "Two for one!" Mio stood up behind Noah, whom pointed his blade at the Moebius. 
+
+Just before the fingernail sliced through Noah and Mio, Guernica got up again, his palm on the metal bottle, and press it downwards, which totally activated the egg. "It's not over yet!!!" Green ether in gaseous state blew off, like a high pressure liquid whom found a hole to release its pressure. As the gas flowed over Guernica's body, we saw his soul threw up into the air, separated from his body. 
+
+A moment after the first ripple, the ether, initially only showering Guernica, expands with the second ripple and hit Noah and the others, also sending their soul out of their body. Time seemed to stop as their soul rose into the air, with the egg still releasing ripples of energy. 
+
+Focusing on Noah's right eye, where Eunie displayed the flame clock earlier, the flame clock changed shape and form a full circle, materialize into a clear shape, like a blue snake biting its own tail. In its full glory, Noah's soul was brought into a world filled with yellow clouds. 
+
+"The off seer?... Really?" He saw several Mio's memories. A Mio was playing her flute. Another Mio at the top left look at where he stood. "**Miyabi**?..." The top left changed picture into a girl, which we'll assume it's Miyabi. The middle was the hammer girl lowering her head, fence in the background, rose her head, "This is what...". Miyabi appeared on the bottom right corner too. "Such a waste..." "Mio..." The central image changed to Miyabi, handing Mio her flute. 
+
+As fragments and fragments of Mio's memory swapped and filled the yellow clouds surrounding Noah, he managed to catch a glimpse of her past. "Mio, take this. I'm giving you my whole self. So please. Let me..." "Miyabiiiiii!!!" Mio shouted in the final scene Noah saw. 
+
+Mio was in the same situation as Noah, except she saw his memory surrounding her instead. Her left eye, originally holding the Agnian flame clock, demonstrated a yellow snake-biting-tail ring. "Stop crying then!" (Noah telling Joran in his memory.)
+
+As we zoomed out, we see them reflecting on the ground. If you try stand on a mirror and look down at yourself, that's just exactly how they stood, except if Noah look down, he would saw Mio in the mirror. They were separated by a thin sheet of transparent floor, but didn't look at each other. 
+
+As memories swirled around, two separate yellow tornadoes encircles and engulfed both of them. They disappeared from head and leg towards the center of their torso. The final product was two ball that resembles like the Chinese Golden Elixir (金丹){{footnote: Unfortunately, the author don't know if there are anything that resembles the Chinese Golden Elixir in the English world.}}. These two ball, Noah's blue, Mio's yellow, slammed towards each other, releasing a bright yellow ball of light as they collided. As the light dimmed out, a top-shaped core appeared, which we'll call it the **Ouroboros Core.**
+
+The ouroboros core looked like two bowls capped on top of each other, covering its content, forming a toroidal shape. Each "bowl" had 3 circles, one at the tip (like the bottom of the bowl), one at the top like its circumference, and one in the middle, which you can imagine a circumference drawn between the top and the bottom. Between the top and the middle, various inscriptions too complicated to put into words carved its surface. The two bowls don't touch each other, hence some space in between. 
+
+As the ouroboros core emerged from thin air, blue stripes encircling it, the moebius covered his eyes, perhaps seeing the bright light from before. A purple-shaped monster materialize from the core, immediately punched the moebius whom slid backwards, fell a tree, before hitting on the cliff wall. 
+
+"What did I just... do...?" Noah was confused by his actions. He took up his arms and looked at it. It was purple in color, with some veins resembling blood vessels on its surface, orange fluid flowing within it.  Such orange veins formed a ring on his wrist. As he flipped his hand to look at its back, four such veins stretched from in between his fingers towards his wrist. "What...? This hand..." Then, both Noah and Mio sounded: "Is it... mine?" 
+
+He and she turned back to look at his/her teammates. They were in their defensive stance, as if (s)he was their enemies. "Huh?" Noah and Mio gasped. "H-how are you inside me?!"
+
+The Ouroboros core was located at their chest, a ring stretches like a hula hoop dangling by the neck. The face had some furs by its neck. Eyes sharp, glowing brightly yellow-orange. There was a larger eye-looking feature on each side of their temple. As energy flowed through the veins, it glows brighter; as it leaves, it returned to its dimmer glow. 
+
+"Inside...? Hold on... Are we...?!" 
+
+As they stood up, we could see a tentacle dangling towards its back. It had a single horn, like that of a unicorn, pierced from its head. There was a sword sheathed on its back. 
+
+The moebius fling its right arm, throwing the tree bark to the side, exclaimed, "Well, you sure catch on quick." He stood up, laughing, "So, you got yourselves an **Interlink** going, eh? Guess I've gotta give the old fool credit where it's due." 
+
+As he spoke, we could see steam rising from the ouroboros core. Its skin color glow and un-glow at a rhythm. Looking at their arms, Noah and Mio prompted to the moebius, "Uhh.... Interlink?"
+
+The moebius walked up to them, explaining{{footnote: Probably he was enjoying the time, so he don't mind spending some time explaining what was going on to them.}} "Well, whatever. That form you just merged into? It's called '**Ouroboros**'. Sear that into yer skulls."
+
+"Ouroboros?" 
+
+The moebius didn't wait for them to absorb the information, continued: "Oh, and... Me, I'm Moebius. We look a bit alike, don't we? When Keves and Agnus come together in unity, you're practically one step away from being on the same level as us." He opened his arms, as if to welcome the new Ouroboros. 
+
+Noah: "So we're..." then Noah and Mio: "One Being...?"
+
+The moebius continued, "Ehh, to put it bluntly, you're failures. Fact is, the two of us are mortal enemies." 
+
+"Enemies?" Noah and Mio unconsciously get into defensive chance, as their soldier instinct, hearing this word. 
+
+The moebius seemed like finished his explanation, or perhaps, out of patience, didn't wait for their reply either: "You got the picture? No further questions? Then let's get back on the dance floor!" 
 
 ### Footnotes:

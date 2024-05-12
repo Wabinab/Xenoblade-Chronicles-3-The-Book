@@ -94,7 +94,7 @@ To which Lanz replied, "Yeah, well, I guess that's the upside of going against a
 
 Eunie: "On the flipside, we didn't manage to fill up the Flame Clock all that much..."
 
-The last guy whom shot when Noah first blocked and signaled to Lanz, slightly tanned, with his hair stripped with rolls, named **Mwamba.** "Ah, it's all for the best. At least we've all come back in one piece." 
+The last guy whom shot when Noah first blocked and signaled to Lanz, slightly dark skin, with his hair stripped with rolls, named **Mwamba.** "Ah, it's all for the best. At least we've all come back in one piece." 
 
 Noah: "I agree. And anyway, we should be all right on that front, for the time being." 
 
@@ -110,7 +110,7 @@ Inside the shower.
 
 Men and women shared the same shower room, without cover. Nopon too! All stripped themselves naked, of course. Mist from hot water greatly reduced the proximity of our vision, reaching Noah's chest. Noah turned off the knob to the shower, water stopped splashing out the shower head. 
 
-Noah turned and walked towards a shared spa, putting one feet before the other. To his front left, Eunie was already in the spa, leaning her back onto the walls, her hands on the wall (or floor). "Ahhh" Noah sighed. Feels refreshing. We could also see nopons in the pool; floating and swimming around. 
+Noah turned and walked towards a shared spa, putting one feet before the other. To his front left, Eunie was already in the spa, leaning her back onto the walls, her hands on the wall{{footnote: or floor}}. "Ahhh" Noah sighed. Feels refreshing. We could also see nopons in the pool; floating and swimming around. 
 
 "Say... You know how you became an **off-seer**... after what happened...?" Eunie began the conversation, slightly bending forward towards Noah, concentrating her attention. 
 

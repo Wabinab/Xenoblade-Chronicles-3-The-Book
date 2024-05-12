@@ -104,9 +104,7 @@ Releasing and pushed back Joran with Noah's still holding his wrist, he exclaime
 
 Noah lowered his fist down, questioned, "You really think you could've taken 'em?"
 
-"Urggg" Lanz turned around, pulling off his hands. 
-
-(Eunie was standing near them, arms crossed.)
+"Urggg" Lanz turned around, pulling off his hands.{{footnote: Eunie was standing near them, arms crossed.}}
 
 Eunie, whom was laying her back to a nearby tall obstacle, took step and walked towards them, looking first at Noah, then focusing on Lanz: "I think Joran did the right thing. If he hadn't used his powers back there, you'd have been first out of the running!"
 
@@ -163,3 +161,5 @@ As Joran approached, he replied with an upbeat tone, "Hey Noah, morning." Awkwar
 That changed the subject and the atmosphere. "First one they've ever had here, right?" Eunie exclaimed. 
 
 "Yeah, isn't it awesome!" Lanz replied. Together, they ran off. Noah looked at Joran and nodded to him, which he nodded back, and they  ran after them. Reminds of similar situation in another hyperspace? Except now with an extra green Nopon following. 
+
+### Footnotes: 
