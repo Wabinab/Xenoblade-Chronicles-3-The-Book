@@ -7,3 +7,6 @@ title = "Xenoblade Chronicles 3"
 description = "Xenoblade Chronicles 3 the movie put into words."
 
 [preprocessor.footnote]
+
+[output.html]
+mathjax-support = true

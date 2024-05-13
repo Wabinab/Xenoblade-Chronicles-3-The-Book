@@ -11,6 +11,10 @@
 - [The Death Of Guernica Vandham](./06_vandham.md)
 - [Hunted Down, Reunion](./07_reunion.md)
 
+# Chapter 2
+- [Memories: Silvercoat Ethel](./08_ethel.md)
+- [The Journey Begins](./09_new_journey.md)
+
 ---
 - [Noah's Past]()
 ---
