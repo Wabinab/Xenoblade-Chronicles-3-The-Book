@@ -242,7 +242,7 @@ Mwamba grinned, "E-xact-ly... Later!" With his last words, he ran off to the dis
 
 ---
 
-Eunie: "We made it to the rendezvous point faster than I thought we would." A huge tree located near a cliff. A fireplace was burning below the tree. Around the tree in a circle were small rocks, similar to that of the path, with grass growing by the side of the trail leading towards it. 
+Eunie: "We made it to the rendezvous point faster than I thought we would." A huge tree located near a cliff. A bonfire was burning below the tree. Around the tree in a circle were small rocks, similar to that of the path, with grass growing by the side of the trail leading towards it. 
 
 Noah: "Mwamba did help us a lot along the way." 
 
@@ -252,7 +252,7 @@ Noah explained, "Martha's squad was leading the way. They'll be at a different r
 
 Eunie acknowledged and suggested: "Roger that! Should we grab a bite to eat?" 
 
-Lanz agreed, "Good shout!" Then, Lanz and Eunie walked up to the fireplace. Noah still stuck and deep in his thoughts, as Riku prompted: "Noah... Something up?" 
+Lanz agreed, "Good shout!" Then, Lanz and Eunie walked up to the bonfire. Noah still stuck and deep in his thoughts, as Riku prompted: "Noah... Something up?" 
 
 Noah shook his head, "I've just got this uneasy feeling... It won't go away." 
 

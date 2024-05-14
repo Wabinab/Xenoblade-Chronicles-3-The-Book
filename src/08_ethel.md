@@ -20,7 +20,7 @@ Before it does, someone ran above the roof beside it, jumped off the roof, dove 
 
 ---
 
-After the battle. Soldiers gathered in 3 to 5 around a fireplace, with many set up. Some walked around. They all were quiet, looking down. Lanz had his hands over his face, as if to hide his tears, or to pinch his nose to silence from crying out aloud. 
+After the battle. Soldiers gathered in 3 to 5 around a bonfire, with many set up. Some walked around. They all were quiet, looking down. Lanz had his hands over his face, as if to hide his tears, or to pinch his nose to silence from crying out aloud. 
 
 The silver-haired girl approached, took a moment to catch eye contact with Eunie and Noah before turning her attention at Lanz. She lowered her head, her chin almost touching her chest, "I'm sorry..."
 

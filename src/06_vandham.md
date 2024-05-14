@@ -1,4 +1,4 @@
-# The Death Of Guernica Vandham
+# The Death of Guernica Vandham
 
 The skin of the ouroboros now glowing bright pink. A punch sent the moebies into the air, while it leapt towards it. As the moebius did a sit up mid-air, the ouroboros appeared behind it and smashed it back into the ground. Dust rose at the collision point, blocking our view of his status. The others watched the battle. Guernica was breathing heavity. Red grass tiled their battle location, while taller grass, the top of its tip looked like grain, glowing dark blue, less concentrated than the red. Mountains surrounded the area. 
 

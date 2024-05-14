@@ -1,4 +1,4 @@
-# Memories of the Past: Born For War
+# Memories of the Past: Born for War
 
 Somewhere far away from the battlefield, unknown number of years earlier. 
 

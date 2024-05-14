@@ -324,7 +324,7 @@ Meanwhile, Riku and Manan were flapping their wings furiously, dozens of potatoe
 
 Nighttime. 
 
-They made a fire and gathered around. Eunie was lying down on a sleeping back, hands behind her head. Right to her head, Riku and Manana were chatting. Below her legs, Noah sat. Behind him, Lanz was doing pushups. Opposite of Eunie, across the fireplace, Mio was writing in her diary. Far to her left, Taion was drinking tea; and between them, Sena was doing pushups. There were some glowing cyan lamp placed around them, which author isn't sure what that was. 
+They made a fire and gathered around. Eunie was lying down on a sleeping back, hands behind her head. Right to her head, Riku and Manana were chatting. Below her legs, Noah sat. Behind him, Lanz was doing pushups. Opposite of Eunie, across the bonfire, Mio was writing in her diary. Far to her left, Taion was drinking tea{{footnote: This is a hindsight bias we used, after some thought}}; and between them, Sena was doing pushups. There were some glowing cyan lamp placed around them, which author isn't sure what that was. 
 
 As she wrote, her necks felt sore. She closed her eyes, and looked up, twisted her neck a bit to relief the sore, before looking back down. She was right-handed. 
 
@@ -332,7 +332,7 @@ Noah interrupted her as he walked and stood beside her, "Is that...?" Mio turned
 
 "Yeah. My time left. Heh. Think about it. Wouldn't wanna lose track of time, and just run out." As she closed her diary, "Today, it's exactly three months... Three more months... and then I'll be gone from this world." She looked down at her diary while Noah looked and listened to her, without interruption. 
 
-"I've thought about this a lot. About what I can achieve... What I'll leave behind... (sigh)" As she looked up to the fireplace, torso slightly leaned forward, "I've sent off so many... who felt the same." 
+"I've thought about this a lot. About what I can achieve... What I'll leave behind... (sigh)" As she looked up to the bonfire, torso slightly leaned forward, "I've sent off so many... who felt the same." 
 
 Noah tried to get in sync with her, "I see... So, that's why you trusted that guy?" To which she nodded. "You hope to... live more?" 
 
@@ -342,7 +342,7 @@ Noah sighed, while Mio continued, "But... You and me, just talking like this... 
 
 Noah's eyebrow moved closer to his eyes: "Is that... what you'd want for a legacy?" 
 
-"Huh..." Mio sighed, "Weird question." As the atmosphere relaxed, he went up and sat beside her, an armlength distance. Both looked at the fireplace, enjoying the silence in between. Both may be feeling awkward and uneasy, as he put his hands on his feet, hers caught on the head of the diary, put on her lap. 
+"Huh..." Mio sighed, "Weird question." As the atmosphere relaxed, he went up and sat beside her, an armlength distance. Both looked at the bonfire, enjoying the silence in between. Both may be feeling awkward and uneasy, as he put his hands on his feet, hers caught on the head of the diary, put on her lap. 
 
 Noah broke the silence, "Those who can leave their legacy... Are they content at the end?" 
 
