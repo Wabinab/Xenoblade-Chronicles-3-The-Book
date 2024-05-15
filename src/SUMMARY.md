@@ -15,6 +15,7 @@
 - [Memories: Silvercoat Ethel](./08_ethel.md)
 - [The Journey](./09_new_journey.md)
 - [Consul K and Silvercoat Ethel](./10_k.md)
+- [Adventures Crossing the Desert](./11_adventure.md)
 
 ---
 - [Noah's Past]()
@@ -22,4 +23,4 @@
 
 ---
 [Appendices](./98_appendix.md)
-[Terms](./99_terms.md)
+[Index](./99_terms.md)

@@ -318,7 +318,7 @@ Sena: "They went pretty far off, huh..."
 
 Mio eyes wide opened: "Ahuh?" 
 
-Meanwhile, Riku and Manan were flapping their wings furiously, dozens of potatoes, turnips, and unknown fruits piled up behind them. 
+Meanwhile, Riku and Manana were flapping their wings furiously, dozens of potatoes, turnips, and some other unrecognizable fruits piled up behind them. 
 
 ---
 

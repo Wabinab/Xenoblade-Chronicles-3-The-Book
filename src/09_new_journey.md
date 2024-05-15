@@ -24,7 +24,7 @@ Taion: "And you think it's that easy?"
 
 "Huh? I mean..." 
 
-He, with a stern look, walked in between and past them, and face the mountain wall in the distance. He stopped at the end of the grass patch, just before the shiny smooth-looking rocks that paved the floor. "I don't mean to burst your bubble here, but don't you think... maybe that power's meant only for them?"
+He, with a stern look, walked in between and past them, and faced the rocky walls in the distance. He stopped at the end of the grass patch, just before the shiny smooth-looking rocks that paved the floor. "I don't mean to burst your bubble here, but don't you think... maybe that power's meant only for them?"
 
 Sena rebuted, "Yeah, but that Moebius guy... He did refer to 'us'... I just thought..."
 
@@ -46,7 +46,7 @@ Sena replied in a lighter tone, but serious, "If I didn't know better... I'd say
 
 He closed his eyes, "Think whatever you want."
 
-"I think you might be on the mark, though." Mio's sounded from the distance. He turned and saw Mio and Noah walked towards them. Riku, Eunie, and Manana closely followed behind. 
+"I think you might be on the mark, though." Mio's sounded from the distance. He turned and saw Mio and Noah walking towards them. Riku, Eunie, and Manana closely followed behind. 
 
 "Oh?" 
 
@@ -76,7 +76,7 @@ Eunie walked up to him, "Well, who'd you think?"
 
 Noah: "Eunie..." 
 
-She turned back and face them, "Come on, though..."
+She turned back and faced them, "Come on, though..."
 
 Mio: "You're not going to manage this overnight. Not the way you all are right now. Even so... It can't hurt to have a little hope, can it?" 
 
@@ -142,7 +142,7 @@ Eunie finished in a sighing intonation, "Yeah..." They embraced the moment.
 
 The group was walking down hill. Lanz and Sena were chatting, leading the way with Eunie. Riku and Manana behind them, followed by Taion, Mio, and Noah far behind. As Noah stopped, he called for their attention, "Hey guys... Could I have a moment?" 
 
-"Meh." "Hm" "Yeah? Wassup?" Everyone turned and face him. 
+"Meh." "Hm" "Yeah? Wassup?" Everyone turned and faced him. 
 
 "There's something that I forgot to tell you."
 
@@ -202,7 +202,7 @@ Mio sounded from another side, "So many things... taken for granted... We're pre
 
 Taion rebuted, turning to Mio "No one's worlds apart. If anything, we should be questioning all that we've thought to be true." 
 
-She turned to her back and look at the distance. Riku and Manana were playing with dirt. Noah was further in the background, lost in his thoughts, his back facing them. Taion continued, "Differences... are all a matter of perspective."
+She turned to her back and looked at the distance. Riku and Manana were playing with dirt. Noah was further in the background, lost in his thoughts, his back facing them. Taion continued, "Differences... are all a matter of perspective."
 
 "Hehe... Our skeptics." 
 
@@ -222,8 +222,40 @@ Eunie was provoked, raising her voice as she stomped towards him, stopped by an 
 
 "This is just... How long are you going to drag this out?" Lanz and Sena looked at each other, unsure about why this couple was quarrelling. 
 
-"Far as long as I sparking need to! Until you come clean, four-eyes." Meanwhile, Riku and Manana had just finished meddling with their soil and walked out of sight. Their fights in the distance cut Noah's from his thought. He turned and face their direction as he heard Taion from the distance, "I can't believe this. Someone shoot me." 
+"Far as long as I sparking need to! Until you come clean, four-eyes." Meanwhile, Riku and Manana had just finished meddling with their soil and walked out of sight. Their fights in the distance cut Noah's from his thought. He turned and faced their direction as he heard Taion from the distance, "I can't believe this. Someone shoot me." 
 
 ---
+
+{{footnote: From this point onward till the end of this section, views will be taken from the 3rd video.}}
+
+After they regrouped. 
+
+Suddenly, something caught Sena's eyes. "What's that? Hey, Mimi, you can see the **Ferronis**{{footnote: Ferronis means "flame clock levnis". From now onwards, we'll call it a ferronis.}}, over by the side of the big outcrop there, right?"
+
+They turned to her direction, "Oh yeah!" Hearing of Ferronis, the group got defensive. Taion first checked his iris, "Odd. I don't have any data about a colony established in this locale." 
+
+Eunie: "Odd for sure... Noah, take a good look. Isn't it kinda... old?" 
+
+As they looked into the distance, it was the rusty junk that laid demolished along the low coast beside the river we saw earlier. They were on high ground, land rolled out below them. "It does look like it's seen quite a bit of service." 
+
+Lanz: "Yeah. I don't think they make 'em like that any more." 
+
+Mio: "Erm... Do you think it's safe to be around?" 
+
+Eunie crossed her arms: "You're freaking me out a bit here, Mio." 
+
+Sena: "Sorry!" Perhaps she felt sorry for alerting them on an inexistent threat. 
+
+Taion: "I don't think an apology is necessary." 
+
+Mio asked him, "Do you think there could be some useful resources and stuff in there still?" 
+
+"A possibility, certainly." Then, he turned and face Noah, "It's in the general direction of our objective. Why not investigate it?" 
+
+He agreed, "All right. Let's check it out!" 
+
+--- 
+
+As they arrived in the evening, Mio: "Crustips", the blue mantis shrimp, roamed the **Ferronis Hulk**. After they eradicated all the crustips, they rested there for the night. 
 
 ### Footnotes:

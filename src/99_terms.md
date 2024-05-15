@@ -1,4 +1,4 @@
-# Terms
+# Index
 
 Here are some terms highlighted in the book. More of these information could be found in the [Xenoblade Wiki](https://xenoblade.fandom.com/wiki/)
 
@@ -14,6 +14,7 @@ Here are some terms highlighted in the book. More of these information could be 
   - Silver
   - Gold
 - **Ferronis:** The colony levnis, flame clock levnis, flame clock war machine. People live in it, or under it, when the colony isn't at war. 
+- **Ferronis Hulk:** Dilapidated, demolished, and/or abandoned Ferronis. These are usually rusty. 
 - **Flame Clock:** The clocklike figure located at the top of a Ferronis. The flame clock determines the strength of its soldiers. If the flame clock falls to zero, those linked to that flame clock lose their lives. 
 - **Interlink:** A Kevesi and an Agnian, joined together, to form an interlink. The interlinked form is called **Ouroboros.**
 - **Iris:** Every soldier, Agnian or Kevesi, had an Iris that used for transferring information. Though, this Iris also send information back to the castle; hence Noah's team current location was always known prior to wearing the eyepatch. Linked to the flame clock, the moebius could press a button and their mind would be put to sleep, their body continued fighting against their will. Upon waking up, they won't remember what had happened, except for the sore muscles from muscle memory. 
