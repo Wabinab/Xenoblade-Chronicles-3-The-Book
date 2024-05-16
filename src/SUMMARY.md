@@ -16,6 +16,7 @@
 - [The Journey](./09_new_journey.md)
 - [Consul K and Silvercoat Ethel](./10_k.md)
 - [Adventures Crossing the Desert](./11_adventure.md)
+- [Lucky Seven](./12_lucky_seven.md)
 
 ---
 - [Noah's Past]()
