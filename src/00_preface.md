@@ -9,6 +9,7 @@ Perhaps this book will never be publicized, for it's the first attempt. Plus, on
 ### Other Notes
 - What to include, what not to include, to prevent too much detail or too little, is difficult to judge. 
 - To leave out things that the reader could judge for oneself, to reduce the no. of "because" or explanation used. 
+- Any use of word "author" means "writer". So, one hadn't created the story, but put frames into words. (We'll see if we change this with another revision later.)
 
 
 ### Notes

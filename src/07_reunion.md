@@ -328,9 +328,9 @@ They made a fire and gathered around. Eunie was lying down on a sleeping back, h
 
 As she wrote, her necks felt sore. She closed her eyes, and looked up, twisted her neck a bit to relief the sore, before looking back down. She was right-handed. 
 
-Noah interrupted her as he walked and stood beside her, "Is that...?" Mio turned her attention to him. Both looked at her notebook. On the left, some illegible writings. On the right, with some title at the top, there looks like some diamonds chained together. Each chain (each row) contains 5 diamonds, 6 chains (rows) in total. {{footnote: So, \\(5 \times 6 = 30 \text{ days} \\).}} The first two chains had their diamonds slashed out, and the third, two of them slashed out. 
+Noah interrupted her as he walked and stood beside her, "Is that...?" Mio turned her attention to him. Both looked at her notebook. On the left, some illegible writings. On the right, with some title at the top, several diamonds chained together. Each chain (each row) contains 5 diamonds, 6 chains (rows) in total. {{footnote: So, \\(5 \times 6 = 30 \text{ days} \\).}} The first two chains had their diamonds slashed out, and the third, two of them slashed out. 
 
-"Yeah. My time left. Heh. Think about it. Wouldn't wanna lose track of time, and just run out." As she closed her diary, "Today, it's exactly three months... Three more months... and then I'll be gone from this world." She looked down at her diary while Noah looked and listened to her, without interruption. 
+"Yeah. My time left. Heh. **_Think about it. Wouldn't wanna lose track of time, and just run out._**" As she closed her diary, "Today, it's exactly three months... Three more months... and then I'll be gone from this world." She looked down at her diary in her thoughts. Noah looked at and listened to her, without interrupting. 
 
 "I've thought about this a lot. About what I can achieve... What I'll leave behind... (sigh)" As she looked up to the bonfire, torso slightly leaned forward, "I've sent off so many... who felt the same." 
 
@@ -338,11 +338,11 @@ Noah tried to get in sync with her, "I see... So, that's why you trusted that gu
 
 She looked up at him, "I dunno," then looked back down, explained, "Doesn't matter." 
 
-Noah sighed, while Mio continued, "But... You and me, just talking like this... I think that's kinda amazing." She looked back at him, grateful, "And if there really is hope... in that place that the man mentioned..." 
+Noah sighed, while Mio continued, "But... **_You and me, just talking like this... I think that's kinda amazing._**" She looked back at him, grateful, "And if there really is hope... in that place that the man mentioned..." 
 
 Noah's eyebrow moved closer to his eyes: "Is that... what you'd want for a legacy?" 
 
-"Huh..." Mio sighed, "Weird question." As the atmosphere relaxed, he went up and sat beside her, an armlength distance. Both looked at the bonfire, enjoying the silence in between. Both may be feeling awkward and uneasy, as he put his hands on his feet, hers caught on the head of the diary, put on her lap. 
+"Huh..." Mio sighed, "Weird question." As the atmosphere relaxed, he went up and sat beside her, armlength distance between. Both enjoyed the silence looking at the bonfire; perhaps feeling awkward and uneasy, as he put his hands on his feet, hers caught on the head of the diary, put on her lap. 
 
 Noah broke the silence, "Those who can leave their legacy... Are they content at the end?" 
 
@@ -360,9 +360,7 @@ Noah continued, "And the ones left behind... Can they really come to terms with 
 
 ---
 
-===
-
-Somewhere near the fallen Guernica ship? A girl walked up towards the ship. She was wearing boots, shorts, pigtails. She walked up towards where Guernica's shirt remains, picked up his eyepatch. As she walked off into the distance, the ouroboros stone, previously still have ether glowing through its veins, shut down completely. An object with three legs, each leg pointed like a compass{{footnote: for drawing circles, the sharp side}}, it's top flat, shaped like a cross, and four red comma-shaped dots at four sides, pointing towards its center. Before it fell off, the center part between its three legs had blue mist glowing. 
+Somewhere near the fallen Guernica ship? A girl walked up towards the ship. She was wearing boots, shorts, pigtails. She walked up towards where Guernica's shirt remained, picked up his eyepatch. As she walked off into the distance, the ouroboros stone, previously still have ether flowing through its veins, shutted down completely. An object with three legs, each leg pointed like a compass{{footnote: for drawing circles, the sharp side}}, it's top flat, shaped like a cross, and four red comma-shaped dots at four sides, pointing towards its center, fell off; before, attached to the egg, the center part between its three legs had blue mist glowing. 
 
 ---
 
