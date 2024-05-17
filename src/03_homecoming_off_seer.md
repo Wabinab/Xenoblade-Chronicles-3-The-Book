@@ -38,7 +38,7 @@ Probably referring the guy whom Noah looked up to.
 
 Back in the battlefield. Noah was playing the flute, similar melody to those of homecoming. Previously red particles floating in the sky turned blue. Husks, Agnes or Keves, glowed blue, emanating more blue particles as the melody hummed. Kevesi levnises drove over Agnus' soldiers husks. Kevesi soldiers stepped on their torso, careful not on step on their hands and legs or they would lose balance easily. Most were yawning, looking down, exhausted. Flying levnises, after loaded the soldiers, changed to flying form, retracted their ground support, and blasted off into the air. The flame clock levnises had already gone, not seen anywhere. All except Noah's team, whom waited for Noah as he played the melody. 
 
-Lanz sat where he was, Eunie, the other guy, and the green nopon stood. As he completed and stuffed his flute into his back pocket, he looked down, reminisced for all soldiers. Some Kevesi were so badly injured their colleagues had their arms over their shoulder, helping them walk. 
+Lanz sat where he was, Eunie, the other guy, and the green nopon stood. As he completed and stuffed his flute into his back pocket, he looked down from his vantage point, reminisced for all soldiers. Some Kevesi were so badly injured their colleagues had their arms over their shoulder, helping them walk. 
 
 "Do you have to?" Lanz sounded, _not_ looking at Noah. 
 

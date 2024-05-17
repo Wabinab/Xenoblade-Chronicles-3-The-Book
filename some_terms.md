@@ -19,6 +19,15 @@ These are some adjectives one could use, got from reading:
 - sneered: to talk about or look at someone or something in an unkind way that shows you do not respect or approve of him, her, or it.
 - haphazard: not having an obvious order or plan. 
 
+- ruffle: to annoy or upset someone, or to make someone very nervous. 
+- scruffy: untidy and looking a little dirty.
+- foreboding: a feeling that something very bad is going to happen soon. 
+- respite: a pause/rest from something difficult/unpleasant.
+- mound: a large pile of earth, stones, etc. Like a small hill.
+- vantage point: a place, esp. a high place, that provides a good, clear view of the area. 
+- undulating: to have a continuous up and down shape or movement, like waves. 
+- bleak: unattractive, empty place. 
+- meticulous: very careful and with great attention to every detail. 
 
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
@@ -27,3 +36,5 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - "black veil": (veil - a piece of thin material worn to cover the face, like bride's veil)
 - "storm clouds darkened the sky, threatening a rain of fire": 
 - enthralled: to keep someone completely interested. 
+- incongruous: unusual or different from what's around or what's generally happening.
+- innocuous: completely harmless
