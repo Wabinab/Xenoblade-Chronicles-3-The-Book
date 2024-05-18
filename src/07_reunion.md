@@ -52,7 +52,7 @@ Mio wasn't any clearer than her, "What's going on here? Taion?"
 
 ---
 
-> **Author's note  on environment:** Where they battled the moebius just now, the ground paved with red grass, low undergrowth with red leaves that stood about a meter or two, a waterfall somewhere, surrounded by cliffs, habitats to volffs, eagles with 4 wings (two above the other two, called "quadwing"), almost bald trees with their rare leaves dyed silver, some deers like those from Yzana Plains, is called **Melnath's Shoulder**, located in the Aetia Region. 
+> **Writer's note  on environment:** Where they battled the moebius just now, the ground paved with red grass, low undergrowth with red leaves that stood about a meter or two, a waterfall somewhere, surrounded by cliffs, habitats to volffs, eagles with 4 wings (two above the other two, called "quadwing"), almost bald trees with their rare leaves dyed silver, some deers like those from Yzana Plains, is called **Melnath's Shoulder**, located in the Aetia Region. 
 
 ---
 
@@ -324,7 +324,7 @@ Meanwhile, Riku and Manana were flapping their wings furiously, dozens of potato
 
 Nighttime. 
 
-They made a fire and gathered around. Eunie was lying down on a sleeping back, hands behind her head. Right to her head, Riku and Manana were chatting. Below her legs, Noah sat. Behind him, Lanz was doing pushups. Opposite of Eunie, across the bonfire, Mio was writing in her diary. Far to her left, Taion was drinking tea{{footnote: This is a hindsight bias we used, after some thought}}; and between them, Sena was doing pushups. There were some glowing cyan lamp placed around them, which author isn't sure what that was. 
+They made a fire and gathered around. Eunie was lying down on a sleeping back, hands behind her head. Right to her head, Riku and Manana were chatting. Below her legs, Noah sat. Behind him, Lanz was doing pushups. Opposite of Eunie, across the bonfire, Mio was writing in her diary. Far to her left, Taion was drinking tea{{footnote: This is a hindsight bias we used, after some thought}}; and between them, Sena was doing pushups. There were some glowing cyan lamp placed around them, which writer isn't sure what that was. 
 
 As she wrote, her necks felt sore. She closed her eyes, and looked up, twisted her neck a bit to relief the sore, before looking back down. She was right-handed. 
 

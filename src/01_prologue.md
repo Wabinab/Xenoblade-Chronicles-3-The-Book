@@ -109,3 +109,5 @@ With the last soldier down, the Agnus' flame clock levnis lost its electromagnet
 Lanz and Eunie were no different from the others. They sheathed their blades and joined in the party. Noah, however, wasn't amused. He was bemused, perhaps he questioned the need to take other people's lives, their purpose, its meaning. Meanwhile, with no one noticing his weirdness amongst a crowd, shouts continued, "We won!" "Your lives are ours!" 
 
 Perhaps they were too tired. A few moments later, they stopped, and the air silenced. Lanz was sitting on the ground, Eunie and Noah standing, yet they didn't break the silence. Noah was still reflecting, all that we know of. 
+
+<!-- ### Footnotes: -->

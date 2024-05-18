@@ -29,6 +29,15 @@ These are some adjectives one could use, got from reading:
 - bleak: unattractive, empty place. 
 - meticulous: very careful and with great attention to every detail. 
 
+- dislodge: to remove something or something, esp. by force, from a fixed position (e.g. via earthquake)
+- floundered: to experience great difficulties, or be completely unable to decide what to do or say next. 
+- pugnacious: wanting to start an argument or fight, or expressing an argument strongly and forcefully. 
+- slicked-back dark hair: (to describe hair)
+- outlandish: strange and unusual and difficult to accept. 
+- indignation: anger about a situation one think is wrong or unfair. 
+- stoically: without complaining or showing your feelings, esp. when something bad happened to you. 
+- fluttered: to make a series of quick delicate movements up and down or from side to side, or to cause something to do this. 
+
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
 
@@ -38,3 +47,7 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - enthralled: to keep someone completely interested. 
 - incongruous: unusual or different from what's around or what's generally happening.
 - innocuous: completely harmless
+- corral: an area to keep horse and cattle in. 
+- ossifying: something unable to change, become fixed. 
+- incumbents: officially having the named position. 
+- caress: to touch or kiss someone in a gentle and loving way. (or can say, "sun caressed the walls" for the beams.)

@@ -30,7 +30,7 @@ He hadn't managed to get into action when the commander's voice attracted their 
 
 The commander tappd twice on his temple, his right iris glowed yellow as information of a map was broadcasted to everyone's irises. To receive the broadcast, the soldiers all tapped twice on their temple to activate their iris. On the center, we see a 3D map with mountains and valleys, and a blue dot appearing, their target. 
 
-"Judging from the mass, it's expected to be large in size." As he spoke, the blue dot plotted an expected route, ending at another blue dot. The mapped zoomed out in the process.{{footnote: Author can't make much out of the map when the contours were all in yellow, and the valley wasn't very clear, sorry... }} The ending blue dot is probably the intercepting location. "And based on its speed, we estimate it will reach the Alfeto Valley at 0100 hours." 
+"Judging from the mass, it's expected to be large in size." As he spoke, the blue dot plotted an expected route, ending at another blue dot. The mapped zoomed out in the process.{{footnote: Writer can't make much out of the map when the contours were all in yellow, and the valley wasn't very clear, sorry... }} The ending blue dot is probably the intercepting location. "And based on its speed, we estimate it will reach the Alfeto Valley at 0100 hours." 
 
 As the commander release his hand from his temple and stop broadcasting, he continued: "Notably, the target's emitting a considerable amount of ether energy. As for your mission, deploy at the canyon by the designated time. Investigate and destroy the source of ether." As he finished his sentence, the others release their hands from their temples, stopped receiving visuals. 
 
@@ -76,7 +76,7 @@ A soldier came to the front, interrupting their conversation, "We're moving out.
 
 ---
 
-> **Author's note on environment:** Yellow grass grows all over the place, clearly lacking chlorophyll. Lots of plateau and rocks sticking out from the earth. A river cuts through the land. Red flamingos with white belly were seen gathering by the river bank. Waterfall from a distance falling off unclimbable cliffs, refilling the river. Eagles circling the air, looking for its prey. Deers munched on grass, gathered in groups. Very few trees stood on the **Yzana Plains**, Aetia Region. 
+> **Writer's note on environment:** Yellow grass grows all over the place, clearly lacking chlorophyll. Lots of plateau and rocks sticking out from the earth. A river cuts through the land. Red flamingos with white belly were seen gathering by the river bank. Waterfall from a distance falling off unclimbable cliffs, refilling the river. Eagles circling the air, looking for its prey. Deers munched on grass, gathered in groups. Very few trees stood on the **Yzana Plains**, Aetia Region. 
 
 ---
 
@@ -128,7 +128,7 @@ Lanz: "Got it." They continued on the rocky trail. Down and up, we could see a c
 
 ---
 
-> **Author's note on environment:** In the distant, vines curled along tall pillars of rocks that supported a plateau, like a mushroom. A spring with "krabble" {{footnote: In real life, they were animals that steal other animal's shell to use as their shelter, usually living on seabed.}} gathered around it. Below a tree, apparently dead, laid some patches of red, too far to ascertain what it was. To both sides, cliffs sandwiched the path.  **Alfeto Valey**, in the Aetia Region. As usual, the animals roamed the region. 
+> **Writer's note on environment:** In the distant, vines curled along tall pillars of rocks that supported a plateau, like a mushroom. A spring with "krabble" {{footnote: In real life, they were animals that steal other animal's shell to use as their shelter, usually living on seabed.}} gathered around it. Below a tree, apparently dead, laid some patches of red, too far to ascertain what it was. To both sides, cliffs sandwiched the path.  **Alfeto Valey**, in the Aetia Region. As usual, the animals roamed the region. 
 
 ---
 
@@ -144,7 +144,7 @@ Suddenly, a monster jumped out of the ground where the rock was before. Apparent
 
 "Riku! Watch out!" Noah shouted.
 
-Riku took cover behind Noah, while Mwamba exclaimed, "It was camouflaged as a rock...?" {{footnote: Author's note: One assumed you lived in this region for so long, yet you never met this monster? Oh dear...}}
+Riku took cover behind Noah, while Mwamba exclaimed, "It was camouflaged as a rock...?" {{footnote: Writer's note: One assumed you lived in this region for so long, yet you never met this monster? Oh dear...}}
 
 Eunie: "We're gonna have to face it!" 
 

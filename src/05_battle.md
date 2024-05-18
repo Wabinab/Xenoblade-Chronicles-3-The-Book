@@ -130,7 +130,7 @@ From another direction, an agnian girl wearing a helmet, white dress with orange
 
 Lanz drew the machine gun encapsulated within its broadsword and fired at the girl. The girl was agile, dodged all his shot as she made her way towards him, jumped into the air toward Lanz while he brought his sword up to block. 
 
-Noah's sword cut at the point of contact, separating the girl and Lanz. Her team, the guy and another girl carrying a massive hammer, so massive it could fit her inside{{footnote: author think she's probably less than 1.5 meters, assuming Noah around 1.7 meters, and Lanz 1.9 meters.}} if it was hollow, in wedge formation. 
+Noah's sword cut at the point of contact, separating the girl and Lanz. Her team, the guy and another girl carrying a massive hammer, so massive it could fit her inside{{footnote: writer think she's probably less than 1.5 meters, assuming Noah around 1.7 meters, and Lanz 1.9 meters.}} if it was hollow, in wedge formation. 
 
 "Kevesi troops..." The double-ringed girl sounded. 
 
@@ -188,7 +188,7 @@ As his sword traversed her ears, a sharp-pitch sound generated from the sword da
 
 "What's... What's that sound?" 
 
-> (Note from the author: **For this rest of this section, Noah's and Mio's thoughts would be rendered in italics.**)
+> (Note from the writer: **For this rest of this section, Noah's and Mio's thoughts would be rendered in italics.**)
 
 Noah continued to analyze the situation while they exchanged hits: "_She's so fast... And yet... her moves are really simple... It's almost... like they have a rhythm..._" 
 
@@ -379,7 +379,7 @@ Mio was in the same situation as Noah, except she saw his memory surrounding her
 
 As we zoomed out, we see them reflecting on the ground. If you try stand on a mirror and look down at yourself, that's just exactly how they stood, except if Noah look down, he would saw Mio in the mirror. They were separated by a thin sheet of transparent floor, but didn't look at each other. 
 
-As memories swirled around, two separate yellow tornadoes encircles and engulfed both of them. They disappeared from head and leg towards the center of their torso. The final product was two ball that resembles like the Chinese Golden Elixir (金丹){{footnote: Unfortunately, the author don't know if there are anything that resembles the Chinese Golden Elixir in the English world.}}. These two ball, Noah's blue, Mio's yellow, slammed towards each other, releasing a bright yellow ball of light as they collided. As the light dimmed out, a top-shaped core appeared, which we'll call it the **Ouroboros Core.**
+As memories swirled around, two separate yellow tornadoes encircles and engulfed both of them. They disappeared from head and leg towards the center of their torso. The final product was two ball that resembles like the Chinese Golden Elixir (金丹){{footnote: Unfortunately, the writer don't know if there are anything that resembles the Chinese Golden Elixir in the English world.}}. These two ball, Noah's blue, Mio's yellow, slammed towards each other, releasing a bright yellow ball of light as they collided. As the light dimmed out, a top-shaped core appeared, which we'll call it the **Ouroboros Core.**
 
 The ouroboros core looked like two bowls capped on top of each other, covering its content, forming a toroidal shape. Each "bowl" had 3 circles, one at the tip (like the bottom of the bowl), one at the top like its circumference, and one in the middle, which you can imagine a circumference drawn between the top and the bottom. Between the top and the middle, various inscriptions too complicated to put into words carved its surface. The two bowls don't touch each other, hence some space in between. 
 

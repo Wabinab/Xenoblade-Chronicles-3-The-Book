@@ -75,3 +75,5 @@ A new moebius with round head, like those of a motorcycle helmet, and a fan prot
 As the decision was made, other moebius teleported away, lights off.
 
 Z: "Well then... Let us see how far the flow brings them this time..." All lights turned off.
+
+### Footnotes:

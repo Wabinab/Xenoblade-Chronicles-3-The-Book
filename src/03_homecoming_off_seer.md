@@ -76,7 +76,7 @@ Noah took a final look at the battlefield by himself, still had many questions i
 
 --- 
 
-> **Author's note on the environment:** Between this battlefield region and where their colony was, was called Everblight Plain. It was located in the Aetia Region. The roads between the two locations was filled with relatively weak monsters, like "bunnits," rabbits white, brown, or black, with a mace attached to the tip of their tails; or "wisp," which are wasp-like creatures, where the "night wisp" glow in the dark while the morning ones don't, and other insectoids and animals. 
+> **Writer's note on the environment:** Between this battlefield region and where their colony was, was called Everblight Plain. It was located in the Aetia Region. The roads between the two locations was filled with relatively weak monsters, like "bunnits," rabbits white, brown, or black, with a mace attached to the tip of their tails; or "wisp," which are wasp-like creatures, where the "night wisp" glow in the dark while the morning ones don't, and other insectoids and animals. 
 
 ---
 
@@ -102,7 +102,7 @@ Riku: "Noah, talking out here just waste time. How about friends move chatter in
 
 "Good thinking! Let's do that." Slow response, Eunie... 
 
-> **Author's note on environment:** Each colony had their names. Kevesi colonies used the numbering system, so Noah's colony is **Colony 9** (which they're currently at). On the other hand, Agnian colonies used the alphabetical system, e.g. Colony Alpha (A). 
+> **Writer's note on environment:** Each colony had their names. Kevesi colonies used the numbering system, so Noah's colony is **Colony 9** (which they're currently at). On the other hand, Agnian colonies used the alphabetical system, e.g. Colony Alpha (A). 
 
 ---
 
