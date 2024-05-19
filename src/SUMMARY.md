@@ -16,12 +16,13 @@
 - [The Journey](./09_new_journey.md)
 - [Consul K and Silvercoat Ethel](./10_k.md)
 - [Adventures Crossing the Desert](./11_adventure.md)
-- [Lucky Seven](./12_lucky_seven.md)
+- [Memories: Lucky Seven](./12_lucky_seven.md)
 - [Confrontation: Ethel, K, and the Flame Clock](./13_fighting_ethel.md)
 - [Colony 4, the Queens, and Consuls](./14_after_the_battle.md)
 
 # Chapter 3: Saffronias
-- [Taion's Past](./15_taion.md)
+- [Memories: Lambda, Taion, and Nimue](./15_taion.md)
+- [Cammuravi, Life, Helping Ethel, ](./16_colony_4.md)
 
 ---
 <!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->

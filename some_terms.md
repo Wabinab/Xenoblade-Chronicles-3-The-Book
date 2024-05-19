@@ -38,6 +38,11 @@ These are some adjectives one could use, got from reading:
 - stoically: without complaining or showing your feelings, esp. when something bad happened to you. 
 - fluttered: to make a series of quick delicate movements up and down or from side to side, or to cause something to do this. 
 
+- effete: weak and without much power. 
+- ardent: showing strong feelings.
+- (call) ixnay: to stop, prevent, or refuse to accept something. (e.g. Lisa _ixnayed_ the idea.)
+- gleefully: happily and with excitement or pleasure. 
+
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
 
@@ -51,3 +56,4 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - ossifying: something unable to change, become fixed. 
 - incumbents: officially having the named position. 
 - caress: to touch or kiss someone in a gentle and loving way. (or can say, "sun caressed the walls" for the beams.)
+- assiduous: showing hard work, care, and attention to detail. 

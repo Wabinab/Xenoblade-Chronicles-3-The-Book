@@ -1,4 +1,4 @@
-# Lucky Seven
+# Memories: Lucky Seven
 
 As the night falls, they continued traversing their path, oasis beyond sight limit. Patches of grass now grows on both sides of the path. Gusting winds brought with them dusty sands, tampering one's vision. The destination? Nowhere to be seen. Rocks and detours, all that is. Plants glowed amidst the foggy air, like cat's eyes in the dark. Mio scanned for Noah, him far behind. She stopped and waited for him, walking beside him thereafter. 
 
@@ -19,7 +19,7 @@ Then, she asked, in a whispering tone, "Is it a secret?"
 "No, I can tell you." 
 
 ---
-### Start of Memories
+#### (Start of Memories)
 
 The training ground. Young Noah, wearing a healmet and bullet-proof vest, along with other soldiers, drew his blade, a standard Kevesi sword. Others, with their broadsword or staffs or whatever, were already practicing by themselves, while he still tried to get a hold of it. Soldiers gathered in groups when they practiced; swords slicing the air; square gloves with four "well-shaped" protrudes, glowing cyan punching the air; guns shooting at the static humanoid targets in the gun range; long staff put into the air, ether meteor strikes the ground in front of them as they released, with a small explosion. Still, others practiced against each other. 
 
@@ -183,6 +183,7 @@ He smiled back and scratched his neck, "'Lucky Seven' just isn't doing it for me
 
 "Aww...." Riku looked disappointed, with a long sigh. 
 
+#### (End of Memories)
 ---
 
 The group continued their travel, sandy winds still blowing fro their side, and we still can see the two pillars behind them, as if they hadn't traveled any distance all this time Noah was storytelling. Mio curiously asked, "So... what name did you end up picking?" 
