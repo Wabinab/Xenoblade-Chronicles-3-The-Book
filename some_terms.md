@@ -43,6 +43,10 @@ These are some adjectives one could use, got from reading:
 - (call) ixnay: to stop, prevent, or refuse to accept something. (e.g. Lisa _ixnayed_ the idea.)
 - gleefully: happily and with excitement or pleasure. 
 
+- visceral: based on deep feeling and emotional reactions rather than on reason or thought. 
+- sublime: extremely good, beautiful, or enjoyable. 
+- stout: (esp of older people) fat and solid-looking, esp. around the waist. 
+
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
 
@@ -57,3 +61,5 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - incumbents: officially having the named position. 
 - caress: to touch or kiss someone in a gentle and loving way. (or can say, "sun caressed the walls" for the beams.)
 - assiduous: showing hard work, care, and attention to detail. 
+- wanderlust: the wish to travel far away and to many different places. 
+- gaudy: unpleasantly bright in color or decoration. 

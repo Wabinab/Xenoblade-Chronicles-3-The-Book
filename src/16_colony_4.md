@@ -1,4 +1,4 @@
-# Cammuravi, Life, Helping Ethel, 
+# Cammuravi, Life, Helping Ethel, Goodbye Colony 4
 
 Bolearis was speaking a a guy as he looked beside him. Then, he continued a sentence with him{{footnote: Maybe something like "continue later"?}} before walking off. Noah and the others were entering the ferronis as he approached, asked, "You lot sleep all right?" The person he talked to walked off towards another direction. 
 
@@ -216,15 +216,13 @@ Mio saw him off, smiling. At least she had made someone's life happier, despite.
 
 ---
 
-===
-
 #### (Start of Ethel's Hero Quest) {{footnote: After completing this quest, Ethel could join the group, fighting as the 7th character.}}
 
-One morning. Seated by the dining table, Lanz, at the short edge of the rectangular table, took the lead, "OK. So what now?"
+One morning. Seated by the rectangular dining table, Lanz, seated at the short edge, took the lead, "OK. So what now?"
 
 Taion, to his left, analyzed the situation: "I believe the southward route is currently blocked by rockfall. I would estimate that clearing it will take some time..."
 
-Noah, to Lanz's right, agreed: "I guess we'll just have to wait till it's done..."
+Noah, seated directly in front of Taion, agreed: "I guess we'll just have to wait till it's done..."
 
 Mio, sitting next to Taion: "Uh, guys. Can I say something?"
 
@@ -240,11 +238,11 @@ Taion: "You mean, about Colony 4...? It's hardly your responsibility."
 
 She nodded. "That's how I feel about it... Right now, at least."
 
-Sena, sitting next to Mio, "Mimi... Your heart's big enough for everone to have a slice."
+Sena, sitting next to Mio, "Mimi... Your heart's big enough for everyone to have a slice."
 
 Noah seconded Mio, "OK, well, no time like the present! Let's do something to help!" 
 
-Lanz agreed. "Yeah, why not? Ethel helped us out way back, after all." 
+Lanz: "Yeah, why not? Ethel helped us out way back, after all." 
 
 Eunie, getting back to her relaxed position{{footnote: With one foot on her chair.}}: "Now we've got a chance to give something back, right?"
 
@@ -254,7 +252,7 @@ Taion: "... I suppose it'll help us earn their trust. And kill a bit of time, ma
 
 "Guys... Thanks." 
 
-Lanz, proceeding, "Right, well, that was heartwarming, to be sure. But what are we going to do the help exactly?"
+Lanz, moving the topic forward, "Right, well, that was heartwarming, to be sure. But what are we going to do the help exactly?"
 
 "Lanz, you need to expend some mental energy on it yourself instead of blurting questions. I get this may be tricky for you."
 
@@ -276,7 +274,7 @@ Eunie: "What, worried about helping the bad guys? It's a bit late for that, love
 
 Before Lanz could reply, Taion interrupted, "I'd like to call ixnay on the punting, if it's not too much bother. I'm afraid it would get quite messy."
 
-Lanz: "C'mon... It was just a figure of speech, mate." Taion tilted his head to think for a while, to no avail. 
+Lanz: "C'mon... It was just a figure of speech, mate." Taion tilted his head aside in disagreement. 
 
 Noah: "OK then! Everyone good to start asking round the colony to find out how we can help?"
 
@@ -302,7 +300,7 @@ Eunie: "Well, we're in the arse end of nowhere, and therefore bang out of luck."
 
 Taion: "Precisely. It's only a matter of time before all the supplies start running out."
 
-Lanz: "Spark it all. So what, we're up a creek with no paddle...?" The group breathed out the compressed air in their lungs. 
+Lanz: "Spark it all. So what, we're up a creek with no paddle...?" The group breathed out hard, been going in circles. 
 
 Mio: "But we have to do something...!" 
 
@@ -312,7 +310,7 @@ Taion: "...Ah! Hang on... No, that wouldn't... Or would it...?"
 
 Eunie got annoyed, "Taion, if you've got something to say, then do, or by the Queen's knuckles, I'll slap you."
 
-"Yes, but... Hmm, then again..." He clearly wasn't understanding Eunie. 
+"Yes, but... Hmm, then again..." Confirmation is more important than Queen's knuckles, eh? 
 
 Noah prompted, "What is it, Taion?"
 
@@ -324,7 +322,7 @@ Lanz: "Spit it out, man. We can work out the kinks later."
 
 "... I hear you. Then let's leave, this instant."
 
-Eunie didn't find that acceptable, "You wot? Oi! Where are we off to now?!" 
+Eunie found it insane, "You wot? Oi! Where are we off to now?!" 
 
 "Galghour's Menhir. If we're lucky, we might make it in time."
 
@@ -336,7 +334,9 @@ Noah: "Eunie, drop it. Let's just do as he says." Eunie shook her head, but what
 
 ---
 
-The group left the tables, on their way, when Bolearis ran up to them, "Hey, you lot! Got a second?" He sounded agitated. 
+===
+
+After the group left their tables, on the way to exiting the colony, Bolearis came running up towards them, "Hey, you lot! Got a second?" He sounded agitated, like he lost his coolness.  
 
 Noah prompted, "What's up, Bolearis?"
 
@@ -348,9 +348,9 @@ Eunie: "What's the commander?"
 
 Sena: "Um, I don't think we've seen her?"
 
-"Are you sure? You haven't seen her at all? Think very carefully!" He spoke really fast and really worried. The group looked at each other, they shook their head, raised their arms, shrugged. 
+"Are you sure? You haven't seen her at all? Think very carefully!" He bombarded them with really fast speech. The group looked at each other, they shook their head, raised their arms, shrugged. 
 
-Bolearis was disappointed, spitting out his thoughts, "She wouldn't hesitate to die for the colony if it came down to it! And she's so strong, that she'll bear any burden alone, however heavy! If anything were to happen to her, then Colony 4... then we'd...!"
+Bolearis was disappointed, spitting out his worries, "She wouldn't hesitate to die for the colony if it came down to it! And she's so strong, that she'll bear any burden alone, however heavy! If anything were to happen to her, then Colony 4... then we'd...!"
 
 Lanz: "OK, OK, calm down."
 
@@ -360,15 +360,15 @@ Lanz: "OK, OK, calm down."
 
 "If you see her, just tell me, OK? Sorry to have kept you."
 
-Noah: "Y-yeah..." Then, he walked off towards the ferronis, the others towards the left facing the ferronis. 
+Noah: "Y-yeah..." Then, he walked off in the direction of the ferronis, the others towards the left where the entrance was. 
 
 ---
 
-(Outside, probably at Galghour's Menhir)
+(Outside at an elevated platform, probably Galghour's Menhir)
 
-Noah saw Ethel outside of the colony: "Ethel?" In the distance, the ferronis was to the left. They were above a platform. 
+Noah saw Ethel in the distance: "Ethel?" Where she stood, the ferronis lay in the distance to the left.
 
-Ethel turned to his call, "Oh, it's you..." The group approached her. 
+Ethel turned as the group approached her, "Oh, it's you..."
 
 Mio prompted, "What are you doing here?"
 
@@ -376,25 +376,25 @@ Mio prompted, "What are you doing here?"
 
 Something caught Sena's eyes, "Wait, look over there!" 
 
-There was a red smoke rising over the distant to their right. It came from either on the ring, or behind the ring, which is half hidden into the ground, in the distance. 
+To their right, there was a huge patch of red smoke arising. It came from behind a half-buried ring. 
 
-Noah: "Was that a supply drop?"
+Noah was reminded of something: "Was that a supply drop?"
 
 Ethel replied, "Yes. Sent from Agnus."
 
-Noah: "How can you tell?" Behind their platform, we could now see quicksand flowing down from a higher platform. 
+Noah: "How can you tell?" Behind them, quicksand was flowing down from a higher platform. 
 
 "We got word that an advance troop from Agnus had been seen in the area. And if they're in the middle of enemy territory, it has to be due to some kind of operation. The supply drop must be timed for the arrival of a main force." 
 
-Taion: "Funnily enough, it's that supply drop we're after."
+Taion cut in, "Funnily enough, it's that supply drop we're after."
 
-Noah and the others were surprised, "Did you know about the Agnian troops, Taion?"
+The others were surprised, and Noah prompted, "Did you know about the Agnian troops, Taion?"
 
 "I've known about the presence of Agnian forces in this region for a while. I could never verify that supplies were being dropped, but I won't say I didn't suspect."
 
 Eunie stoically replied, "Oh yeah? Well, looks like you can verify it now." 
 
-Ethel just figured out their motives: "From the way that you're talking, it sounds as though you're after supplies too."
+Ethel figured their motives from their conversations, "From the way that you're talking, it sounds as though you're after supplies too."
 
 Noah explained, "Well, medical supplies specifically. We thought Colony 4 might need them."
 
@@ -402,11 +402,11 @@ Noah explained, "Well, medical supplies specifically. We thought Colony 4 might 
 
 Mio was surprised: "Really...?"
 
-Lanz complained: "Bolearis was looking for you. You didn't actually come alone, did you?"
+Lanz complained to her: "Bolearis was looking for you. You didn't actually come alone, did you?"
 
 "Uh-huh... I actually did. Your understanding of the situation is correct." She shook her head, "and I can't risk any more casualties."
 
-"So you thought you'd go and take care of this yourself, huh." One fun fact, a giant triceraptor-like creature lurked in the distance, before the ferronis wheel. 
+"So you thought you'd go and take care of this yourself, huh." A giant triceraptor-like creature lurked in the distance, very near to the ferronis wheel. 
 
 Mio: "In that case, we-"
 
@@ -418,15 +418,15 @@ Noah reprimanded, "We want to work with you, Ethel."
 
 Mio cut her off, "We've already made our minds up. That's why we're here."
 
-Ethel still tried to convince, "You might end up having to cross swords with people from your own country.{{footnote: Do they have the idea of 'country'?}}" Noah looked at Mio. She held her hands together, palm wrapped against fist as she considered the possibility. 
+Ethel tried to dissuade her, "You might end up having to cross swords with people from your own country.{{footnote: Do they have the idea of 'country'?}}" Noah looked at Mio. She got into her appreciation stance, didn't know how to choose for the moment. 
 
-She looked at Noah as he helped her redirect the question, turning back to Ethel: "Talking about avoiding casualties... You know that includes you too, Ethel, don't you?" Mio nodded in agreement. 
+Noah helped her redirect the question back at Ethel, attracting her attention, "Talking about avoiding casualties... You know that includes you too, Ethel, don't you?" Mio looked back at Ethel, nodded in agreement. 
 
-"Hm..." Ethel sternly looked at him, didn't reply. Noah frowned back, weren't willing to let go. 
+"Hm..." Ethel lowered her eyebrow, sternly looking at him. Noah frowned back, weren't willing to give in either. 
 
-Ethel compromised, "... I yield. I can't very well refuse you now."
+Ethel finally compromised, "... I yield. I can't very well refuse you now."
 
-Lanz affirmed, "Don't worry, Ethel. We're not who we used to be." Referring to their kids stage. 
+Lanz affirmed, "Don't worry, Ethel. We're not who we used to be." He's referring to their kids stage long ago when Ethel saved them. 
 
 Eunie: "Yeah, we won't drag you down."
 
@@ -436,19 +436,19 @@ Taion ushered, "Then if we're agreed, let's hurry and pick up those supplies."
 
 ---
 
-(Night fall. A group of agnians were defending those supplies. Wolves surrounded them. Dead Agnians "lives" were floating into the air.)
+Nighttime. As they approached, they saw two Agnian soldiers standing in front of the supplies, surrounded by wolves. Several Agnian corpses were already lying around them. 
 
 Lanz: "H-Hey... Something's not right."
 
 Sena: "W-what do we do?"
 
-TAion: "Huh?"
+Taion: "Huh?"
 
-Noah: "No time to daydream. We have to hurry!" Ethel already summoned her blade as she rushed towards the wolves, knocking one down in the progress. 
+Noah: "No time to daydream. We have to hurry!" Ethel made the first move, summoned her blade and ran towards the wolves, slicing one on her way and killing it. 
 
 The group caught up from behind, Noah shouting to her, "Ethel!"
 
-"You're right, Noah. We have no time to waste... Let's rout those nuisances." They summoned their blades as the Agnian soldiers ran off to the side. The wolves now turned their attention on them. 
+"You're right, Noah. We have no time to waste... Let's rout those nuisances." Together, they summoned their blades and face the wolves, which now turned to face them. The two Agnian soldiers ran off to the side, away from battle. 
 
 ---
 
@@ -456,11 +456,11 @@ The group caught up from behind, Noah shouting to her, "Ethel!"
 
 Lanz, after sheathing his blade: "Phew, glad that's over."
 
-The rest of the group sheathed their blade too, except Ethel. Eunie: "Yeah, just one thing left." The two injured Agnian soldiers were standing between them and the supplies. 
+The rest of the group sheathed their blades too, except Ethel. Eunie reminded them, "Yeah, just one thing left." The two injured Agnian soldiers were standing between them and the supplies. 
 
-Mio: "Ethel."
+Mio, in a whisper{{footnote: Ethel probably didn't hear her, but we don't know}}: "Ethel." She wouldn't want to have their blades pointed at Agnian soldiers, but she couldn't help Ethel made her decision, either. She was worried about her decision. 
 
-"Huh." Ethel sheathed her blade to the Agnus soldier's surprise. 
+"Huh." Ethel sheathed her blade, to the Agnus soldier's surprise. 
 
 "Wh-what?"
 
@@ -470,7 +470,7 @@ She closed her eyes, directing her question, "Did I do the right thing just now.
 
 Noah reaffirmed, "There was never a reason for any of us to fight in the first place. You did the right thing, in my opinion."
 
-She turned and faced him, "The actions you believe to be correct don't always lead to good outcomes. Some situations aren't salvageable. That's the nature of war." Then, she looked down, "It's beyond anyone's control..."
+She turned and faced him, "_The actions you believe to be correct don't always lead to good outcomes_. Some situations aren't salvageable. That's the nature of war." Then, looking down on the ground, "It's beyond anyone's control..."
 
 "Ethel..."
 
@@ -478,29 +478,29 @@ After having some time for herself, "I'm sorry. What a tedious thing to talk abo
 
 ---
 
-(After they recover the supply drop, as they crossed the barricades around the colony.)
+(After they recovered the supply drop, as they crossed the barricades to enter the colony)
 
 Bolearis shouted from a distance, "Commander! Commander! Commander Ethel!!!" He ran up to her and complained, "I looked for you everywhere! Where in blazes were you?!" 
 
-Ethel patiently replied, "I went to fetch medical supplies. Distribute them to the med team." 
+Ethel patiently replied with instructions, "I went to fetch medical supplies. Distribute them to the med team." 
 
 Bolearis unconsciously acknowledged, "Yes ma'am, I'll-" Then, he realized he almost got sidetracked, "W- ah, wait! No, Oh no, no you don't!" 
 
 "I'm sorry for making you worry. Just, please. I did this for everyone." 
 
-"I understand your feelings, but... Agh! Well, I suppose at least you're unharmed." 
+"I understand your feelings, but... Agh! Well, I suppose at least you're unharmed." He don't know how to put the situation into words, maybe. 
 
 Ethel turned to Noah's team: "That's twice you've helped me out. I owe you another one."
 
 Lanz: "Nah, don't worry about it. We were acting of our own free will."
 
-Ethel smiled back, "Then to reward your efforts, I'll work on getting our injured up and about again." Then, she turned to Bolearis, "Come, Bolearis." 
+Ethel smiled back, "Then to reward your efforts, I'll work on getting our injured up and about again." Then, she turned to her bodyguard, "Come, Bolearis." 
 
-Bolearis did the Kevesi welcoming stance, "Uh! Coming!" Noah and the team watched as they walked off into the distance. Bolearis walked in line with Ethel than behind her this time. 
+Bolearis did the Kevesi welcoming stance, "Uh! Coming!" Noah and the team watched as they walked off into the distance. Bolearis walked in line with Ethel, not like the usual one step behind. 
 
 Noah called out, "Ethel."
 
-"Hm? What's wrong, Noah?" As both turned to face him, Noah closed the distance between them. The rest of the group did _not_ followed, still standing at their original position. 
+"Hm? What's wrong, Noah?" Noah closed the distance between them as both turned to face him. The rest of the group watched without moving.
 
 "I was thinking about what you said. **_'The actions you believe to be correct don't always lead to good outcomes.'_** "
 
@@ -508,7 +508,7 @@ Noah called out, "Ethel."
 
 "If someone like you says it, then I don't doubt it's probably true... But, back then. You helped us. You saved us. You risked your life. Thanks to you, we're alive right now. I can say with certainty, that's a good outcome. That's the only thing I'm certain of, actually."
 
-"Noah, you..." She felt speechless. Lanz and Eunie came in front and stood slightly behind Noah to support him. "And we never properly thanked you." 
+"Noah, you..." She felt speechless. Lanz and Eunie came up front and stood one step behind Noah, to support him. "And we never properly thanked you." 
 
 Lanz was reminded: "Huh, so we didn't." 
 
@@ -516,7 +516,7 @@ Eunie too: "Oh, yeah!"
 
 Together, they did the Kevesi welcoming stance, with Noah speaking, "Silvercoat Ethel, we want to formally thank you for your courage."
 
-Ethel lowered her eyebrow, "Heh..." She and Bolearis replied back with the Kevesi welcoming stance. She admitted, "I can hardly recognize the three of you." As she turned to her back, "I'll continue to do my best to live up to my nickname." Then, she walked off into the distance as Bolearis followed. 
+Ethel lowered her eyebrow, "Heh..." She and Bolearis replied back with the Kevesi welcoming stance. She admitted, "I can hardly recognize the three of you." As she turned to her back, "I'll continue to do my best to live up to my nickname." Then, she walked off into the distance with Bolearis. 
 
 Mio got into her appreciation stance as she looked at the three. 
 
@@ -524,6 +524,176 @@ Mio got into her appreciation stance as she looked at the three.
 
 ---
 
+A quiet night. 
 
+In their assigned barracks, Mio was alone, combing her hair, looking at a handheld palm-sized mirror. It reflected her term symbol. She looked at it closely, concerned, "Another bit... thinner, I think..."
+
+"Haaaah... Best bath ever." Sena gleefully exclaimed as she got near the tent. Mio turned and saw her walking in, then returned to comb the left side of her hair with her right hand crossed over in front of her. 
+
+"Mm? You takin' a dip, Mimi? It's nice and warm!" 
+
+"Uh, I might skip today. It wasn't really a sweaty one..." She tried to sound confident, replying with loud and clear voice. 
+
+"Whaaaaat?! How can you miss a hot bath opportunity? Then again, I guess when you smell so nice already, maybe it's no problem" She walked and sit by her bed, facing Mio. Mio turned her head slightly to face her, but since she sat at the short edge of the bed, her body still faced forward. 
+
+Sena continued: "Are you, um... embarrassed about other people seeing you? There's no need to be! Miss Ethel thought of everything. She even managed to give us a window when the bath'd be empty." 
+
+Mio was looking down, her fingers pressed against her bed, perhaps thinking about something or maybe just ears facing Sena. As Sena finished, she looked at her, commented, "Ah, yes. I didn't know that." She smiled for a while before turning away, her smile faded, perhaps thinking about her time left, and what she wanted to do while she last. 
+
+Sena caught her tempestuousness slightly, but before she could think deeper, Mio stood up, "I guess maybe I will take... a dip."
+
+Sena cheerily replied, "Attagirl!" 
+
+"Mm, OK. Don't wait for me." 
+
+"All right, then. Have a good one!" As she saw Mio off, "And g'nite!"
+
+"Yeah, good night, Sena." She turned to face her as she was about to leave the tent, the last word was dampened. 
+
+After several steps, she stopped amidst the tents, in the middle of the road. Breathing out air, as if to breathe out all the worries and anguish, had a moment for herself, looking down at the soil. The street was empty. As she looked up, a three-quarter moon{{footnote: Wait there's moon??? After the world split and recombine??? Did they share a moon? It's unclear.}} hung high on the partially-clouded sky. Stars blanketed the dark nights. It's the end of another day. 
+
+---
+
+The next morning. Noah was checking his iris. He announced to the team, sitting and standing around in their tent, "They should be finished clearing the landslide soon. We'll be able to set out to Ribbi Flats."
+
+Taion paid his tribute, "Colony 4's engineers are excellent. They took care of that faster than I thought they would."
+
+Eunie: "I guess we'll be saying bye-bye to Colony 4."
+
+Mio: "Ethel and the others have been good to us. I'd like to see her before I go."
+
+Sena: "Yeah, I want to do that too."
+
+Lanz: "I guess we all should. Let's go mob Command!" 
+
+---
+
+(In the command center)
+
+Ethel: "I have to ask, before you go. Why is it that you stick together?"
+
+Lanz thought it was due to situation, "Given what's what, we pretty much have to."
+
+Taion accepted his explanation, added, "Considering how everybody attacks us on sight now..."
+
+Noah: "At this point, I suppose... it just panned out this way."
+
+Ethel disagreed: "You really think so? That's not really how it looks to me."
+
+"Well, one thing's for sure. We were sworn enemies once. And yet, we all share the will to live in the now. Before becoming Ouroboros, I never realized. But that common will, it was reason enough to stick together."
+
+"I see... Not everyone makes the choice to fight willingly. Lanz said that you _'have to'_. Well, right now every one of us has to." Then, she looked up, "There's no question it would be better if they didn't." She turned back at the group, "Your journey may have started out of necessity, but now, you're pushing forwards towards a common goal. And that... That might be all we want, and all that we wish the world could be."
+
+Mio, focusing her sights on Ethel, picked up her words, murmured to herself, "_What we wish... it could be...?_"
+
+---
+
+Outside by an entrance. A transporting levnis parked there lowered its front door. Some soldiers were boarding it with Ethel and Bolearis watching from behind. The group approached Ethel from her back. Noah prompted, "You're heading out as well?"
+
+Ethel galvanized him, "As soon as we're done here, I'll make for the Castle." 
+
+"What?!" 
+
+"You forget, I _am_ the commander. We haven't revolted against our nation, so... I have to report in."
+
+"Ethel, are you sure?"
+
+"Oh, don't worry. I'll be leaving you out of it." 
+
+Noah dissuaded, "That's not it. The Consul earlier turned Moebius. Were it to..."
+
+"If you mean that monster, I'm well aware of the risk."
+
+"Then why?" He asked softly. 
+
+"Because it's my responsibility to those I command. As for the Consul, we can say he died in an accident."
+
+Lanz proposed after a short pause, "And you can't do it remotely?"
+
+"Now that the Consul and Flame Clock are both lost to us, I have to make a report, and not over comms. I have to requisition more supplies, too."
+
+Noah had a sense of foreboding, "And what if... What if they fit you with a new Clock?"
+
+Ethel laughed it off, "Hah... I can worry about that then."
+
+Lanz effetely asked: "You're fine with it? Really?"
+
+"Don't get preoccupied with us. Keep to your path. Follow it, wherever it may lead you. **_Life is short._**"
+
+Noah stoically replied, "I suppose." 
+
+Ethel: "Hey. While we're all still here, one more word of warning." 
+
+"Hm?"
+
+"The Consul was attempting to remove you from the picture. In light of that, you'll likely come up against hostility. But listen. You should keep engagement to a minimum. Keves, or Agnus. That goes for both of them." 
+
+Mio reprimanded, "But... If we break their Clocks, just like with Colony 4 here, they would... Well, they would be free, wouldn't they?"
+
+"You'd do well to remember not everyone thinks the same as I do, even within this colony. Many still haven't come to accept their new reality."
+
+Sena: "Ah!" She was reminded by the guy whom sneered at them earlier in the canteen. 
+
+"To make things even more fraught, in other colonies, there are those who are more than willing to fight... as you'd expect." 
+
+Taion summarized her warning, "So it's no use appealing to their sense of compassion or hoping they'll treat us fairly, is that it?"
+
+Mio turned to look at him, scoffed at his conclusion. Ethel agreed, "Yes, precisely. You will change the fate of others, just by virtue of coming into contact with them. It's quite the burden. You may not want the responsibility." 
+
+Noah: "A burden... Perhaps..."
+
+"All that said, you get embers on your coat, you have to brush them off. If push comes to shove, do not flinch. Do whatever it takes, for the greater good. I wish you all a smooth and fruitful journey."
+
+Noah and Mio nodded back to her before turning left and continuing their path. The others followed behind. 
+
+As Ethel and Bolearis watched them off, Ethel commented, "Ouroboros, huh? If only... we could have been there as well..."
+
+Bolearis turned to look at her. She strode in front of him almost immediately towards the (transporting) levnis, he followed behind. 
+
+---
+
+(After exiting the colony, before setting off)
+
+Taion: "We should check the route data again. Make sure we're on the right path. We're on course for Swordmarch. But first, we'll need to take the south-east road through Ribbi Flats." They turned to face the direction they _are_ to go. It was across a pond or small oasis where Borealis recalled where he killed some hox that lurked there before. 
+
+Noah: "Ah, yes. That's the route that Ethel recommended." 
+
+"Correct."
+
+Mio: "She said the battlefront are pretty static at the moment, but do we have any intel about colony development?"
+
+Eunie: "As far as Ethel and Colony 4 is concerned, we've got a pretty good idea... But what about any others?"
+
+Lanz: "I wouldn't expect any shenanigans all the way out here..."
+
+Noah: "In any case, we mustn't let our guard down along the way."
+
+Taion, pushing his glasses up, "Danger could be lurking anywhere in the background, so insecurity stalks us... Not much we can do about that, though."
+
+Lanz was optimistic, "Ah, c'mon man. We'll muddle through."
+
+Shaking his head, "Let's hope so."
+
+Noah: "Hey, I mean, if we run into another colony, it isn't necessarily a bad thing." 
+
+Lanz was pessimistic this time, "Uhh... Are you sure about that? It doesn't matter if we run into Agnus or Keves. Either one would mean getting into a dust-up."
+
+Noah immediately forgot Ethel's warning, "True, but what I meant was... If we destroyed their Flame Clock, we'd set everyone free, like we did for Colony 4."
+
+Eunie folded her arms, "Easy to say..."
+
+"Well, sure, I mean... if conditions allow it."
+
+Taion: "If we're 'brushing off embers', we'll have no choice in the matter."
+
+Mio: "...That's right."
+
+As the atmosphere got too pessimistic, Eunie tried to turn it around, "Hey, maybe it's better if we put off worrying about that until the time comes."
+
+Lanz agreed, "Eunie's speaking sense there."
+
+Mio seconded, "True. We can just react to events as they happen. Play it by ear."
+
+Sena was happy with that, "Gotcha! I'll apply myself to that!" They took off in to the distance thereafter. 
 
 ### Footnotes: 

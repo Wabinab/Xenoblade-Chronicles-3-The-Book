@@ -22,7 +22,8 @@
 
 # Chapter 3: Saffronias
 - [Memories: Lambda, Taion, and Nimue](./15_taion.md)
-- [Cammuravi, Life, Helping Ethel, ](./16_colony_4.md)
+- [Cammuravi, Life, Helping Ethel, Goodbye Colony 4](./16_colony_4.md)
+- [Ribbi Flats, Valdi, ](./17_valdi.md)
 
 ---
 <!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->
