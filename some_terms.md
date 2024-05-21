@@ -47,6 +47,8 @@ These are some adjectives one could use, got from reading:
 - sublime: extremely good, beautiful, or enjoyable. 
 - stout: (esp of older people) fat and solid-looking, esp. around the waist. 
 
+- frivolous: behaving in a silly way and not taking anything seriously (unimportant). 
+
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
 
@@ -63,3 +65,4 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - assiduous: showing hard work, care, and attention to detail. 
 - wanderlust: the wish to travel far away and to many different places. 
 - gaudy: unpleasantly bright in color or decoration. 
+- effeminate: Behaves or looks similar to a woman (describing man). 
