@@ -49,6 +49,9 @@ These are some adjectives one could use, got from reading:
 
 - frivolous: behaving in a silly way and not taking anything seriously (unimportant). 
 
+- sordid: dirty and unpleasant.
+- grudgingly: refusingly. 
+
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
 
