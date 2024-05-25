@@ -31,4 +31,5 @@ Here are some terms highlighted in the book. More of these information could be 
 - **Ouroboros Stone:** A stone to create Ouroboros. It was created unfinished by Nia, the Queen of Agnus, finished by Nikol and Riku ages before this story took place to enable interlinking. 
 - **Power Frame:** Kevesi soldiers are generally weaker than Agnians. To balance the strength, they wore power frame to boost their strength. Moebius probably prevented the spread of power frame to the Agnians, to ensure their balance of power. 
 - **Queen:** The assumed ruler of both Kevesi and Agnians. The Kevesi Queen was Melia Antiqua, from Xenoblade 1, resided in the castle that resembles Imperial Capital Alcamoth; the Agnian Queen was Nia, from Xenoblade 2, one is unsure of (or forgot about) the structure resemblance of the castle. 
+- **Saffronia:** The tree associated with Nimue's original colony: a peaceful colony away from battle, planted food for themselves. 
 - **Swordmarch:** The original location of the city before it moved later in the chapter. 

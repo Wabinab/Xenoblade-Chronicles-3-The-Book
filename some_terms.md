@@ -15,6 +15,7 @@ These are some adjectives one could use, got from reading:
 - encrusted: Covered with something hard or decorative. 
 
 - estrangement: a feeling that you do not understand someone or something, or do not have any connection with him, her, or it.
+(Second Meaning): a period when you no longer be friendly with someeone. 
 - scoff: to laugh and talk about a person/idea in a way that you thought it was stupid/silly. 
 - sneered: to talk about or look at someone or something in an unkind way that shows you do not respect or approve of him, her, or it.
 - haphazard: not having an obvious order or plan. 
@@ -52,6 +53,16 @@ These are some adjectives one could use, got from reading:
 - sordid: dirty and unpleasant.
 - grudgingly: refusingly. 
 
+- confound: to confuse/surprise someone, so that they're unable to explain/deal with a situation. (Second meaning related to science.)
+- irrevocably: in a way that's impossible to change. (Writer think this means unable to reverse to the original.)
+- uncanny: strange or mysterious, often in a way that's slightly frightening. 
+- revere: to very much respect/admire someone/something. 
+- revitalizing: to give new life, energy, activity, or success to something. 
+- nostalgically: in a way that involves thinking about things that happened in the past with happy and also slightly sad feelings. 
+- inadvertent: not intentional.
+- tramp down: walk on and flatten
+- jettison: to get rid of something/someone that's not wanted/needed. 
+
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
 
@@ -69,3 +80,16 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - wanderlust: the wish to travel far away and to many different places. 
 - gaudy: unpleasantly bright in color or decoration. 
 - effeminate: Behaves or looks similar to a woman (describing man). 
+- smeared: to publicly accuse someone of something unpleasant, unreasonable, or unlikely to be true in order to harm their reputation. 
+- sheaf (plural sheaves): a no. of things, esp. pieces of paper or plant stems, that are held/tied together. 
+- ostensibly: in a way that appears/claims to be one thing when it's really something else. 
+- ravel: to separate a knot, mass of threads, etc. into a single thread or threads. (Second meaning): to become or to make someone/something become more confused. 
+- secular: not having any connection with religion. 
+- wanderlust: to with to travel far away and to many different places. 
+- atavistic: happening because of a very old habit from a long time ago in human history, not because of a conscious decision or because it is necessary now. 
+- flagellation: the practice of whipping yourself or someone else, esp. as religious practice, punishment, or for sexual pleasure. 
+- metamorphose: change into a different state. E.g. caterpillar to butterfly. 
+- languish: to exist in an unpleasant/unwanted situation, often for a long time. 
+- bed down: to lie down somewhere, usually somewhere different from where you usually sleep, in order to go to sleep. 
+- grub: to search for something by digging/turning over earth. (Second meaning: food.)
+- untrammeled: not limited by rules or any other controlling influence. 
