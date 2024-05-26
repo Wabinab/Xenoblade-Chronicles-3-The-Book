@@ -100,7 +100,7 @@ A light came on, a Moebius wearing a feathered cape appeared, "Shouldnt've put s
 
 The moebius with a W on his head rebuted, "It's just bad luck. The plan was sound. If not for the black fog." 
 
-Ok, not a single horn, but double horn, the first moebius, looking from this angle. It looked like the moebius Noah and Mio first fought to the writer, "It's all about the skinfeel. You've only got eyes up front. That's why K lost. Sounds, the air, breathing... When you can feel all that, you don't need the Iris." 
+Ok, not a single horn, but double horn, the first moebius, looking from this angle. It looked like the moebius Noah and Mio first fought to the translator, "It's all about the skinfeel. You've only got eyes up front. That's why K lost. Sounds, the air, breathing... When you can feel all that, you don't need the Iris." 
 
 A female moebius, tall hat like that of a chef, and a fat ring wrapped around her neck, "And for all that, you still slunk back, tail between legs. Are you forgetting that fact?" 
 

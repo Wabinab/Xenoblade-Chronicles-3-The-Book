@@ -144,9 +144,9 @@ The Queen held her staff, pointing it in front of her, ordered, sounding venomou
 
 In the Agnian Castle, itself a building behind gates and walls. The building's has a square base, followed by a reversed pyramidon top of it, joined by a smaller room on its seemingly second or third floor. The largest square area was at the penultimate layer, covered a "normal" roof (that slanted down) as the final layer, and some roof designs like flaps. 
 
-Inside the room, the Queen stood on her "seat", a taller platform. Some flames were lit atop a metal pot that were placed on 3-legged stands. The tiles looked wooden, to writer, comparable with ancient Greek designs. Soldiers lined in a "triangular" shape, and probably a Consul reporting to her, though with the darkness, we couldn't see clearly other than its outer figure. 
+Inside the room, the Queen stood on her "seat", a taller platform. Some flames were lit atop a metal pot that were placed on 3-legged stands. The tiles looked wooden, to translator, comparable with ancient Greek designs. Soldiers lined in a "triangular" shape, and probably a Consul reporting to her, though with the darkness, we couldn't see clearly other than its outer figure. 
 
-The Agnian Queen, wearing a mask, short hair, 'very tall ears' (looked to writer like metallic horns, to be honest), announced acrimoniously, "Ouroboros... has no place in this world. Their existence... must be erased without a trace!" 
+The Agnian Queen, wearing a mask, short hair, 'very tall ears' (looked to translator like metallic horns, to be honest), announced acrimoniously, "Ouroboros... has no place in this world. Their existence... must be erased without a trace!" 
 
 ---
 

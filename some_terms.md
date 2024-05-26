@@ -63,6 +63,11 @@ These are some adjectives one could use, got from reading:
 - tramp down: walk on and flatten
 - jettison: to get rid of something/someone that's not wanted/needed. 
 
+- unfounded: Not based on fact. 
+- upfront: speaking/behaving in a way that makes intentions and beliefs clear. 
+- reconciliation: a situation in which 2 people/groups of people become friendly again after they have argued. (flute exchange scene.)
+- chuffed: pleased or happy. 
+
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
 
@@ -93,3 +98,4 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - bed down: to lie down somewhere, usually somewhere different from where you usually sleep, in order to go to sleep. 
 - grub: to search for something by digging/turning over earth. (Second meaning: food.)
 - untrammeled: not limited by rules or any other controlling influence. 
+- antic: strange and unusual, esp. in a silly or very energetic way. 

@@ -70,7 +70,7 @@ The sky brightens again as he spoke. Except for the cliffs, we could see trees w
 
 "Even so... There's one place that might give you a chance: **Swordmarch**. The land pierced by a great sword. You gotta find our hope... Our City... It's the only way you're gonna defeat the real enemy... And reclaim what was lost..." 
 
-Behind the hammer girl stood a pinkish Nopon, wearing a white hat, with a cooking pot attached to her back.{{footnote: Riku had a sword-like structure attached to his back.}} Some yellow glowing fluid like blood vessels of the cooking pot constantly flow outwards, the "window" lined the outer circumference of the pot. 
+Behind the hammer girl stood a pinkish Nopon, wearing a white hat, with a wok attached to her back.{{footnote: Riku had a sword-like structure attached to his back.}} Some yellow glowing fluid like blood vessels of the wok constantly flow outwards, the "window" lined the outer circumference of the wok. 
 
 "The way the world, and life... should be. And listen." Yellow particles start floating out of Guernica, his skin lightly illuminating. As he spoke, more and more of the particles got released. "Don't give up. Ten years? You kids deserve better. The only thing that can change all this... is the will of Ouroboros... You kids, and you alone..." With his last phrase, he totally particlize{{footnote: pronounced "particle-lize".}}. Only his shirt remained, no husk. Yet, even his shirt glowed yellow after he particlize. 
 

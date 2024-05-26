@@ -156,7 +156,7 @@ As if he sensed something, Noah turned his head and looked twoards his right, as
 
 As Joran approached, he replied with an upbeat tone, "Hey Noah, morning." Awkwardly, "Morning, uh... Lanz..."
 
-"Hmph." Lanz snorted, turned his head away, and ran off. Joran might had thought he hadn't forgave him; writer thought he probably wasn't satisfied with himself, or he couldn't lower his head. "Get a move on! Quick, we're gonna miss the Homecoming!" Lanz was shouting at them from a distance, hands on his waist. Soldiers were dashing past them while he stopped and waited.
+"Hmph." Lanz snorted, turned his head away, and ran off. Joran might had thought he hadn't forgave him; translator thought he probably wasn't satisfied with himself, or he couldn't lower his head. "Get a move on! Quick, we're gonna miss the Homecoming!" Lanz was shouting at them from a distance, hands on his waist. Soldiers were dashing past them while he stopped and waited.
 
 That changed the subject and the atmosphere. "First one they've ever had here, right?" Eunie exclaimed. 
 

@@ -1,6 +1,6 @@
 # Getting Old, Saffronia, Eunie's Recall
 
-> **Writer's note on environment:** By a lakeside, some gray{{footnote: Seen only in daylight scene, second video}} krabble gathered by the barren rocky side of the bank. On the opposite grassy side, there were some platforms arranged in steps. A cyan-white long snake-like dragon slithered through the air. In the distance, we could see mountains and even higher platforms, trees grew more plentifully. Another scene, icy-top mountains lay in the background. We could see some lake/river below the camera, some red-mane wolves occupied and resting on an elevated platform adjacent to the bank. A single tree full of red leaves stood out in the distance. Trees are more broad like Africa's Yellowwood (a tall bark without any branches except at the very top) rather than purely pine, though both existed. Yet another scene, by a river. An animal with a light attached to its head, like a lantern, strodding beside a river. We could also see some rhinoceros-like animals, armu, grazing in the meadow on the same side of the bank. At the edge of the river, there were deserts occupied trees with leaves arranged in a fan-shape, and something that looked like a Kevesi ferronis or ruins, half covered, to the left of the desert. This, is **Rae-Bel Tableland**, of Fornis Region. 
+> **Translator's note on environment:** By a lakeside, some gray{{footnote: Seen only in daylight scene, second video}} krabble gathered by the barren rocky side of the bank. On the opposite grassy side, there were some platforms arranged in steps. A cyan-white long snake-like dragon slithered through the air. In the distance, we could see mountains and even higher platforms, trees grew more plentifully. Another scene, icy-top mountains lay in the background. We could see some lake/river below the camera, some red-mane wolves occupied and resting on an elevated platform adjacent to the bank. A single tree full of red leaves stood out in the distance. Trees are more broad like Africa's Yellowwood (a tall bark without any branches except at the very top) rather than purely pine, though both existed. Yet another scene, by a river. An animal with a light attached to its head, like a lantern, strodding beside a river. We could also see some rhinoceros-like animals, armu, grazing in the meadow on the same side of the bank. At the edge of the river, there were deserts occupied trees with leaves arranged in a fan-shape, and something that looked like a Kevesi ferronis or ruins, half covered, to the left of the desert. This, is **Rae-Bel Tableland**, of Fornis Region. 
 
 ---
 
@@ -213,16 +213,156 @@ Taion, the penultimate to leave, turned to find Eunie frozen. She had been holdi
 
 ---
 
-===
+Leaving the battlefield behind, the group continued on a paved road with grass growing beside. Taion, noticing Eunie's low mood, called out, "Everybody, listen up." As everyone turned to him, he continued, "We've entered Colony Lambda's territory. That means that the probability of our encountering Agnus forces is very high. Before we get any closer to their patrolled zone, we should prepare ourselves by resting." 
 
-As the group leaves the battlefield towards the path with grass on both sides, Taion, his eyes on Eunie's low mood, called everyone into attention, "Everybody, listen up."
+Noah turned to everyone, whom had "no objections here." 
 
-He continued as everyone faced him, "We've entered Colony Lambda's territory. That means that the probability of our encountering Agnus forces is very high. Before we get any closer to their patrolled zone, we should prepare ourselves by resting." 
+And Mio added, "Or here. Let's go with Taion's plan!" They headed for a lit fireplace just up ahead. 
 
-Noah turned to Eunie whom was still low on mood, then to Lanz and Mio whom had "no objections here." 
+---
 
-"Or here. Let's go with Taion's plan!" They headed for a lit fireplace just up ahead. 
+Night falls. Mio slept between Riku and Manana on the same sleeping bag. Eunie laid down her sleeping bag besides the bonfire, sitting up and looking at it. Taion was busy making tea; Sena and Lanz performed maintenance on their weapons; Noah, practicing his slashing skills. Eunie's eyelids gradually closed as she felt drowsy. 
+
+#### (Start of Eunie's Recall)
+
+They were running in a direction, the ferronis followed behind. Levnises and guns fired shots at distant barriers (giant rocks), clearing a path. Suddenly, a soldier to Eunie's 1 o'clock groaned in pain and fell to the ground. There was a giant blast in that direction that shook her off balance. The blast released a cloud of dust and smoke into the air. 
+
+A moebius darted out from behind the dust in to mid-air. As Eunie looked up, awed, it shot fiery purple-red shots in all direction, blasting the ground inch by inch. Nothing hit her. As she struggled to stand up, the dust cleared to reveal fallen soldiers, their 'lives' escaping their corpses. 
+
+Gasping, the moebius smashed into the ground to her 11 o'clock, didn't gave her a chance to accept her fate. It darted towards the ferronis, dragging its arms on its side with its glowing yellow fingernails attached to the end of its limbs{{footnote: Note, this is stupid, because if you dart, you want to reduce drag, so don't follow this stupid posture in real life.}}, slicing down levnises and soldiers that stood on its way. Eunie, confounded, retreated her steps effetely as she watched the levnises exploded, corpses flew mid-air, smoke engulfed the distance while flames seared. 
+
+The ferronis still move forward. As she turned to it, energy balls blasted its neck area, detaching its neck (and its Flame Clock) from its torso. She backed up into a defensive posture, pointing her rifle at the ferronis; the flame-engulfed torso came tumbling down with the moebius hanging on it. 
+
+As dust cleared, she found herself buried below some wreckages, looking at flames and 'lives' evaporating through a hole in front of her. As she climbed out of the flame-raging levnises' shards, coughing out the thick smoke that deprived the surrounding of fresh air, she struggled and stood up, limply taking steps forward. 
+
+Pomp! The moebius landed in front of her. She stood frozen, looking at the monster's face that brought agony to their colony. Effetely, her feet loses the energy to carry her weight, she stumped forward and knelt-sitting on the ground. The moebius squatted to glean at her with its triangular face, sharp teeth, at bat-like ears. It showed her the sharpness of its fingernails, turned and pointed it at her forehead, which slowly closed in and moved to point at her right iris. With trembling breathe, it was brought about 5 mm from the retina, as...
+
+#### (End of Eunie's Recall)
+
+Eunie, her head drooped in a sitting position, bounced up as she woke from her nightmare, gasping for air. Nobody seemed to notice her reaction. As she stopped gasping, the sounds of burning firewood filled the serene atmosphere. She looked down, holding her chilling left arm up tremblingly. While she struggled to clench it into a fist, a hand holding a cup appeared on the left of her vision. Surprised, she turned to find Taion holding out a cup of tea he made for her. 
+
+"Oh, thank you..." She received the cup with both her wobbly arms. Water vapor floated off the dark-colored tea, warming her hands. She took a sip from it while Taion sat beside her, also taking a sip from his cup. When one took a sip from tea, one is obliged to breathe it out, like how cigarette-smoking people breathe out smoke from their mouth. What breathed out with tea isn't smoke, but the heavy burden that pressed on one's heart; and in this case, on Eunie's chest, as she commented, "Smells good."
+
+Perhaps he struggled to incorporate emotions into words, explained it away with the tea's description. "Obviously. It's a Sirius Anemone. A rare flower from the Urayan mountains, crushed and extracted."
+
+"Wow, look at you. Sounds like a hobby." As she took another sip from it, she carelessly replied, her attention diverted to focus on him than her nightmare. 
+
+Taion, flattered, "Hmph... And a practical one, at that."
+
+"Yeah..."
+
+As she looked at him, he glanced over the tip of his eyes at her hands and the cup she held, continued, "Like I said... practical... Glad it worked." She turned to look at her cup as she listened to him. 
+
+Surprised, she turned towards him, "Ah! You noticed?" 
+
+He continued, his eyes looking away from hers, "I did. Mine do that too."
+
+"Uh?" Perhaps she was confused, perhaps curious. 
+
+"I put down my weapon, look around at my companions, and feel relief.Thinking 'finally, another day down'." Lanz and Sena now practiced bashing, as Taion continued, "**_Then I think of tomorrow and the tremors are back. Will I see the same faces when I wake...? Will I even be around to see them...?_** Hah." Mio turned, torso facing upwards, as he{{footnote: Of course, referring to Taion.}} spoke. 
+
+"Easy with the mark, I s'pose. You know when it's coming. But when you're in a scrap..."
+
+"Can you really speak for them, though? For someone nearing the end?"
+
+"Huh?"
+
+"Because I couldn't tell you. All we can possibly do is wonder what it's like. What can one feel? Contentment, perhaps...? Or sheer horror...?" 
+
+"I'd really hope it's... not fear." 
+
+"Me too." He looked down at his term symbol on his palm, central circle and central triangle red. As he stood up, "That's just it..." He and Eunie turned their attention to the sleeping Mio on their left, the only tenth term amongst them. 
+
+---
+
+The bonfire was now a pile of ashes. Irregular mountains lurked in the distance, blurry. The path leads up a slope. Trees and grass and flower bushes grew by the side of the road, with short elevated platforms occasionally. The group gathered in a circle somewhere further from the bonfire, checking their iris. 
+
+"Shouldn't we just hoof it and blitz through as quick as we can?" Lanz suggested, plotting a route from their current location through the main path, to another location.{{footnote: The translator could make nothing else, where the colony was located, nor any other features, from the given map.}}
+
+Eunie disagreed, "Nah, I reckon we ought to avoid spots where those Moebius sickos could get the jump on us."
+
+"Unless I'm mistaken..." Taion commented, "This region is under the control of Lambda. That is the Colony I originally belonged to."
+
+"You don't say!" Noah was surprised, deactivating his iris as he turned towards Taion. The others followed. 
+
+Mio prompted, "Then... The Levnis yesterday...?"
+
+"Yeah. It was Colony Lambda's. Definitely."
+
+Sena, lowering her head, and looking up from the top of her eyes, as if inquiring, careful not to struck any chord, "Isn't that... Isn't that bad for us?"
+
+"Hmm..." Taion looked down, unsure how to reply. Eunie changed the topic, asking, "All right, so you know this area?"
+
+"I took part in... seizing this area."
+
+Mio: "All right then. Any suggestions?" 
+
+"Oh, er..." As he was lingering in his memories, his attention span was cut short, unable to reply. 
+
+Mio urged, "Come on." 
+
+With unstable voice, he activated his iris, plotting another sinusoidal-shaped path to the right of the main path, "L-Let's see... There should be some nearby tunnels we could use." The others checked their iris as he transferred the data to them. 
+
+Lanz agreed, "Sounds good to me. We might still get enemies, but underground, at least we won't have to worry about lunking Ferronises and that."
+
+Riki eyes shone, together with Manana's, "Tunnels! Thrill of explore! Riku already on treasure-scent!" 
+
+"Ohohohoho!" Manana laughed with agreement, flapping her wings as she danced up and down. 
+
+Noah turned to him, "Seems like that's the way to go then." 
+
+Taion quickly rejected, stuttering, "Uh...O-One moment. These tunnels have been disused for a long time. There's a very real risk of a cave-in. If it comes down to it, escape options may also be in short supply..."
+
+Lanz was as optimistic as usual, "Nah, nah, nah. You're the one who came out with it. Unless, you got any other plans? You better not want us to just camp out here forever."
+
+"No, obviously..."
+
+Mio didn't like the negativity and inability of deciding, rounding the situation up, "All right, let's back it up! Any route we can take will have some attendant risk or other. At this point, I'll settle for any choice that makes our lives easier. Enough with the doom-mongering. Just keep it positive. Things'll work out somehow." Her hands crossed across her chest. 
+
+"Mimi, what's up with you?" Sena hadn't seen her in such serious tone.{{footnote: One isn't sure if one should add a 'before' or 'in a long time' to the back, for one don't have their memory, so we'll leave it cut short there.}}
+
+Eunie teased, putting her hands behind her neck, "Sounds like little Miss Senior's decided to pull rank, eh?" Then, with a deeper voice, "Roger that, ma'am!"
+
+Mio was serious with it, "Oh, shut up already." 
+
+Noah made the final decision, "Right. Let's go. We'll check out those tunnels." He took the lead towards the tunnels. 
+
+"Hey! Wait for me!" Mio shouted after him as she ran to walk beside him. The others followed behind without objections. 
+
+--- 
+
+As they made their way up a slope, Eunie was speaking to Noah, Manana with Mio (and Riku beside her). The road was barren, composed of dark soil in total, surrounded by cliffs (they're in a valley, probably). Taion and Lanz, walking at the end, with Taion starting a conversation with Lanz.
+
+"I envy you."
+
+"Whuh?" He turned to him as they kept on with their steps. 
+
+"That unfounded confidence of yours. I almost wish I could take some."
+
+"I'd rather do something than sit farting about for hours, and then do nothing anyway. I like my way better."
+
+"That sounded rather pointed."
+
+"Oh, did it?" He looked up at the sky. After a few steps of silence, he continued, "Anyway, I'm not confident. I just... have to keep moving. That's all." 
+
+"I don't get you."
+
+Turning the topic on Taion, "I mean yourself, why d'you always take a back seat?"
+
+"Whuh?"
+
+"You scared?"
+
+"Uh-huh..." He probably agreed with it, looking low. 
+
+Hearing no reply from him, Lanz continued, "Noah, he... He likes to say, 'Don't blame yourself'. He knows why I can't stay still, and he gets it, all right. Tells me it's not healthy, yeah?" Then, with a very low tone, reminiscing about Joran, "But it's easier said. Anyhow, not like I can just wish him back. I mean, what else can I do?" Then, continued with his advice, "S'how it goes. Same deal with you, right?"
+
+"Ur, uh..." He probably don't understand the head and tails of the story, nor did he knows how to reply. 
+
+Lanz didn't expect an answer from him anyways, in an enthusiastic tone, "Eh, to be fair... That whole prudent schtick of yours? Got its merits!" 
+
+Taion rebuted, "Bu-... That's the opposite of what you said before." 
+
+"I guess I'm taking it back, then! Bahahahaha!" To which Taion just shook his head. Though, it did make Taion calm down somewhat. 
 
 ### Footnotes:
-
-(Change "writer" to "translator")

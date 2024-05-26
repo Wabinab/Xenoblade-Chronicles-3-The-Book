@@ -36,7 +36,7 @@ Sena voice got softer, "It's just... kind of a feeling."
 
 Lanz looked at her, brought his hands up, to cut her uncertainty off by reverberating her feelings, "Yeah, just a hunch. Right?" Then, he turned and questioned, "Something wrong?" 
 
-"Not at all. Then... I-I guess... that leaves me with her." Eunie, in the distance, was stretching, perhaps she just woke up. Noah and Mio were chatting in the distance, Riku tries to wake Manana up. Belongings lay down on the ground, with Taion's kettle{{footnote: This looked like the modern electric kettle they offered usually at hotels in some countries that writer went before, like Malaysia.}} on one table, a white bottle, presumably holding tea, on another. With a sigh, he shook his head, "I envy you, I really do." 
+"Not at all. Then... I-I guess... that leaves me with her." Eunie, in the distance, was stretching, perhaps she just woke up. Noah and Mio were chatting in the distance, Riku tries to wake Manana up. Belongings lay down on the ground, with Taion's kettle{{footnote: This looked like the modern electric kettle they offered usually at hotels in some countries that translator went before, like Malaysia.}} on one table, a white bottle, presumably holding tea, on another. With a sigh, he shook his head, "I envy you, I really do." 
 
 Lanz prompted: "Aw, what're you moaning about now?" 
 
@@ -136,7 +136,7 @@ Eunie finished in a sighing intonation, "Yeah..." They embraced the moment.
 
 ---
 
-> **Writer's note on environment:** A tall plateau stretched out, like the jaws of a crocodile wide open, stalactites hung like teeth from its bottom, held from collapsing by several pillars. We could see similar plateau in the distance. Very very far away, behind clouds, a tall mountain the shape of an animal, like a reindeer resting, the direction of its "head" facing the great sword. Second scene, we could also see steps of plateau, with a waterfall in the distance. A red vine for climbing from the lower to the upper plateau lurked around its center. The remains like the building emerged from the ground, birds resting on it. Third scene, some rusty remains of a building, demolished, lay together on the ground. Yellow-green grass paved the meadow. Lofty rocky platforms surrounded the location. A waterfall about 3 meters fell from a river to the remain's left, and a brog (purple frog) made the opposite river bank its habitat. Fourth scene, the crocodile jaw platform is at the top right, still a distance away. River flowed beyond the scene. Some blue mantis shrimp roamed the river banks. This, is **Millick Meadows**, of Aetia Region. 
+> **Translator's note on environment:** A tall plateau stretched out, like the jaws of a crocodile wide open, stalactites hung like teeth from its bottom, held from collapsing by several pillars. We could see similar plateau in the distance. Very very far away, behind clouds, a tall mountain the shape of an animal, like a reindeer resting, the direction of its "head" facing the great sword. Second scene, we could also see steps of plateau, with a waterfall in the distance. A red vine for climbing from the lower to the upper plateau lurked around its center. The remains like the building emerged from the ground, birds resting on it. Third scene, some rusty remains of a building, demolished, lay together on the ground. Yellow-green grass paved the meadow. Lofty rocky platforms surrounded the location. A waterfall about 3 meters fell from a river to the remain's left, and a brog (purple frog) made the opposite river bank its habitat. Fourth scene, the crocodile jaw platform is at the top right, still a distance away. River flowed beyond the scene. Some blue mantis shrimp roamed the river banks. This, is **Millick Meadows**, of Aetia Region. 
 
 ---
 
@@ -212,7 +212,7 @@ From their right, Eunie joined in, threw a question to Taion, "Hey! Are you alwa
 
 "Hmm..." Eunie closed her eyes partially, then turned to face away, "Personally, I think it's easier to take things at face value, you know?" 
 
-Taion spoke as his head looked downward, "Now wouldn't that be nice."{{footnote: Writer didn't catch what he's thinking at that moment, nor do one understand whether he means it or not.}}
+Taion spoke as his head looked downward, "Now wouldn't that be nice."{{footnote: Translator didn't catch what he's thinking at that moment, nor do one understand whether he means it or not.}}
 
 Eunie was provoked, raising her voice as she stomped towards him, stopped by an arms length away, "Eh? You makin' fun of me?" 
 

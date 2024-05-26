@@ -1,6 +1,6 @@
 # Ribbi Flats and Valdi
 
-> **Writer's note on environment:** By a riverside, some fluffy animals called "kapiba" could be seen, with yellow furs and poop-brown head, short horns, occpying a rocky river bank. Further ahead, green and brown grass carpeted the uneven surface. A triceraptor-like creature lurked in the distance. Trees that shoot up like pine were occasionally seen. Beyond, we could see tall mountaineous regions, sometimes screwlike, other times nail-like. Taos appeared in the distance. Another scene, water falls from a huge circular-ish hole down to a river below. The bank roofed by the water-falling platform looked sandy-white, while the opposite side of the bank, yellow-back green brogs made it their home, together with some trees. Yet another scene. Cloud lurks below the edge of the ground towards infinity. Triceraptor-like creatures occupied the platform. At a distance, we could see a tall cylindrical rock like an island on clouds with some unknown creatures{{footnote: This could only be seen on the morning scene, second video.}}. A Taos flew above the clouds. In the background, some snowy peaks hid behind thin clouds. It was the monster-shaped snowy mountain that got its body destroyed by an annihilation event we seen earlier. Despite being flat, this area had lots of staircased platforms, layer by layer. This, is **Ribbi Flats**, of Fornis Region. 
+> **Translator's note on environment:** By a riverside, some fluffy animals called "kapiba" could be seen, with yellow furs and poop-brown head, short horns, occpying a rocky river bank. Further ahead, green and brown grass carpeted the uneven surface. A triceraptor-like creature lurked in the distance. Trees that shoot up like pine were occasionally seen. Beyond, we could see tall mountaineous regions, sometimes screwlike, other times nail-like. Taos appeared in the distance. Another scene, water falls from a huge circular-ish hole down to a river below. The bank roofed by the water-falling platform looked sandy-white, while the opposite side of the bank, yellow-back green brogs made it their home, together with some trees. Yet another scene. Cloud lurks below the edge of the ground towards infinity. Triceraptor-like creatures occupied the platform. At a distance, we could see a tall cylindrical rock like an island on clouds with some unknown creatures{{footnote: This could only be seen on the morning scene, second video.}}. A Taos flew above the clouds. In the background, some snowy peaks hid behind thin clouds. It was the monster-shaped snowy mountain that got its body destroyed by an annihilation event we seen earlier. Despite being flat, this area had lots of staircased platforms, layer by layer. This, is **Ribbi Flats**, of Fornis Region. 
 
 ---
 
@@ -57,6 +57,8 @@ Sena looked at her, "Like what Noah said? Yeah.{{footnote: One can't be sure whe
 She turned to her and affirmed, "Yeah. Positive." They looked off in Eunie's direction, enjoying the moments of tranquility. 
 
 ---
+
+#### (Start of Valdi's Hero Quest)
 
 By a watering hole, water falling from a platform that stretched out far from a cliff wall. Sena was looking up towards their destination, with a trembling voice, "Probably shouldn't be climbing up this one, huh..."
 
@@ -196,7 +198,7 @@ Valdi turned to face them, continuing, "Listen... I had this injury once. It rea
 
 Lanz interrupted, "Wait, _'masterpon'_?"
 
-"Oh, it's Nopon for 'really great person'! So anyway, my masterpon told me this: **_'Be a friend to all, and an enemy of none.'_**{{footnote: Writer don't know if one agree with this or not without thinking it thoroughly. Edit: Probably, but we don't always have the choice, for we could only control oneself, but not others.}}"
+"Oh, it's Nopon for 'really great person'! So anyway, my masterpon told me this: **_'Be a friend to all, and an enemy of none.'_**{{footnote: Translator don't know if one agree with this or not without thinking it thoroughly. Edit: Probably, but we don't always have the choice, for we could only control oneself, but not others.}}"
 
 Sena, trying to take in, "Be a friend to all...?"
 
@@ -272,7 +274,7 @@ Lanz: "Gotta do what you gotta do. Let's get this over with!" They drew their bl
 
 (After the finished the battle and traveled to yet another location.)
 
-The ground looked metallic, like those inside the ferronis from Colony 4. There were hexagonal prism-shaped chests/boxes placed around the edges. This looks like a barren valley to the writer, light had difficulty penetrating into this location, a narrow valley.
+The ground looked metallic, like those inside the ferronis from Colony 4. There were hexagonal prism-shaped chests/boxes placed around the edges. This looks like a barren valley to the translator, light had difficulty penetrating into this location, a narrow valley.
 
 Noah: "What is this place?"
 
@@ -332,7 +334,7 @@ Valdi: "Yeah. Don't worry. I can get back home just fine on my own."
 
 Suddenly Consul **Q**'s voice appeared, "Oh, damn and blast. And I came all this way."
 
-"Huh!" Valdi was shocked with the sloped-head helmet consul appearing. He wore a helmet that resembles probably a head armor like those in the old days, maybe Roman? To the writer, it looked like a KFC sign, for no reason. 
+"Huh!" Valdi was shocked with the sloped-head helmet consul appearing. He wore a helmet that resembles probably a head armor like those in the old days, maybe Roman? To the translator, it looked like a KFC sign, for no reason. 
 
 Mio: "A Consul!"
 
@@ -495,5 +497,7 @@ Noah: "Thank you. We appreciate it."
 Mio added, "Looking forward to it!" 
 
 Valdi joined, "Haha, me too. Count me in!"
+
+#### (End of Valdi's Hero Quest)
 
 ### Footnotes:

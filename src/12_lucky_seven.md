@@ -105,7 +105,7 @@ Riku opened his eyes wide, reaffirmed "Riku would never dream! Just put all of h
 
 A single slice and his broadsword split clean. Riku smiled at the result, while Lanz observed as he sheathed his blade, exclaimed, "Queen's beans! There's not even a nick in it!" The others went up nearer to confirm. 
 
-"Friend surprised? Indeed, is most prized of swords. Even armor of Ferronis get sliced to itsy bits!" Noah's eyes couldn't leave Lucky Seven now, but his look, to the writer, was pitying, as if the sword had done something wrong.
+"Friend surprised? Indeed, is most prized of swords. Even armor of Ferronis get sliced to itsy bits!" Noah's eyes couldn't leave Lucky Seven now, but his look, to the translator, was pitying, as if the sword had done something wrong.
 
 He dipped his head, speaking without confidence, "I think... I'll pass." Lanz and Eunie looked at him, shocked. 
 

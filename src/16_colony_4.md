@@ -160,7 +160,7 @@ Then, she turned to the group: "Feel free to use the facilities here at your lei
 
 ---
 
-In front of a canteen, Mio and Sena could be seen lining up by a canteen to take some food. A kevesi soldier before them took two rolls with mixed stuffs inside, unrecognizable to the writer, two brown buns maybe, and some tomato-colored soup, all on a tray with sections, before he walked off. Two trays could be seen put in front of Mio and Sena, the rolls weren't ready yet so they waited. Sena was looking down nervously. Soldiers like the brute guy who talked about Ardun meat to the nurse-hat stood at one leg of the tent with another female soldier, looking at them. Other soldiers seated by the table or walking in the canteen looked in their direction too. Mio was undisturbed. 
+In front of a canteen, Mio and Sena could be seen lining up by a canteen to take some food. A kevesi soldier before them took two rolls with mixed stuffs inside, unrecognizable to the translator, two brown buns maybe, and some tomato-colored soup, all on a tray with sections, before he walked off. Two trays could be seen put in front of Mio and Sena, the rolls weren't ready yet so they waited. Sena was looking down nervously. Soldiers like the brute guy who talked about Ardun meat to the nurse-hat stood at one leg of the tent with another female soldier, looking at them. Other soldiers seated by the table or walking in the canteen looked in their direction too. Mio was undisturbed. 
 
 Sena turned to Mio, "Uhh, Mimi...?" 
 
@@ -174,7 +174,7 @@ Sena eyed the soldiers from the tip of her eyes, whispered, "It's just..."
 
 Someone sounded from behind, "Hey." They turned. It was the third guy when they first released their flame clocks, stood beside Bolearis and behind Ethel when they first drove the fallen ferronis back to its original location. He had some weird scruffy hairs covering one side of his forehead, and his ears too. He stood behind the girls as they turned to face him.
 
-He showed them something, to which Mio asked, "What is this?" Writer couldn't recognize the object, probably a brown hankerchief? Or some remnants of clothes? 
+He showed them something, to which Mio asked, "What is this?" Translator couldn't recognize the object, probably a brown hankerchief? Or some remnants of clothes? 
 
 He continued, "It used to belong to my friend. He always wore it, till last year." Mio breathed in deeply. 
 
@@ -204,7 +204,7 @@ Mio repeated: "We had no choice... Yeah, that was clear, until now. But not any 
 
 She turned to look at the guy, still walking in the distance, as Mio continued, "There's a chance... we can make amends. Even if we're misunderstood..." 
 
-Suddenly, some food was put on her tray. Hearing the sound, they turned and and found extra portions piling up, like hills, which writer counted 10 of them{{footnote: Oh, boy, that soldier whom only got two...}}. "Huh?"
+Suddenly, some food was put on her tray. Hearing the sound, they turned and and found extra portions piling up, like hills, which translator counted 10 of them{{footnote: Oh, boy, that soldier whom only got two...}}. "Huh?"
 
 The person whom served them, wearing a black short chef hat, having tanner skin to both sides, split at the middle of both his eyes, red iris, smiled to the girls, "On the house. Eat your fill, friend." 
 

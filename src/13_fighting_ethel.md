@@ -134,7 +134,7 @@ K wasn't amused either, "Ugh, really? Suddenly fog? Heh! Ah, no big deal. It'll 
 
 Inside the cave outlandishly bright (given there were no glowing light source at their location), Taion was lost in thought, analyzing the situation. 
 
-"Hmmm..." Lanz seethed. As he saw Taion thinking, prompted: "Hey, Taion! Have you been hit?"{{footnote: Writer wasn't sure how one could associate a thinking pose to "being hit", but oh well...}}
+"Hmmm..." Lanz seethed. As he saw Taion thinking, prompted: "Hey, Taion! Have you been hit?"{{footnote: Translator wasn't sure how one could associate a thinking pose to "being hit", but oh well...}}
 
 "No..." 
 
@@ -248,7 +248,7 @@ Taion: "The light's being drawn in..."
 
 Sena: "The same as when Noah and Mimi...?" After which they gasped. 
 
-Mio: "He transformed... He looks exactly like that other one...!{{footnote: The latter sentence, writer actually can't recognize who spoke it, but associated it with Mio as the female voice doesn't sound like any others either.}}"
+Mio: "He transformed... He looks exactly like that other one...!{{footnote: The latter sentence, translator actually can't recognize who spoke it, but associated it with Mio as the female voice doesn't sound like any others either.}}"
 
 Well, not exactly _the same_. The one before had sharp (canines) teeth, this had flat teeth (molars). His right iris glowing red with the moebius symbol. He had a fin-like structure on his chin. His head had a fan-like very thick structure, like that of a bull. He had very strong muscles, a single moebius core{{footnote: This was the double-ring with an infinity sign in the middle, transparent purple}} attached to his chest (the last one got two, if you remember), and "leaf-like veins" on his hips and the under of back of his arm. A hula-hoop ring encircled his waist, floating. 
 
@@ -433,7 +433,7 @@ Lanz: "No use... Bloody embers..." They too slowly floated down.
 
 K finally had time to stood up, laughing at them as he danced{{footnote: God knows how he had been beaten so badly and still didn't forgot the dance.}} and explaining to them, "Haaaaaahahahahaha! Oh, the futility! The Flame Clock... is life itself. One might say, a coalescence of the will to live." They dropped on the floor facing him. Eunie's ouroboros tucked her wings back. "I very much doubt it's going to break _THAT_ easily now, is it?" 
 
-Noah{{footnote: Or was it Lanz, writer can't recognize the exact tone, though the Ouroboros in the picture looked like Noah's to one's eyes.}}, in a low tone: "Sparks... We almost had it, too..."
+Noah{{footnote: Or was it Lanz, translator can't recognize the exact tone, though the Ouroboros in the picture looked like Noah's to one's eyes.}}, in a low tone: "Sparks... We almost had it, too..."
 
 "Hah. A fool's errand indeed." The flame clock continued to heal his wounds. "But you now, I appreciate what you've done. For bringing your lovely selves... _SO. CLOSE. UP_. Because now I can look upon you in all your radiance." He pointed at his eyes. "Wahahahah" Then, he rose into the air, gathering the electrical beam barrage again. 
 
