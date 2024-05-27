@@ -1,5 +1,5 @@
 # Ambushed
-(Check Riku Manana finished editing before editing this)
+(Purple gas -- somnolent, anesthetic)
 === 
 
 The group just walked down a surface, slowly pushing themselves forward on the monotonous surroundings. As they were approaching some tunnels ahead, soldiers, seemingly of Agnian origins, fired some blasts from both sides of the path they were walking to the front of their road. As it made contact, purple smoke blasted, blocking the forward entrance. They got into a defensive stance, but more shots were fired behind them, purple smoke now enclosed all their directions. 

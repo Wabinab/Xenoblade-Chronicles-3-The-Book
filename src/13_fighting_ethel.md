@@ -431,7 +431,7 @@ Mio: "How is it so strong?"
 
 Lanz: "No use... Bloody embers..." They too slowly floated down. 
 
-K finally had time to stood up, laughing at them as he danced{{footnote: God knows how he had been beaten so badly and still didn't forgot the dance.}} and explaining to them, "Haaaaaahahahahaha! Oh, the futility! The Flame Clock... is life itself. One might say, a coalescence of the will to live." They dropped on the floor facing him. Eunie's ouroboros tucked her wings back. "I very much doubt it's going to break _THAT_ easily now, is it?" 
+K finally had time to stood up, laughing at them as he danced{{footnote: God knows how he had been beaten so badly and still didn't forgot the dance.}} and explaining to them, "Haaaaaahahahahaha! Oh, the futility! The Flame Clock... is life itself. One might say, a coalescence of the will to live." They dropped on the floor facing him. Eunie's ouroboros, her wings extended out as she flew up to the Flame Clock just now, now tucked her wings back. "I very much doubt it's going to break _THAT_ easily now, is it?" 
 
 Noah{{footnote: Or was it Lanz, translator can't recognize the exact tone, though the Ouroboros in the picture looked like Noah's to one's eyes.}}, in a low tone: "Sparks... We almost had it, too..."
 
@@ -463,7 +463,7 @@ K was falling, shocked, "Y-your Interlink... But why?"
 
 Noah had both his hands on his sword, the blue light that glows on the ring disappeared as the sheathe on Lucky Seven breaks into pieces. These pieces recombined to cover his left arm. Mio was flying beside him. With the bionic arm, he grabbed on Mio's hand, bringing her close and put his arms by her back, hers on his. He raised Lucky Seven high up, and together, they sliced the Flame Clock, carving so deep that "lives" spilled out from its wounds, like blood fountain. 
 
-K looked at it and gasped, still on his way towards the ground, "Im...impossible!" He held out his hands, trying to reach the Flame Clock, and moaned "The Flame Clocks cannot be broken! What is this?! Who are these people?!" We could see a small shadow just below the flame clock from K's eyes, seemingly Lanz's ouroboros. 
+K looked at it and gasped, still on his way towards the ground, "Im...impossible!" He held out his hands, trying to reach the Flame Clock, and moaned "The Flame Clocks cannot be broken! What is this?! Who are these people?!" Lanz's ouroboros, a small figure, was currently hidden below the expelling 'lives'. 
 
 The 'lives' released fell on the ground, though it didn't seem to enter the fallen soldiers yet. K looked at his body, "Waaaa... The Flame Clock's power, utterly lost... No..." The light purple glow on his body now stopped glowing, revealing his dark purple 'skin'. "But hooow?!"
 
@@ -532,9 +532,9 @@ He put his flute down again as he shared his feelings, "Just now... I felt his e
 Mio, looking at him, recalled,
 
 > **Mio's memories:** Miyabi, crouched down; her hands hugging her legs, spoke out, "Mio... Have you ever touched a mote of light from a Kevesi?" 
->
+> 
 > Mio standing beside her holding her flute, shook her head. Miyabi wasn't looking at her; perhaps she wasn't expecting a reply anyways.
->
+> 
 > Miyabi held out her left hand, "They're the same as ours. On the other side, the people live hoping the same things as us." 
 
 As she looked at Noah whom started the melody, she brought out her flute and joined him. He looked at her for a second, the melody undisturbed. Blue moat rose from his costume as it sounded, illuminating the ground in its vicinity. 
@@ -574,4 +574,3 @@ She looked up at the sky, lightheartedly told him, "Still... All thanks to your 
 He didn't face her, "It was... a team effort." Then, he turned and look at the others, Ethel inclusive. Then, he looked up and see the final of the moats floating into the distance. 
 
 ### Footnotes:
-

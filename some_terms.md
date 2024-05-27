@@ -68,6 +68,11 @@ These are some adjectives one could use, got from reading:
 - reconciliation: a situation in which 2 people/groups of people become friendly again after they have argued. (flute exchange scene.)
 - chuffed: pleased or happy. 
 
+- recourse: a way of dealing with a difficult or unpleasant situation. 
+- amicably: without arguments, legal action, or unpleasant behavior. 
+- their faces hidden by the visors of their helmets (to describe moebius). 
+- overlooking (something). 
+
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
 
@@ -99,3 +104,5 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - grub: to search for something by digging/turning over earth. (Second meaning: food.)
 - untrammeled: not limited by rules or any other controlling influence. 
 - antic: strange and unusual, esp. in a silly or very energetic way. 
+- anachronistic: existing out of its time in history.
+- somnolent: almost sleeping, or causing sleep. 
