@@ -73,6 +73,10 @@ These are some adjectives one could use, got from reading:
 - their faces hidden by the visors of their helmets (to describe moebius). 
 - overlooking (something). 
 
+- whimper: a series of small, weak sounds expressing pain or unhappiness, esp. of an animal. 
+- volition: the power to make your own decisions. (... "(out) of his/her own volition").
+- horrified: 
+
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
 
@@ -106,3 +110,4 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - antic: strange and unusual, esp. in a silly or very energetic way. 
 - anachronistic: existing out of its time in history.
 - somnolent: almost sleeping, or causing sleep. 
+- impeccable: perfect, with no problems or bad parts (probably related to Valdi and other mechanics like Riku.)

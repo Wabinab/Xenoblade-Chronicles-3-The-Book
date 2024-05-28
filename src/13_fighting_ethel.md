@@ -308,19 +308,19 @@ The Moebius, glowed in purple, now floated up to the front of the Flame Clock. N
 
 Both Noah and Mio were now half-knelt (with one leg) on the ground. Mio tried to convince him to try it out, "If we keep fighting like this... we're all dead." 
 
-"Rock and a hard place, huh..." He still hadn't made up his mind. 
+"Rock and a hard place, huh..." Risk the Colony 4 soldiers dying, or risk them all dying. 
 
-The ferronis wheel's move as it reversed. 
+The ferronis's wheel moved as it reversed. 
 
 "Whatever life is lost... I won't let you shoulder it all alone!" She looked at the direction of the ferronis with intensity. 
 
 "Mio..."
 
-Above the ferronis, even higher than where Ethel stood, was 3 pillars aligning about parallel to each other. Electricity were released from all 3 pillars, centering on the center pillar, which a globule of purple energy ball aggregated. K was still floating below the head and the flame clock of the ferronis, about the height of the ferronis's 'chest'. 
+Above the ferronis, there stood 3 pillars aligning about parallel to each other. Electricity were released from all 3 pillars, centering on the center pillar, which a globule of purple energy ball aggregated. K was still floating below the head and the flame clock of the ferronis, about the height of the ferronis's 'chest'. 
 
 "Hah. I think it's about time we entered the final act!" The ferronis stood up on both legs, both legs had their ankles bent in front. He raised his right index finger, and the purple electric shot out a beam barrage on the ground in front of it, slicing the floor, sending mud flying off on both sides. Noah and Mio rolled towards their left as the beam sliced through their former position. As the beam were dragged about, it sliced not only the floor, leaving flames burning out of the 'hell hole' but sliced through the valley wall behind it before the rest of the beam blasted into the distance. 
 
-Mio's words, plus this attacks, probably convinced him. "All right... We'll try it!" Mio nodded back. Then, he turned and shouted, "Lanz!" 
+This was enough to tip his judgment. "All right... We'll try it!" Mio nodded back. Then, he turned and shouted, "Lanz!" 
 
 "What's up?" The group were on the other side of the flames, behind covers. Taion and Eunie were together, Sena in front of them while Lanz beside them on another rock. 
 
@@ -352,11 +352,11 @@ From K's blood-red tinted vision, we can see they were separated into groups of 
 
 The ball rose up high into the air, firing in multiple directions. "If I keep on firing potshots... I'm bound to hit one of you sooner or later." The electrical beam barraged the ground at random. "Preferably **SOONER**!" 
 
-One of them hit just behind Noah, sending him toppling in front. Mio turned as he heard him, was barraged by another beam just behind her that threw her towards Noah. 
+As Noah dashed, one of the beams exploded very near him, toppling him as he screamed unconsciously. Running in front of him, Mio turned her attention as another beam hit behind her, sending her towards Noah. 
 
-Lanz, back to back with Sena, saw their situation, "Oh crap!" They quickly dashed towards them. Noah saw Mio's fall, gasped in fear as he jumped towards her, reaching his hands as if to reach her. 
+Lanz, back to back with Sena, saw their situation, "Oh crap!" They quickly dashed towards them. Noah on his feet, jumped towards Mio as he saw her fall, held his hands out to reach for her. 
 
-"Noaaaah!!!" "Mimi!!!!" Both were dashing in their direction and reached out their hands together. Their will to protect had reached its strongest. A blue glow illuminates their body surface as time was paused. As the swirling blue strips engulfed them, they reappeared in the yellow-smoke space. 
+"Noaaaah!!!" "Mimi!!!!" As they held their hands out in sync, their will to protect had reached its threshold. A blue dim light illuminated their body surface, and swirling blue strips engulfed their flesh, reappearing in the yellow-smoke space. 
 
 Lanz, still floating in the air with hands held out position, Sena's memory floated around him. He quickly regained his step on the ground. Sena was no different with Lanz's memory instead. Their iris glowed with the ouroboros ring as they watched the shared memory fragments. Lanz, realizing what happened, smiled as yellow swirling bands swirled and engulfed them, turning them into circle core, which collided together and formed the ouroboros core. Outside, the ouroboros core reappeared as they transformed. 
 
@@ -364,18 +364,17 @@ This was a purple cone-shaped head monster, with two string-shaped structure cur
 
 Just before the electrical barrage landed, he extended a purple frequency shield as his back faced. He was above Noah and Mio, the frequency shield created a dome that prevented multiple strikes from landing on the ground. Eunie and Taion looked from afar. 
 
-===
 As the electrical barrage dissipated, Lanz's ouroboros {{footnote: From now on, we'll name the Ouroboros based on who was controlling the ouroboros. With hindsight bias to look into the future, we would know there were 6 forms of ouroboros altogether, corresponds to our 6 protagonists, so you won't get confused.}} landed in front of them, Noah prompted: "Lanz... That form... You mean..." He released Mio as she got up on her feet. 
 
 Sena didn't like to be forgotten, "Hey, I'm here too!" 
 
 Mio: "Sena as well? So then..." 
 
-K didn't give them time, was happy they gathered together than split out, "Well, lookee here... Fooound you." A single beam barrage was launched at them, which Lanz's ouroboros blocked it again, which he 'pushed' above him. 
+K didn't give them time, was happy they gathered together than splitted out, "Well, lookee here... Fooound you." He threw a beam at them, which Lanz's ouroboros blocked, both hands over his head. 
 
 Lanz: "That mudder..."
 
-Taion spreaded out his Mondo, Eunie stuck her staff onto the ground; both created a huge healing ring that heal the ouroboros (and Mio and Noah as well, if they were injured). 
+Taion spreaded out his Mondo, Eunie stuck her staff onto the ground; their combination created a huge healing ring that rejuvenated the Ouroboros (and Mio and Noah, they were probably injured). 
 
 Sena warned, "Lanz! We can't keep this up!" 
 
@@ -383,7 +382,7 @@ Sena warned, "Lanz! We can't keep this up!"
 
 K: "All right. Now for the coup de grâce." He gathered an even larger ball of energy, so large it's almost as large as the head of the ferronis, and certainly larger than his transformed form. With both hands on top of his head, "Get a load of this!" This launch broke his defense, sending Mio and Noah flying off as Lanz's ouroboros got hit in the center of the beam. 
 
-Eunie looked up into the air, her eyes closed, shouted, "Noah! Lanz!" A blue glow responded to her desire to protect, and was brought into the yellow-cloud space. 
+Eunie looked up into the air, her eyes closed, shouted, "Noah! Lanz!" A blue glow along the surface of her body responded to her desire to protect, and was brought into the yellow-cloud space. 
 
 She opened her eyes as sounds from Taion's memory fragments interrupted her. She looked around to see his history. Taion was in a posture as if he's about to fall, a shocking face as he absorbs Eunie's memory fragments. 
 
@@ -423,51 +422,55 @@ Noah's ouroboros flew up straight at the Flame Clock, the sword from his back no
 
 "Yeah!" 
 
-They sliced at the Flame Clock, letting out sparks but nonetheless deflected without even leaving a dent. He was shocked as he looked back at it, "Huh?! What the?! Did that not do it?!" 
+Swords against Flame Clock, didn't even create a dent. As the sword got deflected, Noah can't believed his eyes, "Huh?! What the?! Did that not do it?!" 
 
 Mio: "How is it so strong?" 
 
-"Then... we'll try!" Lanz's ouroboros and Eunie's ouroboros launched past them while they floated as slow as feather back to the ground, punching on the Flame Clock, to no avail. 
+"Then... we'll try!" Lanz's and Eunie's Ouroboros, side by side, smashed at it full force, no change in shape. They slowly floated back on to the ground, like feathers. 
 
-Lanz: "No use... Bloody embers..." They too slowly floated down. 
+Lanz: "No use... Bloody embers..."
 
-K finally had time to stood up, laughing at them as he danced{{footnote: God knows how he had been beaten so badly and still didn't forgot the dance.}} and explaining to them, "Haaaaaahahahahaha! Oh, the futility! The Flame Clock... is life itself. One might say, a coalescence of the will to live." They dropped on the floor facing him. Eunie's ouroboros, her wings extended out as she flew up to the Flame Clock just now, now tucked her wings back. "I very much doubt it's going to break _THAT_ easily now, is it?" 
+K on his feet, danced{{footnote: God knows how he had been beaten so badly and still didn't forgot the dance.}}, embraced the ground, "Haaaaaaa.... Haaaa.. Haaa...! Oh, the futility! The Flame Clock... is life itself. One might say, a coalescence of the will to live. I very much doubt it's going to break _THAT_ easily now, is it?" 
 
-Noah{{footnote: Or was it Lanz, translator can't recognize the exact tone, though the Ouroboros in the picture looked like Noah's to one's eyes.}}, in a low tone: "Sparks... We almost had it, too..."
+As they dropped to the ground, Eunie's Ouroboros tucked her butterfly wings back. 
 
-"Hah. A fool's errand indeed." The flame clock continued to heal his wounds. "But you now, I appreciate what you've done. For bringing your lovely selves... _SO. CLOSE. UP_. Because now I can look upon you in all your radiance." He pointed at his eyes. "Wahahahah" Then, he rose into the air, gathering the electrical beam barrage again. 
+Noah{{footnote: Or was it Lanz, translator can't recognize the exact tone, though the Ouroboros in the picture looked like Noah's to one's eyes.}}, disappointed: "Sparks... We almost had it, too..."
 
-"M-meeeeeh..." Suddenly, Manana sounded from the side, with very short rocks surrounded them. "Lightning... s-so frightening!" 
+"Hah. A fool's errand indeed." Purple mist{{footnote: Moebius's energy.}} evaporated around him. The Flame Clock sent beams of green to heal his wounds, as he joyfully continued, "But you now, I appreciate what you've done. For bringing your lovely selves... **_SO. CLOSE. UP_**. Because now I can look upon you..." with his index finger pointed on his right iris, "_in all. your. radiance._" 
 
-Riku tried to calm her down as she cried, "I-it all be OK... Noah and friends will set things right!" Riku looked at them with confidence, as if his eyes told them, it's time. 
+"Wahahahah" Arms embracing the air, he regained control of the beam barrage. 
 
-Noah, looking at Riku and Manana, got reminded by Riku's speech from long time ago: 
+"M-meeeeeh..." Suddenly, Manana sounded from the side, with very short stones encircled them. "Lightning... s-so frightening!" 
 
-> Even armor of Ferronis get sliced to itsy bits!
+Riku tried patting on her, "I-it all be OK... Noah and friends will set things right!" Riku turned to meet his eyes with Noah, to remind him what he had bestowed with him. 
 
-That's the last piece of the puzzle he needed. "If it can really take a Ferronis clean out..." Noah's ouroboros looked at his Ouroboros's blade as he thought. "then maybe...!" 
+> _Even armor of Ferronis get sliced to itsy bits!_
 
-His back facing the Ferronis's left leg, he called out, "Mio! Try again! Cancel the Interlink after we jump!" 
+That's the last piece of the puzzle he needed. Looking at the Ouroboros's blade, "If it can really take a Ferronis clean out... then maybe...!" Let's enjoy two second of silence. 
 
-Mio didn't reject immediately, "What's the plan?" 
+"Mio! Try again! Cancel the Interlink after we jump!" 
 
-He told her, "Looks like the time's come!" 
+"What's the plan?" 
 
-She didn't recall, "What are you talking about...?" As if realized something, "Fine then. Ready when you are!" 
+"Looks like the time's come!" 
 
-They jumped back up at the Flame Clock as Lanz sounded from behind, "Noah! What are you-"
+"What are you talking about...?" Her eyes widened, only to realize the story from earlier, "Fine then. Ready when you are!" 
 
-As they jumped, they kicked K onto the ground, using him as a stepping stone to get themselves higher up. The purple energy ball were just below them, slightly to the side. Then, they cancelled the Interlink. 
+They jumped back up at the Flame Clock with Lanz surprised, "Noah! What are you-"
 
-K was falling, shocked, "Y-your Interlink... But why?" 
+They arrived in front of K, kicked him towards the ground and used him as a stepping stone to get higher up, even higher than the energy ball on top of the ferronis. Mio and Noah, separated at the top of the crescendo, with K watching as he fell backwards, "Y-your Interlink... _But why?_" 
 
-Noah had both his hands on his sword, the blue light that glows on the ring disappeared as the sheathe on Lucky Seven breaks into pieces. These pieces recombined to cover his left arm. Mio was flying beside him. With the bionic arm, he grabbed on Mio's hand, bringing her close and put his arms by her back, hers on his. He raised Lucky Seven high up, and together, they sliced the Flame Clock, carving so deep that "lives" spilled out from its wounds, like blood fountain. 
+Noah held the sword scabbard with his left, the handle with his right. As the blue circle light on the sword ring faded, he shattered the scabbard withdrewing Lucky Seven; the pieces recombined into a red glove gauntlet, wrapped around his left arm. 
 
-K looked at it and gasped, still on his way towards the ground, "Im...impossible!" He held out his hands, trying to reach the Flame Clock, and moaned "The Flame Clocks cannot be broken! What is this?! Who are these people?!" Lanz's ouroboros, a small figure, was currently hidden below the expelling 'lives'. 
+Turning his head to his left, Mio's eyes met his, nodded at him as they flew closer to each other, grabbed each other's hand as they were within reach, then put their hands behind each other's chest, even closer together. As their dives came to an end, he raised Lucky Seven up high, gently pierced it into the as-hard-as-tofu Flame Clock, gritting his teeth, "**HUUUUUURRRRRRRAAAAAAHHHHHHH!!!!**"
 
-The 'lives' released fell on the ground, though it didn't seem to enter the fallen soldiers yet. K looked at his body, "Waaaa... The Flame Clock's power, utterly lost... No..." The light purple glow on his body now stopped glowing, revealing his dark purple 'skin'. "But hooow?!"
+Every inch they cut, 'lives' escaped the container, until it was in half, and Noah and Mio, his sword now withdrew from the Ferronis, free falling back to the ground. The container lost its purpose, blood spilled like water fountains from its wound. 
 
-The Ferronis, losing its flame clock, couldn't maintain standing, crashed onto the floor. 
+K, still on his way to the ground "Im...impossible!" He held out his hands, trying to reach for the Flame Clock, moaned "The Flame Clocks cannot be broken! What is this?! _Who. are. these. people.?!_" He noticed Lanz's ouroboros appeared below the blood fountain, but that's not the point of attention. 
+
+'Lives' swiftly showered the ground, seemed not to enter the fallen soldiers yet, to the translator. K looked at his body, "Waaaa... The Flame Clock's power, utterly lost... No..." The purple glow on his skin diminished, leaving the dark purple flesh. "But hooow?!"
+
+The Ferronis couldn't maintain standing, crashed on one side on the floor. 
 
 In the meantime, Lanz and Mio had landed on top of Lanz's ouroboros. Noah had sheathed the Lucky Seven back into its sheathed. He asked, "How's Ethel? Everyone OK?" 
 

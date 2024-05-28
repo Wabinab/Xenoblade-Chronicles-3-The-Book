@@ -133,11 +133,12 @@ Disagreeing with Lanz after she left, Eunie strodded as she scanned her vicinity
 Somewhere in the distance where she threw it caught her attention. Beside some ferronis and levnis wreckages, a silhouette figure seemingly down on the floor{{footnote: Bent down? Knelt down? Sat down? One don't know.}}. She approached the figurine, whom had a neck-long hair, with wings like that of Eunie. "This one's Kevesi... You've been here for... quite a while..."
 
 She bent down, looking at a dog tag attached to its shirt. She removed it onto her hands, scanned it with her iris to decipher it: 
+
 > Name: Eunie\
 > Affiliation: Colony 18\
 > Class: Sharpshooter
 
-She was confounded. Her iris constricted as she questioned herself, emotionally unstable, "Wha-what is this-?! Wh-why is my name on here?!" As if taken back by some unbeknownst memories...
+She was confounded. Her iris constricted as she questioned herself, horrified, "Wha-what is this-?! Wh-why is my name on here?!" As if taken back by some unbeknownst memories...
 
 #### (Start of Eunie's Recall{{footnote: A recall is a piece of memory from before your current reincarnation.}})
 
@@ -209,7 +210,7 @@ They moved in front of Eunie, her head lowered as she was still caught in her th
 
 "Mm" She nodded, looked at Sena, whom nodded, and followed. 
 
-Taion, the penultimate to leave, turned to find Eunie frozen. She had been holding her wobbling breathe all this time, breathe it out as the group leave. She put her right palm on her left fist, pushing it down as it trembles uncontrollably, perhaps holding the dog tag. "Eunie...?" He watched and called out softly, but didn't disturb her. 
+Taion, the penultimate to leave, turned to find Eunie frozen. She had been holding her wobbling breathe all this time, breathed it out as the group leave. She put her right palm on her left fist, pushing it down as it trembles uncontrollably, perhaps holding the dog tag. "Eunie...?" He watched and called out softly, but didn't disturb her. 
 
 ---
 

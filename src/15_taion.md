@@ -122,4 +122,4 @@ Then, (s)he put his/her hands on the back of his/her neck, in a relaxed posture,
 
 The cowhead first nodded in agreement, the lights went dark. Others followed to agree before leaving. He turned to his back before the lights went out. 
 
-### Footnotes: 
+### Footnotes:

@@ -320,23 +320,21 @@ Noah, putting an end on the conversation, "OK, let's have a quick breather and t
 
 ---
 
-===
+As they entered a cave with some grass growing in a semicircle on the dry soil, Mio looked to her right. Some reddish ore revealed itself in open space. Spiderwebs seemingly blocked the way between them and the ore. "Huh? Hey isn't that...?"
 
-As they entered a cave with some grass growing in a semicircle on the dry soil, Mio looked beyond the distance, some reddish ore-like structure revealed itself. Spiderwebs blocked their way in between them and the ore. "Huh? Hey isn't that...?"
+Spiderwebs grew also on the group, and some of them stood on it{{footnote: Without getting stuck on it, to one's amazement.}}. "Ohoho! Now _that_ what Riku call a gemstone!"{{footnote: Manana is now back online!}}
 
-They were actually stepping on spiderwebs, those behind and beside Mio. "Ohoho! Now that what Riku call a gemstone!"{{footnote: Manana is now back online!}}
+"Manana will bring back!" She immediately dashed towards the stone. 
 
-"Manana will bring back!" She dashed into the distance as she finished her sentence. 
+"Gemstone need careful handling. Riku will also go." He dashed after Manana after explaining his excitement away with reasoning. The group strodded slowly behind them, as Noah casually looked upwards, immediately alarmed and shouted, "Wait! Riku! Manana!" 
 
-"Gemstone need careful handling. Riku will also go." She dashed and followed Manana in the direction towards the spider webs. The group strodded slowly behind them. Noah meticulously looked up, alarmed and shouted, "Wait! Riku! Manana!" 
-
-Too late. They already arrived at the reddish ore. As they heard Noah, they turned and saw a spider with buff muscles on its cursive legs, two pair of fangs that feeds into its bat-like fae and mouth, with two bat-like ears that had lime-green liquid flowing through stretching from where the "ears" are supposingly located, and patches of glowing turquoise on its abdomen. The spider approached Riku and Manana. 
+Too late. They already arrived at the reddish ore. As they heard him, they turned and saw a spider with buff muscles on its cursive legs, two pair of fangs that in front of a face that looked like a bat, and two bat-like ears that had lime-green liquid flowing in its veins, stretching from where the "ears" of the bat's face, and patches of glowing turquoise on its abdomen. The spider approached Riku and Manana. 
 
 Manana: "Meh-meh-meh?!" 
 
 Riku: "This blight on personal record..." 
 
-Lanz shouted to them, "Wait there, we're coming!" Yet, smaller arachnids appeared behind the giant spider that block the group's way from disturbing their "mother" about to devour Riku and Manana. 
+Lanz shouted to them, "Wait there, we're coming!" Yet, smaller arachnids appeared behind the giant spider, facing the group and preventing them from disturbing their "mother" about to enjoy her feast.
 
 Taion: "No good, they're coming this way too!" 
 
@@ -344,21 +342,21 @@ Mio warned, "Drop the gem! The monsters seem to be after them!"
 
 Riku wasn't willing, "Meeeeeeehhhh...!" 
 
-Manana pugnaciously disagreed, "That is precious thing! Cannot be thrown away!" 
+Manana pugnaciously rebuted, "That is precious thing! Cannot be thrown away!" 
 
-Riku turned to Manana with a sorry look, apologized, "Sorry to bundle Manana up in recklessness of Riku. Manana must throw gemstone over that way." 
+Riku, with a sorry and regret look, apologized to Manana, "Sorry to bundle Manana up in recklessness of Riku. Manana must throw gemstone over that way." 
 
-"But it your treasure, Riku!" Manana was surprised Riku willingly gave up the gemstone. 
+"But it your treasure, Riku!" She was surprised Riku willingly gave up his hobby for her life. 
 
-With a shaking voice, perhaps trying to suppress the difficulty in choosing, "True... But if Manana throw, then monsters go also."
+With a shaking voice, perhaps trying to suppress the difficulty in choosing, or maybe time wasn't on their side, "True... But if Manana throw, then monsters go also."
 
-Manana encouraged, "Riku giving up too easy!" 
+Manana refused, "Riku giving up too easy!" 
 
 "Meh-meh?!" 
 
-As if everything was under control, "This nothing-trouble! And also... Riku say he get every treasure!" 
+As if everything was under her control, "This nothing-trouble! And also... Riku say he get every treasure!" 
 
-"But Nopon not fight!" He still looked scared, down.{{footnote: Bro! The spider is really patient watching them quarrel, huh?!}}
+"But Nopon not fight!" He looked down, finding excuses for both of them.{{footnote: Bro! The spider is really patient watching them quarrel, huh?!}}
 
 "That irrelevant! Should become like Mio and Noah! If Riku and Manana work together, this piece of pollen orb! Riku not agree?"
 
@@ -366,11 +364,11 @@ As if everything was under control, "This nothing-trouble! And also... Riku say 
 
 Manana joined in, "Manana can be behind that!" 
 
-"Is not yet time..." He drew out the weapon he attached to his back on his wings that shaped like a gun. 
+"Is not yet time..." He drew out the weapon attached to his back, held it with  his wings. It shaped like a gun. 
 
-"... for give up!" Manana finished his sentence, drew out the wok as she joined him. 
+"... for give up!" Manana finished his sentence, drew out the wok and joined him. 
 
-"One, two..." Riku counted, they dashed past, sending the queen arachnid into the air by dashing below it, dashed past it as it dropped to the ground, and arrived in front of Noah and the others. 
+"One, two..." They dashed past so quickly that the queen arachnid was sent into the air as they swooshed below her belly. She dropped to the ground while RIku and Manana arrived in front of Noah and the others. 
 
 Manana, fluttering her wings, "Magnificent success!" 
 
@@ -380,7 +378,7 @@ Sena, with a worried voice, "I'm so glad you made it back!"
 
 "Manana sorry for causing worry." She answered in a lower tone. 
 
-As Riku and Manana turned to face the queen arachnid, now got on its feet and turning its attention towards the group, Riku commented, "Now we see real Nopon potential!" 
+As Riku and Manana turned to face the queen arachnid, now got on its feet and turned its attention towards the group, Riku commented, "Now we see real Nopon potential!" 
 
 "That right! Maybe it impossible for one Nopon..." 
 
@@ -394,11 +392,11 @@ As Riku and Manana turned to face the queen arachnid, now got on its feet and tu
 
 The group stood to face Riku and Manana. Lanz was relieved, "Phew. I didn't know how that was going to end." 
 
-Noah added, "Right? I was so surprised to see that from Riku and Manana!" We could see a tree growing in the background, by the way. They were also growing on top of a taller platform filled with spiderwebs, behind Lanz, if Riku looked up at him.  
+Noah added, "Right? I was so surprised to see that from Riku and Manana!" We could see a tree growing in the background, by the way. More were growing on top of a taller platform filled with spiderwebs, behind Lanz, if Riku looked up at his face (from that angle).  
 
 Mio too, "I didn't know they could fight like that." 
 
-Riku, back with his sternness, clarified, "Riku is superior Nopon! Everyone know still Nopon run deep." 
+Riku clarified with sternness, "Riku is superior Nopon! Everyone know still Nopon run deep." 
 
 Lanz couldn't stand it, "Come off it, you aren't running anywhere." 
 
@@ -420,7 +418,7 @@ Noah agreed, "Right. We're still not out of these tunnels. Keep your guards up, 
 
 Mio was enthused, "Haha, you're an asset to the team, you two!" 
 
-Riku looked away, explained away humbly, "... Riku just doing job." Manana looked at him, silently knew he was enjoying himself. 
+Riku looked away, explained away humbly, "... Riku just doing job." Manana looked at him, silently knew he was enjoying the flattery, and perhaps relieved they had got closer. 
 
 #### (End of Riku and Manana's Hero Quest)
 
