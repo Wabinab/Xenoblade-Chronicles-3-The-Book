@@ -210,7 +210,7 @@ They moved in front of Eunie, her head lowered as she was still caught in her th
 
 "Mm" She nodded, looked at Sena, whom nodded, and followed. 
 
-Taion, the penultimate to leave, turned to find Eunie frozen. She had been holding her wobbling breathe all this time, breathed it out as the group leave. She put her right palm on her left fist, pushing it down as it trembles uncontrollably, perhaps holding the dog tag. "Eunie...?" He watched and called out softly, but didn't disturb her. 
+Taion, the penultimate to leave, turned to find Eunie frozen. She had been holding her wobbling breathe all this time, breathed it out as the group leave. She put her right palm on her left fist, pushing it down as it shudders uncontrollably, perhaps holding the dog tag. "Eunie...?" He watched and called out softly, but didn't disturb her. 
 
 ---
 
@@ -240,7 +240,7 @@ Pomp! The moebius landed in front of her. She stood frozen, looking at the monst
 
 #### (End of Eunie's Recall)
 
-Eunie, her head drooped in a sitting position, bounced up as she woke from her nightmare, gasping for air. Nobody seemed to notice her reaction. As she stopped gasping, the sounds of burning firewood filled the serene atmosphere. She looked down, holding her chilling left arm up tremblingly. While she struggled to clench it into a fist, a hand holding a cup appeared on the left of her vision. Surprised, she turned to find Taion holding out a cup of tea he made for her. 
+Eunie, her head drooped in a sitting position, bounced up as she woke from her nightmare, gasping for air. Nobody seemed to notice her reaction. As she stopped gasping, the sounds of burning firewood filled the serene atmosphere. She looked down, holding her chilling left arm up, shuddering. While she struggled to clench it into a fist, a hand holding a cup appeared on the left of her vision. Surprised, she turned to find Taion holding out a cup of tea he made for her. 
 
 "Oh, thank you..." She received the cup with both her wobbly arms. Water vapor floated off the dark-colored tea, warming her hands. She took a sip from it while Taion sat beside her, also taking a sip from his cup. When one took a sip from tea, one is obliged to breathe it out, like how cigarette-smoking people breathe out smoke from their mouth. What breathed out with tea isn't smoke, but the heavy burden that pressed on one's heart; and in this case, on Eunie's chest, as she commented, "Smells good."
 

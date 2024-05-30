@@ -1,4 +1,4 @@
-# Ambushed
+# Ambushed, Colony Lambda, Consul J
 
 Continuing their journey on a flat surface, the surrounding barren; a slope located behind them, and some tunnels in their direction of travel. Halfway through, soldiers wearing Agnian armor fired some blasts that draws a purple tail as they flew. Hitting the ground in front of the group, it blasted, purple smoke released, blocking their view of the tunnel. 
 
@@ -176,7 +176,7 @@ Still flying in mid-air, an Ouroboros with a pair of wings that shaped like palm
 
 Inside the control room, Isurd hadn't noticed her arrival until the ground shook below him. He turned and saw Sena's Ouroboros pulling its left leg upwards, the jet engine on her legs blasted at full speed, sending black smoke in the direction of of its blast, she shouted for strength "ErrrrrrrrrAAAAAHHHHHHH!!!!!". 
 
-"Whhhhhhhoooooooaaaaaaa**OOOOOOOAAAAAAAAHHHHHH***!!!" Isurd was horrified as he lost his footings, his bent his knee and put his hands on the ground to regain balance. 
+"Whhhhhhhoooooooaaaaaaa**OOOOOOOAAAAAAAAHHHHHH**!!!" Isurd was horrified as he lost his footings, his bent his knee and put his hands on the ground to regain balance. 
 
 As she threw the leg up on to the air, she spinned along her vertical axis, her 'whip' transformed withdrawn and transformed into a hammer; the wings still on he handle side, while the giant hammer (with butterfly wings attached to its back) on the other side. 
 
@@ -186,30 +186,180 @@ As she threw the leg up on to the air, she spinned along her vertical axis, her 
 
 As it crashed down, soldiers and levnises were running for their lives. Some soldiers looked back just to get themselved tossed by the immense rippling shockwave, dragged along the water. Sena's Ouroboros clung tight to a rock stuck from underwater to prevent the shockwave from sending her flying off. Only now was Taion's Ouroboros floated and stopped landing, a relatively low height from the water surface. 
 
-(4:22)
+The ferronis wasn't giving up so readily. Its cannons retained its ability to fire despite being toppled. With such desperation, it no longer looked out for its own soldiers, the willingness to sacrifice whoever was in its way. Sena's Ouroboros jumped in all directions, dodging them with agile. She sometimes passed very near Agnian soldiers, the beam zwooped past and killed them while targeting her. 
+
+Mio and Noah regrouped, back to back, overlooking the Flame Clock to their side (or rather, they stood in front of the Flame Clock). "The Flame Clock! It has to go!"
+
+As Mio finished her sentence, a beam sliced between them; they dodged to both sides, both their currently travelling paths joined to form an oval/ellipsoidal shape, each carefully avoided the beams. Noah started to chant Ethel's final warning, "Embers on coat... Brush them off."
+
+"If push comes to shove, do not flinch!" Mio continued the sentence. They ran to intersect one another. 
+
+"Do whatever it takes!"
+
+Then together, "For the greater good!" Running side by side, blue lights enshrouded their surface, and...
+
+"_The dead don't think anything...They don't speak, to me... Stop crying, Lanz! It won't change anything... it's the feeling you..._" "_I was top of the rankings in all... is that why you're here?... is that why you're being an off-seer?_" They joined course into an Ouroboros Core, Mio's Ouroboros, purple hairs flowed behind like a waterfall. Rings attached to behind its elbow and to its side, with two more below the legs that acts like "ice-skater", though it was so light it could skate on top of the water surface. It also had a pair of cat-like ears. 
+
+The beam tried to reach her, but she changed directions so fast it leaves afterimages. Perhaps Isurd had calculated where it would land in the future, fired several beams together at a single point, water vapor and smokes enshrouded his view. Yellow electric sparkles flowed through its surface. 
+
+Suddenly, water splashed, together with Mio's Ouroboros, so high it seemed to reached the higher platforms where trees grew. Mio's Ouroboros did plenty of somersault while in air, until it reached the highest point the force could brought her to. Aiming at the central cannon, she pushed both legs and both hands behind to increase their speed towards the Ferronis, as she called out to Noah, "Better make it count!" Then, they cancelled the Interlink. 
+
+"I was planning to!" He replied, Lucky Seven already unsheathed by the time they cancelled. His legs were folded to push forward faster, Mio behind him to provide a platform he could push on. She flew backwards into the air while he dived even faster towards the Ferronis. 
+
+The ferronis central cannon was already at its tipping point, blasted in Noah's direction. He held out his left-arm gauntlet (the Lucky Seven sheathe that transformed) and surprisingly, it prevented the beam from going further, forming a 'heliosphere' of radiating rainbow around him as continued to move even closer to the Ferronis. 
+
+As the beam came to a close{{footnote: Meaning, it blasted only for _n_ seconds, and after that, no more.}}, he swung his body to his left, his left arm in a punching position, with the Lucky Seven horizontally position to his left, as if to slice something from left to right; he did slice it, though not for slicing the clock but slicing the air to give him force. 
+
+As he targeted the Flame Clock, he grabbed the Lucky Seven's handle with both hands, its tip facing down, finally piercing into the Flame Clock. 'Lives' splattered from its wounds, immediately the high-pressure 'lives' splashed out analogous to a broken artery spilling blood. Less concentrated 'lives' splashed out towards the side, and the Flame Clock quickly drained of its gauge. No more 'lives' splashing out, but none within either, and the Ferronis shut down. 
+
+---
 
 ===
 
-The ferronis wasn't giving up. It launched its cannons in toppled state, some killing their own soldiers, but Isurd didn't cared a bit. Sena's Ouroboros delicately dodged the beams that swayed past her. Soldiers were watching out for the beam, but they nonetheless was sliced through when they didn't watched. 
+Surrounded by Agnian soldiers, the group, all cancelled their Interlink, watched Isurd climbed out of the Ferronis, then knelt and fell, hands against the floor. Effetely, he climbed back on his feet, struggled towards the team. 
 
-Noah and Mio regrouped, back to back, directly in front of the flame clock. Mio called out, "The Flame Clock! It has to go!" 
+Noah is facing in his direction when Taion ran below his sword, his hands held wide open to 'embrace' Isurd, "Come on... Enough is enough, Commander... There's no reason for us to be fighting each other. If you still need a life to satisfy you, you can have mine."
 
-They quickly dodged separately as a beam swooped from where their backs met, and Noah called out to Mio, "Embers on coat.. Brush them off." He ran in a circle back towards the center, along a track to the right. 
+"Taion?!" Eunie called out to him, unable to accept his words. 
 
-Mio did the same, but from the left, "If push comes to shove, do not flinch!" The beams were still flying above them, some catching them up from behind. 
+Taion continued, "If that helps put your heart at ease... If it settles the debt I owe Nimue... I'll do it."
 
-As they regrouped about 6 arm lengths from each other, Noah continued, "Do whatever it takes!" Their distance slowly decreased to side by side, and both telepathically called out: "For the greater good!"{{footnote: Actually, this is Ethel's final warning, if you remember: "All that said, you get embers on your coat, you have to brush them off. If push comes to shove, do not flinch. Do whatever it takes, for the greater good."}} 
+The commander, standing 4-5 meters in front of him, beside an Agnian dual-blade soldier, laughed desperately. "Eehehehehehehehehe, **AHAHAHAHAHAHAHAHAHAHAH**!!!!" As he finished laughing, he turned into mud and crashed onto the floor below; a puddle of darker mud against the lighter soil. 
 
-Then, they were brought into the yellow-smoke space, watched each other's memories for a while before combining into the Ouroboros Core. Purple hairs stretched from behind its head like a waterfull. Rings grow below its legs and behind its elbow; the rings on its legs allowed it to "ice-skate" its way, even along the water surface. It changed direction so fast that it leaves afterimage. Five beams blasted just behind Mio's Ouroboros, smoke raised as water evaporated, with yellow electric sparkles. 
+"Whuh?" Taion was shocked. The rest of the group was so shocked they sheathed their blades, then turned towards Taion's direction. "C-Commander?!"
 
-Puddle blasted up the air, Mio's Ouroboros emerged from within, high up into the air. It did lots and lots of somersault as it resisted against gravity, higher and higher it went. Finally, facing downwards, "Better make it count!" It pushed the air behind and increased its velocity towards the Flame Clock while they cancelled the Interlink. 
+Riku and Manana joined in from afar, Riku asking, "He turn into mud pie?" The other Agnian soldiers also sheathed their blades, not attacking the group. 
 
-"I was planning to!" Noah replied her, Lucky Seven already unsheathed before they cancelled. To ensure he reached there before the central cannon blasted at them, Mio pushed Noah from behind, herself flew backwards with Newton's third law in action, while he got even faster downwards. 
+Where the mud was, purple specks of particles gradually aggregated, and Consul J materialized as they watched. As he appeared, he first scanned to his left and right before turning to face the group, asked, "Have you ever felt so much fondness, that it made you... quiver?"
 
-Too late. The cannon blasted before he could reach the Flame Clock. Holding out the gauntlet on his left arm, it blocked the shot, with enough force to push forward towards the ferronis{{footnote: God knows how the physics works!}}. The blast made a cone shape "heliosphere" with rainbow specks dragging along. 
+"Huh? That voice..." Noah stood straight from his defensive posture as it triggered his memory. Mio looked towards him for a while. 
 
-After a while, the cannon had finished vomiting all its reserves. Noah withdrew his gauntlet, his right arm bending the swords to his left (to ease slicing from left to right). Before he reached the Flame Clock, he held the handle with both hands, tip pointing down, and pierced it into the ferronis. 'Lives' immediately bled from its wound, and a while latter, the high pressure 'lives' were blown out like an exploded artery, draining the gauge. That was the end of the ferronis. 
+Consul J walked to his left, saluting "Long time no see... You forgot about me... I missed you..." Stopped and turned to his back (his original right, so he walked 'back and forth'), "All these sayings that have to do with time... They ring so insufferably hollow, when you only have ten years on the clock. It doesn't feel real. But you know..."
+
+Eunie was latein recognizing, nor accepting, "No... It can't be..."
+
+J turned to face her, turning his head to call them one by one, their names, "Noah... Eunie... Riku... Lanz... I have to tell you... I'm overwhelmed with emotion!" He raised his hand to click on the button that took off his helmet. The Kevesi (and Riku) gasped as J, **Joran**, reappeared before them. 
+
+"Joran!" Lanz was the last to call out. 
+
+"Sincerely... I'm on the verge of tears."
+
+"Joran... But you...!" He took a few steps forward. 
+
+"Joran..." Sena watched him walking as she recalled what she saw in his memories. 
+
+Mio asked Noah, "You know him?" He didn't reply, but Mio recalled too, "Wait... _I_ know him... Yes, Joran... amid the rubble and the flames..."
+
+Sena continued her words, "He died in a battle with Agnus... They were all friends." 
+
+"But wait... How does that work? H-How can he be...?!" Taion questioned (maybe use a better scientific word later), his eyes looking to his side from its tip...
+
+Mio continued as she turned to face Noah, looking out for hidden hints of assurance, "Assuming the memories we saw were correct... "
+
+Sena turned and asked, "Noah...?"
+
+Noah was stoically quivering inside as he breathe out. Lanz was the most reactive, attracting Noah's attention on him, "Joran!" They saw him walked towards him, still can't believe his eyes, "You're... You're our Joran! Y-you were alive?!"
+
+"Was I alive?" Joran questioned back, "Hah! Of course not. I did die on that day! Evidently! That's why I can be here now!" His hands put on his chest, his speech moved with emotions. "You can call me J! Guess what?" He pushed up the hair that covered his right eye, the moebius icon shone inside his Iris, "I'm a proud member of Moebius now!" 
+
+Lanz took a step back, Noah, with shaking voice, "No...! You can't mean it...?!" 
+
+Eunie was equally sad thinking about it, "J-Joran..." 
+
+Joran continued, "You see, they gave me this incredible power... I can take... people's memories... and refashion them into my very own mudpuppets." He knelt down and looked on to the piece of dark mud that Isurd turned into. 
+
+Lanz: "Mudpuppets...?"
+
+"'Refashion' my wings!" 
+
+As he stood back up, he walked a few steps to his right, then teleported behind an Agnian soldier, stabbed him on his back. 
+
+"Huh!!!" The group gasped as he did that, the soldier called out, "N-not yet... I can still..." Too late, it turned into mud and crashed into the soil below, another puddle of mud to pollute the land. Eunie gritted her teeth, the others watched mouth wide opened. 
+
+Joran held out the knife he used to stab the soldier, teleported to yet another soldier's back and stabbed again, the soldier articulating, "I don't wanna die! Don't make me die here, please!" Her sound was normal, but it got deeper tone into a male-ish voice before she crashed into the ground. More pollution! 
+
+"I told you we shouldn't have come here... You just had to make me..." Fourth down. 
+
+"This is awful... Why are we the ones who have to fight...?" Joran was smiling all this time. 
+
+The group turned to face his direction, he explained, "The body may be mud, but their minds are the real deal." Pacing, "But without hearts, they're pretty quick to tell you what's on their minds!"
+
+"Gahhhhh!!!!" Taion furiously blew steam from his throat. 
+
+"Joran..." Noah looked at him, pitiful what he had turned into. 
+
+"To be honest... These nobodies are beneath me." He walked in a circle, its central were where the group stood. "Noah, Eunie, or Lanz... _You'd_ make good puppets." As he walked, he finished the rest of the Agnian soldiers, they stood still and waited for his blade to pierce in pierce out, while his voice became more gloating,  "What profound and clear-sighted words would your cold lips utter? I've so wished to hear... Why did you have to go and become Ouroboros, hm? _Hehehehehehehehheheheheh..._" 
+
+Eunie took a step forward, "J-Joran... You were never like this! What did they do to you?!"
+
+Joran bounced the question back to her, "What do you think you knew of me? You didn't know anything." Eunie's eyes widened, shocked to hear as he continued, "I am only myself, Eunie." She was disappointed. 
+
+"The realest, truest, me! I don't need to hide any more! I can finally be me!" He bent forward, his eyes wide opened, hands held up with palms facing his face, "Becoming Moebius? Best thing that ever happened to me!" Touched his right hand on his heart, "I want you to feel it...! Feel the joy I feel!" His hands wide opened, as if to embrace them, "Feel my absolute elation!" Then, he drew his weapon, prepare to face them. 
+
+Final note about the environment, there was a bridge behind where he stood, trees and rocky hills in the distance. It seemed like a waterfall into unlimited zone below the bridge. 
 
 ---
+
+(After the fight)
+
+The group sheathed their blades, Joran eyes still wide opened, embracing, prompted, "Did you get a good taste of it? Of my elation...?" 
+
+"Cut the crap!" Lanz clenched his fist, utterly disappointed with him, "What're ya droning on about?! I don't buy it... I refuse to believe you're him...! You aren't our Joran! **Joran saved our lives!**"
+
+#### (Start of Kevesi's Memories)
+
+The sky so dark and dusty, even the flames burning the ground does not lit its vicinity. Explosions. Agnian levnises patrolled the area. Young Noah was darting, panting, Eunie, Joran, and Riku running behind him, and Lanz and Garvel{{footnote: Translator guessed it's Garvel, but cannot be sure.}} followed. The ground shook with every explosion. 
+
+As Noah looked up, an explosion hit one side of a one-storey building, sending rubble falling down, and a metal beam lost its standing position. Flames were roaring behind on both sides of the buildings. They quickly darted, jumped, and dragged or rolled on the ground at the metal beam crashed behind them. 
+
+Lanz and Garvel didn't made it, Lanz lower torso buried below it, while Garvel fully 'submerged'. Lanz tried to dragged himself out but failed. 
+
+Noah: "Lanz! Garvel!" He tried to run towards them, to pull them out, as Eunie grabbed his right hand, prevented him from continuing on his path, warned, "No time! Look! Above!" An entire floor made of metal wall was losing its support; fire sparkles as the beam dragged under pressure. 
+
+"We can't-"
+
+"Noah!" Eunie cut him off. He turned to look at her. From in front, Lanz still groaned as he tried to force himself. 
+
+"Move it!" Garvel called out to Noah and the others.
+
+"Lanz!" Noah watched back in agony. 
+
+"We can take care of ourselves! Just go!" Lanz assured him, hoping his departure. Plus, there wasn't time to wait.
+
+Noah was still gritting his teeth as he tried to make decision, Eunie still grabbing onto his hand, as they saw Joran darted towards Lanz and Garvel. He supported himself and pushed up on the metal bean, Lanz was surprised, "Jo-Joran?!"
+
+"Nggggggggg..." It was too heavy for him. Garvel didn't understood, "Wh... Why are-"
+
+Lanz commented, softly spoke out to him, hoping he would go save his asses, "You dumb clod... Come on... Joran..."
+
+Joran adamantly continued pushing with all his strengths, Noah, Eunie, and Riku were still watching in awe. Noah was first to react, "Joran!" He dashed towards him, the others followed. Together, they raised the beam enough for Lanz to climb out. He held his hands to Garvel thereafter and pulled him out. The group released their hands, the beam crashed onto the ground and pushed them back. Lanz sitting, and Garvel all fours, on the tiled floor. Riku and Eunie helped Garvel up. 
+
+Noah turned to Lanz, asked, "You hurt? Can you run?" He held out his hand and pulled him up. 
+
+"Yeah, more or less..." Lanz looked around, Eunie held onto Garvel's arm, and found Joran panting, asked, "Joran... Why...?" Their eyes met each other, but before he had time to answer, Noah touched Lanz gently on his left shoulder, announced, "We should go!"
+
+"Yeah." Lanz turned to him, agreed. The group continued running, Joran and Lanz stood still for a moment, nodding to Joran before he and Joran started walking, Joran behind. 
+
+Something caught Joran's glimpse, as he turned and looked to his 7 o'clock, above, and whimpered horrifically. The group heard his sound, stopped on their track as they turned and heard the building finally losing its support, crashing down towards Lanz and Joran. 
+
+"Watch out!" Joran shouted as he put his hands on Lanz's chest, shoved him towards Noah and the others. As he flew, his eyes fixed on Joran, his action took him aghast. Flames burning behind him, rocks came tumbling down, Joran smiled back at Lanz. He had fulfilled his destiny (check back Noah and Mio first night, the word they used for this). Lanz's right arm tried to reach out for him, can't believed his eyes, pebbles rained beside him; yet all he could watch is Joran buried alive. 
+
+"Ahhhhh!" The group shielded their face from the shockwave and dust sent by the crashing piece. With the dust cleared, Lanz effetely sat on the ground. 
+
+"Joran...? Joran?" He got up on his feet and walked towards the debris, but Noah held to his left arm before he could took any further steps. "Joran!" Still moving towards the debris on flames, Noah hugged him from behind, dragged him away from the wreckage, "**Jooooraaaaaannnn!!!!!**" More rubble in flames tumbled before the existing remnants. 
+
+#### (End of Kevesi's Memories)
+
+"You don't get it? You honestly don't get it? In that instant, I rose above you miserable fools! By saving your... worthless piddling lives!" He held his hands in front of him, as if to grabbed Lanz into a fist from his head into his torso{{footnote: Due to distance, your hands can 'measure/grab' huge object, like trees, imaginarily, if you stood far enough from it, if you get what one means.}}. "It was indescribable, Lanz!"
+
+Lanz took a step backward, disappointed at his adamant. Noah looked at him pitifully, "Joran..."
+
+"Ahh, wasn't this fun?" He turned with his back facing them, "I guess I'll call it a day here." He dancingly took steps forward, "Can't be hoarding all the fun for myself now. Gotta leave some for the next guy or gal."
+
+"Say what?" Lanz just got awake from his flabbergastivity. Joran stood still thereafter, spoke with his back facing him,
+
+"I should thank you, Lanz." Lanz's contracted his eyelid's muscles as he watched Joran turned to see him from the tip of his eyes, between his long hairs, "'Cause I get to be like this now, and I owe it to you." Purple particles arose from his body as he spoke, "Toodles!" Then disappeared into thin air. 
+
+The group retained vision where he left for a moment while they calmed themselves, their minds unconsciously sorting out the clash between sorrow and gleefulness that filled the atmosphere. 
 
 ### Footnotes:

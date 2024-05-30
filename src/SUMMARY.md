@@ -26,7 +26,8 @@
 - [Ribbi Flats and Valdi](./17_valdi.md)
 - [Getting Old, Saffronia, Eunie's Recall](./18_saffronia.md)
 - [Riku and Manana](./19_riku_manana.md)
-- [Ambushed](./20_ambushed.md)
+- [Ambushed, Colony Lambda, Consul J](./20_ambushed.md)
+- [Isurd, Off-Seer Purpose, ](./21_lambda.md)
 
 ---
 <!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->

@@ -80,6 +80,9 @@ These are some adjectives one could use, got from reading:
 - stodgy: boring, serious, and formal (Riku, Taion). 
 - incited: to encourage someone to do or feel something unpleasant or violent. 
 
+- shudder: to shake suddenly with very small movements because of a very unpleasant thought or feeling. 
+- quiver: 
+- 
 
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
@@ -115,3 +118,6 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - anachronistic: existing out of its time in history.
 - somnolent: almost sleeping, or causing sleep. 
 - impeccable: perfect, with no problems or bad parts (probably related to Valdi and other mechanics like Riku.)
+- moribund: (esp of an organization or business) not active or successful. 
+- verisimilitude: the quality of seeming true or of having the appearance of being real. 
+- elucidate: to explain something, to make something clear. 
