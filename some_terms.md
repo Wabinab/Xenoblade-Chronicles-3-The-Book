@@ -76,6 +76,10 @@ These are some adjectives one could use, got from reading:
 - whimper: a series of small, weak sounds expressing pain or unhappiness, esp. of an animal. 
 - volition: the power to make your own decisions. (... "(out) of his/her own volition").
 - horrified: 
+- adamant: impossible to persuade, or unwilling to change an opinion or decision.
+- stodgy: boring, serious, and formal (Riku, Taion). 
+- incited: to encourage someone to do or feel something unpleasant or violent. 
+
 
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 

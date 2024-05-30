@@ -126,7 +126,7 @@ Riku ruffled, with his wings wide opened, "Manana rush in like _crazypon_ just t
 
 Manana nodded frivolously, "Is important to demonstrate through action!" 
 
-Riku rebuted sternly, "Manana did not just throw pot. Threw whole self along with it."
+Riku rebuted stodgily, "Manana did not just throw pot. Threw whole self along with it."
 
 Manana turned to her back to show her pot, explaining, "Is special heavy-duty pot, also for self-defense. Exclusive Nopon brand!" 
 

@@ -122,8 +122,94 @@ Calmly spoken, "Precisely right, Taion." As he finished, he turned to re-enter t
 
 ---
 
+Bang! The ferronis's leg dragged along the muddy ground, its "hands" tucked into the ground to increase drag, sending dirt into the air. The group, with water halfway up to their ankle, stood and watched. Isurd almost lose balance inside the ferronis control room, tempestuously snapped at them, "Lay down and die already!" 
+
+As the ferronis tilted its head upwards, beams emanated from around the edge of its disc plate (that looks like a turtle's shell), top and bottom, in all direction. The beam randomly swing itself to cover all possible regions, though there was a chance it tracked down the group's location and, working together, chased after them. Beams that pierced into the ground sent dirt and rocks flying where it sliced through. 
+
+The group groaned as they dodged the beam, flying backwards. Someone as agile as Mio acrobatically jumped sideways as it swooped past. As for the heavy Lanz, where he can't dodged, he raised a shield to block the passing attacks. 
+
+Behind the ferronis, trees grew on top of the waterfall. There was a cement-looking building on one of the top, unsure what it was. 
+
+Taion stood stationary, looking up at the Ferronis, shouted out,"Commander Isurd...! Please... Please, stop this now!"
+
+Eunie was rolling on the water before she got up on her feet, shouting, "Taion..." We could see two beams drilling through some rock and dirt, closing in to Eunie. She ran after Taion, hugged{{footnote: her hands around his neck}} and dislodged him just before a beam zoomed past his left. They were headed towards water. 
+
+His attention locked to the Ferronis; he held out his left hand, trying to reach out for _something_, perhaps the commander's heart? His mouth wide opened, still trying to convince him. Time passed really slow. He could see the blue sky with mostly cirrus clouds, a horn stuck out to the left, blurred in the background, some trees at the edge of his vision; but mostly, the various feathers (of unknown species and unknown origin) that floated down; his hands, in a grabbing posture, trying to reach out to the one nearest. 
+
+His trial wasn't futile; the feather floated closer and closer to his hands. As he blinked his eye, the Ouroboros symbol glowed in his left Iris, the feather finally within reach, and he grabbed on to it. Cyan lights covered his body surface as they plunged into the water, and splashed not just where they collide with it, and also around it. 
+
+A bright light brought them into the yellow-smoke memory space. "_If you haven't used this power back there, you'll be... a win would've been a nice surprise... quick! we're going to miss the homecoming... first one they've ever had here, right? Eunie!!!_" On Eunie's side, Isurd and Nimue surrounded her, The swirling yellow strips swallowed as they transformed into globules, collided, and formed the Ouroboros Core. 
+
+Water was rippling vigorously, ald temporarily calmed down a little, before the bubbling burst, splashing water up tens of meters up high. 
+
+"What the...?" Isurd was surprised. Taion's Ouroboros, wearing a white robe, with female-like hands, black slim fingers; the conical-shaped sleeves that tightened around his elbow displayed veins of purple and orange (classical ouroboros color), cyan feather on the edge of the sleeve. We could also see cyan feathers arranged in flower petals behind his heads, and it seemed a visor attached to his forehead. A ring that grew out of his chest, tilted 15° to the vertical, it closed behind his head, and 4 feathers attached to it. It also had knee plates on its ankle. Oh, let's not forget the triangle mouth with metallic moustache. 
+
+As it glanced at the Ferronis, water splashed meters high encircled it; with its fall, emerged more replicas of Taion's Ouroboros, all floating mid-air. Soldiers{{footnote: We could see not just normal soldiers, but also those wearing special helmet that probably protected them from sniffing in purple gas.}} on the ground aiming their guns incessantly changing their aims. Isurd himself was horrified to identify, switching his view angle as he questioned, "Wh-which one?! Which one's real?"
+
+He figured the easiest way to determine is to destroy all of them. Cannon beams zipped past, most of them burnt like burning papers, with smoke released, before turning into dust and paper scraps. "This one?!" He waved his hands to his left. Taion's Ouroboroses doesn't stay still after Isurd's initial action, dodging the beams athletically. Yet, the concentration of the beam caught up with them in the end, shattering them. 
+
+"How about here?!" He now turned to his right, the same thing happened; he still hadn't distinguished him from his doppelgängers. His teeth gritted, he scanned for more; only paper scraps floated to the ground behind him{{footnote: All that we could see.}}. Then, something above the ferronis caught his eyes; he gaped at it. 
+
+A massive boulder not much smaller or larger than the disc plate on the ferronis floating above it, shadowing it. Taion's Ouroboros was at the bottom of the boulder, 'creating antigravity' on it. As he lowered his arms, the boulder plotted a trajectory towards the top of the ferronis while Isurd watched effetely in horror. "Urg!" To prepare for the impact, he crossed his arms above his face, hoping it would've blocked it. 
+
+The last moment before impact, the ferronis already lowered its torso to prepare for impact, they did not touch. The boulder disappeared into scraps of paper that polluted the atmosphere. The groups, Sena beside Lanz on a ground, Mio behind Noah stood on knee-high water, watched as the pieces dropped. The pieces shaped like Mondo, except there were red patches that decorated it. 
+
+Isurd got out of his protective stance, feeling humiliated, "Wha- Another illusion?!"
+
+Noah held out his hands as a Mondo with drawn symbols on its back and triangles of red patches folded on it, landed on his palm{{footnote: And Mio watching.}}. The Mondo aptly stood up, waved at him, before turning to its left and jumped off. 
+
+"Gh... Playing me for a fool?! **AAARRRRRGGGGHHHHHH, I'll show you a fool! I'll blow you away, you and all your rustling phantoms!**" Isurd turned around as he whipped the air, before sighting Taion in the distance, beside where a giant wheel-like structure half stuck into some platform. Exasperated, he activated the central cannon located on the chest of the ferronis. The metal structure opened up to reveal the cannon, its inner structure signifies those of an airplane's engine, pushed out of its chest before aiming at Taion's Ouroboros, gathering a huge yellow globules of energy only comparable to Ethel's ferronis's purple lightning ball that K maneuvered before. 
+
+"Whoa... Intense... I can't defend against that..." Lanz, flabbergasted, shook his head in confirmation. Sena watched intensely at Taion's Ouroboros as she convinced herself, "If Taion took the Ouroboros form... I can too!" She sheathed her weapons as she ran towards the ferronis, calling out, "Lanz! Come with me!"
+
+"You insane!" Lanz was shocked. He stood up and sheathed his weapon. 
+
+"Just trust me! Hurry!" She galvanized him to run after her! 
+
+"**It's over! TAION!**" Isurd, his mind now totally hijacked...
+
+Sena, with an unwavering voice, the Ouroboros symbol started glowing her left iris as she made her speech, "Taion, all of you... I won't let this creep... **lay a finger on anyone!**" Lanz was now running beside her. At the end of the island was an elevated rock, which they jumped, hands reaching out as blue spirals engulfed them. 
+
+"_Quick thinking Lanz... Get off me, had to be the hero... Come on, he's trying to protect you... just stop it... no more arguing... you gonna hit something..._"{{footnote:Sena almost toppled as she put a few steps in front just to rebalance.}} "_we... haven't met before, have we?_" The last voice was Mio's in Sena's memory; they both watched until yellow spirals encircled them, engulfed them, collided, and generated the Ouroboros Core. 
+
+Still flying in mid-air, an Ouroboros with a pair of wings that shaped like palms, and two butterfly-winged shape 'knives' below it, floated behind her. Her braided hair formed a tail that resembled a whip, with a burning ring at the end of the 'whip'. It jumped and landed beside the left knee of the ferronis, palms holding in front in a 'ready to push' position. Jet engine flames burnt behind her 'shoes', which was like roller coaster, dragging along the ground. She laid her right hand on the feet as she continually dragged along its circumference until she reached a calculated position, stopped herself with another hand gripping on it, hugging its leg. Her eyes blinked a moment. 
+
+Inside the control room, Isurd hadn't noticed her arrival until the ground shook below him. He turned and saw Sena's Ouroboros pulling its left leg upwards, the jet engine on her legs blasted at full speed, sending black smoke in the direction of of its blast, she shouted for strength "ErrrrrrrrrAAAAAHHHHHHH!!!!!". 
+
+"Whhhhhhhoooooooaaaaaaa**OOOOOOOAAAAAAAAHHHHHH***!!!" Isurd was horrified as he lost his footings, his bent his knee and put his hands on the ground to regain balance. 
+
+As she threw the leg up on to the air, she spinned along her vertical axis, her 'whip' transformed withdrawn and transformed into a hammer; the wings still on he handle side, while the giant hammer (with butterfly wings attached to its back) on the other side. 
+
+"**ErrrrrrrrrAAAAAHHHHHHH!!!!!**" She launched herself towards the tossed leg, vision locked onto it, smashing it so hard it reached a new equilibrium: to land on its back. 
+
+"**No...! Unacceptable!**" With Isurd voice emanating from the control room, the cannon aggregated to its threshold, a beam shot into the open air while the ferronis fell first on its left side{{footnote: The beam probably give laid some physics force on the ferronis, via Newton's third law, that changed its course slightly.}}, before landing on its back. We could now see the ferronis is actually turtle shape, and not two legs but four, just like a real turtle, now that its legs faced upwards. 
+
+As it crashed down, soldiers and levnises were running for their lives. Some soldiers looked back just to get themselved tossed by the immense rippling shockwave, dragged along the water. Sena's Ouroboros clung tight to a rock stuck from underwater to prevent the shockwave from sending her flying off. Only now was Taion's Ouroboros floated and stopped landing, a relatively low height from the water surface. 
+
+(4:22)
+
 ===
 
-(Battle, after battle?)
+The ferronis wasn't giving up. It launched its cannons in toppled state, some killing their own soldiers, but Isurd didn't cared a bit. Sena's Ouroboros delicately dodged the beams that swayed past her. Soldiers were watching out for the beam, but they nonetheless was sliced through when they didn't watched. 
+
+Noah and Mio regrouped, back to back, directly in front of the flame clock. Mio called out, "The Flame Clock! It has to go!" 
+
+They quickly dodged separately as a beam swooped from where their backs met, and Noah called out to Mio, "Embers on coat.. Brush them off." He ran in a circle back towards the center, along a track to the right. 
+
+Mio did the same, but from the left, "If push comes to shove, do not flinch!" The beams were still flying above them, some catching them up from behind. 
+
+As they regrouped about 6 arm lengths from each other, Noah continued, "Do whatever it takes!" Their distance slowly decreased to side by side, and both telepathically called out: "For the greater good!"{{footnote: Actually, this is Ethel's final warning, if you remember: "All that said, you get embers on your coat, you have to brush them off. If push comes to shove, do not flinch. Do whatever it takes, for the greater good."}} 
+
+Then, they were brought into the yellow-smoke space, watched each other's memories for a while before combining into the Ouroboros Core. Purple hairs stretched from behind its head like a waterfull. Rings grow below its legs and behind its elbow; the rings on its legs allowed it to "ice-skate" its way, even along the water surface. It changed direction so fast that it leaves afterimage. Five beams blasted just behind Mio's Ouroboros, smoke raised as water evaporated, with yellow electric sparkles. 
+
+Puddle blasted up the air, Mio's Ouroboros emerged from within, high up into the air. It did lots and lots of somersault as it resisted against gravity, higher and higher it went. Finally, facing downwards, "Better make it count!" It pushed the air behind and increased its velocity towards the Flame Clock while they cancelled the Interlink. 
+
+"I was planning to!" Noah replied her, Lucky Seven already unsheathed before they cancelled. To ensure he reached there before the central cannon blasted at them, Mio pushed Noah from behind, herself flew backwards with Newton's third law in action, while he got even faster downwards. 
+
+Too late. The cannon blasted before he could reach the Flame Clock. Holding out the gauntlet on his left arm, it blocked the shot, with enough force to push forward towards the ferronis{{footnote: God knows how the physics works!}}. The blast made a cone shape "heliosphere" with rainbow specks dragging along. 
+
+After a while, the cannon had finished vomiting all its reserves. Noah withdrew his gauntlet, his right arm bending the swords to his left (to ease slicing from left to right). Before he reached the Flame Clock, he held the handle with both hands, tip pointing down, and pierced it into the ferronis. 'Lives' immediately bled from its wound, and a while latter, the high pressure 'lives' were blown out like an exploded artery, draining the gauge. That was the end of the ferronis. 
+
+---
 
 ### Footnotes:

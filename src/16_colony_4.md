@@ -696,4 +696,4 @@ Mio seconded, "True. We can just react to events as they happen. Play it by ear.
 
 Sena was happy with that, "Gotcha! I'll apply myself to that!" They took off in to the distance thereafter. 
 
-### Footnotes: 
+### Footnotes:
