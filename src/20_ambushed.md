@@ -214,151 +214,149 @@ As he targeted the Flame Clock, he grabbed the Lucky Seven's handle with both ha
 
 ---
 
-===
+Dual-blade Agnian soldiers surrounded the group, now cancelled their Interlink. Isurd dropped hands on the ground, his effete feet had trouble supporting his weight. He struggled back up, walked a few more steps and stopped beside an Agnian soldier, panting with each step. 
 
-Surrounded by Agnian soldiers, the group, all cancelled their Interlink, watched Isurd climbed out of the Ferronis, then knelt and fell, hands against the floor. Effetely, he climbed back on his feet, struggled towards the team. 
+Taion dashed and stopped below Noah's blade, held his arms wide, blocking Isurd, whom was directly in front of Noah before, from progressing further. "Come on... Enough is enough, Commander... There's no reason for us to be fighting each other. If you still need a life to satisfy you, you can have mine."
 
-Noah is facing in his direction when Taion ran below his sword, his hands held wide open to 'embrace' Isurd, "Come on... Enough is enough, Commander... There's no reason for us to be fighting each other. If you still need a life to satisfy you, you can have mine."
+"**Taion?!**" Feeling unacceptable, Eunie loudly called out. 
 
-"Taion?!" Eunie called out to him, unable to accept his words. 
+Touching both hands on his heart, "If that helps put your heart at ease... _If it settles the debt I owe Nimue_... I'll do it."
 
-Taion continued, "If that helps put your heart at ease... If it settles the debt I owe Nimue... I'll do it."
+"Eehehehehehehehehe, **AHAHAHAHAHAHAHAHAHAHAH**!!!!" As if he heard the most funny thing ever, he laughed and laughed, and turned into a mud statue before crashing into the ground; a puddle of dark mud{{footnote: See second video; there were some rendering issue with first video that showed it gray.}} crashed into the light brown soil, forming a puddle of polluting substance. 
 
-The commander, standing 4-5 meters in front of him, beside an Agnian dual-blade soldier, laughed desperately. "Eehehehehehehehehe, **AHAHAHAHAHAHAHAHAHAHAH**!!!!" As he finished laughing, he turned into mud and crashed onto the floor below; a puddle of darker mud against the lighter soil. 
+"Whuh?" Taion took a step back, the others sheathed their blades. "_C-Commander?!__"
 
-"Whuh?" Taion was shocked. The rest of the group was so shocked they sheathed their blades, then turned towards Taion's direction. "C-Commander?!"
+Riku and Manana joined the team from their hiding place, with Riku asking, "He turn into mud pie?" The other Agnian soldiers had their blade sheathed too. 
 
-Riku and Manana joined in from afar, Riku asking, "He turn into mud pie?" The other Agnian soldiers also sheathed their blades, not attacking the group. 
+Above the mud, purple specks of particles gradually aggregated, and Consul J materialized before their eyes. He scanned the horizon left and right before speaking to the group, "Have you ever felt so much fondness, that it made you... quiver?"
 
-Where the mud was, purple specks of particles gradually aggregated, and Consul J materialized as they watched. As he appeared, he first scanned to his left and right before turning to face the group, asked, "Have you ever felt so much fondness, that it made you... quiver?"
+"Huh? That voice..." Something deep and stagnant in his memory triggered. Mio was curious. 
 
-"Huh? That voice..." Noah stood straight from his defensive posture as it triggered his memory. Mio looked towards him for a while. 
+Pacing left and right, he introduced, "Long time no see... You forgot about me... I missed you... All these sayings that have to do with time... They ring so insufferably hollow, when you only have ten years on the clock. It doesn't feel real. But you know..."
 
-Consul J walked to his left, saluting "Long time no see... You forgot about me... I missed you..." Stopped and turned to his back (his original right, so he walked 'back and forth'), "All these sayings that have to do with time... They ring so insufferably hollow, when you only have ten years on the clock. It doesn't feel real. But you know..."
+"No... It can't be..." Stopping few meters in front of Eunie, she realized it too.
 
-Eunie was latein recognizing, nor accepting, "No... It can't be..."
+Turning to face them one by one as he called out names, "Noah... Eunie... Riku... Lanz... I have to tell you... I'm overwhelmed with emotion!" He raised his right hand, clicked on a button behind his neck; the helmet spiralled into nothingness, revealing his face, which the Kevesi gasped, eyes wide opened, 
 
-J turned to face her, turning his head to call them one by one, their names, "Noah... Eunie... Riku... Lanz... I have to tell you... I'm overwhelmed with emotion!" He raised his hand to click on the button that took off his helmet. The Kevesi (and Riku) gasped as J, **Joran**, reappeared before them. 
+Lanz, surprisingly, "Joran!" 
 
-"Joran!" Lanz was the last to call out. 
+"*Sincerely... I'm on the verge of tears.*"
 
-"Sincerely... I'm on the verge of tears."
+"Joran... But you...!" He took two steps forward, can't believe his eyes. 
 
-"Joran... But you...!" He took a few steps forward. 
+"Joran...?" Sena watched his reaction, 
 
-"Joran..." Sena watched him walking as she recalled what she saw in his memories. 
+Mio, one step behind him{{footnote: 8 o'clock}}, prompted, "You know him?" He didn't reply, but she recalled what she saw in his past memories, "Wait... *I* know him... Yes, Joran... amid the rubble and the flames..."
 
-Mio asked Noah, "You know him?" He didn't reply, but Mio recalled too, "Wait... _I_ know him... Yes, Joran... amid the rubble and the flames..."
+Sena lightly called out, "He died in a battle with Agnus... They were all friends."
 
-Sena continued her words, "He died in a battle with Agnus... They were all friends." 
+Taion skeptically challenged the notion, "But wait... How does that work? H-How can he be...?!"
 
-"But wait... How does that work? H-How can he be...?!" Taion questioned (maybe use a better scientific word later), his eyes looking to his side from its tip...
+Mio: "Assuming the memories we saw were correct... " She and Sena turned to face Noah, with Sena prompting for assurances, 
 
-Mio continued as she turned to face Noah, looking out for hidden hints of assurance, "Assuming the memories we saw were correct... "
+"Noah...?" He breathed out quiveringly. Lanz drew their attention, walking towards Joran, "Joran! You're... You're our Joran! Y-you were alive?!" He stopped a few steps away from him. 
 
-Sena turned and asked, "Noah...?"
+In a gleeful tone, he returned the question, "Was I alive? Hah! Of course not. I did die on that day! Evidently! That's why I can be here now!" His speech moved with lively body emotions, putting his hands on his chest, then held it out in front of him, then held it out wide as if to embrace. "You can call me J! Guess what?" Using his right hand, he pushed the long dark green hair that hid his right iris so they could watch the glowing Moebius ring in it, "I'm a proud member of Moebius now!"
 
-Noah was stoically quivering inside as he breathe out. Lanz was the most reactive, attracting Noah's attention on him, "Joran!" They saw him walked towards him, still can't believe his eyes, "You're... You're our Joran! Y-you were alive?!"
+"**No...! You can't mean it...?!**" with a shaking voice, Noah, and the other Kevesi, took a step backward, couldn't believe their eyes. 
 
-"Was I alive?" Joran questioned back, "Hah! Of course not. I did die on that day! Evidently! That's why I can be here now!" His hands put on his chest, his speech moved with emotions. "You can call me J! Guess what?" He pushed up the hair that covered his right eye, the moebius icon shone inside his Iris, "I'm a proud member of Moebius now!" 
+"J-Joran..." Eunie sadly, softly called out. 
 
-Lanz took a step back, Noah, with shaking voice, "No...! You can't mean it...?!" 
-
-Eunie was equally sad thinking about it, "J-Joran..." 
-
-Joran continued, "You see, they gave me this incredible power... I can take... people's memories... and refashion them into my very own mudpuppets." He knelt down and looked on to the piece of dark mud that Isurd turned into. 
+"You see, they gave me this incredible power... I can take... people's memories... and refashion them into my very own mudpuppets." He squatted down to look at the pile of mud Isurd formed. 
 
 Lanz: "Mudpuppets...?"
 
-"'Refashion' my wings!" 
+"'Refashion' my wings!" Her tone suppressed her anger. 
 
-As he stood back up, he walked a few steps to his right, then teleported behind an Agnian soldier, stabbed him on his back. 
+He stood up, took a few steps to his right before teleported behind an Agnian soldier, stabbed him with a short knife from behind. The group gasped at what he did. 
 
-"Huh!!!" The group gasped as he did that, the soldier called out, "N-not yet... I can still..." Too late, it turned into mud and crashed into the soil below, another puddle of mud to pollute the land. Eunie gritted her teeth, the others watched mouth wide opened. 
+"N-not yet... I can still..." The soldier called out, his tone getting deeper as he turned into a mud statue, then fell under gravity, creating another puddle of mud in front of Joran. The group breathe shakily, can't believed their eyes, nor could they assign the current Joran to their Joran in memory. 
 
-Joran held out the knife he used to stab the soldier, teleported to yet another soldier's back and stabbed again, the soldier articulating, "I don't wanna die! Don't make me die here, please!" Her sound was normal, but it got deeper tone into a male-ish voice before she crashed into the ground. More pollution! 
+His knives held out, he teleported and repeated the same thing; this time, a female soldier, but her tone nor her fate changed, "I don't wanna die! Don't make me die here, please!"
 
-"I told you we shouldn't have come here... You just had to make me..." Fourth down. 
+"I told you we shouldn't have come here... You just had to make me..."
 
-"This is awful... Why are we the ones who have to fight...?" Joran was smiling all this time. 
+He explained; the group had been facing him even as he changed target: "The body may be mud, but their minds are the real deal. But without hearts, they're pretty quick to tell you what's on their minds!" This time, he didn't teleport, but walked slowly in a circle around the group. 
 
-The group turned to face his direction, he explained, "The body may be mud, but their minds are the real deal." Pacing, "But without hearts, they're pretty quick to tell you what's on their minds!"
+"Grrrrffffttt!!!" Taion angrily snorted, but effetely didn't stop him. 
 
-"Gahhhhh!!!!" Taion furiously blew steam from his throat. 
+"Joran..." Noah pitifully watched what he did. 
 
-"Joran..." Noah looked at him, pitiful what he had turned into. 
+"To be honest... These nobodies are beneath me. Noah, Eunie, or Lanz... *You'd* make good puppets." As he finished the last of the Agnian soldiers, his tone turned gloating, "What profound and clear-sighted words would your cold lips utter? I've so wished to hear... Why did you have to go and become Ouroboros, hm? *Hehehehehehehehheheheheh...*"
 
-"To be honest... These nobodies are beneath me." He walked in a circle, its central were where the group stood. "Noah, Eunie, or Lanz... _You'd_ make good puppets." As he walked, he finished the rest of the Agnian soldiers, they stood still and waited for his blade to pierce in pierce out, while his voice became more gloating,  "What profound and clear-sighted words would your cold lips utter? I've so wished to hear... Why did you have to go and become Ouroboros, hm? _Hehehehehehehehheheheheh..._" 
+Eunie questioned him, "J-Joran... You were never like this! What did they do to you?!"
 
-Eunie took a step forward, "J-Joran... You were never like this! What did they do to you?!"
+"What do you think you knew of me? You didn't know anything." Her assumptions challenged, she can't believe it. "I am only myself, Eunie." In disappointment, she looked down. 
 
-Joran bounced the question back to her, "What do you think you knew of me? You didn't know anything." Eunie's eyes widened, shocked to hear as he continued, "I am only myself, Eunie." She was disappointed. 
+"The realest, truest, me! **I don't need to hide any more! I can finally be me!**" He bent forward, his eyes wide opened, hands held up with palms facing his face, "Becoming Moebius? Best thing that ever happened to me!" Touched his right hand on his heart, tone getting higher and higher, "I want you to feel it...! Feel the joy I feel!" His hands wide opened, as if to embrace them, "**Feel my absolute elation!**" Then, he drew his weapon, prepare to fight them. 
 
-"The realest, truest, me! I don't need to hide any more! I can finally be me!" He bent forward, his eyes wide opened, hands held up with palms facing his face, "Becoming Moebius? Best thing that ever happened to me!" Touched his right hand on his heart, "I want you to feel it...! Feel the joy I feel!" His hands wide opened, as if to embrace them, "Feel my absolute elation!" Then, he drew his weapon, prepare to face them. 
-
-Final note about the environment, there was a bridge behind where he stood, trees and rocky hills in the distance. It seemed like a waterfall into unlimited zone below the bridge. 
+Final note about the environment, there was a bridge behind where he stood, trees and rocky hills in the distance. It seemed like a waterfall falling into unlimited zone{{footnote: "unlimited" means "inaccessible", which means, no game data available, which means, if you jumped down, you'd get teleported to a checkpoint near where you jumped.}} below the bridge. 
 
 ---
 
 (After the fight)
 
-The group sheathed their blades, Joran eyes still wide opened, embracing, prompted, "Did you get a good taste of it? Of my elation...?" 
+The group sheathed their blades, Joran eyes wide opened, embracing, asked for feedback, "Did you get a good taste of it? Of my elation...?" 
 
 "Cut the crap!" Lanz clenched his fist, utterly disappointed with him, "What're ya droning on about?! I don't buy it... I refuse to believe you're him...! You aren't our Joran! **Joran saved our lives!**"
 
 #### (Start of Kevesi's Memories)
 
-The sky so dark and dusty, even the flames burning the ground does not lit its vicinity. Explosions. Agnian levnises patrolled the area. Young Noah was darting, panting, Eunie, Joran, and Riku running behind him, and Lanz and Garvel{{footnote: Translator guessed it's Garvel, but cannot be sure.}} followed. The ground shook with every explosion. 
+Dark and dusty sky; not even the raging flames could lit its vicinity. Patrolling Agnian levnises slicing buildings where it passed, which exploded. Along a path, young Noah leading the way; Eunie, Joran, and Riku followed behind, panting; Lanz and Garvel last. Explosions released shockwaves that shook the ground. 
 
-As Noah looked up, an explosion hit one side of a one-storey building, sending rubble falling down, and a metal beam lost its standing position. Flames were roaring behind on both sides of the buildings. They quickly darted, jumped, and dragged or rolled on the ground at the metal beam crashed behind them. 
+There was a "meteor" that blasted at a building 11 o'clock their direction, shattering a metal beam support, it fell towards where the group were about to trespass. "Yurrrrrrrrrr**AHHHHHHHHH**" They darted, jumped, dragged, and rolled on the ground, barely dodging the beam. Unfortunately, Lanz and Garvel didn't made it. His lower torso buried by the beam; Garvel completely under. Lanz had trouble dragging himself out, "UUUUURRRRRHHHHH!!!"
 
-Lanz and Garvel didn't made it, Lanz lower torso buried below it, while Garvel fully 'submerged'. Lanz tried to dragged himself out but failed. 
+"Lanz! Garvel!" Noah called out, he darted a few steps, but Eunie held him back by his arms, 
 
-Noah: "Lanz! Garvel!" He tried to run towards them, to pull them out, as Eunie grabbed his right hand, prevented him from continuing on his path, warned, "No time! Look! Above!" An entire floor made of metal wall was losing its support; fire sparkles as the beam dragged under pressure. 
+"No time! Look! Above!" Flames raging behind a whole storey made of metal, flames sparkles where beams were supporting it. It tilted 10 extra degrees towards their path. 
 
 "We can't-"
 
-"Noah!" Eunie cut him off. He turned to look at her. From in front, Lanz still groaned as he tried to force himself. 
+"Noah!" Eunie cut him off. He turned to look at her. Lanz was still groaning as he tried to force himself. 
 
 "Move it!" Garvel called out to Noah and the others.
 
 "Lanz!" Noah watched back in agony. 
 
-"We can take care of ourselves! Just go!" Lanz assured him, hoping his departure. Plus, there wasn't time to wait.
+"We can take care of ourselves! Just go!" Noah gritted his teeth between the decision to leave or to save him, frozen. Eunie still held his arms. Joran didn't wait; he darted towards Lanz and Garvel, supported himself to push the metal beam upwards. 
 
-Noah was still gritting his teeth as he tried to make decision, Eunie still grabbing onto his hand, as they saw Joran darted towards Lanz and Garvel. He supported himself and pushed up on the metal bean, Lanz was surprised, "Jo-Joran?!"
+Lanz was surprised. "Jo-Joran?!"
 
-"Nggggggggg..." It was too heavy for him. Garvel didn't understood, "Wh... Why are-"
+"Nggggggggg..." It was too heavy for him. "Wh... Why are-" Garvel equally. 
 
-Lanz commented, softly spoke out to him, hoping he would go save his asses, "You dumb clod... Come on... Joran..."
+"You dumb clod... Come on... Joran..." Lanz hoped he would run and save his asses. Joran adamantly ignored and continued his effort. That convinced Noah and the others, 
 
-Joran adamantly continued pushing with all his strengths, Noah, Eunie, and Riku were still watching in awe. Noah was first to react, "Joran!" He dashed towards him, the others followed. Together, they raised the beam enough for Lanz to climb out. He held his hands to Garvel thereafter and pulled him out. The group released their hands, the beam crashed onto the ground and pushed them back. Lanz sitting, and Garvel all fours, on the tiled floor. Riku and Eunie helped Garvel up. 
+ "Joran!" He dashed towards him, the others followed. Together, they raised the beam enough for Lanz to climb out.He held his hands to Garvel thereafter and pulled him out too. The beam crashed onto the floor as the group released their push; Lanz was sitting down. Garvel on all fours; Riku and Eunie rushed to help him up. 
 
-Noah turned to Lanz, asked, "You hurt? Can you run?" He held out his hand and pulled him up. 
+Noah turned to Lanz, held his hands to offer him a pull, "You hurt? Can you run?"
 
-"Yeah, more or less..." Lanz looked around, Eunie held onto Garvel's arm, and found Joran panting, asked, "Joran... Why...?" Their eyes met each other, but before he had time to answer, Noah touched Lanz gently on his left shoulder, announced, "We should go!"
+"Yeah, more or less..." As he stood, he turned to look around him. Eunie hold on to Garvel's arm; he found Joran panting to his right, questioned, "Joran... Why...?" Their eyes met, disturbed by Noah's arm on Lanz's shoulder, 
 
-"Yeah." Lanz turned to him, agreed. The group continued running, Joran and Lanz stood still for a moment, nodding to Joran before he and Joran started walking, Joran behind. 
+"We should go!" 
 
-Something caught Joran's glimpse, as he turned and looked to his 7 o'clock, above, and whimpered horrifically. The group heard his sound, stopped on their track as they turned and heard the building finally losing its support, crashing down towards Lanz and Joran. 
+Lanz turned to face him, "Yeah." The group continued running, Joran and Lanz stood still for a moment. He nodded to Joran before they started walking, with Joran a step behind{{footnote: To his 5 o'clock.}}
 
-"Watch out!" Joran shouted as he put his hands on Lanz's chest, shoved him towards Noah and the others. As he flew, his eyes fixed on Joran, his action took him aghast. Flames burning behind him, rocks came tumbling down, Joran smiled back at Lanz. He had fulfilled his destiny (check back Noah and Mio first night, the word they used for this). Lanz's right arm tried to reach out for him, can't believed his eyes, pebbles rained beside him; yet all he could watch is Joran buried alive. 
+Metal creaking sound caught Joran's attention. He turned to back, upwards, and whimpered horifically. The group stopped at the distress signal he sent. "Huh?"
 
-"Ahhhhh!" The group shielded their face from the shockwave and dust sent by the crashing piece. With the dust cleared, Lanz effetely sat on the ground. 
+The metal storey finally put too much stress on its support, came crashing down towards Lanz and Joran. 
 
-"Joran...? Joran?" He got up on his feet and walked towards the debris, but Noah held to his left arm before he could took any further steps. "Joran!" Still moving towards the debris on flames, Noah hugged him from behind, dragged him away from the wreckage, "**Jooooraaaaaannnn!!!!!**" More rubble in flames tumbled before the existing remnants. 
+"Watch out!" Joran, his hands on Lanz's chest, shoved him away. His action took him aghast; his eyes fixed on him. Flames burning behind, rocks tumbling around, Joran smiled back at him, his destiny fulfilled. Lanz's right arm held out, his last effort to reach him in agony. Smaller and smaller as he flew farther and farther; separated by an imaginary sheathe of rocks and pebbles, before the whole floor buried him alive. 
+
+"Ahhhhh!" The ground shielded their face from the dust and shards; Lanz effetely sat on the ground; the group took a moment to realize what they had lost, forever. 
+
+"Joran...? Joran?" He stood up and took steps toward the debris, only to had Noah grabbing his left arm. Unconvinced, he forcefully pushed, "Joran! **Jooooraaaaaannnn!!!!!**" Noah hugged him from behind, dragged him away as more rubble, flames, and rocks covered the existing remnants. What was buried was not only Joran, but his choice to apologize, his choice to say, "Thank you." 
 
 #### (End of Kevesi's Memories)
 
-"You don't get it? You honestly don't get it? In that instant, I rose above you miserable fools! By saving your... worthless piddling lives!" He held his hands in front of him, as if to grabbed Lanz into a fist from his head into his torso{{footnote: Due to distance, your hands can 'measure/grab' huge object, like trees, imaginarily, if you stood far enough from it, if you get what one means.}}. "It was indescribable, Lanz!"
+"You don't get it? You honestly don't get it? In that instant, I rose above you miserable fools! By saving your... worthless! Piddling! Lives!" He held his hands in front of him, as if clenching his fist would crush Lanz from his head into his torso{{footnote: Due to distance, your hands can 'measure/grab' huge object, like trees, imaginarily, if you stood far enough from it, if you get what one means.}}. Joyfully, "It was indescribable, Lanz!"
 
-Lanz took a step backward, disappointed at his adamant. Noah looked at him pitifully, "Joran..."
+Lanz took a step backward, disappointed at his adamant, sharing no similitude in emotions. Noah looked at him pitifully, "Joran..."
 
 "Ahh, wasn't this fun?" He turned with his back facing them, "I guess I'll call it a day here." He dancingly took steps forward, "Can't be hoarding all the fun for myself now. Gotta leave some for the next guy or gal."
 
-"Say what?" Lanz just got awake from his flabbergastivity. Joran stood still thereafter, spoke with his back facing him,
+"Say what?" Lanz was flabbergasted. With his back facing them, Joran spoke, 
 
-"I should thank you, Lanz." Lanz's contracted his eyelid's muscles as he watched Joran turned to see him from the tip of his eyes, between his long hairs, "'Cause I get to be like this now, and I owe it to you." Purple particles arose from his body as he spoke, "Toodles!" Then disappeared into thin air. 
+"I should thank you, Lanz." Lanz's contracted his eyelid's muscles as he watched Joran turned to see him from the tip of his eyes, between his long hairs, "'Cause I get to be like this now, and I owe it to you." Purple particles arose from his body as he spoke, "Toodles!" Then disappeared into thin air.{{footnote: As one mentioned, there were rendering errors with the first video, no purple particles; see the second video instead.}}
 
 The group retained vision where he left for a moment while they calmed themselves, their minds unconsciously sorting out the clash between sorrow and gleefulness that filled the atmosphere. 
 

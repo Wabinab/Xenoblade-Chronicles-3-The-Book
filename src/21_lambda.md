@@ -1,13 +1,13 @@
-# Isurd, Off-Seer Purpose, 
+# Isurd, Off-Seer Purpose,
 
 (Need to edit the one before this)
 
-===
-
-> **Translator's Note on Environment:** On the platform where the rusty abandoned wheel we saw before, puny animals (squirrel like, but looked like bunnits, dark gray) running on the path 'behind' it (if where it face was the waterfall was called 'forward'). Trees, ferns, and grass paved the shoulder of the road. Another scene; several layers of waterfall, creating ponds (submerged platforms) in between. Some animals with flower-like "petals" on their back submerged below the water surface, displaying only their "petals". A path led down towards this drowned platform. An eagle soared above them. We could also see some remnants of "high-tech" building at a platform taller; and of course, trees that grow slightly horizontal, their roots stuck to the vertical platform. Yet another scene, perhaps the top of the waterfall. The remnants of "high-tech" building in the background, an Agnian levnis positioned itself on an island in front of the building. Behind some rocks, there were huge avatar-like trees (with 'pea-pods' on its tips, and blue-ish leaves.) A rainbow formed where water vapor was available. Lambda's ferronis positioned itself at the bottom of the waterfall, near where they fought. This, is **Great Cotte Falls**, of Pentelas Region.
+> **Translator's Note on Environment:** On the platform where the rusty abandoned wheel we saw before, puny animals (squirrel-like, but looked like bunnits, dark gray) running along the path 'behind' it (if the waterfall where a 'triangle' stood out of it was called 'forward'). Trees, ferns, and grass paved the shoulder of the road. Another scene: Waterfall falling in layers, each step with a platform. Several animals with like 'balls', arranged in a circle, like flower petals, submerged below the water surface in the platform. This drowned platform is accessible from a path to the left of it, seen from image's point of view. An eagle soared above the flower petal animals. There were high-tech buildings at a platform higher than where the flower-petal animals made their home. And of course, trees that grew slightly towards the horizontal, their roots stuck on the vertical platform between the waterfall. Yet another scene. Waterfall scene in the distance, behind some rocks. In between the rocks and the waterfall, some pea-pods like trees stood taller than the rocks, their leaves more blue than green. On the 'pond', high-tech buildings (with glass windows, translucent tiles, or metal-looking structure) buried into the rocks to the right of the image. In front of them, an island with an Agnian levnis. In the same direction, in 'front' of the island, waterfall down to lower level. Final scene: rainbows! Lambda's ferronis seen on the bottom left of the image, relatively far from the stepped waterfalls.This, is **Great Cotte Falls**, of Pentelas Region.
 
 ---
 
-(This had unspeeched moments, check before second video.)
+===
+
+
 
 ### Footnotes:

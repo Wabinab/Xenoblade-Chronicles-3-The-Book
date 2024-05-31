@@ -121,3 +121,5 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - moribund: (esp of an organization or business) not active or successful. 
 - verisimilitude: the quality of seeming true or of having the appearance of being real. 
 - elucidate: to explain something, to make something clear. 
+- inchoate: only recently or partly formed, or not completely developed or clear. 
+- recondite: 
