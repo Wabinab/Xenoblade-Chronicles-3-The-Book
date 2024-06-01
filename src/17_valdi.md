@@ -428,7 +428,7 @@ Too late! Q stepped on the mecha-robot, smoke enshrouded its legs. Raising it re
 
 Q enjoyed his reaction with his annoyance destroyed, laughing hard, "Wahahahahhahaha! Any tool that defies the orders of its master is trash! Destined for the scrapyard!"
 
-Valdi rebuted in tears, "It's not trash! Levnises have always, _always_ protected the things I care about. I'm so small and pathetic. But, they taught me that... that I'm worth something." As he climbed on his feet, "That's why I chose to be a mechanic. Not this..." Facing Q, "Not for something as sad as this!" 
+Valdi rebutted in tears, "It's not trash! Levnises have always, _always_ protected the things I care about. I'm so small and pathetic. But, they taught me that... that I'm worth something." As he climbed on his feet, "That's why I chose to be a mechanic. Not this..." Facing Q, "Not for something as sad as this!" 
 
 "Why should you care about a hunk of metal? Hahahaha" The group ran beside him to face Q, as he continued, "If you oppose me, I'll do away with you -- full stop!" 
 
@@ -444,7 +444,7 @@ As he spoke, the levnis exploded to his surprise, "Aaargh...!" He was nowhere to
 
 Valdi looked back at the broken mecha-robot, without the Consul disturbing them, "Ahh, I'm sorry! I... I couldn't do anything..." 
 
-Lanz rebuted, "I wouldn't say that. At the very least, this little guy got to live the way you wanted him to."
+Lanz rebutted, "I wouldn't say that. At the very least, this little guy got to live the way you wanted him to."
 
 "... Well, I sure hope so. Thanks. For rescuing me." By now, we could see two transporting levnis had been parked behind the group, don't know when it appeared. Turning back to the mecha-robot, "Next time, I'll be sure to give you a tougher body, Mechafriend."
 

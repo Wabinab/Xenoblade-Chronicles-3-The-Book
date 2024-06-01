@@ -115,7 +115,7 @@ He dipped his head, speaking without confidence, "I think... I'll pass." Lanz an
 
 "Hmmmm..." Riku thought for a while, perhaps on how to convince him, asked again, "Noah want Lanz and friends to kick buckets?" 
 
-He instantaneously rebuted, "No, what the spark?!" 
+He instantaneously rebutted, "No, what the spark?!" 
 
 "Same as letting friends die." He pressed on, now on a heated debate. 
 

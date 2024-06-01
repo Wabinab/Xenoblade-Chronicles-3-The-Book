@@ -16,11 +16,11 @@ The brown skin guy came forward and, with his arms, pushed him backward, "Drop i
 
 "...Let go!" Taion sniped at him, then he continued to speak to the gelled-hair, "Colony 13 is a complete enigma. Our data is incomplete." 
 
-The Agnian patiently rebuted, "It's just way too cautious, you clod. It's tedious, and it's dull." Then, he pointed to the Ferronis's Flame Clock, asked, "Can you see that?" 
+The Agnian patiently rebutted, "It's just way too cautious, you clod. It's tedious, and it's dull." Then, he pointed to the Ferronis's Flame Clock, asked, "Can you see that?" 
 
 "If we don't eat now, we'll starve." The Flame Clock was only a-tenth filled, raising his voice, "We don't have the time to mess around!" 
 
-Taion rebuted, "What does-" 
+Taion rebutted, "What does-" 
 
 He cut Taion, lowering back his tone, "Look, Taiky-boy... I mean, we're _Iron Lambda_, yeah? The colony led by Commander **Isurd**. And this is some no-name backwater. We hit from the side, and we hit hard. Am I wrong?" 
 
@@ -98,7 +98,7 @@ They jumped into the gushing current. As Taion emerged from underwater, as he wa
 
 A light came on, a Moebius wearing a feathered cape appeared, "Shouldnt've put so much stock in your Irises, K." He had a "horn" structure that stick out behind his helmet, like the motorcycle exhaust pipes, and some "earrings" that hung at the middle of the horn. "That is what you get!" 
 
-The moebius with a W on his head rebuted, "It's just bad luck. The plan was sound. If not for the black fog." 
+The moebius with a W on his head rebutted, "It's just bad luck. The plan was sound. If not for the black fog." 
 
 Ok, not a single horn, but double horn, the first moebius, looking from this angle. It looked like the moebius Noah and Mio first fought to the translator, "It's all about the skinfeel. You've only got eyes up front. That's why K lost. Sounds, the air, breathing... When you can feel all that, you don't need the Iris." 
 
@@ -106,7 +106,7 @@ A female moebius, tall hat like that of a chef, and a fat ring wrapped around he
 
 That fat moebius with fan-like structure sticking from his eyebrow teased, "Hehehehehehe, He's awful forgetful, isn't he? Huh!{{footnote: This sounded with the Chinese "fourth tone", rather than "second tone".}}" 
 
-The bull moebius crossed his hands, rebuted, "So? I'm still breathing, ain't I? I had a ball with them kids, right until I had to scarper."
+The bull moebius crossed his hands, rebutted, "So? I'm still breathing, ain't I? I had a ball with them kids, right until I had to scarper."
 
 The snakehead Medusa moebius came online, "Excuses are ten a penny."
 

@@ -52,11 +52,11 @@ P: "So? About that _huge_ bet of yours... Pray tell us, who won?"
 
 Another moebius came into the scene. He looked chubby, his helmet seen like a chicken head with a crown from the side. From the front, two fan-shaped horn protruded from the top of his nose. He also had a really high collar, like a wall that blocked a third of the back of his head. "Pah... A draw, I think. And with two whole Colonies on the field! We should've sallied forth in the first place. The whole thing would've been done by teatime. (urghahahaha)"
 
-A new moebius, mouth with a protruding structure that resembles a machine gun, rebuted: "It was J who insisted on it. I'd thought that that had already been communicated." It looked like some semiconductor-colored flat pieces protrude parallel to the top of his head, slightly longer towards his back, like a cap with a tongue wore backward. 
+A new moebius, mouth with a protruding structure that resembles a machine gun, rebutted: "It was J who insisted on it. I'd thought that that had already been communicated." It looked like some semiconductor-colored flat pieces protrude parallel to the top of his head, slightly longer towards his back, like a cap with a tongue wore backward. 
 
 A female moebius walked in from behind the machine-gun mouth moebius, from his right to his left. We could see short dangling tentacles (hardened) from her side of her forehead. "In that case... I believe it's my turn next..."
 
-The machine guy rebuted, again: "**H**, I'm pretty sure you already had your kicks the other day when you wiped out Colony 8, no? Surely the turn is mine." 
+The machine guy rebutted, again: "**H**, I'm pretty sure you already had your kicks the other day when you wiped out Colony 8, no? Surely the turn is mine." 
 
 A guy with some purple specks flowing like fire, we could see his long hair, but not other features given that he's not under a spotlight, joined in, "Honestly, you make more noise than the rabble at a feast..." 
 

@@ -106,7 +106,7 @@ Lanz: "Yeah?"
 
 "No heroics this time. Keep your heads screwed on." 
 
-Lanz always wanted to be the hero, rebuted: "Pfft, come on man. No one ever tell you? I'm a hero in the making, I am! Without my heroics, our combat unit would be right up the..." 
+Lanz always wanted to be the hero, rebutted: "Pfft, come on man. No one ever tell you? I'm a hero in the making, I am! Without my heroics, our combat unit would be right up the..." 
 
 "Lanz!" Noah glared at him, cut him short, with a serious look on his face.  
 

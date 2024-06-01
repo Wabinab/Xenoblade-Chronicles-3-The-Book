@@ -128,7 +128,7 @@ Mio: "Right, I remember."
 
 "Correct." 
 
-Lanz rebuted, "But... what's even up with the Colony? Did that freak do that? How?" 
+Lanz rebutted, "But... what's even up with the Colony? Did that freak do that? How?" 
 
 "We don't know the method, but it's logical to think he did something."
 
@@ -278,7 +278,7 @@ Lanz searched the one left to Noah. He picked out two gauntlets, "Not exactly eq
 
 Taion held out a black pant with copper strip to one of its legs, "Well... This fabric is awfully thin. It doesn't seem very reliable." 
 
-Mio rebuted, "You can't expect luxury, can you? Bound to be better than nothing. Unless... you're happy with what you have now?" 
+Mio rebutted, "You can't expect luxury, can you? Bound to be better than nothing. Unless... you're happy with what you have now?" 
 
 Taion can't deny, "N-no, I'll wear it! We all have to make sacrifices." 
 

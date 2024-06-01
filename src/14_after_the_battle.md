@@ -70,7 +70,7 @@ Lanz impatiently demanded, "Come on... Just spit it out, man!"
 
 Eunie added, "Are Consuls such a big deal? I thought they were everywhere, like your run-of-the-mill Nopon." 
 
-Both Riku and Manana jumped on their tiny feet, both "got shot by an arrow lying down"{{footnote: This is a Chinese phrase, called 躺着也中枪。}}, strongly rebuted against her comments "Riku refuse to let remark of Eunie slide." 
+Both Riku and Manana jumped on their tiny feet, both "got shot by an arrow lying down"{{footnote: This is a Chinese phrase, called 躺着也中枪。}}, strongly rebutted against her comments "Riku refuse to let remark of Eunie slide." 
 
 Manana supported him, "Got that right! Nopon are rare species world cannot live without! Protect at all cost!" Both of them had their wings tucked, as if they put their "hands" around their "waist". 
 

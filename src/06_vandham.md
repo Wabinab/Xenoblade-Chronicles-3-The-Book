@@ -142,7 +142,7 @@ Lanz: "Transformed... You mean... the big'un?"
 
 Mio looked towards them, "I felt it as well. Your grief... It was like mine." 
 
-Taion rebuted, "Yeah, well..."
+Taion rebutted, "Yeah, well..."
 
 Mio didn't let him finished, turned to look at him, raising her voice to cut him "And in one of those memories...!"
 

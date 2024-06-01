@@ -126,7 +126,7 @@ Riku ruffled, with his wings wide opened, "Manana rush in like _crazypon_ just t
 
 Manana nodded frivolously, "Is important to demonstrate through action!" 
 
-Riku rebuted stodgily, "Manana did not just throw pot. Threw whole self along with it."
+Riku rebutted stodgily, "Manana did not just throw pot. Threw whole self along with it."
 
 Manana turned to her back to show her pot, explaining, "Is special heavy-duty pot, also for self-defense. Exclusive Nopon brand!" 
 
@@ -298,7 +298,7 @@ Taion added, "And her air of innocence is... characteristic of Nopon." Behind, w
 
 Eunie: "Upfront and innocent, huh..." She turned to look at Riku, referring to something.
 
-He seemed to get what she meant with the descriptions, rebuted, "Riku is also good honest Nopon." 
+He seemed to get what she meant with the descriptions, rebutted, "Riku is also good honest Nopon." 
 
 "Let's not get into that..." Eunie seemed unconvinced. 
 
@@ -342,7 +342,7 @@ Mio warned, "Drop the gem! The monsters seem to be after them!"
 
 Riku wasn't willing, "Meeeeeeehhhh...!" 
 
-Manana pugnaciously rebuted, "That is precious thing! Cannot be thrown away!" 
+Manana pugnaciously rebutted, "That is precious thing! Cannot be thrown away!" 
 
 Riku, with a sorry and regret look, apologized to Manana, "Sorry to bundle Manana up in recklessness of Riku. Manana must throw gemstone over that way." 
 

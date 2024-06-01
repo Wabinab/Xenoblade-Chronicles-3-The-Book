@@ -82,7 +82,7 @@ As Mio was thinking and absorbing, Taion interrupted, "Right, OK... On an emotio
 
 Eunie was fascinated that a logic-head could be 'emotional', folded her hand and teased, "Wow, really?"
 
-Taion rebuted, "I didn't say I agreed. I just see her point of view, that's all." 
+Taion rebutted, "I didn't say I agreed. I just see her point of view, that's all." 
 
 Ethel: "Ahh all right now. Let's put a pin in the philosophizing." She turned to Noah, changing the topic, "When we talked last night, you said your destination was... Swordmarch, as I recall?" 
 
@@ -196,7 +196,7 @@ Sena commented, "What a jerk! So uncalled for."
 
 "Sena. It's fine. He was right, we did kill people. Maybe not his friend, but certainly others." They turned back to face where their food tray was. 
 
-Sena rebuted, "We had no choice! If we hadn't've, we'd be goners." 
+Sena rebutted, "We had no choice! If we hadn't've, we'd be goners." 
 
 Mio repeated: "We had no choice... Yeah, that was clear, until now. But not any more. Right?" 
 

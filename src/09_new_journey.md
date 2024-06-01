@@ -26,7 +26,7 @@ Taion: "And you think it's that easy?"
 
 He, with a stern look, walked in between and past them, and faced the rocky walls in the distance. He stopped at the end of the grass patch, just before the shiny smooth-looking rocks that paved the floor. "I don't mean to burst your bubble here, but don't you think... maybe that power's meant only for them?"
 
-Sena rebuted, "Yeah, but that Moebius guy... He did refer to 'us'... I just thought..."
+Sena rebutted, "Yeah, but that Moebius guy... He did refer to 'us'... I just thought..."
 
 Taion turned to look at her, "You thought maybe you could transform as well?" Sena nodded, though her look was less certain. 
 
@@ -40,7 +40,7 @@ Lanz looked at her, brought his hands up, to cut her uncertainty off by reverber
 
 Lanz prompted: "Aw, what're you moaning about now?" 
 
-He snided back, pushing his glasses up (again!!!) "Let's drop it. I don't want us bickering this early. Especially... not now we seem to be sharing a common destiny. We happy few." As if to not look at their reaction, he turned his back towards them. 
+He returned a snide remark, pushing his glasses up (again!!!) "Let's drop it. I don't want us bickering this early. Especially... not now we seem to be sharing a common destiny. We happy few." As if to not look at their reaction, he turned his back towards them. 
 
 Sena replied in a lighter tone, but serious, "If I didn't know better... I'd say you were trying to get us all worked up!" 
 
@@ -200,7 +200,7 @@ Lanz continued, "You know. I've never even thought of myself as strange before."
 
 Mio sounded from another side, "So many things... taken for granted... We're pretty different, huh? Worlds apart." Mio and Taion walked towards them from a distance, stopped by the table to the left of Sena, with Taion's teapot and some cups on top, standing. 
 
-Taion rebuted, turning to Mio "No one's worlds apart. If anything, we should be questioning all that we've thought to be true." 
+Taion rebutted, turning to Mio "No one's worlds apart. If anything, we should be questioning all that we've thought to be true." 
 
 She turned to her back and looked at the distance. Riku and Manana were playing with dirt. Noah was further in the background, lost in his thoughts, his back facing them. Taion continued, "Differences... are all a matter of perspective."
 

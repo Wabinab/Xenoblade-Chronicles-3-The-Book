@@ -362,7 +362,7 @@ Hearing no reply from him, Lanz continued, "Noah, he... He likes to say, 'Don't 
 
 Lanz didn't expect an answer from him anyways, in an enthusiastic tone, "Eh, to be fair... That whole prudent schtick of yours? Got its merits!" 
 
-Taion rebuted, "Bu-... That's the opposite of what you said before." 
+Taion rebutted, "Bu-... That's the opposite of what you said before." 
 
 "I guess I'm taking it back, then! Bahahahaha!" To which Taion just shook his head. Though, it did make Taion calm down somewhat. 
 

@@ -82,7 +82,12 @@ These are some adjectives one could use, got from reading:
 
 - shudder: to shake suddenly with very small movements because of a very unpleasant thought or feeling. 
 - quiver: 
-- 
+
+- atone (atoning, atonement): to do something that shows you're sorry for something bad that you did, or for something that you failed to do. 
+- noncommittal: not expressing an opinion or decision. 
+- fuss(ed): a show of anger, worry, or excitement that's unnecessary or greater than the situation deserves. 
+- hushed: quiet (making little or no noise). 
+- cogent argument: clearly expressed and persuades people to believe it. 
 
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
@@ -122,4 +127,5 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - verisimilitude: the quality of seeming true or of having the appearance of being real. 
 - elucidate: to explain something, to make something clear. 
 - inchoate: only recently or partly formed, or not completely developed or clear. 
-- recondite: 
+- recondite: not known about by many people and difficult to understand. 
+- surmise: to guess something, without having much or any proof. 

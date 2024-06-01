@@ -44,7 +44,7 @@ Lanz was surprised: "You know about her?"
 
 "Even in Agnus, the name has spread far and wide. Silvercoat Ethel... A veteral soldier unmatched in strength. People would whisper... about how she felled three colonies at once with just a hundred troops!" 
 
-Eunie rebuted, "Yeah, but... this is Ethel!" Noah turned his attention back at Ethel, thinking of a solution.
+Eunie rebutted, "Yeah, but... this is Ethel!" Noah turned his attention back at Ethel, thinking of a solution.
 
 Taion immediately spit out, "We know her name! So?" 
 
