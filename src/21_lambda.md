@@ -142,39 +142,37 @@ He looked back at her, "No clue..."
 
 ---
 
-===
+Slightly outside Colony Lambda's garrison, but still under the shade, Manana stood on a box, preparing the dishes. Sena was busy chopping some ingredients, seemingly. Mio stirred the cooking soup a little, before taking a ladle to taste it. They were about 1 o'clock from the bonfire. 
 
-Resting outside Colony Lambda's garrison, but inside the waterfall. By a table, Manana was preparing the dishes, Sena helping out, seemingly cutting something. Mio took a ladle of soup, blew into it, and tasted it. 
+After blowing it a few times, she took a sip, "Urg, ahh..." The content was still too hot for her tongue. Manana and Sena smiled at her{{footnote: Instead of asking "Are you okay?".}}. It seemed like they were cooking tomato soup. There were also some cabbages on the table. 
 
-"Urg, ahh..." It was still too hot for her tongue. Manana and Sena just happily watched her. It seemed like tomato soup? There were also cabbages. 
+Suddenly, someone sounded from behind, "You lot, why're you making that stuff out here?" They turned to face him. It was Lanz. "Colony's got a perfectly good kitchen."
 
-Suddenly, someone sounded from behind, "You lot, why're you making that stuff out here?" They turned to face him. It was Lanz asking. "Colony's got a perfectly good kitchen."
-
-Noah was practicing sword slicing, as usual, outside the Colony{{footnote: Very near to the edge where water falls and formed a misty sheathe.}}. He turned to watch where the girls were cooking. 
+Far away behind Lanz, near the edge of the shade, Noah was practicing his sword. There were water falling from above at the edge, shrouding Lambda from outside view. He turned to watch the conversations. 
 
 Mio, embarrassedly chuckled, replied, "Out of commission, apparently." Then, folded her arms, "_Somebody_ made a real mess of the place."
 
-Sena looked back at her, agitated, "Wh... Hold on a sec!"
+Sena felt nervous, looked back at her, "Wh... Hold on a sec!"
 
-Lanz turned away, apologizing, "Sorry, Mio..." Then, he walked away, they watched him off. 
+"Sorry, Mio..." Lanz apologized for unknown reasons, then walked away. The girls watched him off. 
 
-Sena tried to explain herself to Mio, stuttering, "I-... If we hadn't done what we did, chances are we would've all been dead by now! Uh, th-that's why we...!"
+Sena stutteringly tried to explain away the nervousness, "I-... If we hadn't done what we did, chances are we would've all been dead by now! Uh, th-that's why we...!"
 
-Mio, frivolously{{footnote: took it lightly.}} assured, "It's all right, everyone understand why. You were really brave, Sena."
+Mio frivolously{{footnote: took it lightly.}} assured her, "It's all right, everyone understand why. You were really brave, Sena."
 
 "Uh... really? You're not just saying that?"
 
 "N-Nope!"
 
-At another place, Riku laughed uncannily, "Meh-heh-hehhh! This real thrill of travel! Excitement moun-TINGGGG!!!" Looking into his toolbox, there was a Mondo, some circular disc with blue inner rings and metal outer rings, and some black matted surface inside the blue ring; a cup with handle; an empty Ether cylinder. 
+At another location. Riku, his uncanny laughter raised goosebumps, "Meh-heh-hehhh! This real thrill of travel! Excitement moun-TINGGGG!!!" He was facing his toolbox, which contained a Mondo, a circular disc with a metal outer ring, glowing blue inner ring, and matted black filled circle inside; a cup with handle; an empty Ether cylinder. 
 
-Noah looked at him, felt estranged at his gleefulness. Then, Lanz approached the two, sighing, "Hah... Seriously... Nopon can be a bit too easygoing." As he finished his comments, he walked off into the distance. Riku watching him off. 
+Noah was about 2 o'clock to his direction, very near, estranged at his gleefulness, but observed without disturbance. The two turned their attention to Lanz, approaching, "Hah... Seriously... Nopon can be a bit too easygoing." he walked off immediately after he commented. Riku just watched him off, seemingly not offended. 
 
-As he walked, Noah sounded from behind, focused on his sword, their backs facing each other, "Everyone deals with things in their own way."
+He walked away, muscle tensed, emotionally stodgy, when Noah sounded from behind. "Everyone deals with things in their own way." They had their backs facing each other, Noah holding his sword up. 
 
 "Is that right? And why are _you_ acting all normal?" He turned to him, "It was Joran! He was... He looked just like his old self!"
 
-Noah turned to him, putting his sword down, snapped with serious looks, "I suppose... you think you're the reason for that, do you?"
+Noah put his sword down, turned to face him, stodgily, "I suppose... you think you're the reason for that, do you?"
 
 "Huh?"
 
@@ -186,15 +184,15 @@ Pugnaciously, he rebutted, "'Course it is!"
 
 "Whaddya mean... 'why it happened'...?"
 
-He turned to his right and walked a few steps, Lanz's eyes on him, as he continued, "The reason we became Ouroboros... The reason the world looks like this. It's all connected... I'm sure of it..."
+He turned to his right and walked a few steps, with Lanz's eyes on him, as he continued, "The reason we became Ouroboros... The reason the world looks like this. It's all connected... I'm sure of it..."
 
 Lanz, superciliously, "Or maybe you just want it that way."
 
 Noah accepted it, turned to face him, "Better than being stuck in the past."
 
-"Uhhh..." Lanz felt hearthurt. His head down, announced "I won't... I can't... **I'll NEVER SNUFFING FORGET!!!**" Then, he walked away towards the waterfall, all tensed. Noah watched him off. 
+"Uhhh..." Lanz felt hearthurt. His head down, announced "I won't... I can't... **I'll NEVER! SNUFFING FORGET!!!**" Then, he walked away towards the waterfall, all tensed. Noah watched him off. 
 
-Then, he looked to his right, where the Ferronis had fallen in the pond, thought to himself, "_There shouldn't be any life in those bodies... But the motes still rose... So that means... I knew it._"
+Then, he looked to his right, where the Ferronis had fallen, thought to himself, "_There shouldn't be any life in those bodies... But the motes still rose... So that means... I knew it._"
 
 He brought out his flute as he recalled. 
 
@@ -202,19 +200,21 @@ He brought out his flute as he recalled.
 
 #### (Start of Noah's Memories)
 
-An evening after a battle. Transporting levnises parked above a platform; another levnis drove down a hill. Noah, in his Kevesi uniform, stood slightly below the tallest hill, overlooking the battlefield. Someone sounded from beside (or behind?) him. 
+In the evening sun, transporting levnises parked on an elevated platform; soldiers tiredly walked around the battlefield littered with levnises wreckages;  some levnises drove down a hill. On a platform below the tallest point of the hill, Noah stood overlooking the battlefield. Someone sounded from his right, he turned to him. 
 
-"The dead don't think anything. They don't speak." He turned to face him, he slowly walked up to him. It's the guy whom he was looking up at during the Homecoming when he was younger. "But... survivors speak for them. To celebrate their life... and death." He walked in front of him and past, stopped at the edge, "That's why... I'm here." He brought out his flute and played a melody, blue moats rose from the ground, both Kevesi and Agnian. 
+"The dead don't think anything. They don't speak. But... survivors speak for them. To celebrate their life... and death." It was the guy whom he looked up on during the Homecoming when they were younger. He walked past him, Noah's eye fixated on him, as he stopped at the edge of the ledge. 
 
-Transporting levnises could be seen retreating their feet and zoomed off into the distance. Soldiers with tired feet weakly pushed forward. Noah listened to him playing the melody, a different one from the usual Kevesi melody, perhaps one he invented. 
+"That's why... I'm here." He brought out his flute and played a melody; the melody seemed to differ from the usual Kevesi tune. 
+
+As blue moats rose from the corpses, both Kevesi and Agnians, transporting levnises fully boarded retracted their legs and zoomed into the distance; war levnises drove on the ground away in similar directions{{footnote: Air route and land route differs slightly.}} Several tired soldiers effetely pushed their bodies forward, a step after another, no attention to care about their surroundings.  Noah just watched the moats, listening to his melody, quietly. 
 
 #### (End of Noah's Memories)
 
-With his flute held up, he looked at the distant where Lanz strode away, "Lanz... _We_ are still alive..."
+He removed his glance on his flute and looked into the distance; Lanz smaller and smaller in his view, talking to himself, "Lanz... _We_ are still alive..."
 
 ---
 
-Outside the Colony, A levnis parked outside. To its 7 o'clock, there was a giant rock. Eunie took steps towards it as she called out to Lanz, "It ain't like you to sulk like this."
+Consider the barriers from the colony entrance to be its 3 o'clock and 9 o'clock; to it's 11 o'clock, there was a huge rock several meters tall, and an Agnian levnis parked tens of meters away to its left. Lanz was sitting behind the rock{{footnote: Seen from the colony entrance, it is 'behind'.}}; Eunie walking towards him from behind the parked Levnis. She commented while she was still walking, "It ain't like you to sulk like this."
 
 "Piss off..."
 
@@ -224,7 +224,7 @@ Outside the Colony, A levnis parked outside. To its 7 o'clock, there was a giant
 
 With a joking look, "Mmm-hmm... **Maybe** not, but I'm getting warmer." Then, she dropped and sat to his left. 
 
-Lanz sneered at her, "Eunie, for sparks' sake, read the room."
+Lanz sneered at her, "Eunie, *for sparks' sake, read the room*."
 
 Hushed, she replied, "Hard pass. Look Lanz, I was there too."
 
@@ -232,14 +232,70 @@ Hushed, she replied, "Hard pass. Look Lanz, I was there too."
 
 "No one's asking you to forget. Noah's just saying, move on."
 
-"Ah, Noah. He's always a step ahead, eh?"
+"**Ah, Noah**. He's always a step ahead, eh?"
 
 "You know he's an off-seer. He's closer to it all than we are. To the ones who're gone..."
 
-"Being left, it... It ain't easy." He now spoke softly. 
+In a softer tone, "Being left, it... It ain't easy." 
 
 "I know. Still... I don't wanna disappear."
 
-They enjoyed a moment of silence, recourse with his feelings, before Lanz agreed, "Yeah. Yeah, you're right. Not like... we can afford to go just yet." The mist blew in the distance as they watched the teeth-looking pillars of rock in the distance, with black fog enshrouded to their 11 o'clock. 
+There was a moment of silence as Lanz considered her feelings, and relinquished his current feelings, "Yeah... Yeah, you're right. Not like... we can afford to go just yet." They looked at nature; mist blew from one side to another by wind. Some teeth-like rock pillars shrouded by black fog. To the far side, there were other pillars that looked like elephant's tusk; together they made a structure that resembled a temple. 
+
+---
+
+'Lives' flowing into a Kevesi Flame Clock, half full, the Ferronis head shaped like a... jellyfish? Agnian soldiers fall as Kevesi soldiers and levnises marched forward. There was a new type of levnis: one that with four legs, two swords, and stood _really tall_. The center of its grip, capable of firing dispersed beams in in a conical shape wherever it points. The soldiers roared as they marched towards victory. 
+
+In contrast, Agnian soldiers were mostly corpses on the floor; its Flame Clock barely alight. One of the Agnian soldier, suffering heavy injuries, struggled to walk away from the battlefield; each steps was suffering. A Kevesi soldier holding a blade ran after him, stopped a few meters behind him. 
+
+As if noticing his existence, the Agnian turned his head to him. Then, "Yaaaaaaaaaaaa!!!" he dashed towards the Agnian, whom withdrew his dual blades as he got near and slashed an X in front, "Gyah!" The Kevesi soldier jumped before he slashed him, holding his swords over his head, and smashed down on the ground. Their backs were facing each other for a second before they stood up in synchrony, the Agnian suffered fatal injury, dropped his blades, let out a 'vomiting blood' sound, and fell to the ground. 
+
+Panting heavily, he turned to confirm the Agnian died. Upon seeing 'lives' arisen from his corpse, he raised his sword high, called out, "The Agnian commander... bites the dust!"
+
+Unfortunately, an unmasked Agnian soldier with crystals growing around her ears, some zig-zag cyan lines similar to Isurd growing from her ears down to her body, shoulder-long hair, blue iris, ran towards the Kevesi from behind and stabbed him as he turned, while shouting, "**I'LL KILL YOU**!!!" In a weeping tone, she looked at him, continued, "He had two months to go... And you mudders killed him...!" 
+
+She stabbed deeper into his chest, he made 'vomiting blood' sound, stiffly fall to his back, sheathing his blade in the process, and landed on his back. The woman watched 'lives' rose from his corpses a few seconds later as she took two steps backward. 
+
+As she grief, bullet shot her right on her forehead; her last words before she fell on her backs was "Seguy... Forgive me..."{{footnote: In a calm tone.}}. Lying to her side beside the Agnian Commander's corpse, Flames in her Iris died down and concluded the battle. 
+
+This scene was replicated in the Moebius projector room. As the screen turned blank, we focus on a 16-sided roulette, with 3 concentric rings that divided it into 3 layers. The most inner layer (a.k.a. the 4th layer) don't count, as it was just a white axle. Metallic figurine pawns were put on some of the segments; those that had pawns standing lit up; and some conquered an 'area' had the whole section lit up even if there weren't standing pawn on it. The pawns had different shapes, representing soldiers wielding blade, lance, staffs. One of the soldier pawn laid horizontally, its cyan light dim out. 
+
+"All dead, all done!"
+
+"Ngah!"
+
+Two Consul, one thin, one buff, sat by the table with the roulette. Here, we could see more pawns outside the roulette, and there was a dark glass emanating 'lives' from it in the middle of the roulette, floating above the axle. 
+
+"Ahhh... Did you hear those dulcet death throes, though? 'Seguy... Forgive me...' Forgive what? Why's she apologizing? Uch, humans." This Consul whom spoke had a very tall prism helmet, with two hose that stuck from outside into his nose, seemingly oxygen pipes. And he sounded like a duck. 
+
+"Tch... Such useless pawns." This female Consul had a regular bird-shaped helmet with some 'wings' stuck to her top. 
+
+"So I win then...?" He grabbed the glass and drank the 'lives' in it; the Moebius symbol in his Iris glowed as he finished gulping them down. 
+
+They were sitting on the stage, just before the projector. On the front few rows, Z sat near the middle pathway, while the golden-mask with an X-shape on his chest stood on the pathway, a step behind him, watching. He looked down on these two Consuls, "Tch..."
+
+Nauseating... Might we infer from that, **N**?"
+
+"Is there naught here but these vulgar pleasures?"
+
+"Hah... I see why you would feel that way. But, you have not the luxury." More about Z: white long hair, tall sharp-tipped ears, purple lines on his face like dendrites, green-cyan{{footnote: RGB = #788983}} skin, and purple smoke escaping the two dendrites directly above his eyes, orange-reddish iris. 
+
+"Say what you mean." He turned to look at him. 
+
+"Pleasures and sorrows, meetings and partings, their roots are the same... Tolerance of existence is at the heart of them all."
+
+"You want me to frolic with them?" 
+
+"You shall find there's no such thing as luxury in this world. Everything buds from but a single thought. That you yourself are here... is proof definite thereof."
+
+"Hmph..." He looked away, unconvinced. 
+
+Z continued, "You need not understand. You can simply remain as you are... That is enough."
+
+---
+
+**Update on the Diamonds:** On a new page, only two of the diamonds in the first row cancelled out. 
+
+> **Mio's Diary:** We all have secrets, deep within... Memories we can never erase... Difficult experiences... It's just a distant dream of mine right now... But if we can just reach out to each other, even a little, we can tease out those delicate shapes. Then, with time, our bonds will grow stronger. Until one day... 
 
 ### Footnotes:

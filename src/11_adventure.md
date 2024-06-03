@@ -210,7 +210,6 @@ Lanz emerged a moment later, some water sprayed at Mio whom was very near him, w
 
 Lanz turned to his back, trying to soothe Eunie's anger, "C'mon! You're already soaking wet anyway! What difference does it make?" He swam off, freestyle, into the distance as he finished. 
 
-
 Eunie sniped back, "The difference is, you're an arsehole! What snuffin' difference..." Then, she pat one side of her temple hard, her head rolled in the other direction, "Uggh, I've got water in my ears now...!" 
 
 From a higher location, we could see where the Noah and Taion stood at an elevated platform, compared to the oasis bank on the opposite side. As those guys watched the drama, Mio and Sena regrouped, the nopons still fainted floating, and Eunie was trying to catch Lanz. Noah asked, "Staying here, are you?" 

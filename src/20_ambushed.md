@@ -254,7 +254,7 @@ Taion skeptically challenged the notion, "But wait... How does that work? H-How 
 
 Mio: "Assuming the memories we saw were correct... " She and Sena turned to face Noah, with Sena prompting for assurances, 
 
-"Noah...?" He breathed out quiveringly. Lanz drew their attention, walking towards Joran, "Joran! You're... You're our Joran! Y-you were alive?!" He stopped a few steps away from him. 
+"Noah...?" He displayed in inscrutable face, though his quivering breathe a few seconds later gave it up. Lanz drew their attention, walking towards Joran, "Joran! You're... You're our Joran! Y-you were alive?!" He stopped a few steps away from him. 
 
 In a gleeful tone, he returned the question, "Was I alive? Hah! Of course not. I did die on that day! Evidently! That's why I can be here now!" His speech moved with lively body emotions, putting his hands on his chest, then held it out in front of him, then held it out wide as if to embrace. "You can call me J! Guess what?" Using his right hand, he pushed the long dark green hair that hid his right iris so they could watch the glowing Moebius ring in it, "I'm a proud member of Moebius now!"
 

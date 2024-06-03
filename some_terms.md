@@ -89,6 +89,15 @@ These are some adjectives one could use, got from reading:
 - hushed: quiet (making little or no noise). 
 - cogent argument: clearly expressed and persuades people to believe it. 
 
+- frolic: to play and behave in a happy way. 
+- concomitant: something that happens with soemthing else, and is connected with it. 
+- foreshadowed: to act as a warning or sign of a future event. 
+- inscrutable: not showing emotions or thoughts, and therefore very difficult to understand or get to know. 
+- educed: to obtain information. (Definition 2: To develop something or make it appear. E.g. 'Experience empowers students by educing the power that they already possess.')
+- relinquishment: the act of giving up something such as a responsibility, claim, or possession. (Definition 2: The act of stopping having something such as a feeling, esp. when this is difficult.)
+- interim: temporary and intended to be used/accepted until something permanent exists. (an interim solution. )
+- eccentrically: in a strange or unusual way that's sometimes humorous.
+
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
 
@@ -129,3 +138,15 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - inchoate: only recently or partly formed, or not completely developed or clear. 
 - recondite: not known about by many people and difficult to understand. 
 - surmise: to guess something, without having much or any proof. 
+- unequivocal: total, or expressed in a clear and certain way. 
+- proliferates: to increase a lot and suddenly in number. 
+- credulity: willingness to believe that something is real or true, esp. when this is unlikely. 
+- idiosyncrasy: a strange/unusual habit, way of behaving, or feature that someone or something has. 
+- lacuna: an absent part, esp. in a book or other piece of writing. 
+- soporific: causing sleep or making a person want to sleep. (can be used for purple gas, but no...)
+- chaff(ed): to be or become annoyed or lose patience, often because of rules or limits.
+- incorrigible: (person/behavior) bad and impossible to change/improve. 
+- inundate: to give someone so much work or so many things that they can't deal with it all. (Definition 2: to flood an area with water.)
+- affectation: behavior/speech that's not sincere. 
+- indubitable: that cannot be doubted. 
+- 

@@ -150,7 +150,7 @@ The Agnian Queen, wearing a mask, short hair, 'very tall ears' (looked to transl
 
 ---
 
-**Update on the diamonds:** Four rows of diamonds slashed out, the fifth row 2 of 5 slashed. Seemingly, 10 days had passed. 
+**Update on the diamonds:** Four rows of diamonds slashed out, the fifth row 2 of 5 slashed. Seemingly, 10 days had passed since the previous chapter. 
 
 > **Mio's Diary**: We have endured the fierce fighting at Colony 4, and learned that the Consuls and Moebius are one and the same. Truths we took for granted continue to crumble at our feet... We have spent so long blindly walking the path set before us, without question. But we are more curious now, of our future selves... Of our purpose... 
 

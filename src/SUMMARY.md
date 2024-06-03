@@ -29,6 +29,9 @@
 - [Ambushed, Colony Lambda, Consul J](./20_ambushed.md)
 - [Isurd, Off-Seer Purpose, Emotional Recourse](./21_lambda.md)
 
+# Chapter 4: Life
+- [N and Cammuravi, ](./22_cammuravi.md)
+
 ---
 <!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->
 - [Noah and Crys (Side Story)]()
