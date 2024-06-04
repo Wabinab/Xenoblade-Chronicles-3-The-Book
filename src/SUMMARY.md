@@ -30,7 +30,8 @@
 - [Isurd, Off-Seer Purpose, Emotional Recourse](./21_lambda.md)
 
 # Chapter 4: Life
-- [N and Cammuravi, ](./22_cammuravi.md)
+- [N and Cammuravi](./22_cammuravi.md)
+- [A Dragon, ](./23_journey.md)
 
 ---
 <!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->
