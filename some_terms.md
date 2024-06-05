@@ -92,11 +92,14 @@ These are some adjectives one could use, got from reading:
 - frolic: to play and behave in a happy way. 
 - concomitant: something that happens with soemthing else, and is connected with it. 
 - foreshadowed: to act as a warning or sign of a future event. 
-- inscrutable: not showing emotions or thoughts, and therefore very difficult to understand or get to know. 
+- **inscrutable**: not showing emotions or thoughts, and therefore very difficult to understand or get to know. 
 - educed: to obtain information. (Definition 2: To develop something or make it appear. E.g. 'Experience empowers students by educing the power that they already possess.')
 - relinquishment: the act of giving up something such as a responsibility, claim, or possession. (Definition 2: The act of stopping having something such as a feeling, esp. when this is difficult.)
 - interim: temporary and intended to be used/accepted until something permanent exists. (an interim solution. )
 - eccentrically: in a strange or unusual way that's sometimes humorous.
+
+- mither: to complain. 
+- uncalled: not asked for or invited to do something. 
 
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
@@ -150,3 +153,8 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - affectation: behavior/speech that's not sincere. 
 - indubitable: that cannot be doubted. 
 - cleavage: the narrow space between a person's breasts that is seen when they wear a piece of clothing that doesn't cover the top of them. (Definition 2: a division/disagreement.)
+- salient: The salient facts about something or qualities of something are the most important things about them. 
+- laity: all the people who're involved with a Church but who're not priests.
+- heterodox: (of beliefs, ideas, or activities) different to and opposing generally accepted beliefs or standards. 
+- compendium: a short but complete account of a particular subject, esp. in the form of a book. 
+- arbiter: someone who makes a judgment, solves an argument, or decides what will be done. 

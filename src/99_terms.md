@@ -33,4 +33,5 @@ Here are some terms highlighted in the book. More of these information could be 
 - **Power Frame:** Kevesi soldiers are generally weaker than Agnians. To balance the strength, they wore power frame to boost their strength. Moebius probably prevented the spread of power frame to the Agnians, to ensure their balance of power. 
 - **Queen:** The assumed ruler of both Kevesi and Agnians. The Kevesi Queen was Melia Antiqua, from Xenoblade 1, resided in the castle that resembles Imperial Capital Alcamoth; the Agnian Queen was Nia, from Xenoblade 2, one is unsure of (or forgot about) the structure resemblance of the castle. 
 - **Saffronia:** The tree associated with Nimue's original colony: a peaceful colony away from battle, planted food for themselves. 
+- **Sena's encouraging stance**: she put both her arms like a boxing defense move; and if she nod her head, it seems encouraging; if she don't, she seemed curious or asked for pity. 
 - **Swordmarch:** The original location of the city before it moved later in the chapter. 

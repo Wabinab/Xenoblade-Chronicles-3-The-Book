@@ -31,7 +31,8 @@
 
 # Chapter 4: Life
 - [N and Cammuravi](./22_cammuravi.md)
-- [A Dragon, ](./23_journey.md)
+- [A Dragon Against Their Journey](./23_journey.md)
+- [The Annihilator, ](./24_annihilator.md)
 
 ---
 <!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->

@@ -1,4 +1,4 @@
-# A Dragon,
+# A Dragon Against Their Journey
 
 Outside Lambda, the group gathered together, where the Ferronis and the waterfall behind the scene. Eunie was playing with the tip of her wings, Lanz stretching. Manana jumped and fluttered as she happily spoke with Noah. With his hands at the back of his head, Lanz announced to Noah and Mio, "Ready to go!"
 
@@ -112,6 +112,114 @@ J stood for a while in the theatre alone, gave his wishes, "Have a good one! Heh
 
 ---
 
-===
+The group stood where they fought the dragon before, but nearer towards the pond; mist enshrouded our vision where the water falls. The ground was purely soil, no undergrowth; and a tree with green leaves was at the distance, some distance to the left of the waterfall. Mio was in her appreciation stance, probably appreciating the day. Sena looked into the distance; to her 11 o'clock, Lanz was stretching.{{footnote: As usual, we omitted the 7th character -- [Zeon](https://xenoblade.fandom.com/wiki/Zeon), new Commander of Colony 9, after the previous one step down after Noah's leave.}} Noah watched them, then turned to his left. Eunie was playing with the tip of her wings, Riku and Manana unsure what they were doing, and Taion thinking, one arm around his chest, another rested on it, putting his fingertips on his glasses. 
+
+Then, he turned to Mio, prompted, "Are you tired?"
+
+She turned to face him, "A bit. That last monster was really something. But I can deal with it." Then, she looked towards Sena, whom turned to face her earlier, and nodded, which Sena did her **encouraging stance** and... encouraged...
+
+Taion sounded from behind: "Yes, well. In that last battle we all overused our Ouroboros abilities... I want to avoid Interlinking again for a while."
+
+Noah agreed with him. "...Good shout."
+
+Lanz asked, "Couldn't we keep going, just without Interlinking?"
+
+"That comes with its own risks. Small, but risks nonetheless. I'm just asking you to keep it in mind."
+
+"Sure, whatever..." Then he just put his hands behind his head, meh...
+
+Noah suggested, "Shall we find somewhere to have a quick rest, then?"
+
+Taion immediately check the map in his Iris, and replied, "It appears there should be a good place to take a break up ahead."
+
+Noah agreed with his decisions, "We'll regroup once we get there."
+
+Eunie: "Roger that, boss!" 
+
+They place they mentioned had to cross the lake; some trees grew at the edge where water falls to a lower level. At the other side of the lake, there was a path that could take them to higher platforms. Far in the distance, there was more waterfall, and the teeth-like rocky structure enshrouded with black fog we last seen when Eunie and Lanz were reminiscing about Joran's reappearance. Taion took the lead as others followed. 
+
+---
+
+Water falling sounded from behind. Taion was at the edge of the platform. A bald tree to his left, and the teeth-like structure to his 11 o'clock, far away. Lush green grass ankle-high carpeted the floor where he stood. Behind him and upwards, we saw cliff walls, and a tree that grew horizontally, it's roots on the cliff wall. At the lower part, an S-shaped path could bring them to higher platforms. The waterfall where they came from was 90° to the left, including the lake and the water that falls to a lower distance, its edge forming a semicircle. 
+
+He was holding on to Nimue's gadget. One thing to note, the gadget had a cap that can be opened and closed; obviously, you opened it to check the time, and closed it to 'protect' external damage in case you drop it. Currently, it's 'closed'. 
+
+He was reminiscing as Mio sounded from behind, cutting his thoughts, "Ah, there you are! I don't want to mither, but... Aren't you on tent duty today?" Taion first took down the gadget from attracting unwanted attention before he turned to face them. Noah and Mio were walking up to him. 
+
+"Oh! I'm sorry, I forgot. I'll head back and-" He didn't manage to finish his words. Noah was closing his eyes and smiling at him. Turning to Mio, she did the same. He was confused, "Huh?"
+
+"It's all finished." She remarked. 
+
+"Huh?"
+
+Folding his hand around his breast, Noah added, "We already packed it all up." 
+
+"Hngh. Then what was the point of telling me? Don't you have better things to do?" He pushed his glasses up in annoyance. 
+
+"Hey, you owe us one." He tucked his hands by his waist; and Mio nodded, agreed with him. 
+
+"Urghphhhhhhuh..." 
+
+"*I'm just joking!* Are you OK?" 
+
+He remained stodgy, "What do you mean, OK?"
+
+Mio expressively nudged, "These last few days... It's been a lot, right?"
+
+"That's why you're concerned?"
+
+She nodded, "Yep! *You got it*. We were worried. Your problems are our problems." As she folded her arms with more concerned intonation, "***Just because someone says they're doing OK, doesn't mean everything actually is fine with them.***"
+
+Annoyed and impatient, he turned his head one round and pushed his glasses, all the while commenting, "**You know**, there's a word for people like you."
+
+"Hm?" Mio eyes opened. 
+
+"Busybodies, all of you." 
+
+She set out to encourage, but was denied being appreciated, "Now Taion, that is *completely uncalled for*!" Though, she doesn't fussed, her last few words in a more jokingly tone. 
+
+"**Hah!**" He replied to her joking tone with a laughter, albeit a stiff one. 
+
+That confused her: "Huh?"
+
+Putting his arms on his waist, he remarked, "You two really must be bored stiff. Good grief."
+
+Noah put his arms around his chest as he empathized with him, "Everyone needs to let off steam."
+
+Raising his tone before snapping and giving up, "**Is my life that entertaining to you?** Pah... *I'll allow it.*" He can't jettison them, can he? As he opened up Nimue's gadget in front of them, the two took notice. 
+
+Mio was reminded what she saw when Isurd handed it to him, "Hey, that watch..."
+
+Taion nodded his head, then continued, "Our lifetimes run for ten years only. But... this pocket watch has already lived for longer than that, by being passed, from Nimue's hands to mine." As his memories lingered back when they first met, fighting Eunie, helping Lanz, listening to Guernica's final words, he continued in a lively tone, "What Guernica said to us on that battlefield. I don't know what you made of it exactly, but frankly, to me it was a load of nonsense. **Not even enough to push us together!**"
+
+"Huh..." Noah's eyelids constricted a little as he heard his last sentence, his thoughts inscrutable. Nonetheless, he didn't cut him off. 
+
+Changing to a lower tone, he continued, "But that's changed. If Nimue's life is represented by her dreams, then in remembering those, I carry her life with me. Perhaps now... I can give a purpose to my life. She'd live on, if I were to pass her dreams on to others... Right?"
+
+"Heavy..." Mio softly commented. 
+
+He quickly grabbed the watch and put it down while back facing them, snapped, "Also, I've done some thinking."  With his heads slightly tilted up, eyes closed, as if he returned to his thinkings, "If I had just, say, ten more years... No, even five. With just a bit of borrowed time... how many more memories could I fit... inside this little pocket watch...?" He looked back down at the stopwatch. 
+
+Noah lightly prompted, "And that's... why you're here now?"
+
+"That's half of it." He turned back to face him. 
+
+Mio was curious, asking for more, "What's the other half, then?"
+
+Looking at her from the tip of his eyes, he suddenly stuttered to her question,  "Oh, uh, well..." As he paused, Mio's eyes glanced back at his, tilting her head slightly with curiosity. They exchanged glance for a few seconds before Taion felt too awkward. He quickly turned the other way and tucked in a quick reply, "In fact, just forget it."
+
+She was disappointed, urging for more, "Aw come on...! You've already told us that much. Might as well give us the whole story!"
+
+He awkwardly pushed his glasses up, "Thi-this is just not the place or time for it, that's all."
+
+She sleepy-eyed him, "Laaaame..." Then, changing to a happy tone, "Still, it was a nice chat." Taion turned to face her as he sensed a change in atmosphere, and she continued, "Dreams in objects, huh... Hmhmhm..." Her ears wiggled as she laughed. 
+
+"Ug-Ugh..." He just looked at her, speechless. Noah was also looking at her. 
+
+Mio appreciated, "Thanks, Taion! We came here to cheer you up a bit, and got food for thought instead." 
+
+He was taken by surprise, unsure how to replied to her compliments: "Oh, sure. Any time." 
+
+As Mio continued to speak with him, Noah looked at her, particularly her term symbol, and spoke lightly in his heart (or brain), "_(Mio...)_"
 
 ### Footnotes:
