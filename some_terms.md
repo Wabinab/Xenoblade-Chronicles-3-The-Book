@@ -158,3 +158,4 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - heterodox: (of beliefs, ideas, or activities) different to and opposing generally accepted beliefs or standards. 
 - compendium: a short but complete account of a particular subject, esp. in the form of a book. 
 - arbiter: someone who makes a judgment, solves an argument, or decides what will be done. 
+- solipsism: the belief that only your own experiences and existence can be known. 
