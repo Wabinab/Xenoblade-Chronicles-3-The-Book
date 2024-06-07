@@ -1,6 +1,7 @@
 # Appendices
 
 ## Appendix A: Variant A of Guernica Vandham's Dog Tag:
+
 > We had used Variant B, which included Mio in the scene, and wearing their new shirt, as the one in the book. Here is the one from the second video, without Mio and his team, and before the changed of clothes. This scene probably played out if you got near his dog tag, can't remember; but one played in Chapter 1, variant B in chapter 2. 
 
 One morning.

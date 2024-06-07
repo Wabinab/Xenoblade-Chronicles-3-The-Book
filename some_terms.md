@@ -159,3 +159,6 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - compendium: a short but complete account of a particular subject, esp. in the form of a book. 
 - arbiter: someone who makes a judgment, solves an argument, or decides what will be done. 
 - solipsism: the belief that only your own experiences and existence can be known. 
+- bulwark: something that protects you from dangerous or unpleasant situations. 
+- stipulate: to say exactly how something must be or must be done. 
+- corollary: something that results from something else. 

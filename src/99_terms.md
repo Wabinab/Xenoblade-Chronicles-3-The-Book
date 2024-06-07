@@ -3,6 +3,7 @@
 Here are some terms highlighted in the book. More of these information could be found in the [Xenoblade Wiki](https://xenoblade.fandom.com/wiki/)
 
 - **Agnian Welcoming Stance**: Clench your right hand into a fist and put it by your heart. Refer to its use in `Kevesi Welcoming Stance`. 
+- **Annihilator**: A cannon attached to the Keves Castle, capable of drawing energy from the black fog and fire annihilation events at anywhere it wanted to. Noah's group found a weakness in the design and destroyed it. 
 - **Automaton:** Called [Automaton Sentry](https://xenoblade.fandom.com/wiki/Automaton_Sentry) in the wiki, they were levnises used by the Lost Numbers. 
 - **Black Fog:** Where black fog appears, annihiliation events became high probable. The Kevesi castle had created an annihilator that harness the black fog's power, a man-made annihilation is thus available. 
 - **City:** Where the Lost Numbers lived.
@@ -35,3 +36,4 @@ Here are some terms highlighted in the book. More of these information could be 
 - **Saffronia:** The tree associated with Nimue's original colony: a peaceful colony away from battle, planted food for themselves. 
 - **Sena's encouraging stance**: she put both her arms like a boxing defense move; and if she nod her head, it seems encouraging; if she don't, she seemed curious or asked for pity. 
 - **Swordmarch:** The original location of the city before it moved later in the chapter. 
+- **Taion's Thinking Stance**: This didn't refer to one single stance. He usually put one arm around his waist or higher, the other resting on it. Sometimes, his fingertips were pushing his glasses up. Sometimes, he put them in front of his mouth, clenched lightly. Sometimes, he puts his arms lower, some distance below his chin. 
