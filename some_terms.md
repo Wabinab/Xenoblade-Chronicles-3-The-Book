@@ -101,6 +101,11 @@ These are some adjectives one could use, got from reading:
 - mither: to complain. 
 - uncalled: not asked for or invited to do something. 
 
+- gloomy:
+- snagged: a problem, difficulty, or disadvantage. 
+- deprecating jokes
+- imbue: 
+
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
 
@@ -162,3 +167,8 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - bulwark: something that protects you from dangerous or unpleasant situations. 
 - stipulate: to say exactly how something must be or must be done. 
 - corollary: something that results from something else. 
+- feigh: to act as if something is true when it's not. 
+- tirade: a long angry speech expressing strong disapproval. 
+- credenza: a kind of low, wide cupboard with several parts, and sometimes with drawers, usually used for holding glasses, plates, etc.
+- consign: to send something to someone. 
+- 
