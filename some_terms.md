@@ -104,7 +104,15 @@ These are some adjectives one could use, got from reading:
 - gloomy:
 - snagged: a problem, difficulty, or disadvantage. 
 - deprecating jokes
-- imbue: 
+- imbue: to fill something/someone with a particular feeling/quality/idea. 
+
+- vagaries: unexpected events or changes that can't be controlled and can influence a situation; (usage: the vagaries of whatever.)
+- fiendishly: extremely
+- perilous: extremely dangerous
+- traipsing: to walk from one place to another, often feeling tired or bored. 
+- morass: marsh, swamp. 
+- galled: make (someone) feel annoyed or resentful.
+- unfettered: not limited by rules or any other controlling influence. 
 
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
@@ -171,4 +179,5 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - tirade: a long angry speech expressing strong disapproval. 
 - credenza: a kind of low, wide cupboard with several parts, and sometimes with drawers, usually used for holding glasses, plates, etc.
 - consign: to send something to someone. 
+- putative: generally thought to be or to exist, even if it's not really so. 
 - 
