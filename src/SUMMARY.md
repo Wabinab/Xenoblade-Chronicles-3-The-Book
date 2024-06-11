@@ -34,6 +34,7 @@
 - [A Dragon Against Their Journey](./23_journey.md)
 - [The Annihilator, Thoughts On Moebius](./24_annihilator.md)
 - [Juniper](./25_juniper.md)
+- [Maktha Wildwoods](./26_maktha.md)
 
 ---
 <!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->

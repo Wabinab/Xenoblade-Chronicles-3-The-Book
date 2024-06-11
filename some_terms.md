@@ -114,6 +114,14 @@ These are some adjectives one could use, got from reading:
 - galled: make (someone) feel annoyed or resentful.
 - unfettered: not limited by rules or any other controlling influence. 
 
+- gallivant(ing): to visit or go to a lot of different places, enjoying yourself and not worrying about other things you should be doing. 
+- rebuffed: to refuse to accept a helpful suggestion or offer from someone, often by answering in an unfriendly way.
+- abnegation: the act of not accepting something, or of saying that you do not have something, esp. something you like/want. 
+- insouciance: a relaxed and happy way of behaving without feeling worried or guilty. 
+- repugnant: (behavior or beliefs) very unpleasant, causing a feeling of disgust. Detestable. 
+- relish: To like/enjoy something. (Def 2: (idea/thought of something) you feel pleasure that it's going to happen.)
+
+
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
 
