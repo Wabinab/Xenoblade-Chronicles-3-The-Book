@@ -90,7 +90,7 @@ These are some adjectives one could use, got from reading:
 - cogent argument: clearly expressed and persuades people to believe it. 
 
 - frolic: to play and behave in a happy way. 
-- concomitant: something that happens with soemthing else, and is connected with it. 
+- concomitant: something that happens with something else, and is connected with it. 
 - foreshadowed: to act as a warning or sign of a future event. 
 - **inscrutable**: not showing emotions or thoughts, and therefore very difficult to understand or get to know. 
 - educed: to obtain information. (Definition 2: To develop something or make it appear. E.g. 'Experience empowers students by educing the power that they already possess.')
@@ -121,6 +121,21 @@ These are some adjectives one could use, got from reading:
 - repugnant: (behavior or beliefs) very unpleasant, causing a feeling of disgust. Detestable. 
 - relish: To like/enjoy something. (Def 2: (idea/thought of something) you feel pleasure that it's going to happen.)
 
+- stoop: head and shoulders bent forwards and down. 
+- embroiled: to cause someone to become involved in an argument or a difficult situation. 
+- baffled: to cause someone to be completely unable to understand or explain something.
+- peckish: slightly hungry. 
+- bountiful: large in amount.
+- dainty: small, delicate, and often moving in a careful way.
+- flustered: upset and confused.
+- trudging: to walk slowly with lots of effort, esp. over a difficult surface or while carrying something heavy. 
+
+- aghast: suddenly filled with strong feelings of shock and worry. 
+- dejected: unhappy, disappointed, or without hope. 
+- groggy: weak and unable to think clearly or walk correctly, usually because of tiredness or illness.
+- **contemplating**: to spend time considering a possible future action, or to consider one particular thing for a long time in a serious and quiet way. 
+- disparage: to criticize someone/something in a way that shows you don't respect/value him, her, or it. 
+- subsume: to include something/someone as part of a larger group. 
 
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
@@ -188,4 +203,26 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - credenza: a kind of low, wide cupboard with several parts, and sometimes with drawers, usually used for holding glasses, plates, etc.
 - consign: to send something to someone. 
 - putative: generally thought to be or to exist, even if it's not really so. 
+- retribution: deserved and severe punishment. 
+- gaggle: a group of noisy or silly people. 
+- foreshortened: reduced or make shorter. 
+- purloined: to steal something. (from Tirkins)
+- rustlers: a person who steals farm animals; 
+- taciturn: tending not to speak much. 
+- ubiquitous: seeming to be everywhere.
+- serried: pressed closely together, usually in lines. 
+- burgeoning: developing quickly. 
+- smattering: a very small amount or number. 
+- pilfered: to steal things of small value. 
+- restitution: the return of objects that were stolen or lost. 
+- conjure: to make something appear by magic, or as if by magic. 
+- shorn: (shear, cut wool off sheap)
+- bucolic: relating to the countryside. 
+- spurred: to encourage an activity/development/make it happen faster. 
+- affliction: something that makes you suffer. 
+- indentured: relating to an official agreement that someone will work for someone else for a length of time, esp. in order to learn a job. Internship. 
+- daubed: to spread a thick/sticky liquid on something, or to cover something with a thick/sticky liquid, often quickly or carelessly. 
+- recrimination: arguments between people who're blaming each other. 
+- curmudgeonly: often in a bad mood.
+- unwittingly: in a way that's done without knowing or planning. 
 - 
