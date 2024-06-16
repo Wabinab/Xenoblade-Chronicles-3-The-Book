@@ -137,6 +137,9 @@ These are some adjectives one could use, got from reading:
 - disparage: to criticize someone/something in a way that shows you don't respect/value him, her, or it. 
 - subsume: to include something/someone as part of a larger group. 
 
+- dour: unfriendly, unhappy, and very serious. 
+- 
+
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
 
@@ -225,4 +228,5 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - recrimination: arguments between people who're blaming each other. 
 - curmudgeonly: often in a bad mood.
 - unwittingly: in a way that's done without knowing or planning. 
+- de-facto: 
 - 

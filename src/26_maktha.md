@@ -294,19 +294,13 @@ Shaking her head, "Oh, sorry, sorry! Please don't mind me."
 
 She abnegated, "Don't mind me, she says... 'Course we're gonna mind you, doll."
 
-Some moment later, they sat and enjoyed the silence (04:18)
+Some moment later, they sat under the Bright Fig Tree, perhaps on its roots. They looked at a different direction (of course, given how circular are tree trunks!) with Manana in between, whom closed her eyes; the two sacks of food located in front of her. Whether or not being caught in their thoughts, the rustling wind, cuckooing birds, and chirping cicadas; the aromas of bright yellow flowers; together with the night sky, provides a cultivating bed for anything that has to come, and anything that has to go. 
 
-===
+Eunie calmly asked, "Hey, how can you be so casual about it?"
 
-They enjoyed a moment of silence as they sat under the Bright Fig tree, each facing a different direction, Manana in between them. Two sacks of food (mushrooms?) were put in front of them. Flowers swayed as wind stroke them gently. 
+Turning to her, "What do you mean, 'casual'?" Eunie turned to face her, pointed at her breast where her term symbol was. 
 
-Eunie broke the silence, calmly asking, "Hey, how can you be so casual about it?"
-
-Turning to her, "What do you mean, 'casual'?"
-
-She turned to her and pointed at her breast where her term symbol was. Even when they were talking, Manana seemed to be asleep, or maybe just enjoying the surrounding, her eyes closed, hibernating. 
-
-She turned away, looking on the floor, then looked up on the sky, "I assure you, I'm not. I'm actually pretty flustered."
+Turning away, she looked at the floor and the sky as she reminisced, hoping they would take some nervousness away, "I assure you, I'm not. I'm actually pretty flustered."
 
 "You deffo don't look it."
 
@@ -314,35 +308,33 @@ She turned away, looking on the floor, then looked up on the sky, "I assure you,
 
 Quietly prompting, "Whatcha mean?"
 
-She took out her flute from her pocket, held it with both hands as she continued, reminisced about Miyabi{{footnote: Eunie don't know about Miyabi, Noah knows a bit from her memories.}} as she softly shared, "This life's a gift, from... a dear friend... It should've been me... I should have died out there that day." 
+Taking out her flute and held it with both hands, she softly shared, "This life's a gift, from... a dear friend... It should've been me... I should have died out there that day."
 
-> **Mio's memories**: Inside a building, some Agnian design tunnels, there was an explosion as flames raged behind. Miyabi was helping the injured Mio moving forward in the serious of tunnels. Miyabi pushed them into an escape pod as she closed it, not entering it herself. Purple gas filled the outer layer and enshrouded Miyabi's silhouette. As the escape pod's rocket engine bursts into flames, it shot out and Mio held one hand on the tiny window, hoping to reach out for her. The remaining of the flames finally spread to where the escape pod originally were, destroying the remaining. 
+> **Mio's memories**: Inside a building, seemingly (multiple) T-shaped tunnels, Miyabi was helping Mio, whom injured at least her feet, to move forward. Explosion and flames raged from the junction, but they escaped it. Sitting inside an escape pod, Miyabi spoke her final words to her as she closed the door, closed herself out of her reach. Purple gas now filled the outer atmosphere as the escape pod launched into the distance, its rocket engine flares as it zoomed across its escape tunnel. Mio could only held her hands out, pressed it against the windows, and shouted, "**MIYABIIIIIII!!!**" Flames ignites the purple gas and Miyabi was no more to be seen. 
 
 "So this isn't really me. I'm just living on her time. Maybe that's why..." 
 
-Eunie casually look at her as she listened to her story, "Hmmm..." She looked as Mio stood up, walked a few steps forward, pressed the flute to her lips, and started playing a melody. It wasn't the usual Agnian off-seeing melody.{{footnote: In retrospect, like Crys whom created his Crys's melody, this is Miyabi's Melody.}} Manana's eyes opened up as she heard the melody, the song reverberates around the quietness of the forest. 
+"Hmmm..." Eunie let her have the conversation she needed to without disturbing, only following her glance on her. As Mio stood up and make a few steps ahead, she pressed the flute to her lips and started playing a melody. It wasn't the Agnian off-seeing melody, an alteration indeed{{footnote: In retrospect, like Crys whom created his Crys's melody, this is Miyabi's Melody.}}. Manana's eyes opened to 'look' at the melody. The single song that strikes the tranquil forest, even birds lowered their chirping and cuckooing frequency, listening to her. 
 
-After she finished a short segment, Eunie stood up, and with Manana, approached her, softly spoken, "Somehow, that remind me of us..." Mio put her flute down and turned to them. 
+As she finished a short segment, Eunie stood up, accompanied by Manana, approached her and softly spoken, "Somehow, that remind me of us..." Mio put her flute down and turned to them. 
 
 Mio connected with her thoughts, "I know. When we're Interlinked, I can see a glimpse. Inferno, destruction... Lanz screaming."
 
-"Noah's memories..." To which she nodded.
-
-Raising her voice as she looked to the ground, trying to phrase her words, "What if... Bear with me... That friend of yours, she showed up like Joran?"
+"Noah's memories..." To which Mio nodded. Then, Eunie looked down to presented a recourse, trying to rephrase her words, "**What if**... Bear with me... That friend of yours, she showed up, like Joran?"
 
 "As an enemy?"
 
-"As an enemy."
+"*As an enemy*."
 
-She looked down on her flute, replied with a verge-of-tears tone, "I suppose... I'd want to know, same as Lanz. Simply... Why?"
+Her tone quivering, "I suppose... I'd want to know, same as Lanz. Simply... Why?"
 
 "Gotcha. I figured."
 
-She could no longer hold her thoughts to herself, tears aggregating at the tip of her eyes, "Mm... Why is it that you gave your life for mine? Why...? You could've lived longer yourself, Miyabi. Why did you do it?"
+She could no longer hold her thoughts to herself, tears aggregating at the tip of her eyes, "Mm... Why is it that you gave your life for mine? Why...? *You could've lived longer yourself, Miyabi*. Why did you do it?"
 
-"So her name was Miyabi..." To which she nodded, then Eunie apologized with a low tone, "Sorry... Guess it's a sensitive subject."
+"So her name was Miyabi...{{footnote: Eunie don't know about Miyabi, Noah knows a bit from her memories.}}" To which she nodded. "Sorry... Guess it's a sensitive subject."
 
-She shook her head, holding back her tears, "It's funny... I thought I had it all locked down..." As she looked down away to shed her tears, she saw Manana handling her a piece of handkerchief. "Thank you." Eunie patiently waited while she wiped her tears. 
+She shook her head, trying to hold back her tears, "It's funny... I thought I had it all locked down..." Manana held out a handkerchief below her that caught her vision. "Thank you." She bent down and took it to her hands. Eunie patiently waited as she wiped off her tears. 
 
 She continued, reflecting determination, "Whatever her reason... I'd accept it. The facts. Whatever the truth may be."
 
@@ -352,38 +344,38 @@ She nodded, "While my de-facto partner's running full steam ahead? I mean, I can
 
 Eunie changed to a teasing tone, "*You're partners now, eh?* Heh, I s'pose you are, at that." She turned to face her left. 
 
-"Hm?" Mio's attention was diverted, and saw that Noah was rationalizing with Taion while Sena listened in. 
+"Hm?" Mio's followed her glance, and saw that Noah was rationalizing with Taion while Sena listened in. 
 
 Eunie continued, "I wonder... How does he see things?" Behind Sena, there were bamboo sticks grown in groups. 
 
 ---
 
-As the group roamed under an enormous trunk infested by enormous mushrooms (and by enormous, one really mean, 1.5x to 2x the height of Taion), Taion was wondering as he examined the mushrooms, "...Hm? What's this...?"
+Somewhere near but not the original location, under a giant tree, its trunk so huge it looks like a hundred human cannot make a circle that fits the trunk. Even the mushrooms that suck their nutrients out of the tree were huge, some of the stems as tall as Taion, width as buff as Lanz. Their cap could make do a few person shielding from rain. Taion examined some mushrooms and wondered, in his thinking pose, "...Hm? What's this...?"
 
 Sena stood up beside him, "We ate those yesterday, didn't we? Must be lotsa them in these woods..."
 
 "Seems so... Well, that explains it." 
 
-Now, Lanz, left of him, also turned his attention to him and asked, "What explains what?"
+Lanz, to his left, prompted him to explain, "What explains what?"
 
 "At first glance, it looks just like a Kelp Mushroom, but in fact... it's what's called a Naiti-Nait, causing overpowering drowsiness when ingested."
 
-"Huh?!" Sena was shocked at his chain of thoughts. 
+"Huh?!" Sena was shocked to hear. 
 
-Similar was Lanz, "Uh, so you're saying..." Far behind them, there was an Anlood seemingly raising its front limbs and knock against a tree???
+Lanz similarly, "Uh, so you're saying..." Far behind them, there was an Anlood seemingly raising its front limbs and knocking against a tree???
 
-"We ate these, and that's why we all slept clean through the Tirkins stealing our food. That's my working hypothesis, anyway." The Anlood was tired of knocking the tree now, walked off the scene like how models showed their shirt and walked off the stage. Turning around, he continued before walking off, "I'll go and warn Mio and the others." Lanz and Sena saw him off. 
+"We ate these, and that's why we all slept clean through the Tirkins stealing our food. That's my working hypothesis, anyway." The Anlood was perhaps tired of knocking the tree now, walked off the scene like how models showed their shirt and walked off the stage. Turning around, before walking off, "I'll go and warn Mio and the others." Lanz and Sena saw him off. 
 
-Manana approached them as she overheard their conversations, "Meh mehhh... Was Manana who put in dish... Should have known better..."
+Manana approached them, overhearing their conversations, "Meh mehhh... Was Manana who put in dish... Should have known better..."
 
 Sena tried to take her off her sole responsibility, "We all picked the ingredients together, so it's not like it's you that was at fa-"
 
 She cut her off, "But then Manana blow up on Lanz and say many lots of mean things! Very deeply sorries..."
 
-Lanz just scratched his head as he turned to his side, "Hey, it's all in the past. More importantly, all this trudging around foraging has given me a wicked appetite. We've got enough now, surely? Let's go back to camp and make it into something edible."
+Lanz just scratched his head as he turned to his side, _awkward_... "Hey, it's all in the past. More importantly, all this trudging around foraging has given me a wicked appetite. We've got enough now, surely? Let's go back to camp and make it into something edible."
 
-Sena seconded, "Yeah!"
+Sena seconded with enthusiasm, "Yeah!"
 
-"Manana agree also!" Her mood was quickly gone, fluttered her wings and jumped about. 
+"Manana agree also!" Her low mood was quick to go, fluttered her wings as she jumped about. 
 
 ### Footnotes:
