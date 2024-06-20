@@ -68,7 +68,7 @@ Some Tirkins, animals with bird face, bird wings so stiff it looked like sword w
 
 As the morning rise, the bonfire was put out; smoke continue to rose from the pile of charcoal remains. Sena was stretching as she casually walked by, but something registered in her unconscious to be off, so she reversed back to position, turned her eyes on the sack of food as the smile on her face faded. With an inspecting look, both sacks laid open horizontally on the ground, "**GASP!!! All the food's completely gone!**"
 
-Noah jumped up from his lying down position, gasping for breath as he adjusted to the imminent danger. Lanz was already awake and practicing his sword, sniped to her siren, "**WHAZZUP!? What's wrong?!**"
+Noah jumped up from his lying down position, gasping for breath as he adjusted to the imminent danger. Lanz was already awake and practicing his sword, retorted to her siren, "**WHAZZUP!? What's wrong?!**"
 
 Noah, now standing up on his feet, questioned in a higher tone, to ensure he listened correctly, "_What did you say was gone?_"
 

@@ -138,7 +138,20 @@ These are some adjectives one could use, got from reading:
 - subsume: to include something/someone as part of a larger group. 
 
 - dour: unfriendly, unhappy, and very serious. 
-- 
+- impelled: to make someone feel that they must do something.
+- portend: to be a sign that something bad is likely to happen in the future. 
+- **altercation**: a loud argument or disagreement (Mio and Noah flute exchange scene). 
+- lassitude: physical or mental tiredness.
+- cognizant: understanding and realizing something.
+
+- scoot: to go quickly. (Def 2: to slide while sitting.)
+- retort: to answer someone quickly in an angry/funny way. 
+- **contemplate**: to spend time considering a possible future action, or to consider one particular thing for a long time in a serious and quiet way. (to think carefully about something.)
+- glowering: to look very angry, annoyed, or threatening. 
+- verglas: a thin film of ice on rock. (Valak mountains)
+- beholden: feeling you have a duty to someone because they have done something for you. 
+
+- mollify: to make someone less angry or upset. (Noah failed to mollify Mio during flute exchanged scene.)
 
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
@@ -228,5 +241,62 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - recrimination: arguments between people who're blaming each other. 
 - curmudgeonly: often in a bad mood.
 - unwittingly: in a way that's done without knowing or planning. 
-- de-facto: 
-- 
+- de-facto: existing in fact, although perhaps not intended, legal, or accepted. (Def 2: A person someone lives with as a wife/husband, although they're not married).
+- encumbrance: something that makes it difficult for one to do something. 
+- medevac/medevaced: the act of taking a sick/injured person to a hospital in a helicopter/plane; the aircraft that is used in this situation.
+- boondocks: any area in the country that's quiet, has few people living in it, and is a long way away from a town/city. 
+- seditious: intending to persuade other people to oppose their government. 
+- flout: to intentionally not obey a rule, law, or custom. 
+- wacko: a person whose behavior is strange and different from that of most people. 
+- clambered: to climb up, across, or into somewhere with difficulty, using hands and the feet. 
+- **crag**: a high, rough mass of rock that sticks out from the land around it. 
+- greenhorn: a person who's not experienced. 
+- indefatigable: always determined and energetic in trying to achieve something, and never willing to admit defeat. 
+- furlough: a period of time when a soldier, worker, or prisoner is allowed to be absent, to return temporarily to their own home (or of an employee absent, because the company don't have enough money/work)
+- alabaster: an almost transparent, white stone, often used for making decorative objects. 
+- pearlescent: having a surface that seems to shine with different colors.
+- abraded: to remove part of the surface of something by rubbing. 
+- shale: a type of soft, grey rock, usually formed from clay that has become hard, that breaks easily into thin layers. 
+- stymie: to prevent something from happening or someone from achieving a purpose.
+- frisked: to use your hands to search someone's body when they are wearing clothes, to see if they're hiding illegal objects or weapons. 
+- monogrammed: (clothes or other possessions) decorated with a monogram (= a symbol formed from the first letters of a person's name).
+- bouillon: a thin, clear soup made by boiling meat and vegetable in water.
+- conundrum: a problem that's difficult to deal with. (Def 2: a question that is a trick, often involving a humorous use of words that have 2 meanings.)
+- hobnail: a heavy boot/shoe that has nails fixed into the bottom to make it last longer. 
+- phenom: someone/something extremely successful, esp. someone young in sports who achieves a lot very quickly. 
+- promontory: a narrow area of high land that sticks out into the sea.
+- laconic: using very few words to express what you mean. 
+- vainglory (vainglorious): showing too much pride in your abilities or achievements
+- lodestar: a star, esp. the Pole Star, used to help find direction. (Def 2: an example/principle that people want to follow.)
+- votaries (votary): a person who has made a promise to serve a particular religion/god. (Def 2: a person who strongly supports a particular cause/person.)
+- conspicuous: very noticeable or attracting attention, often in a way that's not wanted. 
+- exemplars: a typical/good example of something. 
+- martyr: a person who suffers very much or is killed because of their religious or political or religious beliefs, and is often admired because of it. (Def 2: someone who tries to get sympathy from others when (s)he has a problem/too much work, usually when that person caused the problem or chose to do the work himself/herself.)
+- compulsion: a very strong feeling of wanting to do something repeatedly that's difficult to control. 
+- allegory: a story, play, poem, picture, or other work in which the characters and events represent particular qualities/ideas that relate to morals, religion, or politics.
+- vertiginous: causing/experiencing the feeling that everything is spinning around. 
+- menaces: something that's likely to cause harm. (Def 2: a dangerous quality that makes you think someone is going to do something bad.)
+- quintessential: being the most typical example or most important part of something. 
+- foursquare: marked by boldness and conviction, forthright. (Def 2: firm, steady, unswerving) (Def 3 skipped.)
+- haute: (the business of making) expensive clothes of original design and high quality.
+- dame: a woman. (Def 2: the funny character of an older woman, usually played by a man, in a pantomime (=a musical play for children)).
+- aspic: a transparent jelly made from animal bones that's used in cold savoury foods. 
+- salience: the fact of being important to or connected with what's happening or being discussed. 
+- massifs: a group or area of mountains. 
+- blasphemous: considered offensive to God or religion. 
+- talismanic: relating to powers of an object that is believed to bring good luck or keep its owner safe. (Def 2: a person that's able to influence others and attract attention and admiration.)
+- inimical: harmful or limiting. 
+- ferment: fermentation. (Def 2: a state of confusion, change, and lack of order or fighting; esp. because of suddenly changing conditions.)
+- firmament: the sky. 
+- intrepid: extremely brave and showing no fear of dangerous situations. 
+- exhortation: the act of strongly encouraging or trying to persuade someone to do something. 
+- footfall: the sound of a person's foot hitting the ground as they walk. (Def 2: the no. of people who go into a shop/business in a particular period of time.)
+- vicarious: experienced as a result of watching, listening to, or reading about the activities of other people, rather than by doing the activities yourself. 
+- foray: a short period of time being involved in an activity that's different from and outside the range of a usual set of activities. (Def 2: a short visit, esp. with a known purpose.)
+- rampart: a large wall built round a town, castle, etc. to protect it. 
+- sheen: a bright, smooth surface. 
+- epitome: the typical/highest example of a stated quality, as shown by a particular person/thing. 
+- funicular(s): a special type of railway that travels up and down steep slopes, with the carriages being pulled by a strong metal rope. (cable railway)
+- patrician: of or like a person of high social rank. 
+- stentorian: using a very loud voice, or (of a voice) very loud. 
+- valences: (similar to atom's valence): the ability of an atom to combine with other atoms, measured by the no. of electrons it will lose, add, or share. 

@@ -35,7 +35,8 @@
 - [The Annihilator, Thoughts On Moebius](./24_annihilator.md)
 - [The World Is Evil, Juniper](./25_juniper.md)
 - [Food Crisis In The Forest](./26_maktha.md)
-- [Bolearis's Tale](./27_bolearis.md)
+- [Bolearis's Tale, Ethel and Cammuravi](./27_bolearis.md)
+- [Exchanging Flutes](./28_exchanging_flutes.md)
 
 ---
 <!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->
