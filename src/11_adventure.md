@@ -156,7 +156,7 @@ With a cheerful tone "Then it's settled!" As she walked towards the east route, 
 
 The blaring sun shone on the rocky floor. Flora and fauna were rare: two species, one was the red-leaved low tree we saw when consul K visited Ethel; another with long purple sword-like leaves that spreaded from its center, at about the same angle, making a fan-like structure. The latter shrub grows tall or short. Behind them is a platform which leads to a sandy dune, surrounded by even higher rocks on the other sides. The rocks seemed to be carved out from the center, as it looked to translator like an annihilation event happened and caused the shape. The group were walking _really_ slow, exhausted from the unbearable heat. Sena and Mio were falling far behind, both took off their jackets.{{footnote: The others don't took off their jackets.}}
 
-"Ugggh... So... hot..." Mio's face was blushing red, her steps unstable as she leaned on Sena to move her forward. "Can't... go... on..." As she finished, she dropped her body weight totally on Sena. 
+"Ugggh... So... hot..." Mio's face was blushing red, her steps unstable as she leaned on Sena whom helped her move forward, herself sweltering. "Can't... go... on..." As she finished, she dropped her body weight totally on Sena. 
 
 Sena had her hands over her shoulders, "Keep it together now, Mimi! I'll drag you along myself if I have to!" 
 

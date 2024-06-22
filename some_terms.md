@@ -133,7 +133,6 @@ These are some adjectives one could use, got from reading:
 - aghast: suddenly filled with strong feelings of shock and worry. 
 - dejected: unhappy, disappointed, or without hope. 
 - groggy: weak and unable to think clearly or walk correctly, usually because of tiredness or illness.
-- **contemplating**: to spend time considering a possible future action, or to consider one particular thing for a long time in a serious and quiet way. 
 - disparage: to criticize someone/something in a way that shows you don't respect/value him, her, or it. 
 - subsume: to include something/someone as part of a larger group. 
 
@@ -152,6 +151,13 @@ These are some adjectives one could use, got from reading:
 - beholden: feeling you have a duty to someone because they have done something for you. 
 
 - mollify: to make someone less angry or upset. (Noah failed to mollify Mio during flute exchanged scene.)
+- giddy: dizzy. (Def 2: feeling silly, happy, and excited and showing this in your behavior.)
+- distraught: extremely worried, nervous, or upset. 
+
+- fraught: full of unpleasant things, causing or having extreme worry or anxiety. (fraught conversations).
+- icky: unpleasant, esp. to look at.
+- dismayed: feeling unhappy and disappointed. 
+- premonition: a feeling that something, esp. something unpleasant, is going to happen. 
 
 Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 
@@ -231,7 +237,7 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - smattering: a very small amount or number. 
 - pilfered: to steal things of small value. 
 - restitution: the return of objects that were stolen or lost. 
-- conjure: to make something appear by magic, or as if by magic. 
+- conjure (conjuring): to make something appear by magic, or as if by magic. 
 - shorn: (shear, cut wool off sheap)
 - bucolic: relating to the countryside. 
 - spurred: to encourage an activity/development/make it happen faster. 
@@ -300,3 +306,68 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - patrician: of or like a person of high social rank. 
 - stentorian: using a very loud voice, or (of a voice) very loud. 
 - valences: (similar to atom's valence): the ability of an atom to combine with other atoms, measured by the no. of electrons it will lose, add, or share. 
+- viceroy: someone who represents a king/queen and rules for him/her in another country. 
+- heralded: to be a sign that something important, and often good, is starting to happen, or to make something publicly known, esp. by celebrating/praising it. 
+- diadem: a small crown with jewels in it. 
+- connoting (connote): if a word, object, or situation connotes something, it makes you think of a feeling or an idea that's more than its basic meaning. 
+- ravenous: extremely hungry. (Def 2: wanting something very much or wanting a lot of something.)
+- rapture: extreme pleasure and happiness or excitement. 
+- incantatory (incantation): (the performance of) words that are believed to have a magical effect when spoken/sung. 
+- totalizing: to make/combine into a total. 
+- disavow: to say that one know nothing about something, or that one have no responsibility for or connection with something. 
+- slag: was material produced when coal is dug from the ground, or a substance produced by mixing chemicals with metal that has been heated until it's liquid in order to remove unwanted substances from it (like the floating "oily/bubbly" part of steel). 
+- panegyric: a speech/piece of writing that praises someone/something very much and doesn't mention anything bad about them. 
+- immanence: the state of being present as a natural and permanent part of something. 
+- schist(s): a type of rock that breaks easily into thin layers, formed of mica or other minerals. 
+- gneiss: a type of metamorphic rock that contains light and dark layers formed of minerals such as quartz and mica. 
+- dissolution: the act/process of ending an official organization/legal agreement. 
+- plutonic: noting/pertaining to a class of igneous rock that have solidifed far below the earth's surface. 
+- scree: large, loose broken stones on the side of a mountain, or an area covered with stones like this. 
+- anthropomorphizing/anthropomorphize: to show/treat an animal, god, or object as if it is human in appearance, character, or behavior. 
+- accord: (a formal) agreement. 
+- mercurial: changing suddenly and often; always becoming different. (Def 2: intelligent, enthusiastic, and quick.)
+- sentience: the quality of being able to experience feelings. 
+- esoteric: very unusual and understood or liked by only a small number of people, esp. those with special knowledge. 
+- venerate: to honor or very much respect a person/thing. 
+- adherent: sticky. (Def 2: a person who strongly supports a particular person, principle, or set of ideas.)
+- sect: a religious group that has separated from a larger religion and is considered to have extreme/unusual beliefs/customs. 
+- ascetic: avoiding physical pleasures and living a simple life, often for religious reasons. 
+- conch: a tropical snail-like sea creature, sometimes eaten as food, that lives in a large, spiral shell. (Def 2: the large, spiral shell of the conch, that can be used to make a musical/warning sound by blowing into it.)
+- swelter: (of a person) to feel very hot. 
+- fogbound: prevented from operating as usual or traveling because of fog. 
+- demarcate: to show the limits of something. 
+- profane: showing no respect for a god or a religion, often through language. 
+- emboldened: to make someone brave or willing to take more risks. 
+- reverential: caused by, or full of respect and admiration. 
+- kitsch: art, decorative objects, or design considered by many people to be ugly, without style, or false; but enjoyed by other people, often because they're funny. 
+- imperious: unpleasantly proud and expecting to be obeyed. 
+- obeisance: the fact of obeying or respecting someone, or something you do that expresses this. 
+- votive: given or done to honor and thank a god. 
+- balustrade: a set of posts or a screen to prevent people from falling over the edge of stairs, a balcony, etc., often with a wooden, metal, or stone bar on top that one can hold. 
+- misanthropic: not liking other people. 
+- placid: having a calm appearance or characteristics. 
+- hubbub: a loud noise, esp. caused by a lot of people all talking at the same time. (Def 2: general excitement and activity.)
+- lull: to cause someone to feel calm or to feel that they want to sleep. 
+- banality: the quality of being boring, ordinary, and not original, or something that is like this. 
+- penchant: a liking for, an enjoyment of, or a habit of doing something, esp. something that other people might not like. 
+- quiescence: the state of being temporarily quiet and not active. 
+- dominion: control over a country/people; the land that belongs to a ruler; a country that belonged in the past to the British Empire. 
+- sentinels: a person employed to guard something. 
+- lamasery: a monastery of lamas (=A Tibetan Buddhist monk). 
+- (be/get) bogged down: to be/become so involved in something difficult/complicated that one cannot do anything else. 
+- lithe: young, healthy, attractive, and able to move and bend smoothly.
+- embalmed: to use chemicals to prevent a dead body from decaying. 
+- mythos: myth. 
+- gallantry: polite and kind behavior towards women, esp. when in public. (Def 2: the quality of being brave when something is difficult/dangerous.)
+- lionization: the act of making someone famous, or of giving someone a lot of attention and approval as if they were famous.
+- bequeathed: to arrange for money or property to be given to somebody after your death. 
+- outsized: larger than usual size. (if involved money, considered too large by many people.)
+- elided: to join different things together as if they're the same. (Def 2: to ignore a difference between things.) (Def 3: to not pronounce a particular sound in a word.)
+- carnage: the violent killing of large no. of people, esp. in war. 
+- epitaph: a short piece of writing or a poem about a dead person, esp. one written on their gravestone. 
+- straddle: to sit or stand with your legs on either side of something. (Def 2: border/river, exists on each side of it or goes across it.) (Def 3: to combine different styles or subjects.) (Def 4: to be unable to decide which of two opinions about a subject is better, and so partly support both opinions.)
+- apotheosis: the best or most extreme example of something. 
+- drapery: cloth hanging or arranged in folds. (Def 2: cloth, pins, threads, etc. used for sewing.)
+- inexorable: continuing without any possibility of being stopped. 
+- thaw: to (cause to) change from a solid, frozen state, to a liquid/soft one, because of an increase in temperature. (def 2: to become friendlier or more relaxed -- thaw out.)
+- extrude: to form something by forcing/pushing out, esp. through a small opening.
