@@ -37,6 +37,7 @@
 - [Food Crisis In The Forest](./26_maktha.md)
 - [Bolearis's Tale, Ethel and Cammuravi](./27_bolearis.md)
 - [The Time Is Nigh](./28_exchanging_flutes.md)
+- [Ethel and Cammuravi](./29_ethel_cammuravi.md)
 
 ---
 <!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->

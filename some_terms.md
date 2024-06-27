@@ -371,3 +371,7 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - inexorable: continuing without any possibility of being stopped. 
 - thaw: to (cause to) change from a solid, frozen state, to a liquid/soft one, because of an increase in temperature. (def 2: to become friendlier or more relaxed -- thaw out.)
 - extrude: to form something by forcing/pushing out, esp. through a small opening.
+- replete: full, esp. with food. 
+- contrived: artificial and difficult to believe. 
+- fritter (something) away: to waste money, time, or an opportunity. 
+- turgid: (speech, writing, style, etc.) boring and too serious about its subject matter. 
