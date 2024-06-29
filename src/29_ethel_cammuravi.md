@@ -1,4 +1,4 @@
-# Ethel and Cammuravi,
+# Ethel and Cammuravi, O and P
 
 Continuing their journey on some barren war-torn land, Mio's ears fluttered as she heard something, alerting the others, "What's that sound?!" 
 
@@ -208,6 +208,178 @@ Noah: "What now?" The others had also cancelled their Interlink as they joined b
 
 "Then... shall we?" Both transformed into their Moebius form, P with several knife-shape blades that made up a wing like a bird, a ring circled around her neck, and a crest like that of a chicken. O is a buff Moebius, with a ring around its very thin waist.
 
+Lanz: "Moebius..."
 
+P: "Now, feast your eyes!" Purple electrical sparkles throughout their body, releasing an energy burst, and they combined together. Thin legs and hands, with an inflated chest. A horse-like neck stretched from the body; she retained her head with her unicorn crown, now more spiky, sharp and long. The bull-shaped head with two thorns, ring around its neck, stretched from the other side of the body; their features look more like monsters with giant and sharp teeth than before they combined. Their torso is relatively "golden-ratio", with two sharp thorns poked upwards in a V-shape. Two whip-like structure swung, sticking out of the torso. It seems their torso aren't successfully integrated, like the chest-part of P still protrude from the back of O; that's where the two whips are attached -- to where her "hands" originally were. But now that she had muscular hands inherited from O, she don't need extra hands anymore. O had difficulty turning to face the group as his head can't turn 180° when P is facing them. 
+
+The group was feeling disgusted with the sheer ugliness of that figure, with Eunie openly expressing it, "Urgh, can't unsee!"
+
+P: "Don't try to curb your disgust, you dirty pleb."
+
+O, forced the body sideways a little so his eyes can look at them, "Hah! We'll have you know that this is the true form of Interlinking!"
+
+Turning back forcefully as he retreat, "**YES!!!** The form in which two worlds become one. A far more refined form than this... half-assed one you've stumbled upon. Look upon us and tremble before perfection! You'll writhe in agony before we-" She was making moves that show off her body like how a model does. 
+
+While she was happily speaking, Mio landed a feet at her face so hard, and she didn't react even at the last second, that she goes rolling backwards, make several somersaults before crashing in the rock in 'their' direction. Several hits on the floor before that sent dirt and dust enshrouding their views. 
+
+"Huh... Huh... Huh... Huh... Huh..." Mio was breathing for air as if she had used all energy with that leg. The group was flabbergasted at what she did, eyes and mouth wide opened, temporarily frozen, gasping.  O and P similarly, sitting on the ground as they try to figure out what just happened. 
+
+"Mio?" Noah called out from behind her. 
+
+"**Stop...**"
+
+P: "Stop?"
+
+Shouting at her, "**Stop toying... with everyone's lives!!! What did they ever do to you? Why? All they wanted was their wish to be realized! You turned everything into a game! Cast them away like dolls! These are our lives here! They're not some toys you can just play with!**"
+
+Sena seconded her a few seconds after she finished, walking forward slowly as she spoke, her tone seething, "Mimi's right! I've got no idea who you truly are. Though I hate to admit it. However, I do know one thing!" She called her blades, continued, "You guys really make my sparks fly!" And she punched the floor with her hammer. 
+
+Eunie now took steps forward, "You there, in the back. Feeling lonely 'cause you haven't been punched yet?" Called her blades, continuing, "You better enjoy that while it lasts, 'cause I'm about to rearrange both your mugs!" And she pointed her rifle at them. 
+
+Taion followed from behind, "Usually, I'm not one for outward displays of emotion." As he pushed his glasses up, his Mondo gauntlet appeared, and Mondo swirled around him as he finished, "**But not today!**" Then, he raised the swirling to on top of him, like an angel ring, but a larger ring. 
+
+Lanz slammed his broadsword into the ground, "Noah, **you better not stop us!**" Rain started to fall, reflecting their anger, reflecting their sadness. 
+
+He also called his blades, "Oh believe me, I won't." He walked forward, stopping beside Mio, "**You make me laugh. Us, 'half-arsed'?**" Pointing his sword at them, "Our conviction has never been stronger! **And now...** we will show no mercy. **By Ethel and Cammuravi's lives, I swear... I'll make you pay!**"
+
+P: "Huh! You Ouroboros brats!" Feeling looked down, they struggled as they stood up, jumped up and became a quadrupeds facing them, O as the main controller while P stayed behind the 'spine'. "Come on then! This time, you shall tremble before our perfection!" Then, she stood up and P took control again. 
+
+---
+
+Mio's, Eunie's, and Sena's Ouroboros teamed up against O and P. The sound of their Ouroboros at its limit could be heard, although their body didn't seemed to be glowing red hot. 
+
+P couldn't believed the situation. "...How could this be...? Our offense and defense... They were perfect!"
+
+"Aaaaaaaaargh!" Sena launched her hammer at them, though blocked by their shield, as she tried to overcome it. It shatters after constant pressure, smashing in their face. 
+
+O: "How did they? H-how could they?! How are they so strong?! That damn noise! Shut UP with your infernal beeping!" They fell to the ground on all fours before regaining balance. "Don't go telling us our time is up now! We were only just getting to the best part!" So it isn't just Ouroboros glow hot, but Moebius too! "I'll take these half-brains, and throttle the life out of 'em! I can still..." Yes, their body don't glow red hot, but their Moebius core caught fire. "I can still do this!"
+
+As she couldn't finish her sentence, the Moebius core glowed bright red hot (seen from inside), though it seems bright purple from the outside. "Nothing for it. Go for full Interlink! O!" Both: "Aaaargggggghhhh!!!" Now, both their core glowed bright purple, and annihilation-like black hole energy gathered around their hands and engulfed it. 
+
+P: "Better brace yourself. 'Cause you're gonna have a hard time... stopping this!" As she finished, Mio kicked her in her face, again! She go rolled backwards, their full Interlink process cut short. 
+
+As the dust thinned, they were panting, all fours on the ground, smoke rising from their body, though no light seen. "You're Ouroboros... Nobodies... You are nothing... to Moebius...!" They force gathered their core power again. Purple electricity sparkles around their body, enshrouded by thick purple fog.  These thick purple cloud/fog blew towards the Ouroboros's direction, sending them covering their face. 
+
+Eunie: "Oi, oi! Things are lookin' pretty snuffed up!"
+
+Taion: "Noah, something's strange!"
+
+O and P: "Iaaaaaaaahhhhhhh!" They step forward slowly, purple flames burning their feet, "Y-you'll never... get away with this! Neveeeeerrrrr!!! Ne... ne... ne...?" Then, an energy burst suddenly exploded from their core, sending shockwave into their vicinity. But they're still not dead; indeed, they're confused..."Wh- what's this light?! What's happening?! Wh-why can't we move?!" 
+
+Taion: "The black fog?!" The black fog were being absorbed into their core. He was reminded of what they see in the desert, and the pond they swam/bathed in the desert. "No... the annihilation effect?!"
+
+Noah: "What? Are you sure?!"
+
+"Noah! We have to get away from them! **We have to retreat!**"
+
+Sena: "**We're not gonna make it...!**"
+
+Lanz quickly take control, "**OH, SHIT!!!**" And he raised a ring shield in front to shield them from the predicted incoming burst. 
+
+Noah: "**Mio!**"
+
+"I'm on it!" Mio's Ouroboros quickly dashed towards O and P. We could also see Taion took control of the Ouroboros, raising a Mondo shield. 
+
+"Huh? Mio! What are you?"{{footnote: Is this from Lanz or from Taion?}}
+
+As they jumped, they cancelled their Interlink, floated upwards slowly as if anti-gravity, and Noah drew out Lucky Seven. Holding out the handle towards Mio, he called, "This is it!"
+
+She took hld of the long handle together with him, "It's the only... way!!!" Noah's wrapped the back of her hand which she put on the end of the handle. Together looking towards their target, "Hahhhhhhhhhhh!!!!" It... did not slice O and P into half. Instead, it poked itself into the ground in front of them. 
+
+A moment later, the ground starts cracking, sending dust and debris where it poked , as O and P's platform detached from the main platform, and they could only watched themselves falling together with the platform into whatever ground below.{{footnote: It should be a ground, because one could see bonfire down below to Noah's right.}} 
+
+Noah and Mio, seeing their success, quickly turned around and ran away from being trapped themselves. 
+
+O and P: "Waaaaaaaaaaaaaaa!!!" Some second after they fall, we see a green burst of light blindingly lighting up from below. 
+
+Noah caught hold of Mio as they faced down, landed on the ground. Taion's and Lanz's quickly got behind them and put up shields to block the intense shockwaves (plus dust, debris, and smoke) sending their way. 
+
+Looking down, it seems where they fall wasn't land; at least it's too tall the bottom area were covered with clouds. The green Annihilation ball carved out some shapes on the pillars of rocks before it died down, giant rocks swiveling around the Annihilation supposed center. 
+
+As Mio and Noah slowly got up on their feet, the other two Ouroboros cancelled their Interlink and approached them slowly. Noah scanned the horizon, "Is it over...?"
+
+Sena: "Are we... all in one piece?"
+
+Lanz, scratching his head, "Yeah... Think I've got all my limbs attached."
+
+Eunie was coughing furiously, "Queen's fingers, that was close!"
+
+Taion was impressed, "Quite a snap decision there, Noah!"
+
+He calmly replied, turning towards her, "That was Mio's doing. I'm very impressed!"
+
+"It was easy. I do know how you think."
+
+She wasn't cheered up. As she finished, she turned and walked towards the Ferronises, the group followed behind her. Both their flutes were held on their hands, reminisced for a moment, before they played the melody. Their first time with a different flute, eh! 
+
+Blue motes rose from inside the Ferronises, spreaded around before rising into the air. From inside, we could see they were rising from their remaining clothes, even though they don't have corpses anymore. Tears overflowed from Mio's while she continued the melody. 
+
+---
+
+(Night time, by a bonfire, camping beside a rocky wall).
+
+Riku and Manana were fully asleep. The others sat by the bonfire as they chat. Lanz turned to him, sitting to his right, "Noah. Can I ask a weird question?"
+
+"Sure."
+
+"In that ceremony... You didn't send... 'them' off?"
+
+His eyebrows raised a bit, "No, today's been a bit much. I'm only human."
+
+"I know, right? Well then. That's a relief."
+
+Mio, sitting beside Noah, commented, "It's wrong. That shouldn't be what gives our lives purpose. Wasn't there a different way? A better one?"
+
+Lanz: "Those two... fought for their ideal..." Looking up as if they were turning to stars, watching at them{{footnote: Though we couldn't see any stars...}}, "Something more important than their lives."
+
+Eunie: "Honor? Or pride?"
+
+Taion: "Satisfaction, perhaps?" Shaking his head to reject his hypothesis, "No, that's wrong... Something we can't put into words."
+
+Mio: "Yeah, but what? Can it really be that important?"
+
+"I can't say..."
+
+Sena asked, "Do you think they found it...? That... 'something'?"
+
+Lanz: "Be nice if they did."
+
+Noah: "You think so?" As they looked at him, whom was looking at the ground, "I just... Seems... so sad."
+
+"Huh..." Mio breathed out at his remark. Altogether, they watched the sparks rose into the air from the bonfire, before dying down, their flames. 
+
+---
+
+The next morning. 
+
+Lanz, Eunie, Sena, and Taion gathered around chatting. Riku was trying to wake up Manana. Mio walked towards Noah, whom was practicing his sword a distance away. In the background, we could see a fallen building, it's beam seems so strong it doesn't break even when laying slanted horizontally. Below it were the Ferronises. 
+
+As he finished his moves, sheathing his blades, he heard footsteps coming from behind, turned and asked, "Sleep well?"
+
+"Yeah... Well, sort of."
+
+"Well... Your eyes are red."
+
+"Hey, shut up... So what if they are?" She gave him a poke in his forehead, turned in the other direction, while he kept a hand covering where she poked. "But... I know what I have to do." Turning back to him, "Everything's so... clear now."
+
+"Same here."
+
+"We'd better hurry. After all... the threat's not gone."
+
+"Yeah. That's true. _Heh..._"
+
+"Hm?"
+
+In an uplifting tone, "You surprised me." Then, he showed it by punching himself in his cheek.{{footnote: Perhaps that's her foot at P's face he meant?}} She could only scratched her head. 
+
+She replied, "You did too. I... I didn't think you were the sort to take such a stand."
+
+"Sometimes, we're left with no other choice."
+
+"Mmm... Yeah! I think you're right! Absolutely right." Then, she turned to look at the Ferronises. He followed her glance, before she asked, "What do we do about... Ethel?"
+
+"When things are settled, we'll let Colony 4 know. It's what she'd want. I'm certain of it."
+
+"Yeah, you're right. She'd be... happy." As she finished, they turned and walk towards the group, where they camped. The others were finished chatting, looking at them returning. 
 
 ### Footnotes:
