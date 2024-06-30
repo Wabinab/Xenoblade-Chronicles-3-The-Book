@@ -375,3 +375,9 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - contrived: artificial and difficult to believe. 
 - fritter (something) away: to waste money, time, or an opportunity. 
 - turgid: (speech, writing, style, etc.) boring and too serious about its subject matter. 
+- eloquent: giving a clear, strong message. 
+- reticulated: arranged or having a pattern like a net of lines and squares, or a structure of pipes and wires.
+- sonorous: having a deep, pleasant sound. 
+- forestall: to prevent something from happening by acting first. 
+- obdurately: in a way that shows that someone is extremely determined to act in particular way and not to change despite what anyone else says. (Def 2: in a way that's difficult to deal with or change.)
+- 
