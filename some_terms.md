@@ -380,4 +380,26 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - sonorous: having a deep, pleasant sound. 
 - forestall: to prevent something from happening by acting first. 
 - obdurately: in a way that shows that someone is extremely determined to act in particular way and not to change despite what anyone else says. (Def 2: in a way that's difficult to deal with or change.)
+- emasculate: to reduce the effectiveness of something. (Def 2: to make a man feel less male by taking away his power and confidence.) (Def 3: to castrate a mane or male animal, or to remove the male parts of a plant.)
+- stultifying: preventing new ideas from developing. 
+- alembic: a vessel with a beaked cap or head, formerlly used in distilling. (Def 2: anything that transforms, purifies, or refines.)
+- conviviality: the quality of being friendly and making people feel happy and welcome. 
+- rink: a large, flat surface, of ice or other hard material, for specific sports like ice skating or roller-skating, etc. 
+- immaculate: perfectly clean or tidy.
+- pomposity/pompousness: the quality of being too serious, and showing that you think you're very important. 
+- satire/satirized: a way of criticizing people/ides in a humorous way, esp. in order to make a political point, or a piece of writing that uses this style. 
+- workaday: ordinary; not unusual. 
+-  outmoded: no longer modern, useful, or necessary. Old-fashioned, outdated. 
+- thrifty: showing a careful use of money, esp. by avoiding waste. 
+- condescending: treating someone as if you're more important or more intelligent than them.
+- pontificate: to speak/write and give your opinion about something as if you knew everything about it, and as if only your opinion was correct.
+- obnoxious: very unpleasant/rude. 
+- sanctimonious: acting as if morally better than others. 
+- disdain: the feeling of not liking someone/something and thinking that they don't deserve your interest/respect. 
+- espouse, espousing: to become involved with or support an activity/opinion. 
+- noblesse: the idea that someone with power and influence should use their social position to help other people. 
+- catamaran: a sailing boat that has 2 parallel hulls held together by a single deck. 
+- puttered: to do things in a relaxed way, without rushing or trying very hard. 
+- litany, litanied: a long list spoken or given to someone, esp. to someone who has heard or seen it before or finds it boring. (Def 2: Something related to Christian prayer, we skip this definition.)
+- gilt-edged: of the highest quality available. 
 - 

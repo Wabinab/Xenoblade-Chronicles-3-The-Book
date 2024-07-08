@@ -40,6 +40,10 @@
 - [Ethel and Cammuravi, O and P](./29_ethel_cammuravi.md)
 - [Hovering Reefs, Castle Infiltration](./30_castle.md)
 
+# Chapter 5: Eclipse 
+- [Colony Theta in Memories](./31_theta.md)
+
+
 ---
 <!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->
 - [Noah and Crys (Side Story)]()
