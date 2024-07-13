@@ -402,4 +402,11 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - puttered: to do things in a relaxed way, without rushing or trying very hard. 
 - litany, litanied: a long list spoken or given to someone, esp. to someone who has heard or seen it before or finds it boring. (Def 2: Something related to Christian prayer, we skip this definition.)
 - gilt-edged: of the highest quality available. 
+- lore: traditional knowledge and stories about a subject. (Def 2: background information about the fictional characters in a book, film, computer game, etc. and the fictional place and situation in which its events happen that's accepted as true by its fans.)
+- geriatric: for or relating to old people. (Def 2: old and weak.)
+- cantankerous: arguing and complaining a lot. 
+- piety: strong belief in a religion that's shown in the way someone lives.
+- precocious: (esp children) showing mental development or achievement much earlier than usual. 
+- morganatic: a morganatic marriage is one in which one partner is of higher social rank, and the other cannot claim this partner's title or possessions or pass them to their children. 
+- cogitation: the act of thinking very carefully about a subject, or the thoughts themselves. 
 - 

@@ -1,7 +1,5 @@
 # Hovering Reefs, Castle Infiltration
 
-===
-
 > **Translator's note on environment:** The surrounding below the annihilator stuffed with hovering islands, the latter paved with thin layer of grass, but mostly dirt. Wind-eroded rocks decorated the place. Bunnits and raptors{{footnote: Crocodiles?}} roamed the island. A stronghold stood still, connecting to the castle via bridges. Laia{{footnote: Flying stingrays}} roamed the clouds. A sacrificial altar structure at one of the small island we took note. This, is **Syra Hovering Reefs**, of Keves Castle Region. 
 
 ---
@@ -190,9 +188,7 @@ Sena: "That's what we're after, right?"
 
 ---
 
-===
-
-They stopped in front of the auto balancer, Noah commented, "It looks even bigger, seeing it up close..."
+The group walked towards the auto-balancer on a bridge that connected the latter to the castle. Stopping, Noah commented, "It looks even bigger, seeing it up close..."
 
 Taion looked up, signaled, "Noah. That's the auto-balancer."
 
@@ -202,7 +198,7 @@ Lanz: "Well then, let's get to it. Sena!"
 
 "My pleasure!"
 
-Taking one step forward, a glowing fingernail poked in front of them, before exploding. After the black smoke fades, the group looked up: a moebius (in the moebius monster form) with sharp teeth started speaking, "Sorry pals, 'fraid I can't let you do that."
+He took one step forward; suddenly, he felt an alarm in his unconscious, backed up just before a glowing fingernail punched into the ground before him. "Ukkk...." "Huhhhh..." As the group was brainfrozen, the fingernail exploded, sending dust and sparks, forcing the group turning their head sideways and closing their eyes. Looking to the source, a moebius, in its monster form, moving his sharp teeth, "Sorry pals, 'fraid I can't let you do that."
 
 Noah: "You?!"
 
@@ -214,29 +210,31 @@ Lanz: "Moebius... How'd you figure it out?"
 
 "**Grrr!**"
 
-Eunie's eyes got watery, trembling as it evokes her memory. She gritted her teeth as she got reminded. 
+Eunie's eyes turned shaky, after so long, they finally reunited! With gritty teeth, she couldn't stop her past fears from taking over her attention. 
 
-Taion noticed and cut her shock short, "Eunie? What is it?"
+Noticing her abnormality, Taion prompted and brought back her attention,  "Eunie? What is it?"
 
-She turned to look at him, "It's... Nothing." Then look back at the moebius, "This guy just does my head in, is all."
+She turned to look at him, "It's... Nothing." Then looking back at the moebius, "This guy just does my head in, is all."
 
 Manana: "He very condescending."
 
-Lanz: "I couldn't agree more. Let's shut him up then."
+Lanz: "**I couldn't agree more. Let's shut him up then.**"
 
 "Heheheheheheheh....."
 
 "Pffft!"
 
-The moebius transformed back to the human form. It was comprised of two moebius, D and J. 
+The moebius teleported to the bridge they were standing from above the auto balancer. They exit their moebius formed; it was an Interlink between D and J. 
+
+"Huhuh!"
 
 Lanz was shocked, "Joran... You're here too..."
 
 Putting his hands behind his head, "Ahahahahah..."
 
-D put his hands to his back, found the button, and remove his helmet. 
+D put his hands to his back, found the button, and remove his helmet, and revealed his face. Yellow-brownish hair, some shaved moustache, tanned skin, crimson iris, and thick eyebrow. He had an earring on his right ear, not his left. Not very special. Though, the feathers around his shoulders really stretches from his jacket! 
 
-Noah: "So that's what you look like..." Yellow-brownish hair, some shaved moustache, tanned skin, crimson iris, and thick eyebrow. He had an earring on his right ear, not his left. Not very special. 
+Noah: "So that's what you look like..." 
 
 He replied, "Whadda ya think? Quite the looker, eh?"
 
@@ -246,17 +244,17 @@ Joran: "I'm not entirely sure I would say 'trap' exactly. Eh, you'd have to ask 
 
 Noah: "N?"
 
-D: "So you too down P and O, didja? Not bad at all!"
+D: "So you took down P and O, didja? Not bad at all!"
 
 Joran: "Good riddance, I say. Idiots. I mean, going past the time limit while Interlinking? Who does that? _Dumbest thing I've ever heard!_" He laughed as he shook his head.
 
 Taion now had the confirmation, "So that really was it. The time limit."
 
-D: "Well, since you lot have already tangled with them, we can make this quick. I'm just glad I won't have to explain this." The moebius purple hue illuminates his body as he finished his sentence. 
+D: "Well, since you lot have already tangled with them, we can make this quick. I'm just glad I won't have to explain this." As he was finishing his sentence, purple hue lights up his body and he transformed to his moebius form. 
 
-Joran: "Yes. Why even explain?" Both transformed to their respective moebius before Interlinking. 
+Joran: "Yes. Why even explain?" He too. Electric sparkles around for a moment before they instantaneously interlinked. 
 
-Taion: "How typical."
+Taion noted, "How typical."
 
 "So? Loads better than P and O, right? Hehehe!"
 
@@ -264,37 +262,39 @@ Riku: "Can beat them this time?"
 
 Lanz: "Won't know until we try!"
 
-Sena was shocked at his words, "Well, what are we gonna try?! **Joran's in there, you know**?"
+Sena couldn't believe his words, "Well, what are we gonna try?! **Joran's in there, you know**?"
 
 "**Yeah, I noticed!**"
 
-Eunie couldn't make her decision, "N-Noah?!"
+Eunie couldn't make up her decision, "N-Noah?!"
 
-He nodded, calmly, "No time to think!" Withdrawing their blades, he continued, "For Ethel's sake... **We have to destroy the Annihilator**!"
+He nodded, calmly, "No time to think!" Withdrawing their blades, he shouted, "For Ethel's sake... **We have to destroy the Annihilator**!"
 
 ---
 
-The ring had been drawing energy. Noticing the globules of condensed black fog, Manana screamed, "**Annihilator has started moving!**"
+Compressed and/or condensed black fog moving along the cyan tube inside the ring; "**Annihilator has started moving!**" Manana screamed. 
 
 Riku seconded, "This is bad, Noah!"
 
-"I see it!" He and Mio immediately Interlink while he speak. D and J blocked their path before they reached the auto balancer. From behind, Lanz and Sena interlinked and joined in the fight. 
+"I see it!" He and Mio was running, interlinked as he replied. D and J intersected them from reaching the auto balancer. Sena and Lanz, interlinked as Noah's Ouroboros started exchanging blows with the moebius, joined in. 
 
-"No you don't!" D and J threw them in the opposite direction from the auto balancer. 
+"No you don't!" The moebius threw Noah's Ouroboros in the opposite direction, then landed a punch on Lanz's Ouroboros's chest. "Hyaaaa!" As he flew backwards, Noah's Ouroboros jumped from behind, to which he blocked his slash, and Mio took control. 
 
-"Haaa!!!" He kicked Lanz's Ouroboros in the face. From behind, Noah's Ouroboros landed a slash, but he blocked it, and Mio took control. 
+"Whatcha slackin' around for? If you don't hurry... the Colony's gonna be a pile of ash!" His fingernails easily cut off one of her limbs. She did some somersault, landing a hit with the rings on her legs, to no avail. He easily caught hold of her legs and threw her into a distance. "Haaaaa!" "Urrrgaaaaaaa!!!!"
 
-"Whatcha slackin' around for? If you don't hurry... the Colony's gonna be a pile of ash!" His fingernails easily cut off her limbs. 
+Eunie's Ouroboros didn't join in the fight. Taion was desperately calling out for her attention, "Eunie! What are you doing?!" The Moebius turned his attention to her, plus Taion's prompts, she took steps back, 
 
-Eunie's Ouroboros was at a distance, not joining in the fight. Taion was calling for her presence, "Eunie! What are you doing?!" She was still focusing on the Moebius, lingering on her past life's memories. She tried her hardest to shake the burden away, bringing herself up in the air as she randomly shoot bullets around D and J, so random that none hit them. 
+"Urgggggghhhh!!!!" That brought her back from daydreaming. She jumped into the air and randomly fire bullets around D and J; her accuracy was... so bad that none hit him. Before long, dust enshrouded her vision, best way for the moebius to hide. 
 
-Mio was still on the floor, trying to get back up, as she noticed and warned, "Behind you, Eunie!"
+Mio, still on the floor, managed to grow her limb back as she warned, "Behind you, Eunie!"
 
-"Huh!?" She turned and saw him an elbow distance away from her. He gripped her face in his arms. She struggled to release her head from his grip. As he threw her a distance away, he launched bullets at her, herself stuck to the wall for a moment before gravity took hold and fell to the ground. 
+"Huh!?" She turned and saw him an elbow distance away from her. "Urg huh!" He grabbed her head with his huge palm. She put two of her limbs on his hand, trying to push it away, kicking her legs like an insect with its abdomen inside a lizard's mouth trying to crawl out of its mouth with its front limbs.{{footnote: Sorry, because this is a real event one observed some time ago, one only can remember this right now.}}
 
-Taion: "What's the matter, Eunie?! You're too slow!" She struggled to stand up as D and J landed. Mio also got to her feet behind the background. 
+"Haaaaaa!" He threw her straight towards the wall below auto-balancer, "Wuaaaaa!!!!" As she flew backwards, he fired more shots at her. As the dust dissipated, herself stuck on the wall for a moment before gravity took over and crashed to the ground. 
 
-D: "Girly! I think we've met before."
+Taion: "What's the matter, Eunie?! You're too slow!" While she struggled to stand on her feet, D and J landed on the ground; Mio also just got up on her feet behind the background. 
+
+D smilingly exclaimed, "Girly! I think we've met before."
 
 Eunie, her voice trembling, "Wh-what?"
 
@@ -302,97 +302,103 @@ Eunie, her voice trembling, "Wh-what?"
 
 "Uh huh!" She gasped of fear. 
 
-Taion try to take over, seeing that she lost to her emotions, "Let me lead! I'll handle this! Go! Mondo!"
+Taion had had enough, seeing that she can't control her emotions. "Let me lead! I'll handle this! Go! Mondo!" A few groups of Mondo approached from several directions. 
 
-"You're not hittin' me!" He dodged the flying cards with ease. 
+"You're not hittin' me!" He dodged the flying cards with agile. 
 
 "Hah! Sure about that?"
 
 "What?"
 
-"Bind!" It created a ring around D and J. "Scatter!" They joined and exploded. 
+"Bind!" It created a ring around D and J. "Scatter!" They Mondo concentrated on the moebius and exploded. 
 
 Sena: "We won?"
 
 Noah peered closely, "No..."
 
-With a green hue, the Moebius dashed from behind the enshrouding smoke and caught hold of Taion's Ouroboros's neck, himself can't believe it, "What?!" He then threw him to a wall. "Gaaaaaaa!!!"
+The Moebius appeared with a green hue on its body surface, jumped on Taion's Ouroboros before he could make it out, and grabbed him by his neck, "What?!" Slamming him on the wall, "Gaaaaaaa!!!"
 
 Lanz: "Joran..."
 
-Joran: "Sorry, I don't think so. You'll have to do something about me first. You'll never win this otherwise. Heh heh heh!" D and J landed in front of the fallen-to-the-floor Taion's Ouroboros. 
+Joran: "Sorry, I don't think so. You'll have to do something about me first. You'll never win this otherwise. Heh heh heh!" Taion's Ouroboros fell on the floor as the Moebius landed in front of him. 
 
 Lanz: "Urg... Well then... We'll just have to take out **this**!" Sena took over and landing a hammer towards the auto balancer. 
 
 Sena: "Mimi! You gotta keep them busy!"
 
-"I'll do that!" She launched herself towards D and J. Yet, D and J easily blocked their path with his beams firing at a forward angle. Sena's Ouroboros had been sliced to pieces, its limbs all detached from the torso. Smoke rose from where the limb detached. 
+"I'll do that!" She launched herself to the Moebius simultaneously. 
 
-D: "What, you thought this was just a fashion choice?" He was pointing to the crystal 牛角 on his head, "These can sense the slightest shifts in the air. Kind of a sensor, really. Even without looking at you, I can tell exactly what you're doing, so you brats better learn fast!" He picked up Taion's Ouroboros from the ground by his neck, the latter drooped, still haven't recovered from the last smash. He threw him towards where the other two Ouroboros were. 
+Beams shot from below the refrigeration unit in a forward conical shape randomly manage to slice Sena's Ouroboros into 5 different parts, all her limbs separated from her torso{{footnote: Or 6 parts, if you count the hammer as another, detached from her limbs.}}. "Ahhhhh!" Both of them crashed on the ground, smoke rose from their broken limbs. 
 
-Meanwhile, the energy ball on the Annihilator started gathering power. His index finger signaling them to 'come, come!', Eunie switched back to her Ouroboros, was still scared looking at him, trembling as she slowly stood up. Noah and Lanz took control, launching themselves at him, no time to waste. 
+D: "What, you thought this was just a fashion choice?" He was pointing to the crystal horn on his head, "These can sense the slightest shifts in the air. Kind of a sensor, really. Even without looking at you, I can tell exactly what you're doing, so you brats better learn fast!" He picked up Taion's Ouroboros by his neck, whom still haven't recovered from the last smash, then threw him to join the other two. On the first contact with ground, Eunie took back control. 
 
-Taion: "**The Annihilator!!!**" Eunie still haven't got up on her feet yet, panting out of fear as she watched the other two fought D and J, only to get their limbs cut off. 
+The Annihilator continued growing the ball of energy at its tip. The Moebius signaled with his index finger, as if saying, 'come, come!' Eunie was trembling as she tried to stand up; Noah and Lanz took control in the meantime, dashing towards the Moebius. They were out of time. The Annihilator was about to fire. 
 
-Taion desperately called out, "Eunie, what are you-?! Move! If you won't move, let me-"
+Taion saw the dire situation, shouted, "**The Annihilator!!!**" 
 
-Effetely, "Taion..."
+"Urghuh..." Doing 'pushups', she still couldn't get up. her limbs effete, panting of fear. 
 
-"Huh!" He may have understood her. 
+Watching the battle, the Moebius sliced off Noah's Ouroboros arm with his fingernail, and threw them in opposite direction before turning to Lanz. Taion desperately called out, "Eunie, what are you-?! Move! If you won't move, let me-"
 
-"**Urgaaaaaaaaaaa**!!!!" She screamed out loud, trying to get over her fear, then launched herself at him, crazily using her rifle as a melee weapon, which the moebius dodged with agility. 
+"Taion..." She called out effetely, stop him from continued speaking. She had to get over this herself; or she will live in fear for the rest of her life. She must!
 
-Grabbing her rifle under his armpit while she tried to pull it out, "Getting desperate?"
+"Huh!" His eyes widened as he attended to her. 
+
+"Yaaaaaaa!!!!" Lanz was beaten back, rolled along the bridge before landing somewhere in front of Riku and Manana; the two quickly dodged back to avoid being hit. 
+
+Eunie was still panting furiously, turning to the Moebius, whom was smiling at her. "**Urgaaaaaaaaaaa**!!!!" Screaming out loud, she mustered enough energy to stand on her feet, launched herself at him, and waved her rifle as if it was a melee weapon; the moves so random and slow{{footnote: Like you swing a stick, if you swing it too hard, it'll 'smash', but you had a hard time changing direction.}} that the moebius had no trouble dodging it. 
+
+He found a chance to grab her rifle and tucked it under his armpit; which she tried hard to pull it out to no avail. He had time to tease her, "Getting desperate?"
 
 Noah: "Eunie!"
 
-"Heheheheh..." He pointed her fingernails at her eyes, slowly bringing it to her, just like the end of her past life's memories, continued, "Or maybe you've realized that the end is nigh."
+"Heheheheh..." He slowly pushed her fingernails closer and closer to her eyes, like how he did in her past memories, which she slowly backed away from, as he continued, "Or maybe you've realized that the end is nigh."
 
-"**Urgaaaaaaaaaaaaa!!!**" She wouldn't give up, blasted her rifle from between his armpits, hitting the auto balancer. 
+Just before it touched her head, she screamed once more, "**Urgaaaaaaaaaaaaa!!!**" And blasted the rifle, tilted it to aim at the auto balancer, and burst it into flames. Turning the rifle's angle with the moebius's armpit as a pivot isn't as difficult as it seems. 
 
-"Urg..." He just realized, turning back and saw it on fire. She recalled her rifle and blasted some random shots at him, before sending more rifle blast. It seemed like one hit managed to slice his core. 
+"Urg..." Now that he realized, it was a bit too late. Even though he raised the rifle so it pointed downwards, raising Eunie's Ouroboros with it, the damage was done. She sheated her rifle before blasting some random shots at him, to which he dodged. Another rifle beam blasted his way, and he still dodged, perhaps aware that it does sliced some of the walls below the auto balancer. Flying towards him, she shots many card-like bullets at him, one of it pierced into his moebius core. He swiftly dodged it, yet the cards stuck to the bottom of the auto balancer. Not yet done. The Annihilator was still holding. 
 
-"I thought I told you, I can read your every movement in the air!" He got hold of her neck. 
+Catching her by her neck, he reminded, "I thought I told you, I can read your every movement in the air!"
 
 She gritted her teeth, "Hah!"
 
 "Huh?"
 
-Now calmed down, "All you're sensing... is the area around you."
+She had calmed down, "All you're sensing... is the area around you."
 
 "What's your point?"
 
-"Well, if I make some distance, looks like you can sense... spark all!" She disappeared from his grip, Taion took over and teleported behind him. 
+"Well, if I make some distance, looks like you can sense... spark all!" She disappeared from his grip, and Taion took over and teleported behind him. 
 
-"An illusion?"
+"An illusion?" Mondo cards slowly rose from around them, as Taion didn't forget to 'push up his glasses' even in his Ouroboros's form, and without a glasses to push. 
 
-"Just so!" Many of the Mondos had already stuck under the auto balancer, had been imitating as a bullet, now turning back into Mondo with the flick of a finger, "**SCATTER!!!**" That destroyed the auto balancer with the burst of a flame. 
+"Just so!" Snapping his fingers, the paper card previously shot as bullets turned into Mondos.  Before the moebius could react, "**SCATTER!!!**" A bright explosion tipped the Annihilator's balance off the ring. 
 
-"Son of a-... You did that at the start?!" Losing the auto balancer, the Annihilator was slowly detaching from the ring, preparing to crash below it. He tried to grab him, Eunie dodged it, and he seemed to be chained to the ground,
+"Son of a-... You did that at the start?!" He knew he couldn't stop the damage; he tried to grab Taion's Ouroboros by his neck, but Eunie took control and somehow manage to pin him down on the floor by his limbs; he couldn't get out of her lock, as she commented,
 
 "Heh... Thought you had my number? You were so into my fear that you didn't notice what changed! And sure, I was scared. But even then... You'll find I'm no quitter!"
 
-As the explosion continued, "Aaaaaaaaaa!!!" He tried to apply force to release himself from the chain, to no avail. The two 'flaps' floating behind Eunie's Ouroboros had been piercing his limbs at its joints to the ground, 'lives' being released from the wounds. But he could escape: he detached his limbs like a lizard detaching its tails, and quickly wriggle backwards. 
+As the explosion continued, "Aaaaaaaaaa!!!" He tried harder and harder, to no avail he could raised his limbs from the piercing pins. That wasn't the end; like a lizard willingly detaching its tails, he detached both his limbs and crawled backwards, 'lives' escaping from the wounds. 
 
-"You ain't escapin'!" Eunie's Ouroboros pulled the two 'flaps' and redirected it to his torso, pinning down at its shoulders before landing a leg on his face.{{footnote: How come suddenly so weak?}}
+"You ain't escapin'!" The 'pins' were the 'flaps' that floated behind Eunie's Ouroboros. She redirected the pins and pinned him down again on his shoulder, before landing a leg on his face.{{footnote: How come suddenly so weak?}} He looked at him side-faced. 
 
-Taion: "**Eunie**!"
+Taion counted the time while she vent, called out when the situation became dire, "**Eunie**!"
 
-She gritted her teeth for a moment before jumping backwards. The Annihilator had been tilting downwards, the energy ball dissipating smaller and smaller, until its weight can no longer hold and break the ring. Eunie escaped from being dropped down below. 
+She gritted her teeth for a moment, before pulling out her 'flaps' and jumping backwards. Just then, the Annihilator, tilting downwards with the huge ball of energy; the ball dissipated, the ring bent downwards. We could see Eunie jumping away before the ring started breaking. 
 
-D: "**J! Split up now!**" Their situation was dire. 
+D shouted, "**J! Split up now!**" 
 
-"Got it." The Annihilator exploded, forming a fireball, and the 3 Ouroboros raised shields at a distance{{footnote: All 3 shields are the ones we see from Lanz's Ouroboros, unsure how.}}. The fireball slowly grows and engulfed a portion of the castle. 
+He nodded, noting their dire situation, "Mmm. Got it." The black fog became unstable inside the annihilator; it did not create an annihilation, but a bright ball of flames engulfed the surrounding area, including part of the ring and a portion of the castle, dealing damage not much weaker from a real annihilation event. The group raised shields{{footnote: All 3 shields are the ones we see from Lanz's Ouroboros, unsure how.}} against such searing flames. 
 
-As the blinding light dimmed, Lanz and Sena peered down from over the edge, Lanz asking, "Are they dead?" 
+As the blinding light dimmed, Lanz and Sena, now cancelled their Interlink, peered down from over the edge, Lanz asking, "Are they dead?" 
 
-The others took step behind them, and Taion had an answer, "No... I shot one of my Mondo into their body. I sense it's still there." It was the one that hid itself at its core just now. "I'd say it's likely they got away."
+The others took step behind them, and Taion had an answer, "No... I shot one of my Mondo into their body. I sense it's still there." It was the one that sliced itself at the moebius core just now. "I'd say it's likely they got away."
 
 "That right...?"
 
-Taion now had time to turn to her, "Eunie... Have you ever met him before? As in before we became Ouroboros, I mean."
+Eunie was looking down with muddied feelings. Taion now had time to turn to her, "Eunie... Have you ever met him before? As in before we became Ouroboros, I mean."
 
-"No idea... But I think that... something inside me remembers." Her hand trembling as she clenched it in front of her chest, "That guy... and his claws{{footnote: This, is what Translator meant by 'fingernails'.}}..."
+"No idea... But I think that... something inside me remembers." Her hand trembled as she clenched it in front of her chest, "That guy... and his claws{{footnote: What she called 'claws' is what Translator meant by 'fingernails'.}}..."
 
 Noah: "Maybe that has to do with Moebius too. Why they exist here in our world."
 
@@ -406,11 +412,11 @@ Mio seconded, "You're right. We might have destroyed the Annihilator, but we hav
 
 ---
 
-Inside the castle, standing on a platform beside the rushing waters, there was a turbine that blocked living objects from passing through alive. Lanz remarked, "Great. We can't go on with this thing in the way!"
+Inside the castle; on a platform beside gushing waters, the group emerged from the water, unable to continue with a turbine blocking the way, certainly would slice them into pieces if they tried. Lanz exclaimed: "Great. We can't go on with this thing in the way!"
 
 Riku suggested, "Maybe this channel... not connect to outside Castle?"
 
-Noah, checking the map once more time, "Weird... This wasn't on the map."
+Noah, checking the map once more time, "Weird... This wasn't on the map."{{footnote: Just how so people don't question the paradigm but question themselves, unless a major paradigm shift is on the way, like questioning whether the sun revolves around the Earth was met with resistance. We might ask, how could they not thought they were given the wrong map on purpose, how could Ethel got her hands on the map if the Moebius don't allow it, but that's hindsight bias. We're probably equally stupid in their shoes if we don't have stay vigilant, questioning the paradigm.}}
 
 Eunie: "So where are we at, right now?"
 
@@ -418,25 +424,29 @@ Eunie: "So where are we at, right now?"
 
 Sena: "Might as well, then. Let's see where this goes."
 
-"Yeah." 
+"Yeah." They proceed to rode the 'lift' (moving rings). 
 
 ---
 
-As they arrived, trotting out of the shallow pond, they were trapped in the Queen's chamber. Before the got out, Mio foreboded something weird, turned to Noah and asked, "Um... are you sure we're on the right path? Doesn't this feel off?"
+The group arrived on ankle-high waters, inside the Queen's chamber. Feeling weird, Mio stopped and turned to Noah, asked, "Um... are you sure we're on the right path? Doesn't this feel off?"
 
 "We followed the right route..." Checking the data on his iris again, "According to Bolearis's data, we should be..."
 
 Meanwhile, Riku and Manana were glancing at the surrounding, with the latter remarked in an upbeat tone, "Everything here look so sumptuous and lavish!"
 
-Noah felt off, "Wait... Hm?" Looking at the surrounding, "It's the right path, but... **We shouldn't be here!**"
+Noah felt off, "Wait..." 
 
-Mio: "What didja mean? Why shouldn't we?" He quickly dashed towards the center of the long path, and the group followed, revealing themselves bare. 
+"Hmm?"
 
-As if to confirm something, he turned to his right and sighed, "Huh... **I should have known!**" 
+Looking at the surrounding, "It's the right path, but... **We shouldn't be here!**"
+
+Mio: "What didja mean? Why shouldn't we?" He ignored her questions and dashed out to the central long path, to confirm his hypothesis. the group followed behind thereafter, revealing themselves from their 'hiding place'. We could see the lift to his left, yet he turned to his right. 
+
+"Huh... **I should have known!**" 
 
 As the group joined in, Eunie commented, "Th-this place. I saw an image of it in training."
 
-Lanz: "Oh. Oh... **Shit, we gotta go!**"
+Lanz sensed the danger, "Oh. Oh... **Shit, we gotta go!**"
 
 Taion was confused, "Noah, is this where I think it is?"
 
@@ -446,15 +456,15 @@ Riku and Manana were shocked, the former commented, "This not just bad place. Th
 
 Taion quietly and calmly spoke, as if to prevent catching attention, "We haven't been noticed, yet. Let's get out of here, now!"
 
-"Good idea." If they come out of the left, they should be able to leave from the right, due to symmetry of the building. The group quickly dashed for the water hole on their left, Noah taking some more look at the throne before joining in penultimate. As the group leave, he stopped and took one more look. 
+"Good idea."  The group quickly dashed to the opposite direction, where they predicted would be the continuation of where the stream would lead. Noah ran with the team for a while, but his unconscious seemed to completely processed something and brought forth to his conscious mind. He stopped as the group dashed past him, gazing at the throne room. 
 
-Mio nervously urged, "What are you doing?! We have to go!"
+Mio saw him daydreaming, quietly and nervously urged, "What are you doing?! We have to go!"
 
-Yet, Noah ignored them and walked towards the throne, even when Eunie shouting from behind, "**Noah, what're you playin' at?! Come on!**" Mio couldn't leave him alone, ran after him. The others followed after looking at one another. 
+He betrayed their decisions, ran towards the throne room himself. Already downstairs, feet in the water, Lanz and Eunie was waiting for him, the latter saw him dashing off so she shouted to him, "**Noah, what're you playin' at?! Come on!**" Seeing that Mio unconditionally ran after him, they couldn't just leave themselves, so they (including Taion and the others) followed. 
 
-Arriving on the throne, he looked around and saw the array of pods lined around the throne. Mio stopped beside him and asked for assurance, "Is this...?"
+Arriving at the throne room, he looked around and saw the array of pods where they were born. He gasped as he was dumbstruck at the scenery around him. Mio approached beside him, asking for confirmation, "Is this...?"
 
-"Yeah. I barely remember it... but yeah... This is the place... where we were born..." They could see shadows of humanoids inside the orange fluid. 
+"Yeah. I barely remember it... but yeah...{{footnote: Your eyes weren't yet open, still an embryo, but how could you remember it. That's something weird.}} This is the place... where we were born..." Humanoid blurry shadows lurked behind the orange tinted glasses, with bubbles floating often. 
 
 Lanz: "Spark... This is creepy. Were we... ever like that?"
 
@@ -462,13 +472,13 @@ Eunie: "My skin's crawlin'... *Please can we leave*?"
 
 Sena: "All those people... Do you think they're sleeping? Or maybe they're..."
 
-Noah turned to one pod, "Wait, is that... It **is** her." Mio turned in time to see him dashing towards a particular pod, herself confused, 
+One of the pod caught Noah's attention, "Wait, is that... It **is** her." Confirmed with his own hypothesis, he dashed off to it. 
 
-"What?"
+"What?" Mio was confused at his action. 
 
 "**Ethel!**"
 
-"Huh?" The others followed and saw Ethel in her child form. 
+"Huh?" Stopping behind him, they saw Ethel in her child form inside one of the pod. 
 
 Taion was shocked, "That's crazy! How can it be Ethel?"
 
@@ -480,9 +490,9 @@ Lanz seconded, "Yeah. No mistake."
 
 Mio prompted for more, "W-What do you mean, when you first met...?"
 
-Noah, with shuddering tone, turned around and asked himself, "What in the... **spark... _is_ this?**"
+That's too much for Noah to take in. In a shuddering voice, he questioned, "What in the... **spark... _is_ this?**"
 
-Eunie: "This is what they taught us, right? That our lives are born from the Queen..."
+Eunie thought it make sense, "This is what they taught us, right? That our lives are born from the Queen..."
 
 Taion was shocked, "You are as well?"
 
@@ -490,7 +500,7 @@ Taion was shocked, "You are as well?"
 
 "We soldiers are born from the Queen, we fight... and then..."
 
-"To the Queen you return." The Kevesi Queen's voice sounded from above. Her throne slowly floated down as the group watched, ran up and faced her directly. 
+"To the Queen you return." The Kevesi Queen's voice sounded from above, finishing his sentence. Her throne slowly floated down from above as the group watched. They ran up to face her just when her 'chair' docked into position.
 
 "Th-the Queen...?"
 
@@ -498,27 +508,27 @@ Noah: "**Melia**..."
 
 Mio: "That's the... Queen of Keves... Melia..."
 
-The Queen continued, "You have returned... My beloved... soldiers..." The group disturbingly gasped. Then, N teleported beside the Queen, a few steps behind. 
+The Queen continued, "You have returned... My beloved... soldiers..." The group disturbingly gasped. N teleported to the Queen's 4 o'clock, entering the scene. The group was alerted into their defensive posture. 
 
 Noah: "A Consul?"
 
-N did not hide his disgust, sniped at the group, "Ouroboros rabble. You dare to intrude on the presence of Her Majesty, Melia Antiqua?"
+N did not hide his repugnance at the group, "Ouroboros rabble. You dare to intrude on the presence of Her Majesty, Melia Antiqua?"
 
 "Huh?"
 
-Sena: "There's a Golden Consul...?"
+Sena never seen one before, "There's a Golden Consul...?"
 
 Eunie: "What... is this guy?"
 
-Taion: "He's not like the other Consuls we've met... Mio, be careful!" He turned to her, but her vision was locked on him. She tremblingly breathed out as Taion called for her attention, "Mio!"
+Taion: "He's not like the other Consuls we've met... Mio, be careful!" As he turned to her with his warning, her vision was locked on the golden consul. Her trembling breathe revealed her shaky mind, until Taion cut her from her thoughts, "Mio!"
 
-She gasped and turned to him, "Ah... sorry."
+She gasped at the sudden callout, turning to him, "Ah... sorry."
 
 "What's wrong?"
 
-Shaking her head, "Uh, nothing. Don't worry. I'm OK..." But inside her head, "_I know him... But from where...?_"
+Shaking her head, "Uh, nothing. Don't worry. I'm OK..." Turning back to the Golden Consul, she was trying to recall inside her head, "_I know him... But from where...?_"
 
-Noah tightened his iris as he tried to look more. Suddenly, a throbbing knock emanates from his brain as he groaned in pain, voicing out, "What is... this sensation...?"
+Noah tightened his iris. Focusing on him with intensity, suddenly, a throbbing uncontrollably shock emanates from his brain, making him groaned in pain, questioning, "What is... this sensation...?"
 
 Thrusting her staff on the floor, the Queen continued her speech, "I have endeavored, for countless years... to protect... and shelter Keves under my aegis. And now you seek to bring ruin to this world." Shaking her head, "This grieves me."
 
@@ -534,13 +544,13 @@ Noah, recovered from his throbbing headache, "That's why you've been trying to w
 
 "Verily it is said... Ouroboros abhor this world. You must be erased, lest this world be destroyed."
 
-Eunie: "We don't 'abhor' anything! **Do you realize how many battles we've fought and won for Keves? We've served you our whole lives. And now this bollocks?!**"
+Eunie couldn't continued listening, "We don't 'abhor' anything! **Do you realize how many battles we've fought and won for Keves? We've served you our whole lives. And now this bollocks?!**"
 
 Noah: "**Your Majesty! Please!**"
 
-"You say you fight for Keves? That you've served _us_? Are you certain? Rather it seems... you have been fighting for yourselves and none other." The group gasped at the new insight, including Mio and the others. She continued, "You cling to life in your desperation. That is why you have fought. Unchecked, Ouroboros will lead this world to ruin. Now, by my authority, you shall perish."
+"You say you fight for Keves? That you've served _us_? Are you certain? Rather it seems... you have been fighting for yourselves and none other." The group gasped at the new insight{{footnote: A different way to view the same situation.}}, including Mio and the others. She continued, "You cling to life in your desperation. That is why you have fought. Unchecked, Ouroboros will lead this world to ruin. Now, by my authority, you shall perish."
 
-Noah gave up convincing her, too disappointed, just like Ethel being disappointed, "So... That's it? That's your verdict, then?"
+Noah gave up convincing her, too disappointed, just like Ethel being disappointed before, "So... That's it? That's your verdict, then?"
 
 N cut in, "It is not Her Majesty's 'verdict'. 'Tis the will of the world."
 
@@ -550,43 +560,39 @@ Melia: "Indeed. The security of this world is paramount! Therefore, Ouroboros...
 
 ---
 
-Noah and Mio dashing towards the Queen before slicing her, Lanz and Eunie were firing their ranged arts, Eunie exclaiming, "Wha-what the snuff is that? Stupid wall of light thing!"
+Noah and Mio dashed towards the Queen to deal damage, but there was a frequency barrier perhaps a meter in front of her that blocked them from pushing further inwards. Eunie complained while firing ranged arts with Lanz, "Wha-what the snuff is that? Stupid wall of light thing!"
 
 Sena: "It's stopping our attacks in their tracks!"
 
-The Queen raised her staff and summoned 3 fireballs, shooting at them as the fireballs instantaneously regenerated. Eunie dodged behind Lanz for the shield, while others ran to escape. One of it hit in front of Sena and she fell and dragged on the ground. 
+Now her turn, the Queen raised her staff and summoned 3 fireballs, fired at them, which instantaneously regenerated, and the cycle repeats. Mio ran away, given her agility; Eunie had worse situation, but managed to hide behind Lanz, while continue firing her rifle from beside his shield. Sena was slow, felled by one of her hits. 
 
-"Sena!" Mio called out in panic. Another fireball was about to hit her as the Mondo swirled around her just in time. 
+"Sena!" Mio, hearing her scream and saw her dragging on the ground, panicked. Another fireball aimed at Sena... The Mondo shielded her just in time. 
 
-"Hmm..." Taion dodged the fireball, now that it was aimed at him, and the Mondo weren't protecting him for the moment. 
+"Hmm..." The Queen turned her attention to Taion, and he could only dodged, now that he sent out his Mondo to protect someone else. She changed target once more, this time Mio. She dodged a few, felled by one. 
 
-Turning her attention, the Queen casted multiple shots at Mio and brought her down, lying on the floor. 
+"Mio!" Now, that makes Noah panic. He quickly made her way, passing from in front of Lanz and Eunie, towards her. The other two followed behind to shield him, Eunie suppressing fire did not leave a dent on the frequency shield. The Queen don't even bother. 
 
-"Mio!" Noah immediately dashed in front of Lanz and Eunie towards her, and Lanz and Eunie followed behind, him defending while her suppressing fire. The Queen does not care about her fire given her frequency shield. 
+As he helped her up, she apologized, "Sorry... Lost my focus." Lanz blocked the shots as they chat. "How's Sena?"
 
-He caught hold of her, helped her up while she apologized, "Sorry... Lost my focus." Lanz blocked a fireball their way, so she had time to question, "How's Sena?"
+He don't know either. Turning around, Taion stood in front of Sena, blocking an incoming fireball. After, he sent his Mondo at the frequency shield to no avail; it burnt into dust and fell on the floor. With his Mondo as support, Sena overtook him, gathering force with her hammer, "**HUHAAAAAAAAAAAAA WUAAAAAAAAA!!!**" She slammed hard into the frequency shield, sending shockwaves on its surface. Thrusting forward doesn't help; the Queen look at her without even worrying. To give her a sense of danger, she slowly raise her shield, "Huh..." And of course she sensed it, hence retreating. 
 
-He don't know, so they turned to look. Taion was standing in front of her, blocking a fireball with his Mondo. He sent his Mondo at the frequency shield to no avail; it burnt and fell to the floor before turning into ash. Sena overtook him, "**AAAAAAAAAAAAAA WUAAAAAAAAA!!!**" With her full force, the hammer crashed so hard the frequency shield became brightly visible with its honeycomb shape. She tried thrusting her hammer inwards, only to send shockwaves along the shield. 
+As she dashed the other direction, her head turned to witness incoming fireball, one about to hit her. The Mondos were always ready; she managed to regrouped. Eunie stood beside Taion, continued her shots. 
 
-The Queen look at her futile actions, slowly raised her staff, as Sena gasped in agony, bringing down her hammer in the meantime, before quickly backed up, dodging the fireballs. Looking backwards as she run, the Mondo swooshed behind her and blocked as she escape. Eunie fired futile shots as Sena regrouped with her and Taion. 
+Noah: "All right, then..." He slowly reached for Lucky Seven. 
 
-Noah: "All right, then..." He was ready to draw out Lucky Seven as Lanz exclaimed, blocking more attacks in the meantime, 
+Lanz, sensing his choice, cried out, "Noah, you crazy?! That's the Queen!"
 
-"Noah, you crazy?! That's the Queen!"
-
-Mio was similarly shocked at his action. He continued, "I know... But we have to!"
+Grabbing on the handle, "I know... But we have to!"
 
 Lanz: "Even so..."
 
-Eunie: "**Noah!**" That caught their attention. The Queen was tired with gathering puny fireballs; channeling her energy into a huge fireball, so huge it shone like the sun in the sky. N was doing nothing, but his eyes fixated on Noah. 
+"**Noah!**" Eunie cut their conversation, bringing their focus to a giant fireball, like a tiny sun compressed and captured within a chamber. _This is the end_, N (perhaps) thought with his calmness. The fireball does drew Noah's attention away from drawing Lucky Seven, instead prepared in defensive posture against a potentially incoming blast. They were catching their breathe as they watched the fireball grew larger and larger. 
 
-"Huh!" Noah, seeing the change of situation, temporarily gave up drawing Lucky Seven to prepare for the big hit. The group were catching their breathe for the big one. 
-
-Suddenly, the neck of the queen reverberate quickly, and electric sparkles released as her neck exploded, her head tilted to the side. Black smoke rose from her body as the group watched and gasped. 
+Perhaps that drew too much energy from the Queen, or perhaps for other reasons, her neck suddenly broke with electric sparkles, and her body continued to break down. The group watched in vain, gasping. 
 
 Noah: "What? What's she...?"
 
-Being 'broken', the fireball slowly dissipated, growing smaller and smaller; together, an explosion detached her mask. Her head drooped down, she does not have a face; it was a humanoid robot. 
+A broken Queen could no longer maintain the fireball; it slowly dissipated, smaller and smaller; finally, an explosion detached her mask, his head drooped down to reveal a robotic face. 
 
 Noah couldn't believed his eyes, "Her Majesty is a... machine?!"
 
@@ -594,53 +600,60 @@ Eunie: "Spark off!"
 
 Lanz, with a high tone, "You serious?!"
 
-"Hm hm hm hm hm... Hahahahaha....  **HAHAHAHAHAHA**!!!" N put his hand over his golden mask as he laughed hard, continued asking, "Was that your doing, Queen? You haven't given up your false hope. Very well. By all means, look on." He took steps towards the group, "Witness how hollow your hope rings... as I slice it all to ribbons!" As he passed by her, he pushed her slightly and she fell and crashed onto the ground. 
+"Hm hm hm hm hm... Hahahahaha....  **HAHAHAHAHAHA**!!!" N put his hand over his golden mask as he laughed hard, continued asking, "Was that your doing, Queen? You haven't given up your false hope. Very well. By all means, look on." He took steps towards the group, "Witness how hollow your hope rings... as I slice it all to ribbons!" As he passed by her, he pushed her a slight push, and she fell and crashed onto the ground. 
 
-Noah suddenly felt the intense throbbing on his head again. "What... Again... Blast it..." As his vision blurred, "Why does he... make my... head hurt..." It was so painful his sword and himself dropped to the ground. 
+Noah suddenly felt the intense throbbing in his head again. "What... Again... Blast it... Why does he... make my... head hurt..." His vision blurred and he dropped to the ground. 
 
-That caught Lanz's attention, turning his head to him, asked, "Noah!  What's wrong? We're not done yet! **Take up your Blade!**"
+That caught Lanz's attention, turning to him, shouted his question, "Noah!  What's wrong? We're not done yet! **Take up your Blade!**" He strugglingly got hold of his blade as he spoke. 
 
-He tried to pick up his sword slowly while Sena added, "What's going on?!"
+Sena was equally concerned, "What's going on?!"
 
 Mio: "Are you OK?"
 
-Just as he picked it up and stood, N spoke, "It is fate."
+He didn't have time to reply any; as he stood up with his sword, N cut in, "It is fate."
 
 Noah: "Huh? Fate?"
 
-"Many have tried, but none have ever managed to escape its flow." He summoned his blade. 
+"Many have tried, but none have ever managed to escape its flow." He summoned his blade, which shudders like Noah's; like two magnets trying to attract towards each other but cannot. 
 
-Mio, looking at his sword, "What, that sword... How does he...?" It looked like Noah's.
+Mio, looking at his sword, "What, that sword... How does he...?" Noah's sword shuddered too after N summoned his sword. 
 
-Before the battle begun, the Castle emergency siren rung. N turned to it, confused at the disturbance, and asked on his Iris, "What now?"
+The battle never played out; the Castle emergency siren rung, drawing their attention. N activated his Iris and asked, "What now?"
 
 "Lord High Consul! Th-the Lost Numbers are attacking!"
 
-"The Lost Numbers?!" Outside, there were many ships soaring above the air, with anti-air weapons firing from the castle at them. Where the bullet meet the shields, black smoke rose. The ships were exactly like the ones Guernica rode on. As they approached, the dropped the automatons onto the ground. 
+"The Lost Numbers?!" A fleet of ships approaching the Castle from the sky; anti-air weapons firing at them; those that hit blew out black soot. As they approached, automatons were dropped from below the ships that looked exactly like the ones Guernica rode on. 
 
-One of the ship aimed directly at the windows on the other side of the throne room, smashed the windows into pieces, dragging itself on the floor while dimming its engine. Friction took over and it stopped right behind the group. Automatons dropped to the ground and make their way, clearing any obstacles with their machine guns. N withdraw his sword from its sheathe, blocked the attacks by slicing so fast that it created a shield in a semicircle in front of him. 
+The group could now see blaring fires from within the throne room. A ship aimed directly for one of the windows smashed it into pieces, dragged on the ground before friction brought it to a halt; it didn't wait to stop when it deployed the automatons attached to its body. The group turned to see the ship stop a distance from them. As the automatons made their way, most suppressed fire, to which N drew his sword and blocked them by slicing so fast it created a semicircle shield in front of him. Other larger automatons that seemed to have flying capabilities (rather than for fighting) took off towards the birth pods. 
 
-Eunie remarked as the group watched some of the automatons flew off the ground, "Wait, those Levnises..."
+As Eunie watched, she commented, "Wait, those Levnises..."
 
-Sena: "Yeah, we've seen one before. Gotta be!" Those flying levnises got hold of the pods as other suppressed fire. The caught as many as they could with both their 'hands' while returning to the ship. 
+Sena: "Yeah, we've seen one before. Gotta be!" They were reminded of Guernica. Each of the levnises caught hold of 2 birth pods, the maximum they could take with their two grips, before returning toward their windows, prepared to leave. 
 
-Lanz sensed that now's the time to escape amidst the chaos, "Noah! Let's book it." He withdrew his blade and started running past them. 
+Lanz sensed that now's the best time to escape, amidst the chaos, "Noah! Let's book it." He withdrew his blade and started running past them. 
 
 Taion and the others joined in, himself speaking, "Yes. They won't be attacking the Colony now. There's no point in our being here any more!" Only Noah and Mio still had their weapons on, his weapons shuddering furiously. 
 
 "You're right... Still..."
 
-Amidst the flame, N had no fear, but he no longer could stop them from escaping, only looking at them. Looking around, more automatons took steps slowly towards him, even if it means death. 
+Amidst the flame and explosion, N had no fear, though he could no longer stop them from escaping. He looked at them calmly. Then, he turned to look  around him; more automatons slowly walking towards him, even if it means their death. 
 
 "**NOAH!!!**" Lanz shouted. The best time to escape is almost nigh. 
 
-"Nghh... All right!" They dashed back out as the automatons, each with two hive of pods swooshed above them. An automaton was firing its machine gun through the broken window, earning time for the automatons to escape. With an explosion and all automatons escaped, it turned back and zoomed into the distance with the other automatons. One of the pods that escaped was Ethel. The Castle did not go after them, watching the Lost Numbers retreating into the distance. 
+"Nghh... All right!" As the group retreated, the transport automatons had finished catching hold of their respective (random) pods, flew from above their head towards the windows. A ship approached near the window and suppressed fire, giving time for them to escape. With the last ship leaving, the machine gun blew up the windows, and the ship turned and retreated last. The Lost Numbers had done their job; the ships dodged the anti-air weapons and retreated into the distance. Some of them were felled while retreating. One of the array of pods that escape contained Ethel in it. The gun stopped firing seeing them out of range. 
 
-N pressed a button and took off his mask. Looking at his palm, "The passage of fate... How easily it slips from my grasp..." Clenching his fist, "Yet perhaps, it will come within reach once more." ***His face, is an older version of Noah.*** 
+N, looking at the mess, pressed a button and took off his mask. Looking at his palm, "The passage of fate... How easily it slips from my grasp..." Clenching his fist, "Yet perhaps, it will come within reach once more." His iris cyan-turquoise, long hair that almost cover his eyes, sharp-tipped chin. 
 
-"And if it does? What will you do then?" A female with silver leg plates entered from behind, with cat ears, wearing a silver mask. **_Her voice, is exactly Mio's._** As she approached N, she removed her mask; her face an older version of Mio's, of course.
+"And if it does? What will you do then?" A female moebius, M, with silver leg plates entered from behind, with cat ears, wearing a silver mask, long silvery hair splashed behind her. As she approached N, she removed her mask. 
 
-"Need you ask? I will give us equilibrium. A time unchanging... Our eternity." She did not comment on his reply. 
+He calmly replied, seemingly entertained by her side, "Need you ask? I will give us equilibrium. A time unchanging... Our eternity." She did not comment on his reply. 
+
+She had sharp-tipped chin, big eyes: yellow outer iris, purple inner iris, thin eyebrow, long eyelashes. 
+
+**_M, is for Mio._** \
+**_N, is for Noah._**
+
+Except, an older version of both. 
 
 ---
 
