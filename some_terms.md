@@ -409,4 +409,25 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - precocious: (esp children) showing mental development or achievement much earlier than usual. 
 - morganatic: a morganatic marriage is one in which one partner is of higher social rank, and the other cannot claim this partner's title or possessions or pass them to their children. 
 - cogitation: the act of thinking very carefully about a subject, or the thoughts themselves. 
+- retrenchment: a situation in which a government, etc. spends less or reduces cost. (Def 2: a situation in which someone loses their job because their employer doesn't need them.)
+- abstemious: not doing things that give you pleasure, like not eating good food or drinking alcohol. 
+- aberrant: different from what's typical/usual, esp. in an unacceptable way. 
+- efflorescence: the period when flowers start to appear on a plant. (Def 2: the production of a lot of art, esp. of high quality.)
+- contention: the disagreement that results from opposing arguments.
+- backchannel: a method of communication/discussion that's not direct or made public. (Def 2: A sound/sign that someone makes to show that (s)he is listening to the person who's talking.)
+- flimsy: very thin, or easily broken/destroyed. 
+- rickety: in bad condition and therefore weak and likely to break. 
+- grifter: someone who gets money dishonestly by tricking people. 
+- inauspicious: showing signs that something will not be successful or positive. 
+- insinuated: to suggest, without being direct, that something unpleasant is true. 
+- rankle: to make someone annoyed or angry for a long time. 
+- brook: (noun: a small strem) (verb: to not allow/accept something, esp. a difference of opinion/intention.)
+- dote/doted (on someone): to love someone completely and believe they're perfect. 
+- filch: to steal something of little value. 
+- saccades: a quick movement of the eye that results in it looking in a different direction. 
+- shaded into night (useful phrase)
+- parlayed: to use or develop money, skills, etc. in a way that makes more money or leads to success. 
+- acolytes: anyone who follows/helps another person, or someone who helps a priest in some religious ceremonies. 
+- hypnagogic state: 
+- oneiromantic (oneiromancy): divination through dreams. 
 - 
