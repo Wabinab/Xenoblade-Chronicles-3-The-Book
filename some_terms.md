@@ -430,4 +430,24 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - acolytes: anyone who follows/helps another person, or someone who helps a priest in some religious ceremonies. 
 - hypnagogic state: 
 - oneiromantic (oneiromancy): divination through dreams. 
+- delinquent: a person, usually young, who behaves in a way that's illegal or not acceptable to most people. 
+- wistfully: in a way that's sad and shows someone is thinking about something that's impossible or in the past. 
+- subsume: to include something or someone as part of a larger group. 
+- bodacious: very large or important, or something that people enjoy/admire. 
+- spurned: to refuse to accept something/someone because you feel that thing/person isn't worth having. 
+- spanner: a metal tool with a shaped end, used to turn nuts and bolts. Wrench. 
+- pithy: (of speech/writing) expressing an idea cleverly in a few words. 
+- winnow: to reduce a large no. of people/things to a much smaller number by judging their quality. (Def 2: to blow the chaff/outer coverings of grain before it can be used as food.)
+- impish: showing a child's pleasure in enjoying yourself and making trouble. 
+- congenial: friendly and pleasant. 
+- raconteur: someone who tells funny or interesting stories. (raconteuring)
+- ubiquitous: seeming to be everywhere. 
+- diseconomies: higher costs that make something produce less profit. 
+- remuneratively: in a way that relates to money received for work. 
+- passing on (business): laying off. 
+- plebiscite: a referendum. 
+- insuperable: (esp. of a problem) so great/severe that it cannot be defeated/dealt with successfully. 
+- complacent: feeling so satisfied with your own abilities/situation that you feel you don't need to try any harder. 
+- scrutiny: the careful and detailed examination of something in order to get information about it.
+- whittle away (at something): to gradually reduce the size or importance of something. 
 - 

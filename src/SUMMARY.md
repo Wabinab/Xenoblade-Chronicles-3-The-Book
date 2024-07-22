@@ -42,7 +42,7 @@
 
 # Chapter 5: Eclipse 
 - [Colony Theta in Memories](./31_theta.md)
-- [Arriving at the City](./32_city.md)
+- [The City, Purpose, Baby, Ancestor](./32_city.md)
 
 ---
 <!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->
