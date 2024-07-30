@@ -210,11 +210,9 @@ Noah nodded, "I hear you, loud and clear. We'll remember." They proceed to remov
 
 ---
 
-=== (075: 1:17)
+"This is the... City?" Mio and the others were flabbergasted at the nothing-like-before scene. It looks more modern, and more differed in architecture, probably also culturally different, than their colonies. Just at the end of the tunnel was a metal-grid platform, tall enough to view the city, consisting of mostly 2-3 story buildings. Monica and Shania gave them time to awe themselves, while chatting in the distance. 
 
-"This is the... City?" Mio and the others were flabbergasted! Nothing like they had ever seen before. They stood at a metal-grid platform above overlooking where the ship parked (and surrounded by containers, as mentioned just above). Monica and Shania were waiting for them, chatting with each other in a distance. 
-
-Taion: "It sure took us long enough. We shouldn't relax just yet, though."
+Taion: "It sure took us long enough. **We shouldn't relax just yet**, though."
 
 Eunie can't believe her ears, "Why the spark not?"
 
@@ -228,7 +226,7 @@ Noah turned to face the City's view, speaking with his back on him, "I'd like to
 
 Mio recalled, "They said they opposed Moebius, didn't they? It should be OK then, to trust them...?"
 
-Lanz agreed, "'The enemy of our enemy is our friend.' Gotcha!"
+Lanz agreed, "'The enemy of our enemy is our friend.' **Gotcha**!"
 
 Taion: "Bloody sparks... Why do I bother?"
 
@@ -240,21 +238,21 @@ Seriously speaking and nodding, "Of course we will."
 
 ---
 
-"Ouroboros...?" By the path with shops to both side, a male and a female wearing brown leather jacket; the female pointed chin, large brown iris, brown neck-long hair, and the one whom voiced; the male gelled hair, similar colored iris, taller in posture. 
+"Ouroboros...?" Shania lead the way while they walked through one of the busiest street in the city, both sides shops and markets. Male and female wearing mundane clothing stood by the side of the road, locking their gaze on the group while speaking softly of them, treating them like a group of monkey passing through the road, a rare scene, a rare species. 
 
-"Ouroboros, yeah." They weren't the only ones looking at the weird group like a monkey passing through in a zoo. Others stopped what they're doing and commented behind the scene. 
+"Ouroboros, yeah." 
 
-"So _they're_ Ouroboros?" The group continued walking as if they hadn't been watched, at least that's with Noah's leading. They didn't look at the people, to not face them yet. 
+"So _they're_ Ouroboros?" 
 
 "And they're from Keves and Agnus...?"
 
 "But they're just a bunch _o'kids!_"
 
-"Watch yourselves! They could be secret spies!" Monica was accompanying the group from behind. 
+"Watch yourselves! They could be secret spies!" 
 
-"It's over... This place'll be a warzone."
+"It's over... This place'll be a warzone." Monica tailed behind. The group continued walking, not stopping to hiss at them or what. 
 
-Mio, her ears tall to catch the soft signal from the noise, commented, "They're all whispering about us..."
+Mio, her ears tall as she caught the signal from the noise, commented, "They're all whispering about us..."
 
 Lanz: "I feel... we're not exactly welcome here." They groups kept their voice low. 
 
@@ -262,33 +260,33 @@ Taion: "'Uninvited guests', one might say."
 
 Eunie didn't understand, "They're the ones who led us here."
 
-Then, something caught Sena's eyes, "Oh, hey..." It was a man/woman in front, lying by the barrels, looking at them. Sena continued, "Doesn't she look similar to the Moebius we fought at Colony 4?"
+Then, something caught Sena's eyes, "Oh, hey... Doesn't she look similar to the Moebius we fought at Colony 4?" It was a man/woman with his/her back lying on the barrel. 
 
 Riku: "It true... Wrinkly prunefaces abound here!"
 
-Then, there happened to be kids running past them, going in the opposite direction. "Manana spy tiny people too! Is whole undiscovered race!"
+Then, some kids rushed past the group from the side, "Manana spy tiny people too! Is whole undiscovered race!"
 
 Noah rejected her hypothesis, "No... They must be... humans just like us."
 
-As they reached the '+' junction, a group approached from the right, and a man in lead called out, "So you're Ouroboros, eh?"
+As they reached the end of that road into a plus ('+') junction, a group approached from the right, and a man in lead called out, "So you're Ouroboros, eh?"
 
-"Huh?" Noah stopped to face him; someone calling out directly to them than whispering for the first time in the City. Five person distinguishable but their facial features too difficult for translator to put into words. Though one had striking features: brown hair; the others black hair. All wore black suit, seemingly Lost Numbers' fighting suit. 
+"Huh?" Noah stopped to face the group. Five person wearing the same black shirt, probably military. Facial features are distinguishable from their difference in eye color, slight difference in height, and hair style; but these are too difficult for the author to put into comparative words. 
 
 Another woman commented, "You've got what, one or two years left? Some hope you are."
 
-That guy whose hair stood out shook his head, "Dunno why Vandham wasted that power on you... What was he thinking?"
+Two of them had dark skin, but this one talking had blonde hair, "Dunno why Vandham wasted that power on you... What was he thinking?"
 
-Mio was feeling miserable with their comments. Taion wasn't giving in the fight, "**Whats your problem?! Mind your manners!**"
+Mio felt miserable. Taion, the (only) one whom haven't put down his guard, was ready to put up a fight, "**Whats your problem?! Mind your manners!**"
 
-Monica stepped forward as the mediator, stopped beside the other group, facing the group, "Lemme introduce ya. These were our Ouroboros candidates. They trained relentlessly to fight against Moebius... Each and every one of them. That includes Shania there." Noah turned to look at Shania to his left, and she turned to face away from them.
+Monica stepped forward as the mediator, stopped beside the other group, facing the group, "Lemme introduce ya. These were our Ouroboros candidates. They trained relentlessly to fight against Moebius... Each and every one of them. That includes Shania there." Noah turned to look at Shania to his left, while she turned to face away from them.
 
 "Candidates?" 
 
-Another guy from the group of 5: "You happy? That you _stole_ Ouroboros from us?"
+The other dark skin guy with dark hair made a gruff comment, "You happy? That you _stole_ Ouroboros from us?"
 
-The group gasped, but they understood why the sourness and bitterness in their tone. 
+The group gasped, but they understood why the sourness and bitterness in their tone.{{footnote: Note: they only understood because they say 'stole' and the word linking to their feelings. Read more later and you'll know why they haven't understood the real reason they felt upset.}}
 
-Monica put an end to the spitting back and forth, "**All right, that's enough.** Whatever the reason, the old man did choose 'em. To be fair, they have gone against quite a few Moebius already. They're the real thing all right. You heard Shania's reports."
+Monica put an end to the heightened atmosphere, "**All right, that's enough.** Whatever the reason, the old man did choose 'em. To be fair, they have gone against quite a few Moebius already. They're the real thing all right. You heard Shania's reports."
 
 Taion caught the words, "What reports?"
 
@@ -304,7 +302,9 @@ Monica continued to persuade the five, "Together, we are united in our cause."
 
 One of the woman voiced out, "Ms. Vandham..."
 
-The guy whom sniped at them about stealing conceded, "Uh... All right then." Though, that doesn't mean they're happy, and not watching means not evoking any means of fighting, hence he lead the way for the group to exit the scene, to stay away from viewing them. Monica watched them leave. That guy peered through his shoulder once more on the group without stopping a bit. Noah could only breathed out air. 
+The dark skin black hair effetely replied, "Uh... All right then." Then, they leave 'admitting defeat'. He turned to take a last look at the group while continued walking over his shoulder; the group just watched them off. 
+
+Noah: "Hooooo....."
 
 Monica now turned to the group, "Please, it's not their fault. They're not a bad lot, really."
 
@@ -312,11 +312,11 @@ Lanz gritted his teeth, his temper easily ignited, "That's easy for you to say..
 
 Eunie wasn't looking very easy to put it down, either. Folded her arms, she added, "Well, that was awkward as all ash."
 
-Then, Shania just walked away as Noah and Mio look. Looks like she continued leading her way, and so the others followed. 
+Shania spoke nothing, continued to lead the way, and the group followed. 
 
 ---
 
-Noah fall back to side with Monica. He had more questions for her, "You, uh... You said that you were monitoring us earlier. So is that why? Why you stormed the Castle?"
+As they continued their pathway, Noah fall back to had more questions for Monica, "You, uh... You said that you were monitoring us earlier. So is that why? Why you stormed the Castle?"
 
 "After the Ouroboros Stone activated, Shania relayed the info straight back to us. So I'd been looking for a chance to contact you."
 
@@ -334,7 +334,7 @@ Sena finished her sentence, "Too harsh..."
 
 "Heheh, sorry... Poor choice of words. How about 'hotheads'?"
 
-Eunie: "Yeah, that's not a lot better..." The group was currently descending a red ramp, towards a green-lit area (the end of the ramp). 
+Eunie: "Yeah, that's not a lot better..." The group was currently descending a red ramp (red of wood, but also the city's dark illumination), towards a green-lit area (the end of the ramp, though some part of the red also had greens as they installed green fluorescent lamps to the side). 
 
 "Still, it helped us complete one of our primary objectives: Securing a number of growth modules."
 
@@ -344,7 +344,7 @@ Noah: "What are those?"
 
 ---
 
-The group stopped by the 'edge' of the city, looking over the fences in a row. There was a huge glass window installed on the ground so they could look down the sword. Though, they couldn't look all the way down, probably the sword's hilt guard: an icy land not far below littered with corpses. 
+At the end of the pathway was one of the 'edge' of the city. As they peered over the fences, stood in a row, they saw a huge glass window installed below, looking down on the sword's hilt guard: an icy land not very far below littered with unburied corpses. 
 
 Monica: "We're now more or less above the sword's hilt guard. Even this place was once ravaged by war. By Keves and Agnus."
 
@@ -352,21 +352,21 @@ Taion questioned, "Has the war really spread this far...?"
 
 Mio commented, "There's even more... More husks underneath..."
 
-Eunie looked with her eyes jittering. Her left hand shuddered uncontrollably, which she tried to press down with her right. Taion, a step behind everyone else, managed to notice her outraging emotions. She'd held her teeth gritted, not to make a sound. Suddenly, she felt something warm on her hand. Looking down, Sena put one of her hand over hers. Eunie turned to her, "Ah... Thanks..." Sena nodded back lightly. 
+Eunie's eyes jittered as she saw the number of deaths piling up. Her left hand shuddered uncontrollably, and she tried to press it down with her right. Taion saw her gritting teeth and teary eyes, her shuddering body; until she felt some warm in her hands. It was... Sena; she put one of her hand over hers. "Ah... Thanks..." Sena nodded back lightly. 
 
-Monica continued, "This right here is what the world is really like. Designed to keep us shackled." By now, Eunie had calmed down, putting her hands back to her side, and Sena turned her direction towards the husks. 
+Monica continued, "This right here is what the world is really like. Designed to keep us shackled." By now, Eunie had calmed down{{footnote: reached equanimity.}}, putting her hands back to her side, and Sena turned her direction towards the husks. 
 
-Noah: "Keep us shackled...?" The group reminisced for a moment with the ancient husks. 
+Noah: "Keep us shackled...?" The group reminisced for a moment as they tried to think of the philosophical question Monica posed to them. 
 
 ---
 
-The group descended to another place; a double-door slid open. The group entered the room. Mio first saw to her left, gasped, "Aren't those..."
+At the end of the path, the double-door slid open for the group to enter. Noah took the first step into the room, followed by Mio and the others. She was first to take note to her left,  "Aren't those..."
 
-Noah finished her sentence, "Cradles!" The group stopped and look in her direction. Rows and columns of cylinders, each with lots of orange pods; that's where they put those raided from Keves Castle throne room. They were behind glass windows. 
+Noah finished her sentence, "Cradles!" A giant glass displaying rows and rows of cylinders, each cylinder fitted with lots of orange pods. They put what they raided from the Castle here. 
 
-Monica sounded from behind, "Your so-called 'cradles' are the growth modules that birthed you. You were conscripted from birth, trained to kill one another ruthlessly, and steal each other's life. That life energy pours into the Flame Clocks, becoming the fuel that feeds Moebius." Noah gasped at the truth. 
+Monica explained, "Your so-called 'cradles' are the growth modules that birthed you. You were conscripted from birth, trained to kill one another ruthlessly, and steal each other's life. That life energy pours into the Flame Clocks, becoming the fuel that feeds Moebius." Noah gasped at the truth. 
 
-Monica continued, "In order for Moebius to exist, they must continue to claim life energy. And these 'cradles' right here... They're used to recycle your lives." Ethel's pod was inside one of them. A transporting ship/levnis just drove away after finishing its job. 
+Monica continued, "In order for Moebius to exist, they must continue to claim life energy. And these 'cradles' right here... They're used to recycle your lives."  Just then, a robot/levnis delivered the growth module containing Ethel's pod, whom drove away after finishing its job. Noah fixated his eyes on this cradle. 
 
 Noah: "Ethel..."
 
@@ -374,43 +374,43 @@ Noah: "Ethel..."
 
 Mio turned to her, "No way..."
 
-Monica joined eyes with her, "There's your shackles." The group stopped to look at her for a moment. She let the group digested in that window, then look away, continued, "Soldiers bound by Moebius's shackles are destined only for mutual destruction. Those who lose their lives in battle, they're reborn anew... They wake from a Castle cradle, a blank slate without a scrap of their former memories."
+Monica joined eyes with her, "There's your shackles." The group stopped as they tried to digest a concept that go against their held paradigm. She continued a moment later, "Soldiers bound by Moebius's shackles are destined only for mutual destruction. Those who lose their lives in battle, they're reborn anew... They wake from a Castle cradle, a blank slate without a scrap of their former memories."
 
-Eunie: "Wait... Then... that husk I saw..." Her tone lower and lower; she was recalling the husk she saw on the old battlefield, the fallen of the Golden Clock. 
+Eunie: "Wait... Then... that husk I saw..." Her tone dropped lower and lower as she recalled the husk she saw on the old battlefield, the fallen of the Golden Clock, _her_ husk. 
 
-Monica didn't wait long before continuing, "But... if we keep our lives bound to the bodies, as we're doing here, they're of no use to them. This way, we can whittle away at their power..."
+Monica didn't stop for long, "But... if we keep our lives bound to the bodies, as we're doing here, they're of no use to them. This way, we can whittle away at their power..."
 
 Noah: "So you've been doing this... over and over again, then?"
 
-"That's right. You don't wanna know for how long, believe me. And yet... The price we pay to take down just a handful of Moebius... is immeasurable." She closed her eyes to remember the loss. Noah clenched his fist at her words. She continued, facing them whom had their eyes on her, "The City's residents? We're all descendants of the first Ouroboros."
+"That's right. You don't wanna know for how long, believe me. And yet... The price we pay to take down just a handful of Moebius... is immeasurable." She closed her eyes to remember the loss. Noah clenched his fist at her words. The group caught eye with her, "The City's residents? We're all descendants of the first Ouroboros."
 
 Mio: "The first Ouroboros?!"
 
 Taion had heard the words a lot of time, still hadn't had a definition: "What's a 'descendant'?"
 
-Monica: "Er... Right. That's not a word you'd have any use for either, I suppose. Better to see for yourselves. Come, I'll show you." She lead the way out, Shania followed immediately. The group slowly took steps. 
+Monica: "Er... Right. That's not a word you'd have any use for either, I suppose. Better to see for yourselves. **Come, I'll show you**." She lead the way out, Shania followed immediately. The group slowly took steps. 
 
 ---
 
-Arriving at the hospital. Pregnant woman sitting on the benches, the guys standing up chatting to them. Another husband held her wife as she walked with care. The group looked around in awed. Never seen a pot belly before, eh?
+Monica and Shania brought the group to a hospital, where pregnant woman sat on their benches, while their husband stood in front, chatting with them. A husband lend a hand to a pregnant woman as she walked with care. The group was awed at the scene, surrounded by 'pot belly'. 
 
 Mio: "Where are we?"
 
-Monica: "This is a maternity ward." She stopped with Shania and turned to her. 
+Monica: "This is a maternity ward." She stopped and explain to them. 
 
 "'Maternity'?"
 
 Two guys chatting heard them talking. One with gray hair, panda eyes -- probably didn't sleep well for decades. He had some tools attached to his pockets. He also wore black gloves. Another young guy of brown hair, smooth shiny jacket, wearing a watch. 
 
-Monica nudged to the older guy, "Doctor. May I?" The doctor turned to the young lad and asked for permission. He nodded, and the doctor nodded back. That's solved. Monica turned to the group and asked them to wait. She walked in and closed the door behind. Noah turned to Mio, the others looked at each other, not sure what had happened. 
+Monica nudged to the older guy, "Doctor. May I?" The doctor turned to the young lad and spoke for a while. He nodded, and the doctor nodded back to Monica. Monica turned to the group and asked them to wait outside while she walked in, closing the door behind her. Noah turned to Mio, the others looked at each other, not sure what had happened. 
 
-Meanwhile, Noah, Eunie, and Lanz chatted in a subgroup, Taion and Sena in one, Riku and Manana another, Mio kept observing the surrounding area. Then, the door was opened by Monica, their attention returned to her. "Come."
+Meanwhile, Noah, Eunie, and Lanz chatted in a subgroup, Taion and Sena in one, Riku and Manana another, Mio kept observing the surrounding area. She first noticed Monica opening the door, catching all others' attention, as she nudged, "Come."
 
-Inside, the doctor pushed the green curtains away. A baby crying. Mio gasped at seeing a newborn. The lad speaking to the doctor just now stood beside his wife, whom held the baby by her hands, lying on the bad. And let's ignore the cliché monitoring and other equipment. 
+They gathered around a bed, separated by a green curtains, which the doctor pushed it aside. A baby crying. Mio gasped as she saw the newborn. The lad that gave permission before stood beside his wife, whom held the baby by her hands.{{footnote: We'll ignore describing the cliché instruments monitoring whatever stuffs, though it's wonderful they preserved such technology after the Great Destruction by Klaus, if you know what one meant.}}
 
-The man took a few steps forward, asked the group to come forward to have a closer look. The group looked to Monica for permission, to which she nodded.{{footnote: One can't hold this back, but thought it would affect the mood of the main story so...: Shania kept showing her ugly dull face all the time, very, very sad, very, very depressed.}} 
+The man moved towards the end of the end, nudging to the group to come forward and take a closer look. The group turned to Monica, asking for attention. She nodded in return.{{footnote: One can't hold this back, but thought it would affect the mood of the main story so...: Shania kept showing her ugly dull face all the time, very, very sad, very, very depressed, looking via her bottom left at all time.}} 
 
-Riku and Manana first entered, while Mio first took small steps forward, and the others slowly followed. They surrounded the woman. 
+The group took steps as they tacitly organized themselves around the bed. 
 
 Taion commented, "It's so... small..."
 
@@ -422,43 +422,47 @@ Riku: "It so teensy-tiny, but it move!"
 
 Manana: "Much rejoicing!"
 
-"Uh..." Mio was unsure what to do, seeing him/her cry...
+Seeing the baby cry, Mio wasn't sure what to do, a slight panic in her tone as she attempt to think of some way to calm her down, "Uh..."
 
-Then, the woman called out, "It's OK to touch her." She encouraged Mio. "Gently now..." 
+Her mom called out, "It's OK to touch her." 
 
-As she put the back of her fingers by her head, she felt the warmth and love never before felt. Then, she put her hands to hold her by her head, gently caressing her, "She's so warm..."
+"Uh..."
 
-"Place... one finger." The woman showed her pinky, to which Mio followed, "in her palm." The baby seemed to stop crying. Mio slowly lowered her finger into her palm, and the baby unconsciously grab it, giggle as she does. Mio gasped at what she felt, the connection. 
+"Gently now..." 
 
-Her tone flushed with excitement, "Hey, Sena... Look at this! You need to try it too!" 
+Mio curled her fingers and gently put the back of her fingers on the baby's head; she felt the warmth she never felt before; then she held her head and gently caressed her, "She's so warm..."
 
-"Hoooooo..." That raised Taion's curiosity to his maximum. He kept changing location, peering over Sena's right shoulder, to her left shoulder, as he tried to get a better look while Sena slowly touched her.
+"Place... one finger." The woman showed her pinky, to which Mio followed, "in her palm." The baby now seemed to stop crying. Mio slowly lowered her finger; as it touched her palm, the baby unconsciously grabbed it while she kept giggling. Mio gasped as she felt the connection. 
+
+Her eyes made rapid movements as she tried to digest what she felt. Her tone flushed with excitement, she called out, "Hey, Sena... Look at this! You need to try it too!" 
+
+"Hoooooo..." Taion's curiosity rocketed to maximum. He kept changing location, peering over Sena's right shoulder, over her left shoulder, as he tried to get a better look while Sena slowly touched her.
 
 "Whoooa, you're right! Mimi, it's incredible!"
 
-Taion couldn't resisted it now, in a high tone, "L-let me have a turn!" He put his hands on Sena's shoulders and shoved her aside. With shaky hand, Mio gave him space to do it. "Wh-! Hahahahah!" The joy and excitement he felt. The doctor and Monica mirrored his reaction. Looking to Sena, "This is... incredible, Sena!" She agreed with a smile. 
+Taion finally couldn't resist it, calling out in a high tone as he shoved Sena aside, "L-let me have a turn!" He shakily lowered his hand while Mio step aside, opening the space for him. "Wh-! Hahahahah!" The joy and excitement he felt. The doctor and Monica mirrored his reaction. Looking to Sena, "This is... incredible, Sena!" She agreed with a smile. 
 
-Now, Noah had a turn to have his pinky grabbed by the baby, with Mio by her side. As he felt, he turned to look at Mio, to which she returned smile. 
+Now, Noah had a turn to have his pinky grabbed by the baby, with Mio's face  beside his. He turned to look at Mio. She saw his gaze, slightly tilted her head and eyes towards him, but dared not to look at him directly, and returned a smile with a slight nod. They quickly turned their attention towards the baby thereafter. 
 
-Monica: "Funny, right? But this is... human beings' true nature." The group turned their attention to her, for her explanation. "If you want the ins and outs, go and ask the doctor." 
+Monica had their attention after they all tried, "Funny, right? But this is... human beings' true nature. If you want the ins and outs, go and ask the doctor." 
 
-The doctor humbly smiled at them, then called out, "All right then, lads and lasses. Who wants to know how babies are made?" He raised his hand. Everyone in the group raised their hands (and wings, for the Nopon) in excitement. "Hmm... Well, you're in for a surprise. **Buckle up**!" The group looked at each other. 
-
----
-
-Walking out of the maternity ward. Kids were chasing after each other, passing in front of them, amidst laughters. Noah looked at them playing and laughing. In one direction where Taion and Eunie watching, a dad held one of his child high up into the air while his mum looked beside. Kids running off, heading to unknown destination. Another direction, Lanz and Sena saw older lads, their hair white/gray, or at least have wrinkles, speaking to each other as they walk. 
-
-Noah and Mio saw a man and a woman dating each other by the bench in the park in front of them, under a tree. Then, they kissed each other. Both gasped at their actions. Tacitly, their minds joined, they turned to look at each other. Their eyes widened as they read what was on their minds, then quickly turned away at the awkwardness, nervousness, putting their hands in awkward posture. 
-
-Monica cut in, spoke to the two, "This is how it should be. This, is human nature." She turned to the three kids speaking and laughing, "We are born defenseless, grow up, then those who find a spouse create new life together..." Then, turning to the old guy and woman, "...age, then return to the earth.{{footnote: What a coincidence, 'Earth' as in 'Earth', or just the soil?}}" 
-
-Mio digest what information she seen today. We don't know what she thought, but it seemed positive. 
+The doctor humbly smiled at them, then called out, "All right then, lads and lasses. Who wants to know how babies are made?" He raised his hand. Everyone in the group raised their hands (and wings, for the Nopon), certainly very excited and very curious. "Hmm... Well, you're in for a surprise. **Buckle up**!" The group looked at each other, don't know what the surprise is.
 
 ---
 
-The group gathered by the memorial, where names of the soldiers were carved by the walls; even if their corpses weren't retrieved, they will be remembered forever for their sacrifice. There, Shania handed Monica Guernica's eyepatch. "Thank you. I mean it."
+The group left the maternity ward. Gifted with their new knowledge, they now see things differently{{footnote: That is, kids no longer a different species.}}. Kids chasing after each other, passing in front of them, amidst laughters. Noah saw 3 kids gathered around as they spoke and laughed. Eunie and Taion, in another direction, saw a dad held one of the kid high up in the air while is mum watched, smiling. Other kids ran off heading to unknown direction. Where Lanz and Sena looked, an old lad and another woman walking while chatting with each other, the woman's hair gray, with wrinkles on their face. 
 
-As if it's a ritual, she laid it on one of the memorial rock while Shania walked aside. The group waited while she reminisced for a moment. Then, she stood up, and Noah had a question for her, 
+In another direction where Noah{{footnote: He now turned to where Mio looked, probably, but we don't know because there's no frame that showed him turning his head.}} and Mio looked. A couple sitting on a bench under the tree dating each other, hands held together, and... they kissed each other, publicly displayed their act to the newly aware Noah and Mio. "Urg...." "Ahhhh...." Awkwardness filled the atmosphere; they unconsciously turned to each other. Their conscious mind took over a moment later, as their eyes and mouth widened, surprised that the other looking at themselves, even thinking the same. They tried to remove the awkwardness by turning their heads away simultaneously, Noah as if looking to a tree with his hands grasping his waist, Mio as if looking at the floor with his hands around her chest. 
+
+Monica might have noticed their reaction, don't know when appeared between them and the kissing couple. "This is how it should be. This, is human nature." She turned as she referred to the three kids speaking and laughing, then turned to the guy 'throwing' his child high up in the air, then to the old guy and woman chatting, "We are born defenseless, grow up, then those who find a spouse create new life together... age, then return to the earth.{{footnote: What a coincidence, 'Earth' as in 'Earth', or just the soil?}}" 
+
+That was info for the two to digest. Mio seemed to felt positive overall experience so far with the city folk. 
+
+---
+
+The group gathered by the memorial, where names of the soldiers were carved by the obsidian stone walls, arranged in a circle like Stonehenge; even if their corpses weren't retrieved, they will be remembered forever for their sacrifice. There, Shania handed Monica Guernica's eyepatch. "Thank you. I mean it."
+
+Perhaps it's a ritual, she laid it on one of the memorial rock while Shania walked aside. The group waited while she reminisced for a moment. As she stood up, Noah immediately shot her a question, 
 
 "Monica... What was that word you used...? 'Spouse'?"
 
@@ -466,14 +470,180 @@ As if it's a ritual, she laid it on one of the memorial rock while Shania walked
 
 Mio: "Rom-?"
 
-She looked up at the names on the rock as she continued, "The feeling of having someone very precious to you... That'd be one way of putting it." Then, she turned to the memorial rock on her right, to which the group followed glance. There was a woman slightly touching the name of her loved ones, shedding tears. Turning to another memorial rock, a man with a male child, perhaps his dad or his brother, reminiscing together. 
+She looked up at the names on the rock as she continued, "The feeling of having someone very precious to you... That'd be one way of putting it." Then, she turned to the memorial rock on her right, to which the group followed glance. There was a woman slightly touching the name of her loved ones, feeling it, shedding tears. Turning to another memorial rock, a man brought a male kid, perhaps his dad or his brother, reminiscing together. 
 
-Monica: "You'll understand too someday." Turning to the group, she saw Mio and Noah looking at each other. She recalled how Noah unconsciously shielded Mio when the Lost Numbers surrounded them. Shaking her head, "Or... It might be that you already do." Noah and Mio don't know what to say at her words, squeezed their eyelids a little. 
+Monica: "You'll understand too someday." Turning to the group, she saw Mio and Noah looking at each other. She recalled how Noah unconsciously shielded Mio when the Lost Numbers surrounded them. Shaking her head, "Or... It might be that you already do." Noah and Mio don't know what to say at her words, only could squeezed their eyelids a little. 
 
-The group had their final look at the various people standing in front of the memorials. Mio gasped at the scene; it had blew her mind. Maybe that's her purpose found, her legacy? Or perhaps she felt so grateful? 
+The group had their final look at the various people standing in front of the memorials. Mio gasped at the scene that blew her mind with fresh insights. Maybe that's her purpose found, her legacy? Or perhaps she felt grateful? 
 
 ---
 
+The group entered a room where checkered tiling filled a hexagon in the middle, and strips stretches from each of its side. Other parts were covered with black tiling. On the black tiling stood the metal statues. Shania dropped behind a lot, while Monica led the group into the room. 
 
+Eunie: "Taion... Look." In the middle of the hexagon was a replica of the Ouroboros Stone. 
+
+"Mm. It looks the same as the one before."
+
+Noah scanned the surrounding statues, questioned, "Who are they?"
+
+Monica: "The first Ouroboros. The Founders, we call 'em." 
+
+One statue, a guy, with a pair of scientific glasses (that offers intense magnification, like a portable microscope) above his head. Another wearing a long coat and a piece of cloth swaying behind his back like Batmans'. Yet another having cat ears. 
+
+"The first Ouroboros...?"
+
+Referring to the one with cat ears, Sena: "That one... She looks a bit like Mimi."
+
+Eunie's eyes turned to the next. Someone with a short jacket and a band over his head, making the Chinese posture of greeting/parting with someone (fist on your left punched onto a palm on your right).{{footnote: Though, the Chinese greeting posture should have the fingers of the palm straight, and this one wrapped around the fist, so it's not exactly the greeting posture, more like 'ready for a fight'?}} She called out: "Look at this. He's got Noah's chin!"
+
+Lanz: "And the others. Don't look like anyone." Another man with sharp hair and a jacket so short it can't be tightened, showing his chest. He had buff muscles seemingly, and hair jelled. A final woman , wearing a blouse with ponytail. 
+
+Noah turned to Monica for an introduction, "Tell us about them."
+
+She started her story, "Long, long ago, they gained the power of Ouroboros. It let them match Moebius blow-for-blow. The City folk you see here? We're all descended from them."
+
+"Bound... by their blood..." To which she nodded.
+
+"It was the Queens... So they say. Keves and Agnus... Their powers united created Ouroboros. Ouroboros are the only ones that can take down a Moebius. Although... there can only be six Ouroboros alive at one time." 
+
+Looking to the Ouroboros Stone, she continued, "By activating the stone's cage here, those with aptitude can become Ouroboros." On that comment, Shania looked down with gruesome, unsatisfied. 
+
+Sena: "Only six? Why so few of them...?"
+
+Mio: "I get it... That's why they got... so upset." That's referring to the Ouroboros candidate. 
+
+Monica: "Finally clicked? There's only so many seats and Stones. The one that my father was moving, it took a long time to be found..."
+
+"Huh..." Noah puffed out air as the stones pressed harder on his heart. 
+
+Lanz had questions, "Think I'm finally getting the gist of this whole Ouroboros deal... But the Queens?" 
+
+Monica: "Not those sham figureheads in the Castles. _The real Queens._"
+
+Eunie gave it thumbs up, "**Yesss**, real Queens! I knew that soulless piece of clockwork junk wasn't the real deal." 
+
+Mio: "Does that mean... our Queen is false too?"
+
+"Mm. We're still trying to pinpoint the true Queens. They're out there somewhere, sleeping."
+
+Taion: "What for?"
+
+"Why else? To take our world back from Moebius, and set things to rights. The true Queens will help us there."
+
+Lanz was confused, "Hang on a bleedin' second. Ouroboros were born, like 'generations' ago, right? But you said the Queens are sleeping? And there humans who can even live that long?"
+
+"Now that, I don't know too much about."
+
+"Then what _do_ you know?"
+
+"Well, the legend goes that... both of the Queens, their lifespans are supposed to be incomparably longer than ours."
+
+Eunie felt unbelievable, "And you're pinning your hopes on that?"
+
+"At the moment, that's about all we can do."
+
+After the group took a moment to digest the new information, Noah proceeded to the next question, "All right. So... When the world is 'back to rights'... Then what?"
+
+"The people you've seen here? The way they live their lives? That could be everyone. Babies, children, adults, the old... They're all a part of nature's cycle."
+
+Mio: "And that would go... for us too?"
+
+"Umh..." She nodded in agreement. "There'll be more to life than just fighting to survive. We'll weave the tale... that we were always meant to tell."
+
+She recalled what she heard from Guernica's last moments, 
+
+> "_Don't give up. Ten years? You kids deserve better. The only thing that can change all this... is the will of Ouroboros... you kids, and you alone..._"
+
+Monica continued with a plot twist, "Though... some of us around here still ain't too keen on the idea." 
+
+"What?"
+
+Noah: "So those people... From before...?"
+
+Monica: "They're happy living in the moment. As long as they can hide away and cover their eyes, they don't give a damn about the rest." She walked past the group, stopped facing the entrance. 
+
+Lanz: "So our lives mean nothing to 'em?"
+
+"If they can't see or hear you, then as far as they're concerned, you don't even exist."
+
+Noah: "Closing their eyes... to what's in front of them."
+
+"Lot o' folks here think that way."
+
+Mio: "But that's... That's just like Moebius. Then the only difference is... whether or not they benefit directly."
+
+"You catch on quick. I can see why my dad chose you guys." Turning to the group, "But the will of the Founders... It lives on in us warriors. Moebius can't reign forever. If we can continue freeing young folk like you... maybe life can get back to how it should be. That would be best for all of us."
+
+Noah agreed, "For sure. I'm with you. I think we'd have to be lunatics not to believe you, after what you've shown us..."
+
+"Ha..."
+
+Mio seconded him, and got into her appreciation stance, "I believe it too. Seeing how you live your lives... It made me feel really envious. Feeling that warmth... A part of nature's cycle... We need to protect that."
+
+Sena: "I agree." Mio turned to look at her, whom was looking on the ground, trying to find words to describe her feelings, "It was so... _precious_." Shania looked at her and listened to her; we don't know what's on her mind. 
+
+---
+
+Stopping outside the 'First Ouroboros' room, Monica called out, "Shania." She nodded back. 
+
+Riku had an urgent question: "More walking to do?" Manana was looking tired. 
+
+Monica: "This is the last stretch. Let's get you to the dorms." Shania turned and lead the way up the staircase to her left. The group followed. 
+
+---
+
+Outside of a building, with red banner hanging near the entrance, and some very short fence, probably only can prevent baby from crossing it. A man stood with his back by a beam, back leaning on it. 
+
+Monica: "This is the dorm for young Lost Numbers soldiers. You can sleep here while you're in the City. You can ask that guy about your rooms." She turned to that back-leaning guy and he waved back to them. Then, she continued, "Oh, and sadly, there's no kitchen in the building. A lot of the single soldiers eat at the Michiba Canteen." Then, pointing to a small 'park' surrounded by a few trees, "But if you want to do your own cooking, feel free to use that empty plot of land over there."
+
+Noah: "Got it. Thank you, Monica." Manana fluttered her wings from behind, hearing the word 'cooking'. 
+
+"Tomorrow, we have a lot to discuss."
+
+"Agreed. How shall we arrange that?"
+
+"Meet me in the Lost Numbers war room. It's the place down the lift from near the Praetorian Hill which we passed on the way here. I'll let you know closer to the time." He nodded back.
+
+She turned, about to leave the group alone, "Oh, before I forget. You're free to explore the City as you will."
+
+Mio: "Is that really OK?"
+
+"I said we weren't hostile, right? I thought you'd be pleased not to have me breathing down your necks."
+
+Noah shook his head, the others equally disagreed, "No, we're grateful. Thanks for everything." Shania turned to leave, and Monica followed. The group watched them off. 
+
+---
+
+In the dark, outside of the dorm, at the patch of 'park' (actually a square) Monica told them where they could cook. Noah was sitting alone on a bench, looking at the trees, at the empty space, at the buildings, lost in his thoughts. He recalled conversations with Monica earlier, after visiting the statue place, on their way to the dorms.
+
+> "N, you say?"
+> 
+> "You know him?"
+> 
+> "I know of him, definitely. He's been a real thorn in the City's side."
+> 
+> "Sounds rough..."
+> 
+> "He slaughtered many of my people in cold blood."
+> 
+> "Oh..."
+> 
+> "Why bring him up?"
+> 
+> "Ah! Well... No reason." 
+> 
+> "Hmm?" She felt there's something he isn't willing to say, yet. Stopping in his path, Noah turned to have a last look at the statue from the direction where he could see, the statue that made the Chinese greeting/parting posture. He felt there must be something with him. 
+
+Back in the present, as he tried to sort out the linking trees of thoughts, breathing out air showing his shaky feeling. Until Mio called out from his right, "What's wrong?" She continued while he turned to face her, "Is it something Monica said? Is there a problem?"
+
+"No... Don't worry about it. It's just a passing thought." He turned away from her.
+
+"Yeah?" Wasn't invited into his inner mind. She continued sharing something unrelated, "Oh, I got some news earlier. We're not sleeping in tomorrow, our briefing starts early. Get some rest while you can."
+
+Turning back to make eye contact with her, "Yeah... I'll do that."
+
+"OK. Good night."
+
+With a soft tone, "Yeah. Night." Then, she turned to head back to the dorm. He watched her leave before returning back to his thoughts. "Huh..."
 
 ### Footnotes:

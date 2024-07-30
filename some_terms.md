@@ -450,4 +450,48 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - complacent: feeling so satisfied with your own abilities/situation that you feel you don't need to try any harder. 
 - scrutiny: the careful and detailed examination of something in order to get information about it.
 - whittle away (at something): to gradually reduce the size or importance of something. 
+- flaunt: to show/make obvious something you're proud in order to get admiration. 
+- toboggan: an object for sitting on and sliding over snow and ice that consists of a low frame which curves up at the frong. 
+- fraternity: a group of people who have the same job or interest. (Def 2: a social organization for male students at an American/Canadian college). 
+- sham: something that's not what it seems to be and is intended to deceive people, or someone who pretends to be something they're not. 
+- lunatic: someone who behaves in a silly/dangerous way. (Def 2: a word for a person who has a mental illness, which was used by doctors in the past but is now offensive).
+- dickered: to argue with someone, esp. about the price of goods. 
+- gruff: (of a person's voice) low and unfriendly, or (of a person's behavior) unfriendly or showing no patience. 
+- waybill: a document that shows the details of and instructions relating to goods that're being transported by a company. 
+- equanimity: a calm mental state, esp. after a shock/disappointment/in a difficult situation. 
+- innuendos: (the making of) a remark(s) that suggest something sexual or something unpleasant but don't refer to it directly. 
+- trifling: amount of money or matter that's small or unimportant. 
+- culmination: the point at which an event or series of events ends, having developed until it reaches this point.
+- assignation: a meeting that's secret or not allowed, esp. one between 2 people having a romantic relationship. 
+- temerity: a willingness to do/say something that shocks/upsets other people. 
+- clinch: to finally get/win something. 
+- chagrined: feeling disappointed/angry, esp. by a failure/mistake. 
+- smitten: having suddenly started to like/love something/someone very much. 
+- jovial: (of a person) friendly and in a good mood, or (of a situation) enjoyable because of being friendly and pleasant. 
+- veneer: something that hides something unpleasant or unwanted. (Def 2: a thin layer of decorative wood/plastic used to cover a cheaper material.)
+- bulwark: something that protects you from dangerous/unpleasant situations. 
+- christened: to give a person a name based on a characteristic that they have. (Def 2: to give a baby a name at a Christian ceremony and make him/her a member of the Christian Church.)
+- bellicose: wishing to fight/start a war. 
+- conscripted: to force someone to serve in an army or one of a country's armed forces.
+- suffuse: to spread through or over something completely. E.g. suffused _with_ passion. 
+- at someone's behest/at the behest of someone: because someone has asked/ordered you to do something. 
+- bewitched: extremely attracted to soething, or completely controlled by something. 
+- demur: to express disagreement or refuse to do something. 
+- exigencies: the difficulties of a situation, esp. one that causes urgent demands. 
+- melioristic (meliorism): the doctrine that the world tends to become better oe may be made better by human effort. 
+- posterity: the people who'll exist in the future. 
+- perfidy: behavior that's not loyal.
+- prescient: knowing/suggesting correctly what'll happen in the future. 
+- preamble: an introduction to a speech or piece of writing. (Def 2: something that happens before or leads to something else.)
+- guff: speech/writing that is nonsense. 
+- cock a snook at someone/something: to do something intentionally to show you have no respect for someone/something. 
+- countermanding/countermand: to change an order that has already been given, esp. by giving a new order.
+- **chortling**: to laugh, showing pleasure and satisfaction.
+- sloshing: (of a liquid) to move around noisily in the bottom of a container, or to cause liquid to move around in this way by making rough movements. 
+- clobbered: to hit someone or something hrad and repeatedly. (Def 2: to punish someone.) (Def 3: to harm someone financially.) (Def 4: to defeat completely.) (Def 5 (clobber): possessions, esp. those that you carry around with you, or clothes.)
+- accosted: to go up to or stop and speak to someone in a threatening way. 
+- grandstanding: acting/speaking in a way intended to attract the good opinion of other people who're watching. 
+- wrenching: extremely stressful.
+- coveted: strongly desired by many. 
+- transfixed: unable to move or stop looking at something because you're so interested, surprised, or frightened. 
 - 

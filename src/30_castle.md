@@ -364,7 +364,7 @@ She gritted her teeth, "Hah!"
 
 "Huh?"
 
-She had calmed down, "All you're sensing... is the area around you."
+By now, she regained her equanimity, "All you're sensing... is the area around you."
 
 "What's your point?"
 

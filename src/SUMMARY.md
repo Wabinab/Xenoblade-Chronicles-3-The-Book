@@ -43,6 +43,8 @@
 # Chapter 5: Eclipse 
 - [Colony Theta in Memories](./31_theta.md)
 - [The City, Purpose, Baby, Ancestor](./32_city.md)
+- [Day 2 at the City](./33_city_day2.md)
+- [Joran, Off to the Sea](./34_joran.md)
 
 ---
 <!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->

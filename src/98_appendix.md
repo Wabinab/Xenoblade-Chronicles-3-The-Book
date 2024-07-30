@@ -21,3 +21,5 @@ Noah's vision was on her for a moment, trying to read her feelings, before noddi
 Eunie finished in a sighing intonation, "Yeah..." They embraced the moment. 
 
 ---
+
+## Appendix B: Carvings on the First Ouroboros
