@@ -76,7 +76,7 @@ Mio: "How do you-?"
 
 "Wha...?!" While she try to convince them, they hadn't put down their weapons. 
 
-"**Shania**. Take point." Monica spoke to her sidekick, the girl with two pony tails, thin eye brows, large turquoise iris, and neck-long hairs on both side that covered her ears. She also wore a fighting suit, presumably a fighting suit, with dark red stripes on the edges. Oh, on their eyepatches, there was a symbol, presumably the symbol that represents the Lost Numbers, like the symbols we had on our flags. 
+"**Shania**. Take point." Monica spoke to her sidekick, the girl with two pony tails, thin eye brows, large turquoise iris, and neck-long hairs on both side that covered her ears. She also wore a fighting suit, presumably a fighting suit, with dark red stripes on the edges. Oh, on their eyepatches, there was a symbol.{{footnote: These are related to their Houses, and we'll look at Six Houses in Appendix B.}}
 
 "Yeah, all right." Shania took steps towards the group, stopped just a few steps in front of them. 
 

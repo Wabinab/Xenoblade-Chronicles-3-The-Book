@@ -494,4 +494,37 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - wrenching: extremely stressful.
 - coveted: strongly desired by many. 
 - transfixed: unable to move or stop looking at something because you're so interested, surprised, or frightened. 
+- hillbilly/hillbillies: a person from a mountaineous area of the US who has a simple way of life and is considered to be slightly stupid by people living in towns and cities. 
+- scrip: prescription (shortform).
+- imprimatur: official permission to do something that's given by a person or group in a postion of power. 
+- peripatetic: traveling around to different places, usually because you work in more than one place. 
+- plodding: slow, continuous, and not exciting. 
+- petulant: easily annoyed and complaining in a rude way like a child.
+- indignities: something that causes a loss of respect for someone or for yourself. 
+- brazened: to act confidently and not admit that a problem exists. 
+- hightail: to leave/go somewhere in a great hurry.
+- chafe: to be/become annoyed or lose patience, often because of rules or limits. (Def 2: to make skin damaged or sore by rubbing.)
+- didactic: intended to teach, esp. in a way that's too determined or eager, and often fixed and unwilling to change. 
+- moxie: confidence and determination. 
+- curb: to control or limit something that's not wanted. 
+- caprice: (the quality of often having) a sudden and usually sily wish to have or do something, or a sudden and silly change of mind or behavior. 
+- ensconce (yourself): to make (yourself) very comfortable or safe in a place or position. 
+- engrossed: giving all your attention to something. 
+- ostentatious: too obviously showing your money, possessions, or power, in an attempt to make other people notice and admire you. 
+- accoutrements: the equipment needed for a particular activity or way of life. 
+- absconding/abscond: to go away suddenly and secretly in order to escape from somewhere. 
+- colander: a bowl with small holes in it, used for washing food or for emptying food into when it has been cooked in water. 
+- traipsed: to walk from one place to another, often feeling tired or bored. 
+- pundit: a person who knows a lot about a particular subject and is therefore often asked to give an opinion about it. 
+- tattle: to secretly tell someone in authority, esp. a teacher, that someone else has done something bad, often in order to cause trouble. 
+- moribund: (esp. of an organization/business) not active/successful. 
+- **broached**: to begin a discussion of something difficult.
+- portentous: too serious and trying to be very important. (Def 2: of events, statements, or signs: important because they show something unpleasant is very likely to happen.)
+- pogrom: an act of organized cruel behavior or killing that's done to a large group of people because of their race or religion. 
+- matriarch: a powerful woman in a family; the female leader of a society in which power passes from mother to daughter. 
+- renege: to fail to keep a promise or an agreement, etc.
+- clincher: something that helps someone make a decision. 
+- philandering: the act of having sex with a lot of different partners without becoming emotionally involved with any of them. 
+- embezzler: someone who secretly takes money that is in their care or that belongs to an organization/business they work for.
+- bloke: a man, often one who's considered to be ordinary.
 - 
