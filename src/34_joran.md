@@ -422,11 +422,9 @@ Turning to Noah and the group, Noah acknowledged, "We'll see what we can find on
 
 ---
 
-===
+A large transporting Agnian ship parked on the coast beside a small beach. The group, including the candidates, stood on the grassy area overlooking it. Noah questioned, "OK, now... How do we get closer to the Balaena...?"
 
-A large transporting levnis (ship) parked on the coast almost adjoining the beach. The group (together with a few members from the candidates) stood on the grassy area overlooking it. Noah questioned, "OK, now... How do we get closer to the Balaena...?"
-
-Unfortunately, they don't need to. They were already spotted. The Balaena deployed at least two Agnian fighting levnises at them. Eunie: "Queen's ruffles...!"
+No worries. They were already spotted. The Balaena deployed at least two levnises at them. Eunie: "Queen's ruffles...!"
 
 Sena: "We got found..."
 
@@ -442,19 +440,19 @@ Lanz volunteered, "All right, I'll be the lookout."
 
 Sena excitedly seconded, "Me too!"
 
-Corne island has some grassy fields and short slope. On the upper area were some pillars of rocks and weird-growing plants shaping like cocoon, and is that some rainbow crystals or plants sticking to the rocks? 
+Corne island has some grassy fields and short slope. On the upper area stood some pillars of rocks and weird-growing plants shaping like cocoon, and is that some rainbow crystals or plants sticking to the rocks? 
 
 ---
 
-While Sena were doing squats, hands behind her head, Shania approached her with questions, "So, Ouroboros does training as well, huh?"
+While Sena were doing squats on the grassy area with no others in sight, hands behind her head, Shania approached her with questions, "So, Ouroboros does training as well, huh?"
 
-"You're... Uhh..."
+She stopped and turned to her, "You're... Uhh..."
 
 Stopping about 4 to 5 arm-length distance (about 3 meters) facing Sena, she reintroduce herself "Shania. Shania Reid. About your rescue mission. Ghondor and I are friends from the crib."
 
-"I don't know that word, 'crib'... Does it mean you've known each other for a while?"
+Curiously, she asked, "I don't know that word, 'crib'... Does it mean you've known each other for a while?"
 
-"I guess you don't use that expression, huh? Why even use words? Feels like we're just talking at cross purposes." Despite Sena's curiosity and friendly tone, Shania clearly had a tone of impatience and jealousy. She had no intention of providing a definition to satisfy her curiosity. 
+"I guess you don't use that expression, huh? Why even use words? Feels like we're just talking at cross purposes." Her friendly tone ignites a furious remark. Shania could not help but see a neutral tone as an aggressive ones, targeted to belittle her; or maybe she's just impatience and jealous. She had no intention of providing a definition to satisfy her curiosity. 
 
 "Uh... Sorry about that."
 
@@ -466,7 +464,7 @@ Stopping about 4 to 5 arm-length distance (about 3 meters) facing Sena, she rein
 
 "That's the thing... Mimi and the others are doing their best. I need to as well. Anything to help me get an edge. So..."
 
-"Aaahhh... 'Mimi' is it? That's what you call her? The one with the long ears?"
+"_Aaahhh_... 'Mimi' is it? That's what you call her? The one with the long ears?"
 
 "Yeah. We've always been in the same colony."
 
@@ -476,13 +474,13 @@ Stopping about 4 to 5 arm-length distance (about 3 meters) facing Sena, she rein
 
 ##### Start of Memories
 
-Soldiers chatting with each other, or just traversing to their destination, back in the training camp. Sena, her back laid on the diamond-grid fence, sat with legs pulled up, arms gently put on her ankle, looking down and lonely. As though it was the same forever, Mio's voice sounded, "You're... Sena, right?"
+Soldiers chatting with each other, or just traversing to their destination, in the training camp. Sena, her back laid on the diamond-grid fence, sat with legs pulled up, arms gently put on her ankle, looking down and lonely. She might have thought this will stay forever, until Mio's voice sounded, "You're... Sena, right?"
 
-She took a second to react, didn't expected someone to approach her, "**Huh?** Oh... It's... You are..."
+She took a second to figure out someone was calling her unexpectedly, "**Huh?** Oh... It's... You are..."
 
-"I'm Mio, third term. We... haven't met before... have we?" Despite they're expected to be age 13{{footnote: Assuming when they're zeroth term, they're age 10, so they die by age 20. That's an assumption that Translator took, but different people might give a different range, maybe 12 to 22, or 13 to 23.}}, they looked the same in their final and penultimate term, no change in body features nor facial expressions,unlike Eunie and the others which clearly separate. 
+"I'm Mio, third term. We... haven't met before... have we?" Despite they're expected to be age 13{{footnote: Assuming when they're zeroth term, they're age 10, so they die by age 20. That's an assumption that Translator took, but different people might give a different range, maybe 12 to 22, or 13 to 23.}}, they looked the same in their final and penultimate term, no change in body features nor facial appearances,unlike Eunie and the others which clearly looked different when they were children.
 
-Excited tone to conceal her nervousness and awkwardness, she gathered her feet to stand up, all the while replying, "Ahh, I'm sorry....! Your name totally slipped my mind! But... I don't think... we've talked before...? Uh... Uhm..." She was acting shy. 
+Excited tone to conceal her nervousness and awkwardness, she excitedly stood up, all the while replying, "Ahh, I'm sorry....! Your name totally slipped my mind! But... I don't think... we've talked before...? Uh... Uhm..." She was acting shy. 
 
 "You know, I was just looking for a training partner."
 
@@ -504,7 +502,7 @@ She thought for a while before replying, "Well... If you really don't mind... Su
 
 "**Really? Golden! We're a team then!**"
 
-"Mmm... **Thank you!**"
+"Mmm... **Thank you!**" They continued their conversation thereafter. 
 
 ##### End of Memories
 
@@ -522,9 +520,9 @@ Sena was smiling at her recall.
 
 "Huh..." She was shocked by her philosophy. 
 
-As if to not kept her lingering on it, she changed to a joking tone immediately, "Just pullin' your leg. Caught you off guard?"
+As if to not kept her lingering on it, she changed to a joking tone and smiling face immediately, "Just pullin' your leg. Caught you off guard?" It's not the time yet... Not the time to let the others know yet...
 
-"Haha... Well, yeah, you kinda did! How'd you expect me to react to that?"
+"Haha... _Well, yeah, you kinda did!_ How'd you expect me to react to that?"
 
 "Hahaha..."
 
@@ -542,25 +540,25 @@ Back to her serious tone, "Hey. Do you _always_ work so hard for approval? _That
 
 Near the Balaena. Shania stood on the beach herself, looking at the horizon. Her mind was recalling something else. 
 
-> After she picked up the eyepatches from Guernica's remains, a female Moebius sounded while she peered deeply at it, "C'mon now. Be true to yourself." She raised her head in shock, turning around to find the source of the voice. The moebius figure, dimly lit so we can only see its eyes and core, walked towards the defensive Shania.
+> After she picked up the eyepatches from Guernica's remains, a female Moebius sounded while her attention absorbed on it, "C'mon now. Be true to yourself." She raised her head in shock, turning around to find the source of the voice. The moebius figure, dimly lit so we can only see its eyes and core, walked towards the defensive Shania.
 
-She clenched her fist, swaying between loyalty and being true to herself. 
+She clenched her fist, swaying between loyalty and being true to herself. The aurora in the sky she could not notice. 
 
 ---
 
-The next morning. Taion was speaking to the candidates. Lanz was out there doing squats himself. Mio was wiping the dishes, Sena stood still accompanying her, looked at her for a moment, then looked back down while she lost in her thoughts. Then, she turned to look at Shania, whom was still standing on the beach herself, facing the same direction. 
+The next morning. Taion was speaking to the candidates. Lanz was out there doing squats by himself. Mio was wiping the dishes, Sena stood still accompanying her, looked at her for a moment, then looked back down while she lingered in her thoughts from yesterday. Then, she turned to look at Shania, whom was still standing on the beach herself, facing the same direction. 
 
 "Hey, uh... Mimi?"
 
 "What's up? Speak to me."
 
-"Ah...uh...ahuh..." Shook her head for a while, "Uhm... It's uh... Lovely... weather we're having!" She can't muster the courage to speak up, perhaps on the weird thought Shania had the day before. She looked up at the sky in the Agnian castle's direction, Mio followed her glance; it was cloudy. 
+"Ah...uh...ahuh..." Shook her head for a while, "Uhm... It's uh... Lovely... weather we're having!" She couldn't muster the courage to speak up, perhaps on the weird thought Shania had the day before. She looked up at the sky in the Agnian castle's direction, Mio followed her glance; it was cloudy. 
 
 She didn't get the underlying message, of course, "I don't know I'd say 'lovely'... Bit overcast."
 
-Scratching her head, "Ah, -y-you're right! Eheh...Silly clouds! Guess I had my head in 'em. Ahahahah!" Then, she quickly walked away to avoid the embarrassment. 
+Scratching her head, "Ah, -y-you're right! Eheh...Silly clouds! Guess I had my head in 'em. Ahahahah!" Then, she quickly walked away to escape the embarrassment. 
 
-Mio watched her leave in awe, "Huh? Huh. What was that about?"
+Mio watched her leave in awe, "Huh? Hmm... What was that about?"
 
 ---
 
@@ -568,7 +566,7 @@ The group and the candidates gathered around a bonfire on the grassy patch near 
 
 Eunie questioned, "So, what's our loot from the Balaena lookin' like? A survey sketch of the Agnus Castle Barbican...? Now we're talkin'!"
 
-Taion: "And yet, it doesn't enable us to build a plan on its own. If possible, I'd like us to gather further intelligence before acting."
+Taion seemed to analyzed it before the meeting, "And yet, it doesn't enable us to build a plan on its own. If possible, I'd like us to gather further intelligence before acting."
 
 "Bah... Always with the caution, this bloke."
 
@@ -618,6 +616,26 @@ The guys agreed to the sound plan. Noah: "Well, it seems like we've got our plan
 
 "Riku roger that. When preparations ready, we take Boundary to Hykt's Cove."
 
+---
 
+The night fall. Starlight pierced through the slightly cloudly sky heavy with black fog. The Castle was close; they were waiting at Hykt's Cove. Lanz and Sena were looking up at it. 
+
+"It's massive... That's the Agnian Castle?"
+
+They, of course, weren't the only ones observing. Eunie: "And it's floating..."{{footnote: Remember, Agnian had anti-gravity technology the Kevesi don't; that's why their levnises are floating on balls, while Kevesi was attached to wheels.}}
+
+"Seen it before, Mio?"
+
+Shaking her head, "Nope. First time for me too. Unlike you guys, we never got any special training."
+
+"Ah..."
+
+Taion turned their attention to their mission: "If our intel's right... we ought to find a cave if we circle along anticlockwise." 
+
+Sena: "Is that the one that then leads to the ventilation ducts in the camp?"
+
+"Yeah, that's right."
+
+Noah: "Quickly. We need to get in, before it gets light."
 
 ### Footnotes:

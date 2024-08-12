@@ -527,4 +527,15 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - philandering: the act of having sex with a lot of different partners without becoming emotionally involved with any of them. 
 - embezzler: someone who secretly takes money that is in their care or that belongs to an organization/business they work for.
 - bloke: a man, often one who's considered to be ordinary.
+- reprobate: a person of bad character and habits.
+- abrogated: to end a law, agreement, or custom formally. 
+- excoriated: to write or say that a play, book, political action, etc is very bad. 
+- doddering: weak and unable to walk in a normal way, usually because you're old. 
+- apparatchiks: a loyal and senior member of a political party, esp. the Communist Party in the former USSR. 
+- tenable: (opinion/position) able to be defended successfully or held for a particular period of time. 
+- off-kilter: uneven, unconventional, unusual. 
+- blunder: a serious mistake, usually caused by not taking care or thinking. 
+- nonconformity: the quality of living and thinking in a different way from others. (Def 2 (with capital 'N'): the practice of belonging to a Christian group that's Protestant but doen't belong to the Church of England). 
+- covenant: a formal agreement or promise between 2 or more people. 
+- flailing (flail): (esp of arms and legs) to move energetically in an uncontrolled way.
 - 
