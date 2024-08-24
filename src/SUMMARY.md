@@ -46,6 +46,8 @@
 - [Day 2 at the City](./33_city_day2.md)
 - [Joran, Off to the Sea](./34_joran.md)
 - [Life in Prison](./35_prison.md)
+- [The Day of Escape](./36_trying_to_escape.md)
+- [The Eclipse](./37_eclipse.md)
 
 ---
 <!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->

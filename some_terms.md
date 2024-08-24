@@ -538,4 +538,32 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - nonconformity: the quality of living and thinking in a different way from others. (Def 2 (with capital 'N'): the practice of belonging to a Christian group that's Protestant but doen't belong to the Church of England). 
 - covenant: a formal agreement or promise between 2 or more people. 
 - flailing (flail): (esp of arms and legs) to move energetically in an uncontrolled way.
+- convocation: a large formal meeting. 
+- deferment: the act of delaying something until a later time, or an occasion when something is delayed until a later time. 
+- bigotry: the fact of having and expressing strong, unreasonable beliefs and disliking other people who've different beliefs or a different way of life. 
+- clout: to hit someone/something with the hand or with a heavy object. 
+- neophyte: someone who has recently become involved in an activity and is still learning about it. 
+- trouncing: a serious defeat. 
+- senile: showing poor mental ability due to old age, esp. being unable to think clearly and make decisions. 
+- dollop: a small amount of something (soft, esp. food.)
+- allusion: something that's said or written that's intended to make you think of a particular thing/person. 
+- intractable: very difficult/impossible to control, manage, or solve. 
+- flimflam: talk that's confusing and intended to deceive.
+- fallow: (fallow period) a time which very little happens. 
+- reek(ed): to have a strong unpleasant smell. 
+- bawdy: containing humorous remarks about sex.
+- arrears (arrear is not a word): money that's owed and should already have been paid. 
+- culottes: 
+- scroungy: looking old, dirty, untidy, or in bad condition because of being used for a long time or not being cared for. 
+- besotted: completely in love with someone or something and always thinking of them. 
+- anachronism: a person, thing, or idea that exists out of its time in history, esp. one that happened or existed later than the period being shown, discussed, etc. 
+- deference: respect and politeness. 
+- windfall: an amount of money that you win/receive from someone unexpectedly. 
+- rattan: a tropical climbing plant with thin, tough stems. (Def 2 (fabrics): these stems used as a material for making wicker furniture, or furniture made from them.)
+- girth: the distance around the outside of a thick/fat object, like a tree/body. (Def 2: the strap that goes around the middle of a horse to keep the saddle or the load in the right position.)
+- highfalutin: trying to seem very important/serious, but w/o having a good reason for doing so and looking silly as a result. 
+- shortchange: to give someone back less money than they're owed when the person is buying something from you. (Def 2: to treat someone unfairly, by giving them less than they deserve.)
+- buffet: a mean where people serve themselves different types of food. (Def 2: (of wind, rain, etc.) to hit something repeatedly and with great force.)
+- gambol: to run and jump in a happy way. 
+- reprimanded: to express to someone your strong official disapproval of them.
 - 
