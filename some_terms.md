@@ -566,4 +566,5 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - buffet: a mean where people serve themselves different types of food. (Def 2: (of wind, rain, etc.) to hit something repeatedly and with great force.)
 - gambol: to run and jump in a happy way. 
 - reprimanded: to express to someone your strong official disapproval of them.
+- auspicious: suggesting a positive and successful future.
 - 
