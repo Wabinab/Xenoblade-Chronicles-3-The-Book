@@ -482,17 +482,15 @@ Noah: "I hear you. **Eunie!**"
 
 ---
 
-===
+M heavily panted as the fight was no longer in her favor. The Ouroboros wasn't easy either, keeping their attention from slacking off. Mio looked at M for a while; their eyes met secretly, before she looked down on the ground, wasn't sure what she was thinking of. 
 
-M was panting as she could no longer mind control any member of the group. The Ouroboros were also panting; it's not as easy to detect as it feels. While they were resting, Mio was looking at M, unsure what she's thinking of. 
+Suddenly, Noah felt the throbbing headache. He immediately turned his attention to where the Golden Consul was standing. A purple slash cut through the ground, drawing a line between M and the Ouroboros, temporarily disarmed the Mondo's array, while sending dust that enshrouded its vicinity. 
 
-Suddenly, Noah felt the throbbing headache. Looking up, he saw a purple slash cutting through the ground, aiming at them. It sliced in front of them, breaking the Mondo's defense, drew a line between the Ouroboros and M, and sent dust covering its vicinity. 
+M, seeing that N had her back, fell down to the ground on one knee, another in a twisted position. She had enough strength to peer over her shoulder; "N..." He walked into the scene calmly, stood beside her and ordered, 
 
-Seeing that N had her back, M dropped to the ground, don't even have energy to stand. She peered through her shoulder to her left, "N..."
+"That's enough. Get back." His eyes squeezed in a look that accepted no negotiations. 
 
-He walked and stop beside her and gave instruction, "That's enough. Get back." His eyes squinted -- his words had no room for negotiations. 
-
-"As you say." She put her mask back on and walked away. Turning his attention to the group, he pulled his blade out a few inches, its energy released so strong that it clear the dust that enshrouded the group, before tucking the sword back into its sheathe. 
+"As you say." As she stood up, she brought her mask back online and walked out of the scene. N slightly pulled his sword out of the scabbard a few inches, immediately releasing an energy so strong it cleared the dust, revealing their new enemy, before tucking it back. 
 
 Eunie: "Now it's Noah we're dealing with?"
 
@@ -502,45 +500,49 @@ Eunie: "Now it's Noah we're dealing with?"
 
 Lanz: "You know, this is getting ridiculous. **I don't get any of this nonsense!**"
 
-Taion: "M's only stepping back. She could _still_ use her powers. Just keep an eye on how the Mondo act."
+Taion warned, "M's only stepping back. She could _still_ use her powers. Just keep an eye on how the Mondo act."
 
 Sena: "Yeah, will do!"
 
-Words in his thoughts: "_A Moebius with my face... Is it something to do with how Moebius and Ouroboros have fought... over the ages?_" As if something strike that blurs his vision, he saw the iris glowing Moebius and some dark soul emitting from N's body. He closed his eyes, trying to shook his head to get away that look. "_Need to stay focused. One little mistake, and it's over._"
+Words in his thoughts: "_A Moebius with my face... Is it something to do with how Moebius and Ouroboros have fought... over the ages?_" Something seemed to strike his mind; he saw a dark glow and purple smoke that enshrouded N, and his eyes in Moebius's red. As his vision blurred, he shook his head to clear it up, "_Need to stay focused. One little mistake, and it's over._"
 
 Third round! 
 
 ---
 
-Just before he pull his sword, the energy that emanates through the sheath is so strong it distorts the surrounding air. Eunie's Ouroboros shot at him; he just jumped up, unsheathed his sword, and slice through her. Eunie: "Aw, coe on... Urggggaaaaahhhh!!!!" A moment later, she shattered into pieces before falling towards the ground. N sheathed his sword back into the scabbard. 
+Without even pulling his sword, the momentum that his sword gathered is so strong it's enough to distort the environment{{footnote: Just like the water vapor in a heating sun after a heavy rain.}}. Eunie's Ouroboros was shooting at him; he closed his eyes, jumped up and unleashed his sword. "Aw, come on... Urggggaaaaahhhh!!!!" Immediately, she shattered into pieces, each falling back to the ground. N sheathed his sword back into the scabbard. 
 
-"Eunie!!! Urggaaaaaahhhh!!!" Lanz took control from Sena and dashed towards N, still floating on the air. A punch on his sword made no dent; the force don't even sent him flying in the opposite direction, despite there's no friction that could hold him in position. They exchanged blows while floating mid-air. "Yaaaaaarggghhhh!!!" As he broke his shield, he grabbed him by his neck and slammed him onto the ground below. Then, he returned back on to the ground. 
+"Eunie!!! Urggaaaaaahhhh!!!" Lanz, being worried, took control from Sena while dashing towards N, still in mid-air. His punch made not a scratch on his scabbard, nor does N obeys the Newton's third law: he doesn't move an inch with applied force mid-air, where friction is nil! "Yaaaaaarggghhhh!!!" Several blows exchanged mid-air and his shield broke down. N grabbed Lanz's Ouroboros by its neck and threw it on to the ground below. 
 
-Eunie recombined her body parts before Taion took over, "Try some of this!" Mondo swirled around the unmoving N, gathered into a ball that encircled him, bringing him up on to the air, "Eat it!" It exploded and sent some dust that enshrouded his view on N's status. Riku, Manana, and M looked at the scene, waiting for the answer. "Did it work?"
+"Try some of this!" Taion took control from Eunie and swirled his Mondo around N, whom made it back on to the ground, gathered into a ball encircling him, and bringing him up slightly above the ground. "Eat it!" The explosion sent burnt Mondo and dust that enshrouded their view on N's status. "Did it work?" 
 
-As the dust cleared, we saw the unscathed N standing on the ground. "Can't be... Not a scratch?!" Too late. While he was thinking, his sword sliced through him; N stop behind him, and he disintegrated once more. 
+As the dust cleared, N was unscathed. "Can't be... Not a scratch?!" Taion hadn't had time to perform subsequent measures when he was sliced; he disintegrated once more upon N returning his sword into the scabbard. 
 
-"Taion! Eunie!" Sena and Noah took over, dashing towards N. With the back of the sword, he easily blocked Sena's hammer, disintegrating her hammer in the process. His speed was quick, dodging Noah's slash. Those that he can't dodge, or chose not to dodge, he made minimal movements with his swords to block them. Holding on to his sword, he sliced Mio's Ouroboros's leg. He then turned to watch Mio's Ouroboros struggled getting up. Noah took control thereafter. "After all that, he hasn't even had to transform... That's insane...!"
+"Taion! Eunie!" Sena and Noah were running towards N. With the back of his sword, he easily blocked Sena's hammer and disintegrate it into pieces. After Sena rolled out of the scene, Noah tried slashing, but was too slow. Those that N don't think he wanted to dodge{{footnote: Or maybe that he can't without maintaining his posture.}} he blocked with his sword by moving the minimal distance required. As Mio took control towards the sliding-back N, he slashed off her feet "Ahhh urrrrggg ahhhh uhhhhh..." She rolled and fell. 
 
-Just then, his Ouroboros core was glowing hot suddenly, steam rising from their body. Their time was nigh. While Noah examined his body, N cared to explain what's happening, "Ouroboros and Moebius both... manifest outwards from their core. So long as the core is intact... you can slice off as many limbs as you like. They will keep growing back...{{footnote: Taion's leg and all of Sena's limbs hadn't yet grow back, but they were already glowing red hot.}} Yet, at the cost of vast energy consumption. Of course, this cuts down the time you can stay in that form. _You're at your limit._" 
+N turned his attention to Mio's Ouroboros after sheathing his sword. She was struggling to get up; Noah took control in the moment. "After all that, he hasn't even had to transform... That's insane...!"
 
-After he finished, he sliced Noah's Ouroboros once more time. As the limbs detached and they exploded mid-air, they were forced to cancel the interlink. Riku and Manana watched in awe as they smashed to the ground. M closed her eyes and look down, evading looking at the scene. Noah: "H-how...? Our power... There's really nothing we can do to beat him?!" He struggled to get on his feet as he lost hope, continuing, "*Mio...* Everybody's hopes and dreams... They die here? Uhuh..."
+HIs body started to glow red hot, steam emanating from the Ouroboros Core as he finished his sentence. He looked at his own body, realizing his time was almost up. The beeping sound started warning him to cancel the Interlink. N had the patience to explain what was happening, "Ouroboros and Moebius both... manifest outwards from their core. So long as the core is intact... you can slice off as many limbs as you like. They will keep growing back...{{footnote: Taion's leg and all of Sena's limbs hadn't yet grow back, but they were already glowing red hot.}} Yet, at the cost of vast energy consumption. Of course, this cuts down the time you can stay in that form. _You're at your limit._" 
 
-N turned around and remarked while he grip onto the handle, "Your hope is a fool's hope. And I will end your dreams... now!" He pulled his sword and launched a purple slash at Noah. No one on the battlefield could do anything. It sent him flying into the air. 
+As he finished his sentence, he dashed so quickly at Noah's Ouroboros, still attending to his own body, and performed a slice so fast we don't see the sword. "YAAAAAAAAHHHH!!!" Noah's Ouroboros detached as it launched itself high into the air like a rocket, disintegrating (its interlink) mid-air. M closed her eyes to keep away from the inhumane scene. "Urrrrrgghhhh" "Ahhhhhhh" Both dropped to the ground some distance apart. 
 
-Still in (Taion's) Ouroboros form, Eunie called out, "N-Noah!!!" They watched as he fell onto the ground. He wasn't dead, though. Seems like N didn't want him to die just yet. 
+Noah was struggling to get up on his feet, still questioning, "_H-how...? Our power... There's really nothing we can do to beat him?! Mio... Everybody's hopes and dreams... They die here? Uhuh..._" He struggled on his feet, but it seems he lost his hope simultaneously. 
 
-As he took steps towards Noah, "Power is for those who face reality. And I, having witnessed countless realities, preside in a world beyond your ken!"
+N gripped the sword's handle, turned around at him and remarked, "Your hope is a fool's hope. And I will end your dreams... now!" He pulled his sword and launched a purple slash at Noah. No others could shield for him; for they were struggling to get up themselves. The slash sent him into the air, and we could see some motes floating where he was injured. 
 
-Noah turned facing the ground, "Reality, you say?" 
+Still in (Taion's) Ouroboros form, Eunie called out, "N-Noah!!!" They watched as he fell onto the ground. N didn't kill him. Slowly walking towards him, he commented, 
 
-"Huuuuuuuahhhhhh!!!!" Mio dashed towards N, which caught his attention. "Urggghhh" One slash and she flew in the other direction, losing her grip on her twin ring in that instance. Noah watched her flew away, got up on his feet and dashed after her. 
+"Power is for those who face reality. And I, having **witnessed countless realities, preside in a world beyond your ken!**"
+
+"Reality, you say?" 
+
+"Huuuuuuuahhhhhh!!!!" Meanwhile, Mio had gotten up on her feet, dashing towards N; her anger at what he had done to Noah is her strength. "Urggghhh" With eyes wide opened, Noah could only see her brutally being knocked back, gliding across the air, losing her grip on the ring. 
 
 "**MIO!!!**" He got hold of her shoulder and waist as he tried to help her up, "**Mio!! You OK?! Mio?!**"
 
-"I... I'll live..." N, with the Moebius symbol glowing in his eyes, was standing in front of them; their attention turned towards him. The protection and the connection between them perhaps had brought some unwanted memories buried deep in his mind. He expressed resentment. 
+"I... I'll live..." As they looked up, N was standing a few feet{{footnote: One isn't US resident, so one isn't sure how 'feet' measures, but one assumed the length of our real 'feet', and the vague 'a few' signifies error rate between a small foot or a big foot you have.}} in front of them. His attention was on such protection Noah offered to Mio; perhaps it had brought unwanted memories that he had long buried. The group watched the sadistic look in his eyes, unsure what he would do to them next. 
 
-Meanwhile, Sena's Ouroboros tilted her head upwards and looked at N; her limbs not growing back anymore. "Mimi..." She recalled the bits and pieces from her memories with her, the loving memories of their accompaniment, how she reminded her to be herself, how she helped her through the desert, how she sat by herself with her flute on her hand. Inside the Ouroboros's (orange smoke) space, she calmly called out, "Lanz..."
+At the other side, Sena's Ouroboros were crazily beeping with their limbs still detached. "Mimi..." She recalled how they accompanied each other, their bits and pieces together. "Lanz..."
 
 "Mm?"
 
@@ -548,17 +550,17 @@ Meanwhile, Sena's Ouroboros tilted her head upwards and looked at N; her limbs n
 
 "Yeah. No problem. **_This is the time, huh? For us to really shine._**"
 
-"**Yeah. Right.**" In overclock mode, they risked overheating to grow back her limbs. 
+"**Yeah. Right.**" They overclocked to force their limbs grow back. 
 
-"Let's go!" As Lanz finished his words, he took control and dashed towards the reminiscing N. "Yeeerrrrraaaggghhh!!!!" He dodged his punch, pulled him out of his memories. Too slow; his hits was easily dodged, and he kept changing directions as he needs time to brake from his force. "Fire and sparks! Quit it with the bleeping!"
+"Let's go!" Lanz first took control finishing his words, "Yeeerrrrraaaggghhh!!!!" Even while he was thinking, he had time to notice his incoming. He dodged his slow punches; he kept changing direction just to re-aim at N. "Fire and sparks! Quit it with the bleeping!"
 
-Too many punches on the dirt sent dust enshrouding their view from the actual fighting scene. Noah, whom helped Mio stood up, shouted at them: "**Lanz! Sena! Cancel the interlink!!! You're at your limit!**"
+Noah and Mio watched in awe what they were doing, "**Lanz! Sena! Cancel the interlink!!! You're at your limit!**"
 
 "Oh, believe us."
 
-Sena took over, hammering N: "We knew that from the start!"
+Sena took over, hammering N: "**We knew that from the start!**"
 
-"Hmph." While N was flying backwards from the shockwave that Sena sent onto the ground, Lanz took control and got behind him in the direction he was flying, opening his arms as if to embrace him. 
+"Hmph." While N was flying backwards from the shockwave that Sena sent onto the ground, Lanz took control and got behind him in the direction he was flying, opening his arms and embraced him within his arms.
 
 "**Got you now, scum!!!**" 
 
@@ -584,31 +586,31 @@ She nodded, "**OK!**"
 
 N: "What are they-" 
 
-More and more black fog got absorbed into Lanz's Ouroboros. "**YYYYYAAAAAAAAAAGGGGGGGGHHHHHHHHHHH!!!!!!!**" They flew even higher than the highest point of Agnus's Castle, not looking back. 
+More and more black fog got absorbed into Lanz's Ouroboros. "**YYYYYAAAAAAAAAAGGGGGGGGHHHHHHHHHHH!!!!!!!**" They zipped past the highest point of the Castle, not looking back. 
 
 As tears aggregate in her eyes, she spoke her last words, "_Thank you, Mimi..._" 
 
-The explosion never happened. Some bright light flooded the screen and they were forced cancelled their interlink mid-air. Both were shocked at what just happened, "Urgghhh..." 
+The explosion never happened. Some bright light flooded the screen and they were forced to cancel their interlink mid-air. Both were shocked at what just happened, "Urgghhh..." 
 
-"Aww, too baaaad. You were so close." In between them, another female Moebius with ears that resembled a fox, and two pairs of them spread out like a butterfly wings, holding onto a staff with a gyroscope at its tip, having a ball of purple energy encased in between the gyroscope rings. Both dropped on to the ground below. 
+"Aww, too baaaad. You were so close." In between them, another female Moebius with ears that resembled a fox, and two pairs of them spread out like a butterfly wings, holding on to a staff with a gyroscope at its tip, having a ball of purple energy encased in between the gyroscope rings. Both dropped on to the ground below. 
 
-"AAAAAAAAHHHHHHHH!!!!" Taion used the remaining time to force grow his limbs and sent his Mondo as cushion a few meters above ground before finally cancelling their interlink. Effetely, both drop face down onto the ground, out of energy. As the Mondo ball disappeared, they both may had drop to the ground too.{{footnote: Too far, too many dust, cannot see.}}
+"AAAAAAAAHHHHHHHH!!!!" Taion used the remaining time to force grow his limbs back, sent his Mondo as a layer of cushion just a few meters above ground where they were dropping before finally cancelling their interlink. Effetely, both drop face down onto the ground, totally out of energy. The Mondo ball disappeared not long later.
 
-Seeing that they're fine, Mio dropped to the ground. Noah got hold of her shoulders and watch. 
+Seeing that they're fine, Mio dropped to the ground. Noah got hold of her shoulders and watch together with her. 
 
 N, now back on the ground, the other female Moebius walking towards him. He was clearly annoyed, questioned her, "X... What are you doing?"
 
-She felt anxiety as her help wasn't appreciated. Pointing the staff at N, she complaint, "**Hey, I just saved your life!** Could I get just a little gratitude here?"
+What had been done had not been appreciated. Pointing the staff at N, she complaint, "**Hey, I just saved your life!** Could I get just a little gratitude here?"
 
 Focusing on the ball of energy in the middle of the gyroscope staff, he asked, "Z's orders?"
 
-"Pretty much. Heheh." Meanwhile, Z was sitting in the theatre, watching in remote. 
+"Pretty much. Heheh." Meanwhile, Z was sitting in the theatre, watching in remote, emotionless. 
 
 Taion finally got strength to stood up, "**Another Moebius?!**"
 
 Eunie: "X, is it? The Interlink... So this is her doing?"
 
-Meanwhile, Noah and Mio was dashing forward, shouting, "**Lanz!**" "**Sena!**" "**Are you OK?!**" Arriving at where Lanz had stood up, he was angry, 
+Meanwhile, Noah and Mio was dashing forward, shouting, "**Lanz!**" "**Sena!**" "**Are you OK?!**" Arriving at where Lanz had stood up, he was angry he had not been able to buy time for them. 
 
 "Sparks' sake..." 
 
@@ -618,7 +620,7 @@ Mio turned towards Sena and hugged her, glad to had her back alive, "Sena..."
 
 "It's OK... Forget about that..."
 
-While they were in a reunion, N had to interfere. Sena noticed his approaching. With X backing him up, he spoke, "Well now. I apologize for that little disturbance. It won't happen again." Noah wasn't sure what that means. He continued, "You'll notice your powers have now been fully sealed. Give it up. Your chances of victory _are nil_." He recalled his sword and ready to grab the handle if they were to rebut. 
+While they were welcoming the two back, N step forward and interfered. Sena noticed his approaching. With X backing him up, he spoke, "Well now. I apologize for that little disturbance. It won't happen again." Noah wasn't sure what that means. He continued, "You'll notice your powers have now been fully sealed. Give it up. Your chances of victory _are nil_." He recalled his sword and ready to grab the handle if they were to rebut. 
 
 Noah: "Ngh..." He (and the others) tried to summon his blades, only to had empty hands. In the screen on the Iris, the sword dissipate whenever he tried to summon it. Shockingly, he now understood what it meant by 'being sealed'. "Wha... My Blade... It's gone!"
 
@@ -626,7 +628,7 @@ Eunie: "Wh-what? How?!"
 
 Sena: "Impossible... Never heard of a Blade failing!" 
 
-N slashed towards them; but they weren't damage. Wondering what's happened? They heard a shout from behind; turning to saw a Lost Number injured. 
+N slashed towards them; they were undamaged. Then, they heard a shout from behind; turning and saw a Lost Number injured. 
 
 "Anton!" The others quickly got to his feet. 
 
@@ -634,11 +636,11 @@ Eunie: "Piece of sh-!"
 
 "Hahahahah.... Ah, it seems you were hoping they would escape. Sadly, things didn't quite pan out your way, did they?"
 
-Lanz, with gritted teeth, "Because you cut him down!" M, watching their exchanges, slightly tightened her eyelids. 
+Lanz, with gritted teeth, "Because you cut him down!" M, watching their exchanges, slightly looked down. Mio's eyes were unfluttered{{footnote: Not a word in the dictionary, just "not fluttered" is the meaning.}}. 
 
 Aggy: "Sorry, Noah. Guess we were dead weight after all!"{{footnote: Actually, one searched online for who's Aggy, who's Oggy, given that one still don't know until one searched. So, the one with dark hair (the most noticeable difference) is Aggy, and the one green hair Oggy.}}
 
-N prepared for another slash, "Did I not tell you? There's no hope. Now witness the result." The group prepared for his slash once more. Moments of concerns passed as they concentrated in silence. A long pause as he thought through it, he gave up slicing. "A sideshow...!"
+N prepared for another slash, "Did I not tell you? There's no hope. Now witness the result." The group prepared for him to slash at them, executing them therefore. Moments of concerns passed as they concentrated in silence. He thought for a really long time, with a really long pause in between, until he gave it up, announcing instead, "_A sideshow...!_"
 
 Noah: "What...?"
 

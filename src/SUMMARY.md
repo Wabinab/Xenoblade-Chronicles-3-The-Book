@@ -51,6 +51,7 @@
 
 # Chapter 6: Choices
 - [Fragments of the Past](./38_memory_shards.md)
+- [The Sword of the End](./39_sword_of_the_end.md)
 
 ---
 <!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->
@@ -58,5 +59,6 @@
 ---
 
 ---
+[Postscript](./97_postscript.md)
 [Appendices](./98_appendix.md)
 [Index](./99_terms.md)

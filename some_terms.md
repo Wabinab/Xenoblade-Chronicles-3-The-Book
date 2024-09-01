@@ -567,4 +567,90 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - gambol: to run and jump in a happy way. 
 - reprimanded: to express to someone your strong official disapproval of them.
 - auspicious: suggesting a positive and successful future.
+- paltry: (of an amount of money) very small and little/no value.(Def 2: of little quality or value.)
+- stevedore: a person who works at a port, putting goods onto and taking them off ships. 
+- expounded: to give a detailed explanation of something. 
+- adroitness: the quality of being skilful and quick in thinking or movement.
+- beguiled: to persuade, attract, or interest someone, sometimes in order to deceive them.
+- repentance: the fact of showing that you're very sorry for something bad you've done in the past, and wish that you've not done it.
+- sequined/sequinned: covered in or decorated with sequins (=small, shiny discs).
+- cabaret: a performance of popular music, singing, or dancing, esp. in a restaurant or bar.
+- unpretentious: simple and/or sincere; not pretentious.
+- coiffed: (hair) carefully arranged in an attractive style.
+- uncouth: behaving in a rude, unpleasant way.
+- retch: to react in a way as if you're vomiting.
+- hayseed: (except the direct meaning "hay seed") an unsophisticated person from a rural area.
+- flummoxed: so confused that you don't know what to do.
+- blinders: two pieces of leature that're put at the side of a horse's eyes so that it can only see forward.
+- hidebound: having fixed opinions and ways of doing things and not willing to change or be influenced, esp. by new or modern ideas.
+- pelted: to throw a no. of things quickly at someone/something. 
+- fraying: to become or to cause the threads in cloth or rope to become slightly separated, forming loose threads at the edge/end. 
+- flannel: a facecloth.
+- suede: leather that's slightly rough to touch and is not shiny.
+- rumpled: creased (=not smooth) and untidy
+- sartorial: relating to the making of clothes, usually men's, or to a way of dressing. 
+- pinnacle: the most successful/admired part of a system or achievement. 
+- croak: speak with loud voice (like a frog) esp. when sore/dry throat. 
+- poseur: someone who pretends to be something they're not, or to have qualities that they don't have. 
+- wussy: weak and overly timid or fearful. 
+- blarney: a friendly and pleasant way of talking that makes someone good at persuading people to do things. 
+- crusty: having a hard outer layer. (def 2: esp. of older people, complaining and easily annoyed.)
+- befoul: to make dirty or filty. 
+- injunction: an official order given by a law court, usually to stop someone from doing something. 
+- impalement: the act of pushing a sharp object throughs omething, esp. the body of an animal/person. 
+- hollered: to shout loudly. 
+- alluded: to mention someone or something without talking about him, her, or it directly. 
+- anthropocentric: considering humans and their existence as the most important and central fact in the universe. 
+- calisthenics/callisthenics: (a system of) simple (physical) exercises that're done to make the body firm, able to stretch easily, and more attractive. 
+- prosaic: without interest, imagination, and excitement. 
+- sumptuous: impressive in a way that seems expensive. 
+- vacuous: not expressing or showing intelligent thought or purpose. 
+- garner: to collect something, usually after much work or with difficulty. 
+- pedantry: the quality of being too interested in formal rules and small details that're not important. 
+- tapestry: a piece of cloth with a pattern or picture that's created by sewing or weaving different colored threads onto a special type of strong cloth. (Def 2: something that's made of many different parts.)
+- meander: (river, stream, or road) follows a route that's not straight or direct. (Def 2: to walk slowly without any clear direction. )
+- pedantic: giving too much attention to formal rules or small details. 
+- idiosyncratic: having strange or unusual habits, ways of behaving, or features. 
+- persnickety: giving too much attention to small details that're not important in a way that annoys other people. 
+- oenophile: a person who loves wine and knows a lot about it. 
+- profuse/profusion: produced or given in large amounts. 
+- nascent: only recently formed or started, but likely to grow larger quickly.
+- preposterous: very silly or stupid. 
+- modus operandi: a particular way of doing something. 
+- fastidious: giving too much attention to small details and wanting everything to be correct and perfect. (Def 2: having a strong dislike of anything dirty/unpleasant.)
+- epicure: a person who enjoys high quality food and drink. 
+- cognoscenti: a group ofp eople who have a great knowledge and understanding of a particular subject, esp. one of the arts. 
+- cacophony: an unpleasant mixture of loud sounds. 
+- strident: (sound) loud, unpleasant, and rough. (Def 2: expressing/expressed in forceful language that doesn't try to avoid upsetting other people.)
+- congenital: (disease/condition) exists at/from birth. (Def 2: someone always shows a particular bad quality.)
+- jock(s): a man/boy who's enthusiastic about and good at sport. (Def 2: a tight piece of underwear worn by men to support and protect their sexual organs when playing sport.) (Def 3: (**offensive**) a man who comes from Scotland.)
+- exegesis: an explanation of a text, esp. from the Bible, after its careful study. 
+- **discomfiting**: making you feel uncomfortable or uncertain. 
+- praxis: the process of using a theory or something that you've learned in a practical way. 
+- acerbic: used to describe something that's spoken/written in a way that's direct, clever, and cruel. 
+- loquacious: talkative. 
+- quaint: attractive because of being unusual or esp. old-fashioned. (Def 2: to show that you don't approve of something, esp. an opinion, belief, or way of behaving, because it's strange or old-fashioned.)
+- parsimony: unwillingness to spend money or to give things to people. 
+- (the) linchpin (of): the most important member of a group or part of a system, that holds together the other members or parts or makes it possible for them to operate as intended. 
+- amorphous: (physical) having no fixed form or shape. (Def 2: (idea, plan, etc.) having no clear structure or details.)
+- conflate: to combine two or more separate things, esp. pieces of text, to form a whole. 
+- pedagogy: the study of the methods and activities of teaching. 
+- accentuate: to emphasize a particular feature of something or to make something more noticeable. 
+- proclivity: someone likes something or likes to do something, esp. something considered morally wrong. 
+- scupper: to sink your own ship on purpose. (Def 2: to cause something such as a plan or an opportunity to fail.)
+- defuse: to prevent a bomb from exploding. (Def 2: to make a difficult or dangerous situation calmer by reducing or removing its cause.)
+- pejorative: expressing disapproval (and/or insulting), or suggesting that something isn't good or is of no importance. 
+- epithet: an adjective added to a person's name or a phrase used instead of it, usually to criticize/insult or praise them. 
+- conceit: the state of being too proud of oneself and one's actions. (Def 2: a clever or surprising comparison, esp. in a poem.)
+- countervailing: having equal force but an opposite effect. 
+- stifling: extremely hot and unpleasant. (Def 2: preventing something from happening.)
+- obverse: the other side of something. (Def 2: (finance/economics) the front side of a coin that has the main picture on it.)
+- cinch: something that's very easy and is therefore certain to be a success.
+- flaky: coming off easily in small, flat, thin pieces. 
+- trappings: all the things that're part of or typical of a particular job, situation, or event. 
+- manicure: a treatment for the hands that involves making the skin feel softer and making the nails look better by cutting, smoothing, and painting them. 
+- recuse: to say that a judge or a member of a jury shouldn't be involved in a trial because they have a special interest in its final result. 
+- reproach: to criticize someone, esp. for not being successful or not doing what's expected. 
+- prognostic: relating to a doctor's judgment of the likely or expected development of a disease or the chances of getting better. 
+- nary a...: not one or none at all (to emphasis something)
 - 
