@@ -653,4 +653,55 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - reproach: to criticize someone, esp. for not being successful or not doing what's expected. 
 - prognostic: relating to a doctor's judgment of the likely or expected development of a disease or the chances of getting better. 
 - nary a...: not one or none at all (to emphasis something)
+- propensity: the fact that someone is likely to behave in a particular way, esp. a bad way. 
+- blasé: bored or unexcited, or wishing to seem so. 
+- polemic: a piece of writing/speech in which a person strongly attacks or defends a particular opinion, person, idea, or set of beliefs. 
+- one-up(s)manship: A situation in which someone does/says something in order to prove that they're better than someone else. 
+- stepstool: a low set of hinged steps, often folding into or under a stool, used typically in a kitchen for reaching high shelves. 
+- tussle: to have difficult disagreements or strong arguments. 
+- slipshod: (esp. of a piece of work) showing little care, effort, or attention. 
+- ratified: (esp. of governments or organizations) to make an agreement official. 
+- muckraking: the activity, esp. by newspapers and reporters, of trying to find out unpleasant info about people or organizations in order to make it public. 
+- opulence: the quality of being expensive and luxurious. 
+- enmity: strong dislike. 
+- avuncular: friendly, kind, or helpful, like the expected behavior of an uncle. 
+- shingle: small, round stones that cover a beach or the ground by the edge of a river. (Def 2: a thin, flat tile made of wood, slate, etc. that's fixed in rows to make a roof or wall covering.)
+- lark: a small, brown bird that's known for its beautiful singing. (Def 2: an activity done for a joke that's not intended to cause serious harm/damage.) (Def 3: (this... lark) a way of referring to an activity/situation that you don't take seriously.)
+- rapturous: showing extreme pleasure and happiness or excitement. 
+- besieged: to surround a place, esp. with an army, to prevent people or supplies getting in/out. (Def 2: to make many requests/complaints about something.)
+- backhoe: a large machine for digging and moving earth that consists of a large bucket at the end of an arm attacked to a vehicle. (挖泥车, but may be bulldozer at the other side of the arm). 
+- vagrant: a person who's poor, doesn't have a home/job, and moves from place to place. 
+- muzzled: the mouth and nose of an animal, esp. a dog. (Def 2: a covering put over an animal's nose and mouth in order to prevent it from biting). (Def 3: the end of a gun barrel, where the bullets come out.) (Def 4: to stop a person/organization from expressing independent opinions.)
+- warble: (bird) to sing pleasantly. (Def 2: to sing, esp. in a high voice.)
+- contralto: a woman singer with the lowest female singing voice (or in that range). 
+- languorous: mentally/physically tired or not active, in a way that feels or looks pleasant. 
+- deadpan: looking/seeming serious when you're telling a joke. 
+- sommelier: someone whose job is to serve and give advice about wine in a restaurant. 
+- pied-à-terre: a small house/apartment in a city that you own/rent in addition to your main home, where you stay when visiting that city for a short time. 
+- gentrifying: to change a place from being a poor area to a richer one, by people of a higher social class moving to live there. 
+- paean: a song, film, or piece of writing that praises someone/something very enthusiastically. 
+- judicious: having/showing reason and good judgment in making decisions. 
+- ratty: feeling annoyed. 
+- flagrant: (of a bad action, situation, person, etc.) shocking because of being so obvious.
+- elusive: difficult to describe, find, achieve, or remember. 
+- tropes: something such as an idea, phrase, or image that's often used in a particular artist's work, in a particular type of art, in the media, etc. (Def 2: in rhetoric, a way of using words that means something different from their ordinary meaning.)
+- eschewed: to avoid something intentionally, or to give something up. 
+- memorabilia: objects that're collected because they're connected with a person or event that's thought to be very interesting.  
+- mosaic: a pattern/picture made using many small pieces of colored stone or glass, or the activity or method of making these. 
+- argot: words and expressions that're used by small groups of people and that're not easily understood by other people. 
+- brio: energy and confidence. 
+- bustle: to do things in a hurried and busy way. 
+- imputed: to say that someone is responsible for something that has happened, esp. something bad, or that something is the cause of somethign else. (Def 2: to calculate something when you don't have exact info by comparing it to something similar.)
+- saunter: to walk in a slow and relaxed way, often in no particular direction.
+- ire: anger. 
+- wastrel: a person who does nothing positive with their life, making no use of their abilities or the opportunities that're offered to them. 
+- placate: to stop someone from feeling angry. (to become calm or make someone calm). 
+- diminutive: very small (or unimportant). (Def 2: the short form of a name.)
+- bouffant: (hairstyle) arranged in a high rounded shape. 
+- affidavit: a written statement that someone makes after promising officially to tell the truth. Can be used as proof in a law court. 
+- hamstring (past participle: hamstrung): to limit the amount of something that can be done or the ability or power of someone to do something. 
+- reconvened: to come together again or to bring a group of people together again for a meeting. 
+- litigant: a person who's fighting a legal case. 
+- bluff: to deceive someone by making them think either that you're going to do something when you really have no intention of doing it, or that you have knowledge that you don't really have, or that you're someone else. (Def 2: (bluff your way into/out of something/a situation) You get yourself into/out of it by deceiving people.)
+- plaintiff: someone who makes a legal complaint against someone else in court. 
 - 

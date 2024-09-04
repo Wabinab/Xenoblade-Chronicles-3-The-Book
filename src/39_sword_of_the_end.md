@@ -220,4 +220,70 @@ Noah: "**That voice... Ghondor?!**" Shania terrifyingly watched as she appeared 
 
 ---
 
+The ship parked around the empty spaces in Agnus Castle ground. Ghondor, accompanied by Oggy and Aggy, approached the Ouroboros with Shania watching in the background. Behind her lined some Lost Numbers' holding their guns.
+
+Noah excitedly exclaimed, "**Ghondor! You're all right?!**"
+
+"Damn, that was gonna be my line! Heh..." She turned to Mio, "Looks like things worked out over here anyway."
+
+Noah just joined the dots, "Did she...?"
+
+"Yep." That day, Ghondor and Monica watched Mio teleported into the City. "If she hadn't clued us in, we'd be up shit creek now."
+
+"Right... Mio..."
+
+Sena: "Monica and the others?"
+
+She effetely replied, "Bitchqueen's fine, too..." Then, touching her temple to send data to their Iris, "The City's currently right about... here."
+
+On his Iris, Noah exclaimed at what he saw, "**Underneath the world?! How is that possible?**"{{footnote: Unfortunately, one could see nothing from the turquoise screen other than the City surrounded by rocks with no special features that stood out.}}
+
+"The City itself is actually a massive bloody Ferronis! If we feel like it, we can move it to anywhere in the world."
+
+Even Taion was impressed, "**Simply astounding!!!**"
+
+Lanz: "I thought it was just like an oversized Colony."
+
+Ghondor: "That wasn't exactly common knowledge. The Bitchqueen and I knew... **and a handful of others**, that's it. **We had to be sure**... so that some slimy traitor wouldn't drop us in it."
+
+"_Traitor..._" Sena whispered, turned her head around as they faced the lonely Shania. She was still panting furiously, couldn't accept her fate. When everyone turned to look at her, her iris diminished into a dot, as if with fear. 
+
+Ghondor slowly paced towards her, arms around her hips, "All right... I'm not gonna ask 'why'. I suppose I know the reason. But if it's what I'm thinkin', then I don't get it at all. **If we'd made one mistake, the City woulda been wiped out.** _Before we're done, you'll tell me everything I wanna know, Shania_." The reverberating in her tone revealed that she did care for her childhood friend. 
+
+The group watched and waited for her reaction. She took several steps back, as if gravity pulled her backwards not downwards. Her hands clenched heavily and shakily at her failure. Desperately, she spoke, "**It's your eyes, that look! You've _always_ looked at me that way! WHY DID IT HAVE TO BE LIKE THIS...?! WHY IS IT ALWAYS ME, STANDING HERE ON MY OWN???**"
+
+"Shania..."
+
+"Uhuhuhuhuh... I've had it... Huh... **I've had it UP TO HERE!**" She withdrew her blade, a pistol, pointed it at Ghondor. 
+
+"Hoh!" Ghondor was shocked at her hostility. Oggy and Aggy quickly step forward and called their blades; some others backed up, other Lost Numbers stood forward; Eunie and Taion hyper-reactively summoned their blades.{{footnote: Others like Sena, Lanz, Mio, and Noah didn't call their blades.}}
+
+She took a few steps back, pulled the pistol to her right ear, and pointed it on her temple. 
+
+Sena: "**SHANIA!**"
+
+Ghondor: "**DROP IT!!! THIS ISN'T WHAT I MEANT BY 'DONE'!!!**" She quickly dashed past Aggy and Oggy, trying to reach for her. 
+
+She cut her off, "**Don't misunderstand...**" Ghondor stopped on her track as Shania continued, tears rolling down her eyes, as she shouted, "This is... **THIS IS THE BEGINNING!!!**" And she shot herself on her temple. The sky rotated around her; and before she dropped to the ground, she saw Ghondor and Sena dashed after her. 
+
+Sena: "**SHANIA!!!**" Ghondor's hands reached out for her as she approached; but it was too late; her head hit the ground and she was done for. 
+
+The group (Ouroboros and Ghondor's) gathered around Shania, felt sad. Sena knelt beside her corpse. 
+
+Noah walked forward, knelt down behind her, and put a hand on her shoulder, lightly asked, "_Are you... ready, Sena?_"
+
+She turned to him, "_Noah..._"
+
+"_This is the fate that Shania chose. It isn't the end._" As they turned their attention back to her, he continued, "Like she said herself, this is the beginning. Come on. Up you get." Her feelings when she said they were the same never fades; her desire to find someone whom can reciprocate with her, and to lose her, can't be easily get over with, or maybe, not even forever. 
+
+Mio reached out and gently placed her fingers on her other shoulder, assured her it would be OK. She looked up at her eyes, Mio nodded back to her. With Mio's help, she got up, still looking at her corpse. 
+
+Noah: "I don't know if it'll reach her... But still... Sena, we'll do **all** we can."
+
+"Mhm..." The blue morning sky in the distance signified a new beginning. 
+
+---
+
+The Lost Numbers were curing the injured Agnians. One Agnian, perhaps a leader, leaded Aggy and Oggy to someplace. The Agnian soldiers started chatting with the Lost Numbers without hostility displayed. Some looked to repair their Levnises. 
+
 ### Footnotes:
