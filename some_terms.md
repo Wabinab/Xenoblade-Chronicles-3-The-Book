@@ -704,4 +704,58 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - litigant: a person who's fighting a legal case. 
 - bluff: to deceive someone by making them think either that you're going to do something when you really have no intention of doing it, or that you have knowledge that you don't really have, or that you're someone else. (Def 2: (bluff your way into/out of something/a situation) You get yourself into/out of it by deceiving people.)
 - plaintiff: someone who makes a legal complaint against someone else in court. 
+- ludicrous: stupid/unreasonable and deserving to be laughed at. 
+- carburetor: the part of an engine that mixes fuel and air, producing the gas that's burned to provide the power needed to operate the vehicle/machine. 
+- poignancy: the quality of causing/having a very sharp feeling of sadness. 
+- trenchant: severe, expressing strong criticism or forceful opinions. 
+- resound: to sound loudly or for a long time, or (of a place) to be filled with sound. 
+- trapeze: a short bar hanging high up in the air from 2 ropes that acrobats use to perform special movements. 
+- subvert: to try to destroy or damage something, esp. an established political system. 
+- palliative: (drug/medical treatment) reducing pain without curing the cause of the pain. (Def 2: making a problem seem less serious but not solving the problem or making it disappear)
+- fathom: a unit for measuring the depth of water, equal to 1.8 meters or 6 feet. (Def 2: to discover the meaning of something.) (Def 3: to understand someone or why someone acts as they do.)
+- heretical: opposite to or against the official/popular opinion, or showing no respect for the official opinion. 
+- caper: to run and jump about in an energetic, happy way. (Def 2: an illegal, unusual, or entertaining activity.) (Def 3: a small, dark green flower bud that's used as an ingredient to give a slightly sour taste to food.)
+- duffel bag: (UK) a tube-shaped cloth bag with a circular bottom and a thick string at the top that's used to close it and carry it. (US) A long bag used for carrying clothes, etc. when you're traveling. 
+- scuff: to make a rough mark on a smooth surface, esp. on a shoe or floor. (Def 2: to kick a ball badly, esp. by touching the ground as well as the ball with your foot.) (Def 3: to spoil/harm something slightly, esp. the reputation of something/someone.)
+- linoleum: a stiff, smooth material that's used for covering floors.
+- finagled: to use tricks and dishonest methods to get what you want. 
+- morsel: a very small piece of something. 
+- veto: an official power or right to refuse to accept/allow something. 
+- enrapture: to give someone very great pleasure. 
+- appease: to prevent further disagreement or fighting by letting the opposing side have something that they want. (Def 2: to get rid of unpleasant feelings or make them less strong). 
+- Novocaine: a brand name for a drug given to people to stop them feeling pain, esp. during an operation on their teeth. 
+- dissenting: showing a strongly different opinion on a particular question, esp. an official suggestion or plan, a legal decision, or a popular belief. 
+- tepid: (of liquid) not very warm. (Def 2: tepid reaction: not very enthusiastic)
+- happenstance: chance or a chance situation, esp. one producing a good result.
+- sacrilegious: treating something holy or important without respect. 
+- veracity: the quality of being true, honest, or accurate. 
+- waif: a child/animal without a home or enough food and care, usually think and dirty in appearance. 
+- anthracite: a very hard type of coal that burns slowly and produces a lot of heat with very little smoke and a small flame. 
+- preordained: (esp. of a power thought to be greater than ordinary people) to decide or fix what'll happen in a way that cannot be changed or controlled. 
+- dregs: the small solid pieces that sink to the bottom of some liquids that aren't usually drunk. (Def 2: parts of something that're left after most of it has gone. Unimportant, unwanted, sometimes disapproving.)
+- brash: (of people) showing too much confidence and too little respect. 
+- parable: a short, simple story that teaches or explains an idea, esp. a moral or religious idea.
+- concoct: to make something, usually food, by adding several different parts together, often in a way that's original or not planned. (Def 2: to invent an excuse, explanation, or story in order to deceive someone.)
+- oxymoron: two words/phrases used together that have, or seem to have, opposite meanings. E.g. "agree to disagree". 
+- celebutante: a person seeking the limelight through association with celebrities. 
+- sitcom: situation comedy. 
+- revel: to dance, drink, sing, etc. at a party or in public, esp. in a noisy way. 
+- epiphany: 
+- treacly: 
+- Sui generis: 
+- tyke: 
+- abuts: 
+- clutch: to take/try to take hold of something/someone tightly, usually in fear, worry, or pain. (Def 2: a device that allows turning movement to be sent from one part of a machine to another.) (Def 3: the pedal or handle in a vehicle that's used to operate the engine's clutch.) (Def 4: a small group of eggs produced by the same bird, esp. in a nest.)
+- palimpsest: a very old text/document in which writing has been removed and covered or replaced by new writing. (Def 2: something such as a work of art that has many levels of meaning, types of style, etc. that build in each other.)
+- belfry: 
+- thistle: 
+- chicory: 
+- sinuous: 
+- chromaticsy: 
+- umber: 
+- chartreuse: 
+- dime novel: a cheap, popular novel, esp. one that tells a romantic or exciting story. 
+- chiaroscuro: 
+- swath: 
+- invigorate: 
 - 

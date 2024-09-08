@@ -1,7 +1,5 @@
-# Cloudkeep & Mio and Miyabi (Side Story)
-
-(The previous two hadn't edited yet. Edit that first.)
+# To The Cloudkeep & Mio and Miyabi (Side Story)
 
 ===
 
-### Footnotes: 
+### Footnotes:
