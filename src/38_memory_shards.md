@@ -105,7 +105,7 @@ Another female voice added, "You're just gonna abandon us?! We have the Ouroboro
 
 ---
 
-It's too cold to continue. They found a large stone higher than them sitting down, shielding against the blizzard blowing in the opposite direction. They sat themselves, Mio's body laying on his arm, head rested on his shoulder. He looked at the sky, no more hope. 
+It's too cold to continue. They found a large stone higher than them sitting down, shielding against the blizzard blowing in the opposite direction. They sat themselves, snuggled together, with Mio's body laying on his arm, head rested on his shoulder. He looked at the sky, out of hope. 
 
 Turning his attention to her, her breathe was getting slower and slower, weaker and weaker. Her eyes no longer opened, too tired to. He wrapped his arms around her shoulder and pulled her in, trying to give her more warmth. But he himself wasn't any better except for a clearer mind. As his breathe slowed, his vision dimmed, blurred, and finally lost. He dozed off amidst the cold, body forever preserved in deep freeze. 
 

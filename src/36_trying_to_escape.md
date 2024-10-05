@@ -592,7 +592,7 @@ As tears aggregate in her eyes, she spoke her last words, "_Thank you, Mimi..._"
 
 The explosion never happened. Some bright light flooded the screen and they were forced to cancel their interlink mid-air. Both were shocked at what just happened, "Urgghhh..." 
 
-"Aww, too baaaad. You were so close." In between them, another female Moebius with ears that resembled a fox, and two pairs of them spread out like a butterfly wings, holding on to a staff with a gyroscope at its tip, having a ball of purple energy encased in between the gyroscope rings. Both dropped on to the ground below. 
+"Aww, too baaaad. You were so close." In between them, another moebius holding on to a staff with a gyroscope at its tip, having a ball of purple energy encased in between the gyroscope rings, appeared.{{footnote: If you'd read Eunie's side story, you'd know this girl was X.}} Both dropped on to the ground below. 
 
 "AAAAAAAAHHHHHHHH!!!!" Taion used the remaining time to force grow his limbs back, sent his Mondo as a layer of cushion just a few meters above ground where they were dropping before finally cancelling their interlink. Effetely, both drop face down onto the ground, totally out of energy. The Mondo ball disappeared not long later.
 

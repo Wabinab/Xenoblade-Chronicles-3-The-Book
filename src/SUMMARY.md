@@ -44,7 +44,9 @@
 - [Colony Theta in Memories](./31_theta.md)
 - [The City, Purpose, Baby, Ancestor](./32_city.md)
 - [Day 2 at the City](./33_city_day2.md)
+- [Eunie and the Golden Colony (Side Story)](./95_eunie_side_story.md)
 - [Joran, Off to the Sea](./34_joran.md)
+- [Lanz and Garvel (Side Story)](./94_lanz_side_story.md)
 - [Life in Prison](./35_prison.md)
 - [The Day of Escape](./36_trying_to_escape.md)
 - [The Eclipse](./37_eclipse.md)
@@ -52,15 +54,18 @@
 # Chapter 6: Choices
 - [Fragments of the Past](./38_memory_shards.md)
 - [The Sword of the End](./39_sword_of_the_end.md)
+- [Sena and Shania (Side Story)](./96_sena_side_story.md)
 - [Hope's Rest](./40_hope_rest.md)
-- [To The Cloudkeep & Mio and Miyabi (Side Story)](./41_mio_side_story.md)
+- [Mio and Miyabi (Side Story)](./41_mio_side_story.md)
 
 ---
 <!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->
 - [Noah and Crys (Side Story)]()
----
+
+
 
 ---
 [Postscript](./97_postscript.md)
 [Appendices](./98_appendix.md)
+[More About Miyabi](./93_miyabi.md)
 [Index](./99_terms.md)
