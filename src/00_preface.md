@@ -21,3 +21,5 @@ Perhaps this book will never be publicized, for it's the first attempt. Plus, on
 3. [Eunie's Side story based on this video](https://www.youtube.com/watch?v=0oQQjtMNbz4). We get the [subtitles from another video](https://www.youtube.com/watch?v=E2vsvrxOoh0). 
 4. [Lanz's Side story based on this video](https://www.youtube.com/watch?v=p3mGgeFerk4). We get the [subtitles from another video](https://www.youtube.com/watch?v=EGdDlrzmRQs). 
 5. [Miyabi's based on this video](https://www.youtube.com/watch?v=enAiMucggtU). We get the [subtitles from another video](https://www.youtube.com/watch?v=UfCLgn0cKyo).
+6. [Nia's based on this video](https://www.youtube.com/watch?v=qwfC6WdOgy4). We get the [subtitles from another video](https://www.youtube.com/watch?v=xU-ZRF4i0-Q).
+7. [Cammuravi's based on this video](https://www.youtube.com/watch?v=zYpPSrJSR3c). We get the [subtitles from another video](https://www.youtube.com/watch?v=eplmqRF7Dd4).

@@ -885,7 +885,6 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - snuggled: to move yourself into a warm and comfortable position, esp. one in which your body is against another person or covered by something. 
 - caboose: a small railway carriage, usually at the back of a train. 
 - gravlax: thin pieces of salmon that've been dried with salt and herbs. 
-- flaunt: to show/make obvious something you're proud in order to get admiration. 
 - versatility/versatile: able to change easily or to be used for different purposes
 - vehement: expressing strong feelings, or shown by strong feelings or great energy or force. 
 - formicine: _Formicinae_, a group of ants under genus _Formica_. 
@@ -1082,58 +1081,197 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - stucco: a type of plaster used for covering walls and ceilings, esp. one that can be formed into decorative patterns. 
 - squeegees: a tool with a rubber blade and a short handle that's used for removing water from a surface such as a window/mirror after it has been washed. 
 - yews: an evergreen tree (=one that never loses its leaves) with flat leaves like needles and small, red fruits. 
-- mulch: 
-- wrenched: 
-- glibly: 
-- furrow: 
-- gridiron: 
-- crosshatching: 
-- rectilinearity: 
-- woodchucks: 
-- photogenic: 
-- daguerreotypes: 
-- veneer: 
-- skein: 
-- maw: 
-- slur: 
-- hectoring: 
-- pragmantic: 
-- vogue: 
-- coveted: 
-- indictment: 
-- gentility: 
-- condescension: 
-- adjudicators: 
-- veiled: 
-- mayoralty: 
-- expository: 
-- focaccia: 
-- anorexic: 
-- distended: 
-- naches: 
-- whammy: 
-- propitiate: 
-- scrumptious: 
-- snaffle: 
-- arcana: 
-- blandeur: 
-- adjuncts: 
-- carillon: 
-- lowball: 
-- pandered: 
-- paternalistic: 
-- impresario: 
-- soliloquy: 
-- lackeyship: 
-- hock: 
-- disbursement: 
-- antediluvian: 
-- broached: 
-- gait: 
-- flaying: 
-- flaunt: 
+- mulch: a covering of decaying leaves that's spread over the soil in order to keep water in it or to improve it. 
+- wrenched: to pull and twist something suddenly/violently away from its position. (Def 2: to suddenly take someone from people they love, causing them great unhappiness.)
+- glibly: in a way that's confident, but is too simple and lacks careful thought. 
+- furrow: a long line or hollow that's formed or cut into the surface of something. 
+- gridiron: a field painted with lines for American football. 
+- crosshatching: two groups of parallel lines that're drawn close together across each other, esp. at 90°, on parts of a picture to show differences of light and darkness. 
+- rectilinear: moving in or formed from straight lines. 
+- woodchucks: a small animal with short legs and rough, reddish-brown fur that lives in North America. (a groundhog). 
+- photogenic: having an appearance that looks attractive in photographs. 
+- daguerreotypes: the first successfully produced type of photograph. 
+- skein: a length of wool/thread collected together into the shape of a loose ring. (Def 2: a large group of wild birds such as geese/ducks in flight.)
+- maw: the mouth of a fierce animal. (Def 2: something that seems to surround/absorb everything near it.)
+- hectoring: talking and behaving in a loud and unpleasant forceful way, esp. in order to get someone to act/think as you want. 
+- pragmatic: solving problems in a sensible way that suits the conditions that really exist now, rather than obeying fixed theories, ideas, or rules. (based on practical judgments rather than principles.)
+- gentility (genteel): typical of high social class. (Def 2: being very polite, gentle, calm, or graceful.) (Def 3: polite and correct in manner.)
+- condescension: behavior that shows you think you're more important or more intelligent than others. 
+- adjudicators: a person/group that makes an official decision about something, esp. about who's right in a disagreement. 
+- veiled: (words/ways of behaving) indirect or not expressed clearly. 
+- mayoralty: the office of being a mayor, or the period of time for which someone is a mayor. 
+- expository: explaining/describing something (an event/situation). 
+- focaccia: a type of flat bread, originally from Italy, made with flour, salt, yeast, and olive oil. 
+- anorexic/anorexia: (suffering from) a serious mental illness in which a person doesn't eat, or eats too little, often resulting in dangerous weight loss. 
+- distended: swollen and large in a way that's abnormal, esp. because of pressure from inside. 
+- Naches: a small town in Yakima County, Washington, U.S. 
+- whammy: a magical spell/power that causes someone to ahve a difficult/unpleasant time. 
+- propitiate: to please and make calm a god/person who's annoyed with you. 
+- scrumptious: tasting extremely good. 
+- snaffle: to take something quickly for yourself, in a way that prevents someone else from having/using it. 
+- arcana: either of the 2 types of tarot cards in a deck, the minor arcana and the major arcana. (Def 2: arcanum: secret or arcane knowledge, acquired/understood only by a few.)
+- adjuncts: something added/connected to a larger/more important thing. 
+- carillon: (a tune played on) a set of bells, usually hung in a tower. 
+- lowball: (to calculate something) at a level that's unfairly low. 
+- paternalistic: (of people in authority) making decisions for other people rather than letting them take responsibility for their own lives. 
+- impresario: a person who arranges different types of public entertainment, such as theatre, musical, and dance events. 
+- soliloquy: a speech in a play that the character speaks to himself or herself or to the people watching rather than to the other characters. 
+- lackeyship: the role/status of a lackey(=a servant/someone who behaves like one by obeying someone else's orders or by doing unpleasant work for them.)
+- hock: the meat on the lower leg of an animal; the middle joint in the back leg of an animal. (Def 2: in hock = in debt). (Def 3: a type of white wine from Germany.)
+- disbursement: an amount of money given for a particular purpose. 
+- antediluvian: extremely old-fashioned. 
+- gait: a particular way of walking. 
+- flaying: to remove the skin from a person's/animal's body. (to whip a person/animal so hard that some of their skin comes off.)
 - ergo: therefore
-- bromides: 
-- autodidact: 
-- fallacious: 
+- bromides: a drug used to calm people who're very unhappy or worried. (Def 2: a remark/statement that, although might be true, is boring and has no meaning because it has been said so many times before.)
+- autodidact: a person who teaches himself/herself, rather than being taught by a teacher. 
+- fallacious: not correct. 
+- redound: to have a result that's an advantage to someone. 
+- vale: used in the name of some valleys. (a valley).
+- cathartic: involving the release of strong emotions through a particular activity/experience. 
+- filial piety: the idea that parents, grandparents, and older people should be treated with honor and respect. 
+- acculturated: to change so that you become more like people from a different culture, or to make someone change in this way. 
+- abrogation: the act of formally ending a law, agreement, or custom. (Def 2: the act of avoiding something that you should do.)
+- rumspringa: a rite of passage and period of growth in adolescence, during which time they face fewer restrictions on their behavior and aren't subject to the order, the specific system of unwritten community norms that governs their sect. 
+- inculcation: the process of fixing beliefs or ideas in someone's mind, esp. by repeating them often. 
+- conciliatory: showing willingness to end a disagreement, or trying to make someone less angry. 
+- unhip: not fashionable, modern, or popular. 
+- complicit: involved in or knowing about a crime or some activity that's wrong. 
+- navel: the small round part in the middle of the stomach that's left after the umbilical cord has been cut at birth. (肚脐)
+- transubstantiation: the belief, esp. by Roman Catholics, that during Mass(=a religious ceremony), bread and wine are changed into the body and blood of Jesus Christ. 
+- snub: to insult someone by not giving them any attention or treating them as if they're not important. 
+- forsake: to leave someone for ever, esp. when they need you. To stop doing/having something. To leave forever/to give up completely. 
+- wonk: a person who works/studies too much, esp. someone who learns and knows all the details about something.
+- cadre: a small group of trained people who form the basic unit of a military, political, or business organization. 
+- semiotic: the study of signs and symbols. 
+- predicament: an unpleasant situation that's difficult to get out of. 
+- posthaste: as fast as possible. 
+- glut: a supply of something that's much greater than can be sold or is needed/wanted. 
+- baleful: threatening to do something bad or to hurt someone. 
+- enfranchised: to give a person/group of people the right to vote in elections. 
+- purveyor: a business that provides goods/services. 
+- helots: some people from Ancient Sparta's history.
+- commiserate: to express sympathy to someone about some bad luck. 
+- hoity-toity: behaving as if you're better or more importan than other people. 
+- zilch: nothing; none; no. 
+- aggravating: annoying. Making something worse. 
+- updraft: an updward movement of gas. 
+- alibi: proof that someone who's thought to have committed a crime couldn't have done it, esp. with fact/statement that they were in another place at the time it happened. (Def 2: an excuse for something bad or for a failure.)
+- segregation: the act of keeping one (group of) person/thing separate from another (and treating them differently due to classification factor like race).
+- ambiance: the character of a place or the quality it seems to have. 
+- apportionment: the act of sharing something between several people/organizations. e.g. dividing costs between each in a fair way, depending on responsibility of each. 
+- graying/greying: a person whose hair is becoming gray/white. (Def 2: containing an increasing no. of older people.)
+- homely: plain/ordinary, but pleasant. (Def 2: of a person, ugly.)
+- staunch: always loyal in supporting a person, organization, or a set of beliefs or opinions.
+- impunity: freedom from punishment or from the unpleasant results of something that has been done.
+- calloused: (feet/hands) covered with hard areas of skin. 
+- cogitate: to spend time thinking very carefully about a subject. 
+- hoary: very old and familiar and therefore not interesting or funny. (or literary, very old)
+- rancid: (butter, oil, etc.) tasting/smelling unpleasant because of not being fresh.
+- quagmire: an area of soft, wet ground that you sink into if you try to walk on it. (Def 2: a difficult and dangerous situation (that can trap you and make difficult to escape).)
+- feckless: weak in character and lacking determination.
+- superlative: of the highest quality, the best. 
+- behead: to cut off someone's head, esp. as a punishment. 
+- talon: a sharp nail on the foot of a bird that it uses when hunting animals. (talon-like swords: wolf-claw like swords)
+- conspire: to plan secretly with other people to do something bad, illegal, or against someone's wishes. 
+- erstwhile: previous. 
+- lupine: a garden plant with long, pointed flower of various colors. 
+- brodia (brodiaea): North American wildflower with clusters of deep blue flowers. a.k.a. triplet lily, wild hyacinth, and Triteleia laxa. 
+- sourgrass: Oxalis pes-caprae, wood sorrel, Bermuda buttercup. 
+- narcissus: a yellow, white, or orange flower, similar to a daffodil. 
+- renegade: a person who has changed their feelings of support and duty from one political, religious, national, etc. group to a new one. 
+- huckleberry: a small, round, dark blue fruit, or the low North American bush on which it grows. 
+- chaparral: a shrubland plant community composed of broad-leaved evergreen shrubs, bushes, and small trees -- the characteristic vegetation of coastal and inland mountain areas of southwestern North America. 
+- hedgerow: a line of different types of bushes and small trees growing very close together, esp. between fields or along the sides of roads in the countryside. 
+- opalescent: something that reflects light and changes color like an opal. 
+- lolled (loll): to lie, sit, or hang down in a relaxed, informal, or uncontrolled way. 
+- catkins: a group of small flowers hanging like short pieces of string from the branches of particular trees in the spring. 
+- drudge: a person who has to work hard at boring and unpleasant tasks and who's not respected by other people. 
+- cleft: an opening or crack, esp. in a rock or the ground. (Def 2: divided into 2 or more parts.)
+- twain: two
+- wended (wend): (wend your way) to move slowly and not directly. 
+- sorely: extremely; very much. 
+- fetters: something that severely limits one. (Def 2: a pair of chains that were tied round the legs of prisoners to prevent them from escaping.)
+- crux: the most important or serious part of a matter, problem, or argument. 
+- consecrate: to officially make something holy and able to be used for religious ceremonies. (e.g. to give someone the title of bishop.)
+- colonnade: a row of columns separated from each other by an equal distance. (e.g. row of pillars.)
+- chautauquas: an adult education and social movement in the US that peaked in popularity in late 19th and early 20th centuries. 
+- inkhorn: a small, portable bottle (as of horn) for holding ink. (Def 2: ostentatiously learned). (Def 3: (inkhorn term) a loanword, or a word coined from existing roots, which is deemed unnecessary or over-pretentious.)
+- nadir: the worst moment, or the moment of least hope and least achievement. (Def 2: the point at which something is at its lowest value or level.) (Def 3: the point directly below a particular place, or the lowest point reached by a heavenly body as it travels around, or appears to travel around, another body.)
+- rein in (rein back): to control something and stop it increasing. 
+- licentious: (esp. of a person/behavior) sexual in an uncontrolled and socially unacceptable way. 
+- foppish: (of a man) extremely interested in one's appearance and wearing decorative clothes. 
+- urchins: a small child, esp. one who behaves badly and is dirty or untidily dressed. 
+- stogie: a long, thin cigar. (Def 2: a heavy, roughly made shoe or boot.)
+- caviar: the eggs of various large fish, esp. the sturgeon, eaten as food. 
+- passementerie: (pour décorer) ensemble de décorations pour des meubles (furniture), des tissue (fabric), faites avec des fils (made with threads).
+- ormolu: a gilding technique applying finely ground, high-carat gold-mercury amalgam to an object of bronze. 
+- bordello: a brothel(=a place wher men go and pay to have sex with prostitutes.)
+- abstain: to not do something, esp. something enjoyable that you think might be bad. (Def 2: to decide not to use your vote.) (Def 3: to stay away from work.)
+- scurrilous: expressing unfair or false criticism that's likely to damage someone's reputation. Rude and cruel, and sometimes damaging. 
+- spry: (esp. of older people) active and able to move quickly and energetically. 
+- frock: a dress.
+- belled out: to open out into a bell shape. E.g. her dress belled out at the bottom. 
+- consternation: a feeling of worry, shock, or confusion. (Usually because something bad that you can't change or that's completely unexpected.)
+- scantiness: shortage, insufficient. 
+- strafing (strafe): to attack an enemy by shooting from aircraft that's flywing low in the sky. 
+- hale (and hearty): (esp of old people) healthy and strong. 
+- playa: flat-bottom depression found in interior desert basins and adjacent to coasts within arid and semiarid regions, periodically covered by water. (a.k.a. pan, flat, or dry lake)
+- pellucid: very clear and shining. Very clear in meaning and easy to understand. 
+- denouement: the end of a story, where everything is explained, or the end result of a situation. (Def 2: the final part of a work of literature, after the climax.)
+- (cross the) Rubicon: to do something that one can't later change and will strongly influence future events. 
+- protuberant: sticking out. (protruberant -- cannot find this word's meaning.)
+- scrawny: unpleasantly thin, often with bones showing. 
+- bandy: (legs) bending out at the knees. (Def 2: a game played on ice between 2 teams of 11 players who each have a curved stick with which they try to put a small, hard ball into the other team's goal.)
+- femur: the long bone in the upper part of the leg. 
+- veldt (veld): flat, open country with few trees that's characteristic of parts of Southern Africa. 
+- trench: a narrow hole that's dug into the ground. 
+- penile: relating to the penis. 
+- tagalong: a children's bicycle designed to attach to the back of an adult's bicycle. (Def 2: someone who goes somewhere or does something with another person or other people, esp. when they've not been invited.)
+- enigmatic: mysterious and impossible to understand completely. 
+- entrails: the intestines and other inside organs of an animal or person, when they're outside the body. 
+- helpmeets (helpmate): a helpful companion or partner, esp. one's husband/wife. 
+- prostrate: lying with the face down and arms stretched out, esp. as a sign of respect/worship. (Def 2: having lost all strength or all determination because of an illness or an extremely bad experience. )
+- penitential: showing that you're sorry, esp. in a formal religious way, for wrong things that you've done. 
+- muttering: the sound of one or more people talking quietly, or the things that they say, often when they're worried or complaining about something. 
+- studded: made with metal studs fixed into the surface in a pattern. (Def 2: (studded with something) if something is studded with many objects of the same type, those objects are arranged regularly across it, or across the surface of it.)
+- potsherds: a broken piece of an object made of baked clay, esp. one found by an archaeologists. 
+- petroglyphs: rock carvings. 
+- tartly: in a way that's quick/sharp, and slightly unkind. 
+- decoupage: a way of decorating something using shapes, pictures, etc. cut from paper. 
+- dogleg: a sharp bend, esp. in a road or on a golf course. 
+- natty: stylish and tidy in every detail. 
+- raiments: clothes. 
+- coop(ed) (someone/something) up: to keep someone or something in a closed space. 
+- unabashed: without any worry about possible criticism/embarrassment. 
+- midget: an offensive word for a very small person. (Def 2: used to describe an object that's much smaller than usual.) (Def 3: Midget sports are organized competitions for children.)
+- chaperone: (esp. in the past) an older person (esp. women) who stays with and takes care of a younger woman who's not married when she's in public. (Def 2: a female nurse who's in the same room when a female patient is examined by a male doctor, or a police officer who protects a person injured by a criminal when they're in public.) (Def 3: an older person who's present at a social event for young people to encourage correct behavior.) (Def 4: an adult who takes care of child actors when they're working.)
+- reliquaries: 
+- upholstery: 
+- casket: 
+- nave: 
+- snugly: 
+- surmise: 
+- snare: 
+- apotheosize: 
+- befuddlement: 
+- berth: 
+- cuticles: 
+- explicate: 
+- solemn: 
+- scantily: 
+- clad: 
+- skillet: 
+- unimpeachable: 
+- kitschy: connected with art, decorative objects, or design considered by many people to be ugly, without style, or false, but enjoyed by other people, often because they're funny. 
+- labyrinth: a confusing set of connecting passages/paths in which it's easy to get lost. (Def 2: something that's very confusing.)
+- tote: 
+- grist: 
+- profligacy: 
+- tizzy: 
+- suitor: 
+- discreet: 
+- assuaging: 
+- opined: 
+- slack-jawed: 
 - 

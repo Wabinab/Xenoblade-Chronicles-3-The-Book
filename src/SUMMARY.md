@@ -57,10 +57,16 @@
 - [Sena and Shania (Side Story)](./96_sena_side_story.md)
 - [Hope's Rest](./40_hope_rest.md)
 - [Mio and Miyabi (Side Story)](./41_mio_side_story.md)
+- [Cammuravi And Ethel's Reb](./90_cammuravi.md)
+- [Cloudkeep, D and J returned](./42_cloudkeep.md)
+
+# Chapter 7: Time Moves Again
+- [Queen Nia's Story](./43_nia.md)
+- [Building the Ship](./44_ship.md)
+- [Noah and Crys (Side Story)](./45_noah_side_story.md)
 
 ---
-<!-- The (Side Story) let it stood out, and we don't use "Noah's Past" to distinguish from "Taion's Past", the first section of Chapter 3. -->
-- [Noah and Crys (Side Story)]()
+
 
 
 
@@ -68,4 +74,6 @@
 [Postscript](./97_postscript.md)
 [Appendices](./98_appendix.md)
 [More About Miyabi](./93_miyabi.md)
+[More About Nia](./92_nia.md)
+[More About Melia](./91_melia.md)
 [Index](./99_terms.md)
