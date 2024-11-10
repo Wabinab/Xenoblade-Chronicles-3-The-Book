@@ -23,3 +23,4 @@ Perhaps this book will never be publicized, for it's the first attempt. Plus, on
 5. [Miyabi's based on this video](https://www.youtube.com/watch?v=enAiMucggtU). We get the [subtitles from another video](https://www.youtube.com/watch?v=UfCLgn0cKyo).
 6. [Nia's based on this video](https://www.youtube.com/watch?v=qwfC6WdOgy4). We get the [subtitles from another video](https://www.youtube.com/watch?v=xU-ZRF4i0-Q).
 7. [Cammuravi's based on this video](https://www.youtube.com/watch?v=zYpPSrJSR3c). We get the [subtitles from another video](https://www.youtube.com/watch?v=eplmqRF7Dd4).
+8. [Melia's based on this video](https://www.youtube.com/watch?v=wg9q9NNwACo). We get the [subtitles from another video](https://www.youtube.com/watch?v=3QsHrDE5ttg).

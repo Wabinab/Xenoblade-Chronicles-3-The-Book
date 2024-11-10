@@ -238,8 +238,6 @@ Eunie: "Right-o! Let's get on with it, loves."
 
 ---
 
-===
-
 By a waterfall, Riku checked his terminal: "Oho! Location of treasure is seemingly behind waterfall!"
 
 Mio: "That's unexpected..."
@@ -250,7 +248,7 @@ Noah: "All right, let's go."
 
 ---
 
-Behind the waterfall, they found a cavern, and a GIANT piece of original metal (2x the size of Sena) stuck into the ground. Mio announced anyways, "Got it!"{{footnote: Stupidly, that counts as "1" Origin metal, the same as the palm-size one the Queen gave to them. How much dilution is there?}}
+Behind the waterfall was a cavern, and a GIANT piece of Origin metal (2x the size of Sena) stuck into the ground. Mio announced, "Got it!"{{footnote: Stupidly, that counts as "1" Origin metal, the same as the palm-size one the Queen gave to them. How much dilution is there?}}
 
 Sena: "Together with the one we got from Her Majesty, that makes two."
 
@@ -328,11 +326,11 @@ Taion, scratching his head, "Based on the circumstances, that does seem to be th
 
 Lanz was ready, "'Kay, well, let's just punch it in the gut and see what comes up!"
 
-Eunie was yucked, "Blergh... Dibs, not me! Not touching it, no way no how." But the fighting was group work, don't need to touch anyways, since you're using a rifle. 
+Eunie was yucked, "Blergh... Dibs, not me! Not touching it, no way no how." But the fighting was group work, don't need to touch it anyways, since you're using a rifle. 
 
 ---
 
-After killing it, Lanz walked forward and did the dirty job, scrambling through its stomach until he found "Origin metal, lovely jubbly."
+After killing it, Lanz walked forward and did the dirty job, digging his hands into its stomach and searched through, until he felt some metal-ish object, pulled it out, "Origin metal, lovely jubbly."
 
 Eunie: "...How can you handle that with a straight face?"
 

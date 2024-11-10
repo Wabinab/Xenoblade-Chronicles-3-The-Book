@@ -1246,32 +1246,221 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - unabashed: without any worry about possible criticism/embarrassment. 
 - midget: an offensive word for a very small person. (Def 2: used to describe an object that's much smaller than usual.) (Def 3: Midget sports are organized competitions for children.)
 - chaperone: (esp. in the past) an older person (esp. women) who stays with and takes care of a younger woman who's not married when she's in public. (Def 2: a female nurse who's in the same room when a female patient is examined by a male doctor, or a police officer who protects a person injured by a criminal when they're in public.) (Def 3: an older person who's present at a social event for young people to encourage correct behavior.) (Def 4: an adult who takes care of child actors when they're working.)
-- reliquaries: 
-- upholstery: 
-- casket: 
-- nave: 
-- snugly: 
-- surmise: 
-- snare: 
-- apotheosize: 
-- befuddlement: 
-- berth: 
-- cuticles: 
-- explicate: 
-- solemn: 
-- scantily: 
-- clad: 
-- skillet: 
-- unimpeachable: 
+- reliquaries (reliquary): a container for holy relics. 
+- upholstery: the cloth used for covering a seat and/or the substance used for filling it. (Or the activity of upholstering it.)
+- casket: a small, decorative box, esp. one used to keep jewellery in. 
+- snugly: in a way that feels warm, comfortable, and protected. (Def 2: in a way that fits closely.)
+- snare: a device for catching small animals, usually with rope/wire that tightens around it. (Def 2: a trick/situation that deceives you or involves you in some problem that you don't know about.)
+- apotheosize: elevate to, or as if to, the rank of a god; idolize. 
+- befuddle: to confuse someone. 
+- berth: a bed in a boat, train, etc., or a place for a ship/boat to stay in a port. 
+- cuticles: the thin skin at the base of the nails on the fingers and toes. 
+- explicate: to explain something in detail, esp. a piece of writing or an idea. 
+- solemn: serious and without any humor. 
+- scantily (clad, dressed, etc.): wearing very little clothing. 
+- clad: (of people) dressed, or (of things) covered. 
+- skillet: a frying pan. 
+- unimpeachable: of such a high standard of honesty and moral goodness that it cannot be doubted or criticized. 
 - kitschy: connected with art, decorative objects, or design considered by many people to be ugly, without style, or false, but enjoyed by other people, often because they're funny. 
 - labyrinth: a confusing set of connecting passages/paths in which it's easy to get lost. (Def 2: something that's very confusing.)
-- tote: 
-- grist: 
-- profligacy: 
-- tizzy: 
-- suitor: 
-- discreet: 
-- assuaging: 
-- opined: 
-- slack-jawed: 
+- tote: to carry something, esp. something heavy/awkward. 
+- grist (for/to the mill): anything that can be used to your advantage.
+- profligacy: the act of spending money or using something in a way that wastes it and is not wise. (Def 2: bad or morally wrong behavior.)
+- suitor: a man who wants to marry a particular woman. (Def 2: a person/company who wants to take control of another company.)
+- discreet: careful not to cause embarrassment or attract too much attention, esp. by keeping something secret.
+- opined: to express an opinion. 
+- slack-jawed: with your mouth open in surprise. 
+- gnats: a very small flying insect that bites animals and people. 
+- browbeat: to try to force someone to do something by threatening them or persuading them forcefully and unfairly. 
+- anthology: a collection of artistic works that have a similar form or subject, often those considered to be the best. 
+- hermitage: a place where a religious person lives on their own, away from the rest of society. 
+- picaresque: relating to a type of story in which the main character travels from place to place and has a series of adventures. 
+- cliquish: behaving like a clique, not making other people feel welcome. 
+- assailed: to attack someone violently or criticize someone strongly. To cause someone to experience a lot of unpleasant things.
+- usury: the activity of lending someone money with the agreement that they'll pay back a very much larger amount of money later. 
+- mishap: bad luck, or an unlucky event/accident. 
+- profligate: spending money or using something in a way that wastes it and isn't wise. 
+- slovenly: untidy and dirty. 
+- wallop: to hit someone hard, esp. with the flat part of the hand or with something held in the hand. (Def 2: to defeat someone easily, esp. in sports.)
+- jell: to gel. 
+- rector: a priest in charge of a parish in the Church of England. (Def 2: an important official at some college/school (in Scotland, elected by the students.))
+- soutane: a type of cassock(=full length garment) worn by Roman Catholic priests.
+- scrimmage: a short, not very serious fight. (Def 2: a practice game of American football, basketball, etc.)
+- corduroy: a thick cotton material with soft raised parallel lines, used esp. for making clothes. 
+- catafalque: a decorated structure on which the coffin of an important person is placed before or during their funeral. 
+- decanter: a decorative glass container for wine and other alcoholic drinks, with a part that fits into the top for closing it. 
+- dewlaps: a fold of loose skin that hangs under the throat of some animals such as some cows or dogs; also used to refer to a similar fold of skin on a person. 
+- pandybat: a stout leather strap reinforced internally with whalebone or even lead to used to inflict punishment -- esp. by using it to strike against the open uplifted hands on schoolboys.
+- bestiality: sex between a person and an animal. (Def 2: behavior that's very cruel or like that of an animal.)
+- crooning: to sing/talk in a sweet, low voice full of emotion. 
+- convent: a building in which nuns live.
+- wagonette: a four-wheeled horse-drawn pleasure vehicle, typically open, with facing side seats and one or two seats arranged crosswise in front. 
+- priestridden: controlled or oppressed by priests. 
+- mahogany: a dark red-brown wood used to make furniture. 
+- (One useful phrase: protruded one finger after another)
+- fenian: a member of the Irish Republican Brotherhood. 
+- sacristy: a vestry(=a room in a church, esp. one in which priests and the group of people who sing in church put on the special clothes they wear for church ceremonies, and in which things used in church ceremonies are sometimes kept.)
+- surplices: a white, loose piece of clothing, worn over other clothing during religious ceremonies by some Christian priests and members of groups who sing in churches.
+- boatbearer: a clergyman (altar server in Catholic and Anglican churches) who carries the incense before it is lit. (assistant to thurifer(=someone carrying a censer.))
+- censer: a container in which incense is burnt during a religious ceremony.
+- ferulae: any large, umbelliferous(=belonging to Umbelliferae family of herbaceous plants and shrubs, typically with hollow stems, divided or compound leaves, and flowers in umbels(=flat-topped or ball-shaped flower clusters in which the stalks of the individual flowers all grow from about the same point on the main stem like the ribs of an umbrella.)) plant of the Mediterranean genus Ferula, having thick stems and dissected leaves. 
+- flogged: to beat someone very hard with a whip or a stick, as a punishment. (Def 2: to sell, esp. quickly or cheaply, or illegally.)
+- hobnobbing/hobnob: to spend time being friendly with someone who's important or famous. 
+- rancorous: having/showing a feeling of hate and continuing anger about something in the past. 
+- (short) shrift: if you get or are given short shrift by someone, you're treated without sympathy and given little attention. 
+- desist: to stop doing something, esp. something that someone else doesn't want you to do. 
+- inclement: (weather) unpleasant, esp. cold or stormy. 
+- bivouac: a temporary shelter or camp for sleeping in outside, that's not a tent. (bivouac tent: a small, light tent that's just big enough for one/two people to lie in.)
+- preponderance: the largest part or greatest amount. 
+- depravity: the state of being morally bad, or an action that is morally bad. 
+- denuding/denude: to remove the covering of something, esp. land. (Def 2: to remove a valuable possession/quality).
+- consonance: a combination of sounds or musical notes that're pleasant when heard together. (Def 2: a situation in which people are peaceful and agree with each other, or when things seem right or suitable together. )
+- remonstrance: a complaint to someone or about something. 
+- lurch: to move in a way that's not regular or normal, esp. making sudden movements backwards or forwards or from side to side (irregular with sudden changes). 
+- bayonet: a long, sharp blade fixed on to a rifle. 
+- defile: to spoil something or someone so that that thing/person is less beautiful/pure. 
+- echelon: a particular level (rank) of group of people within an organization. 
+- bailiff: (UK) an official who takes away someone's possessions when they owe money; or whose job is to take care of someone else's land/property. (US) an official responsible for prisoners who're appearing in court. 
+- gait: a particular way of walking. (Def 2: the particular way a horse walks/runs.)
+- talus: a bone forming part of an ankle joint. (Def 2: large, loose broken stones on the side of a mountain, or an area covered with stones like this.)
+- enfeebled: made very weak. 
+- (dark-)complexion(ed): the natural appearance of the skin on a person's face, esp. its color or quality. (Def 2: the general character of something.) 
+- nitch: (dialectical, obsolete) a notch or small incision. 
+- fleecy: soft and like a sheep's wool, or looking like this. 
+- prowess: great ability or skill. 
+- atrocious: of very bad quality. (Def 2: violent and shocking.) (Def 3: extremely cruel action.)
+- pauper: a very poor person. 
+- footpad: (historical) a highwayman operating on foot than riding a horse. 
+- cusp: the dividing line between 2 very different things. 
+- huddled: standing/sitting close together. (Def 2: sitting, lying, or standing in a bent position with your arms and legs close to your body, esp. due to cold/fear.) (Def 3: discussing something privately in a small group.)
+- fells: a hill or other area of high land, esp. in NW England. 
+- byways: a small road that not many cars or people travel on. 
+- post chaise: a horse-drawn carriage used for transporting passengers or mail, esp. in 18th and early 19th centuries. 
+- lingerie: women's underwear or clothing worn in bed. 
+- recline: to lean/lie back with the upper part of your body in a nearly horizontal position. 
+- effused: give off (a liquid, light, smell, or quality.) (Def 2: talk in an unrestrained, excited manner.)
+- unwrought: raw, virgin, unprocessed. 
+- aesthete: a person who understands and enjoys beauty. 
+- chinoiserie: a style of art, furniture, decoration, etc. that has Chinese or East Asian influences in the design. It was popular in Europe in the 18th century. 
+- foment: to cause trouble/(something bad/illegal) to develop. 
+- cabriolet: a car with a roof that can be folded back. 
+- sequestered: a peaceful place because it's far away from people. 
+- hubris: a way of talking/behaving that's too proud. 
+- venial: if a wrong action is venial, it's not serious, therefore easy to forgive. 
+- stridency: being expressed, or expressing things, in forceful language that doesn't try to avoid upsetting other people. (Loud, unpleasant, and rough in sound.)
+- riposte: a quick and clever remark, often made in answer to a criticism. 
+- vacillate: to be uncertain what to do, or to change often between 2 opinions. (Prices: keep rising and falling by small amounts.)
+- chastened: to make someone understand that they've failed or done something wrong and make them want to improve. 
+- snob: a person who respects and likes only people who're of a high social class, and/or a person who has extremely high standards who's not satisfied by the things that ordinary people like. 
+- plebeian: belonging to a low social class. 
+- gentry: people of high social class. 
+- shew: an old form of the word "show". 
+- staid: serious, boring, and slightly old-fashioned. 
+- verve: greate energy and enthusiasm. 
+- idyll: a very happy, peaceful, and simple situation or period of time, esp. in the countryside, or a piece of music, literature, etc. that describes this. 
+- decorum: behavior that's controlled, calm, and polite. 
+- expatiate: to speak/write about something in great detail or for a long time. 
+- petticoat: a slip. 
+- castigated: to criticize someone or something severely. 
+- glen: a deep, narrow valley, esp. among mountains. 
+- coppice: an area of closely planted trees in which the trees are cut back regularly to provide wood. 
+- embrowned: to make something darker or to turn it brown. 
+- unclouded: not dark/overcast. (Def 2: not troubled/spoiled by anything.)
+- vagrancy: the state of being or living like a vagrant. 
+- reticent: unwilling to speak about your thoughts/feelings. 
+- escapade: an act involving some danger, risk, or excitement, because it's different from usual or expected behavior. 
+- garland: a circle made of flowers and leaves worn around the neck/head as a decoration. 
+- diatribes: an angry speech/piece of writing that severely criticizes something/someone. 
+- pervious: (of a substance) allowing water to pass through; permeable. 
+- protean: easily and continuously changing. 
+- laxative: a substance that makes easier a person to excrete wastes from bowels. 
+- thusly: in this way. 
+- allay: to make a negative emotion less strong or a problem less difficult.  
+- mantel: a mantelpiece: a shelf above a fireplace, usually part of a frame that surrounds the fireplace. 
+- plinth: a square block, esp. of stone, on which a column or a statue stands. 
+- fervid: intensely enthusiastic (passionate) to an excessive degree; (Def 2: (literary) hot, burning, or glowing.)
+- incivility: rudeness. 
+- vigil: an act of staying awake, esp. at night, in order to be with a person who's very ill/dying, or to make a protest, or to pray. 
+- yuppie: a young person who lives in a city, earns a lot of money, and spends it doing fashionable things and buying expensive possessions. 
+- impasse: a situation in which progress is impossible, esp. because the people involved can't agree.
+- anodyne: intended to avoid causing offence or disagreement, esp. by not expressing strong feelings/opinions. 
+- eutrophication: the addition of nutrients to water in lakes and rivers, which encourages plant growth that can take oxygen from the water and kill fish and other animals. 
+- scrounging (scrounge): to get things, esp. money or food, by asking for them instead of buying them or working for them. 
+- ryot: a person who owns or rents a small piece of land and grows crops or keeps animals on it. 
+- caveat emptor: the principle that it's the buyer's responsibility, not the seller's, to find out if there's anything wrong with what they're being sold. 
+- primness: being extremely formal, respectable, and particular. 
+- ebullient: very energetic, positive, and happy. 
+- pulpit: a raised place in a church, with steps leading up to it, from which a minister or priest speaks. 
+- pudgy: slightly fat. 
+- reviled: to criticize someone strongly, or say unpleasant things to or about someone. 
+- sultry: (of weather) uncomfortably hot and humid. (Def 2: sexually attractive.)
+- lecher: a lecherous(=(esp. of men) showing a strong sexual interest in someone) person.
+- roving: traveling from place to place. 
+- leaven: to add a substance to bread or another food made with flour to make it increase in size when it's cooked. 
+- troika: a group of 3 people, esp. government officials. 
+- forbearance: the quality of being patient and being able to forgive someone or control yourself in a difficult situation. 
+- ruliad: the entangled limit of everything that's computationally possible. 
+- desideratum: something that's wanted or needed. 
+- tapering: becoming gradually narrower at one end. 
+- jocular: used to describe someone who's happy and likes to make jokes. (Def 2: funny, intended to make someone laugh.)
+- abecedarian: arranged alphabetically. (Def 2: rudimentary; elementary.)
+- hasty: (actions) done in a hurry, sometimes without the necessary care or thought. 
+- adduced: to give reasons why you think something is true. 
+- showpiece: an extremely good example of something that deserves to be admired (or attracts attention). 
+- messianic: relating or belonging to a messiah. (Def 2: a messianic religious group believes that a leader will or has come who has the power to change the world and bring peace.) (Def 3: (speech/style) very determined and full of emotion.) (救世主般的)
+- autocade: a procession or parade of automobiles; motorcade. 
+- tremulous: shaking slightly (voice/part of body)
+- pare: reduce something by large amount. (Def 2: cut away the outer layer of something, e.g. fruit/vegetable.)
+- bugle: a mustical instrument like a simple trumpet, used esp. in the army. 
+- gorge: a deep, narrow valley with steep sides, usually formed by a river or stream cutting through hard rock. 
+- scotch: to prevent something from being believed or being done. 
+- samizdat: the clandestine(=secretly done) copying and distribution of literature banned by the state. 
+- posse: a group of people who've come together for the same purpose. E.g. a group of friends. (一群人). 
+- be/feel slighted: to feel insulted because someone has done/said something that shows that they think you're not important. 
+- carping: the act of complaining all the time about matters that're not important. 
+- veridical: showing what's true or real. 
+- incipient: just beginning/just coming into existence. (inchoate). 
+- undismayed: not feeling unhappy and disappointed. 
+- interstitial: relating to spaces between cells, tissues, or organs in the body. (Def 2: relating to the space/time between things.)
+- fervent: showing strong and sincere feelings/beliefs. 
+- rectify: to correct something or make something right. 
+- concordant: in agreement with other facts or based on the same principles as something else. 
+- quibble: a complaint/criticism about something that's not very important. 
+- mutiny: refusal to obey orders, or a violent attempt to take control from people in authority, esp. in military or on a ship. 
+- vestiges: a small part left from something larger and more important, esp. one that's no longer used. E.g. A body part that has stopped being used and has almost disappeared. 
+- strewn (strew): to spread things in an untidy way over a surface, or to be spread in an untidy way over a surface. 
+- laceration: cut. 
+- abbess: a woman who's in charge of a convent(=a building where nuns live). 
+- tarried (tarry): to stay somewhere for longer than expected and delay leaving. 
+- complicit: involved in or knowing about a crime or some activity that's wrong. 
+- subpoenaed/subpoena: to order someone to go to a law court to answer questions. To order that documents must be produced in a law court. 
+- flukey/fluky: (of something good) happening as the result of chance instead of skill/planning. 
+- muskrat(s): a large semiaquatic North American rodent with a musky smell, valued for its fur. 
+- circumambulate: walk all the way round (something). 
+- mandalas/mandala: a design consisting of shapes arranged in circles coming from a central point, that has special importance in Hindu and Buddhist religions, or an object that has this design. 
+- blot (something) out: to hide/block the light from something, esp. the sun. (Def 2: to stop yourself thinking about something unpleasant.) (Def 3: to cause something to disappear.)
+- sherpas: a thick, soft artificial material used for making clothes that looks similar to sheepskin. (Def 2: (capital Sherpa) a member of a Himalayan people who're skilled mountain climbers and who're often employed to help visiting climbers)
+- hortatory: trying to strongly encourage/persuade someone to do something. 
+- goad: to make a person or an animal react or do something by continuously annoying/upsetting them. 
+- belied: to show something to be false, or to hide something such as an emotion. 
+- titular: having the title of a position but not the responsibilities, duties, or power; in name only. 
+- concoction: something put together from several different things. 
+- gobsmacked: so surprised that you can't speak. 
+- swigging/swig:  to drink, esp. by swallowing large amounts in a series of single actions. 
+- contrite: feeling very sorry and guilty for something bad that you've done. 
+- din: a loud, unpleasant confused noise that lasts for a long time. 
+- congeners: a thing/person of the same kind of category as another. (Def 2: a minor chemical constituent, esp. one responsible to give its physiological effects distinctive, like in wine/spirit.)
+- stranglehold: a position of complete control that prevents something from developing. i.e. that doesn't allow fair competition from other businesses, in the market/industry/etc. (Def 2: in wrestling/martial arts, a way of holding an opponent tightly around the neck so they cannot breathe, that's sometimes against the rules.)
+- tendentious: (speech/writing) expressing/supporting a particular opinion that many other people disagree with. 
+- condign: (punishment) suitable/right for a particular crime. 
+- belaying/belay: to control a rope that a climber is attached to and keep it tight, so if the climber falls, they don't fall very far. i.e. fixing a climbing rope. 
+- aping (ape): to copy something or someone badly and unsuccessfully. (Skip the animal definition)
+- footsore: having painful, tired feet, esp. after a lot of walking. 
+- grail: something that people want and are looking for but that's difficult to find/get. (Def 2: (Holy Grail) the cup believed to have been used by Jesus at the meal before his death.)
+- magnate: a person who's very rich and successful in business/industry. 
+- sagacity: the quality of having/showing understanding, and the ability to make good judgments. 
+- demurrer: an objection granting the factual basis of an opponent's point, but dismissing it as irrelevant/invalid. 
+- extemporaneous: done/said without any preparation/thought. 
+- gambit: 
+- cognizance: 
 - 
