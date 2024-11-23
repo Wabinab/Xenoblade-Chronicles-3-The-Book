@@ -64,16 +64,15 @@
 - [Queen Nia's Story](./43_nia.md)
 - [Building the Ship](./44_ship.md)
 - [Noah and Crys (Side Story)](./45_noah_side_story.md)
-
+- [Taion and Nimue (Side Story)](./89_taion_side_story.md)
 ---
 
-
-
-
----
 [Postscript](./97_postscript.md)
 [Appendices](./98_appendix.md)
 [More About Miyabi](./93_miyabi.md)
-[More About Nia](./92_nia.md)
+[More About Guernica](./88_guernica.md)
+[More About Colony Gamma](./87_teach.md)  <!-- Teach's hero quest. Skip Ascension. -->
+[More About Zeon]()  <!-- Zeon's hero quest. Skip Ascension. -->
 [More About Melia](./91_melia.md)
+[More About Nia](./92_nia.md)
 [Index](./99_terms.md)
