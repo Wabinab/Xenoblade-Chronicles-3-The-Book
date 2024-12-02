@@ -57,7 +57,7 @@
 - [Sena and Shania (Side Story)](./96_sena_side_story.md)
 - [Hope's Rest](./40_hope_rest.md)
 - [Mio and Miyabi (Side Story)](./41_mio_side_story.md)
-- [Cammuravi And Ethel's Reb](./90_cammuravi.md)
+- [Cammuravi And Ethel's Rebirth](./90_cammuravi.md)
 - [Cloudkeep, D and J returned](./42_cloudkeep.md)
 
 # Chapter 7: Time Moves Again
@@ -65,6 +65,9 @@
 - [Building the Ship](./44_ship.md)
 - [Noah and Crys (Side Story)](./45_noah_side_story.md)
 - [Taion and Nimue (Side Story)](./89_taion_side_story.md)
+- [Ship Repaired, Penetrating Origin](./46_going_to_origin.md)
+- [Inside Origin, N, Rescue Melia](./47_inside_origin.md)
+- [X, Y, and Z: The Final Battle](./48_final_battle.md)
 ---
 
 [Postscript](./97_postscript.md)
@@ -73,6 +76,7 @@
 [More About Guernica](./88_guernica.md)
 [More About Colony Gamma](./87_teach.md)  <!-- Teach's hero quest. Skip Ascension. -->
 [More About Zeon]()  <!-- Zeon's hero quest. Skip Ascension. -->
+[More About Segiri]()  <!-- Segiri's hero quest. Skip Ascension. -->
 [More About Melia](./91_melia.md)
 [More About Nia](./92_nia.md)
 [Index](./99_terms.md)

@@ -710,7 +710,7 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - trenchant: severe, expressing strong criticism or forceful opinions. 
 - resound: to sound loudly or for a long time, or (of a place) to be filled with sound. 
 - trapeze: a short bar hanging high up in the air from 2 ropes that acrobats use to perform special movements. 
-- subvert: to try to destroy or damage something, esp. an established political system. 
+- subvert/subversive: to try to destroy or damage something, esp. an established political system. 
 - palliative: (drug/medical treatment) reducing pain without curing the cause of the pain. (Def 2: making a problem seem less serious but not solving the problem or making it disappear)
 - fathom: a unit for measuring the depth of water, equal to 1.8 meters or 6 feet. (Def 2: to discover the meaning of something.) (Def 3: to understand someone or why someone acts as they do.)
 - heretical: opposite to or against the official/popular opinion, or showing no respect for the official opinion. 
@@ -1120,7 +1120,6 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - hock: the meat on the lower leg of an animal; the middle joint in the back leg of an animal. (Def 2: in hock = in debt). (Def 3: a type of white wine from Germany.)
 - disbursement: an amount of money given for a particular purpose. 
 - antediluvian: extremely old-fashioned. 
-- gait: a particular way of walking. 
 - flaying: to remove the skin from a person's/animal's body. (to whip a person/animal so hard that some of their skin comes off.)
 - ergo: therefore
 - bromides: a drug used to calm people who're very unhappy or worried. (Def 2: a remark/statement that, although might be true, is boring and has no meaning because it has been said so many times before.)
@@ -1432,7 +1431,6 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - laceration: cut. 
 - abbess: a woman who's in charge of a convent(=a building where nuns live). 
 - tarried (tarry): to stay somewhere for longer than expected and delay leaving. 
-- complicit: involved in or knowing about a crime or some activity that's wrong. 
 - subpoenaed/subpoena: to order someone to go to a law court to answer questions. To order that documents must be produced in a law court. 
 - flukey/fluky: (of something good) happening as the result of chance instead of skill/planning. 
 - muskrat(s): a large semiaquatic North American rodent with a musky smell, valued for its fur. 
@@ -1608,41 +1606,156 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - bally: used instead of a rude word like 'bloody' to express anger with someone/something. 
 - calumnious: false and damaging to someone's reputation. 
 - tawny: of a light yellow-brown color, like that of a lion. 
-- simoom: 
-- rheum: 
-- rearisen: 
-- surly: 
-- bovine: 
-- hoodwink: 
-- cherubim: 
-- seraphim: 
-- stank: 
-- flue: 
-- gibbet: 
-- noisome: 
-- leprous: 
-- execration: 
-- parricide: 
-- abetted: 
-- funk: 
-- quail: 
-- ventricles: 
-- rapier: 
-- dross: 
-- admixtures: 
-- vouchsafed: 
-- beatific: 
-- plenipotentiary: 
-- impenitence: 
-- clots: 
-- ordure: 
-- indiarubber: 
-- rictus: 
-- embrasure: 
-- spittleless: 
-- lustre: 
-- harbringer: 
-- frowsy: 
-- quaking: 
-- ciborium: 
+- simoom: a hot, dry, dust-laden wind blowing in the desert, esp. in Arabia.
+- rheum: a watery fluid that collects in or drips from the nose/eyes. 
+- rearisen (past participle of rearise): to arise again. 
+- surly: often in a bad mood, unfriendly, and not polite. 
+- bovine: connected with animals from the cattle group. Slow or stupid in a way that a cow is thought to be. 
+- hoodwink: to deceive or trick someone. 
+- cherubim (plural of cherub): an angel that's represented in art as a beautiful, fat, naked child with small wings. 
+- seraphim (plural of seraph): an angel of the highest rank. 
+- stank: past participle of stink. (smell very unpleasant)
+- flue: a pipe that leads from a fire, stove, or other heating device to the outside of a building, taking smoke, gases, or hot air away. 
+- gibbet: a wooden structure from which criminals were hanged, in the past, as a form of execution. 
+- noisome: very unpleasant and offensive. 
+- leprous: suffering from leprosy. 
+- execration: an angry denouncement or curse. 
+- parricide: the crime of murdering a close relation (e.g. parent). 
+- abetted (abet): to help/encourage someone to do something wrong/illegal. 
+- funk: a style of music, usually for dancing to, with a strong rhythm based on jazz and a tune that repeats. (Def 2: the state of being unhappy and w/o hope.)
+- quail: a small, brown bird that's shot for sport/food, or the meat of this bird. (Def 2: to feel/show fear; to want to move away from something because you fear it.)
+- ventricles: either of 2 small, hollow spaces, one in each side of the heart, that force blood into the tubes leading from the heart to the other parts of the body. (Def 2: any of 4 spaces in the brain that contain cerebrospinal fluid)
+- rapier: a sword with a long, thin blade. (Def 2: used to describe humor or a remark that's extremely clever and funny.)
+- dross: something that has no use or no value. 
+- admixtures: somethign that's added to something else. 
+- vouchsafed: to tell or give something to someone. 
+- beatific: appearing happy and calm, esp. in a holy way. 
+- plenipotentiary: a person who has the authority to represent his/her country, esp. in another country. 
+- impenitence/impenitent: not sorry or ashamed abouts omething bad you've done. 
+- clots: an almost solid piece of something (e.g. blood clot). (Def 2: a stupid person.)
+- ordure: solid waste from the bowels of people/animals. 
+- indiarubber: one name for the natural rubber that comes from the sap of rubber trees, grown in South America and India. 
+- rictus: an expression in which someone shows their teeth in a smile, but looks strange or in pain rather than looking happy and relaxed. 
+- embrasure: an opening in a wall/parapet which is bevelled(=having a sloping edge than a squared one)/splayed(=wider at one side of the wall than the other) out on the inside, typically one around a window/door. 
+- spittle: saliva, esp. as ejected from the mouth. 
+- lustre: the brightness that a shiny surface has. (Def 2: a very special, attractive quality that people admire.)
+- harbinger: a person/thing that shows that something is going to happen soon, esp. something bad. 
+- frowsy: not attractive, new, or fashionable. 
+- quaking: to shake because you're very frightened or find something very funny, or to feel or show great fear. (quake in your boots/shoes: to be very frightened/nervous).
+- ciborium: a receptacle shaped like a shrine or a cup with an arched cover, used in the Christian Church to hold the Eucharist. (Def 2: a canopy, over an altar in a church, standing on 4 pillars.)
+- boudoir: ab beautifully decorated room used in the past by a woman for sleeping, dressing, relaxing, and entertaining. 
+- yonis: the vulva, esp. a symbol of divine procreative energy conventionally represented by a circular stone (in Hindu).
+- lingam/lingams: a symbol of divine generative energy, esp. a phallus/phallic object as a symbol of Shiva. (in Hindu).
+- bittern: a type of European water bird that has long legs and is related to the heron. 
+- blotting (present participle of blot): a small area of ink made by mistake. (Def 2: to dry a wet surface, or writing done in ink, by pressing something soft against it.)
+- manorial: typical of or connected with a manor, esp. in the past. 
+- warren: (rabbit) a series of connection underground passages and holes where rabbits live. (Def 2: a very crowded and confusing building or part of a city in which it's easy to get lost.)
+- pensive: thinking in a quiet way, often with a serious expression on your face. 
+- libertine: a person, usually a man, who has few moral principles and has sexual relationships with many people. (Def 2: someone who forms their own opinions and beliefs about religion.)
+- feuilletons: a part of a newspaper/magazine devoted to fiction, criticism, or light literature. 
+- slum: a very poor and crowded area, esp. of a city. (Def 2: a very untidy or dirty place.) (Def 3: (slum it) to spend time in conditions that're much less good than the standard that you are used to.)
+- quais (quai) (english: quay): mur où accostent les bateaux, chaussée aménagée au bord de l'eau. (Def 2: voie publique aménagée sur cette chaussée.)
+- erogenous: o  areas of the body, able to feel sexual pleasure. 
+- parapet: a low wall along the edge of a roof, bridge, etc. 
+- pattens: a shoe/clog with a raised sole or set on an iron ring, worn to raise one's feet above wet/muddy ground when walking outdoors. 
+- transfiguring: to change the appearance of a person/thing very much, usually in a very position and often spiritual way.
+- recumbent: lying down/leaning back so you're almost lying down. (Def 2: used to refer to a type of bicycle that has a part at the back that you can lean back on when riding.)
+- pissoirs: a small building in which people, esp. men, can urinate; a public toilet. 
+- niggling: worrying someone slightly or causing them slight pain, usually for a long time. (Def 2: criticizing someone about small details or giving too much attention to details.) (Def 3: (of thoughts, worries, or details) unimportant but demanding one's attention in an annoying way.)
+- mar: to spoil something, making it less good or less enjoyable. 
+- fatuous: stupid, not correct, or not carefully thought about. 
+- impotent: not having the power/ability to change/improve a situation. (Def 2: an impotent man can't have sex because his penis can't become/stay hard.) (Def 3: lacking the power/ability to change or improve a situation.)
+- cynosure: a person/thing that's so good/beautiful that it attracts a lot of attention. 
+- bodega/bodegas: a small shop that sells things that're often needed (food, etc.), esp. one in an area of the US city where a lot of Latino people live. (Def 2: a bar/wine shop, esp. in Spain/Spanish-speaking country). 
+- stake(s): a share or a financial involvement in something such as a business. (have a stake in something = something is important to you because you have a personal interest or involvement in it.) (Def 3: the amount of money that you risk on the result of something such as a game or competition.) (Def 4: (beauty, popularity, etc.) a situation where someone is judged on how much of a particular quality they have.) (Def 5: to make a situation more urgent or more difficult to ignore.) (Def 6: **a strong stick** or metal bar with a pointed end.) (Def 7: in the past, a wooden post to which people were tied before being burned to death as a punishment.)
+- consigliere: an adviser to an important/high-ranking person. 
+- bland: not having a strong taste/character, or not showing any interest/energy. 
+- afoul (run/fall afoul of something/someone): to experience problems, punishment, or harm because you don't obey a rule or disagree with a powerful organization, group, or person. 
+- meringue: a very light, sweet food made by mixing sugar with egg white and baking it. 
+- freighted: goods, but not passengers, that're carried from one place to another, by ship, aircraft, train, or truch, or the system of transporting these goods. 
+- strychnine: a poisonous substance with a bitter taste that comes from the seeds of a tropical tree and is used as a rat poison. 
+- trite: done/expressed too often to be interesting or seem sincere. 
+- parvenu: someone from a low social position who has suddenly become rich/successful. 
+- knell (death knell): a warning of the end of something. 
+- gravelly: a low and rough voice. Like/containing gravel. 
+- pouf: a soft, round, or square seat with no back/sides, used for sitting on or resting your feet on (that may come with sofa set). (Def 2: another spelling of poof: an extremely offensive word for a gay man.)
+- shore (something) up: to stop a wall/building from falling down by supporting it with building materials. (Def 2: to support/improve an organization, agreement, or system that's not working effectively or is likely to fail). 
+- funky: used to describe a style of music, usually for dancing to, with a strong rhythm based on jazz and a tune that repeats. 
+- raze: to completely destroy a city, building, etc.
+- raring (be raring to do something): to be very enthusiastic about starting something. 
+- contrition: a very sorry or guilty feeling about something bad you've done, or the act of showing that you feel like this. 
+- aw-shucks: used to show that you feel embarrassed/shy/modest. 
+- rectitude: honesty and correct moral behavior. 
+- livid: extremely angry. (Def 2: (esp. of marks on the skin) of an unpleasant purple or dark blue color.)
+- (on) tenterhooks ('s' is required, not plural '+s'): worried or nervous about something that's going to happen.
+- ante: an amount of money that each person must risk in order to be part of a game that involves gambling. (Def 2: "ante-": before or in front of.) (up/raise the ante: to increase your demands or the risks in a situation.)
+- stonewall: to stop a discussion from developing by refusing to answer questions or by talking in such a way that you prevent other people from giving their opinions. In clearer sentence, To prevent someone form discovering info by not being helpful or by refusing to answer questions. (Def 2: in cricket, if a batter stonewalls, they defend a lot and don't try to score.)
+- gouged: to dig/cut into something in a rough/violent way. A hole/hollow that has been dug/cut into something. (Def 2: to charge someone too much money for something, in a way that's dishonest/unfair.) (Def 3: a tool with a handle, a long, curved blade and a sharp end, used for cutting wood and stone and in surgery.)
+- avaricious: showing an extremely strong wish to get/keep money/possessions.
+- leery: not trusting someone/something and usually avoiding him, her, or it if possible. 
+- nixed: to stop, prevent, or refuse to accept something. (Def 2: nothing/no.)
+- savagely: in a violent, cruel, or very severe way. 
+- extemporized: to speak or perform without any preparation or thought. 
+- paralegals: someone with some legal training whose job is to help lawyers (him-/herself don't have all the qualifications to be a lawyer.)
+- archfiend: a very wicked/cruel person/being. 
+- relict: a thing which has survived from an earlier period or in a primitive form. (Def 2: a widow.)
+- faubourg: a suburb, esp. one in Paris. 
+- portress: a woman who is a porter(=a person whose job is to carry things, or to take care of a large building and be present at its entrance to help people who live/visit there, or to help travelers who're spending the night on a train by arranging their bed, taking care of their bags, etc.).
+- gory: involving violence and blood. 
+- laurel: a small evergreen tree that has shiny leaves and small, black fruit. (Def 2: praise for a person because of something they've done, usually in sport, arts, or politics.)
+- whiff: a slight smell, carried on a current of air. (Def 2: to try to hit a ball, puck, or person and miss completely. In baseball, if a pitcher whiffs a batter, they cause them to strike out(=to lose their turn because they've failed 3 times to hit the ball successfully).) (Def 3: to fail to do something you've tried to do.)
+- vile: unpleasant, immoral, and unacceptable. 
+- smug: too pleased/satisfied about something you've achieved or something you know. 
+- clod: a piece of soil/clay. (Def 2: a stupid/awkward person.)
+- aggreived: unhappy, hurt, and angry because of unfair treatment. 
+- tripe: the covering of the inside of the stomach of an animal, used for food. (Def 2: ideas, suggestions, or writing that're stupid, sily, or have little value.)
+- (nerve-)wracking: difficult to do and causes a lot of worry for the person involved. 
+- besmirched: to say bad things about someone to influence other people's opinion of them. 
+- T-bone: A T-bone steak. (Def 2: an accident in which the front of one vehicle hits the side of another vehicle hard.)
+- frayed: with the threads at the edge coming loose. (Def 2: used to describe someone's mood when they're feeling worried, upset, or annoyed.)
+- terry: a type of thick cotton cloth with short threads on each side, used esp. for making towels.
+- kibitzers: a person who offers unwanted advice or commentary, esp. while others are trying to work/discuss something seriously. 
+- lanky: tall and thin and often moving awkwardly as a result. 
+- noose: one end of a rope tied to form a circle that can be tightened round something such as a person's neck to hang/kill them. 
+- jaunt: a short journey for pleasure, sometimes including a stay. 
+- coagulate: to change from liquid to a more solid state, or to cause something to do this. (Def 2: (liquid) to become/cause to become thicker so that it'll not flow. )
+- plaudits: praise, approval. 
+- dull-witted: slow to understand/learn; not very intelligent. 
+- hewn: to cut a large piece out of rock, stone, or another hard material in a rough way. (Def 2: to obey/behave according to rules, principles, or expectations.)
+- chattels: a personal possession (incl. movable objects, or rights like copyright/patents, but usually don't include land and buildings.)
+- cavorting: to jump/move around in a playful way, sometimes noisily, and often in a sexual way.
+- nuances: a very slight difference in appearance, meaning, sound, etc. (Def 2: a quality of something that's not easy to notice but may be important.)
+- carnal: relating to the physical feelings and wants/desires of the body. 
+- shunted: to move a train/carriage onto a different track in/near a station using a special railway engine designed for this purpose. (Def 2: to move someone/something from one place to another, usually because that person/thing isn't wanted, and without considering any unpleasant effects.) (Def 3: a hole/passage that allows liquid to move from one part of the body to another, either found naturally in the body or put into the body in an operation.) (Def 4: a car accident in which one vehicle drives into the back of another.)
+- spick: (spick and span) (esp. of a place) very clean and tidy. (Def 2: (spic) an extremely offensive word for someone who comes from Latin America, or whose families comes from LA.)
+- wizened: small and having dry skin with lines in it, esp. because of old age. 
+- serrated: notched/jagged-edge, sawlike. 
+- stalwart: loyal, esp. for a long time; able to be trusted. (Def 2: (esp. of a person) physically strong.)
+- condors: a type of vulture from South America. 
+- amnesiac: causing someone to lose their memory. 
+- junta: a government, esp. a military one, that has taken power in a country by force and not by election. 
+- volubility: the quality of talking fluently, readily, or incessantly; talkativeness. 
+- precarity: the state of being uncertain or likely to get worse. (Def 2: a situation in which someone's job/career is always in danger of being lost.)
+- primogeniture: the customs by which all of a family's property goes to the oldest child when the father dies. (absolute-primogeniture: to the oldest child, male or female; male-primogeniture: to the oldest son.)
+- barroom: a room where alcoholic drinks are served over a counter. 
+- corsets: a piece of (elastic) underwear that fits tightly around the middle part of the body, worn for support and to make the waist appear smaller, esp. by women in the past. 
+- monicker (moniker): a name/nickname. 
+- salacious: causing/showing a strong interest in sexual matters. 
+- patrilineal: (society/relationship) someone belonging to a particular family depends only on male relatives. 
+- paternity: the fact/state of being a father. 
+- boulevardier: a wealthy, fashionable socialite(=a person well known in fashionable society and is fond of social activities and entertainment.)
+- incarcerated: to put/keep someone in prison (or similarly closed place). 
+- hounded: to chase someone or to refuse to leave someone alone, esp. because you want to get something from them. (Def 2: (hound) a type of dog used for hunting.)
+- vilified: to say/write unpleasant things about someone/something, in order to cause other people to have a bad opinion of them. 
+- decried/decry: to criticize something as bad, w/o value, or unnecessary. 
+- leer: (esp. of men) to look at someone in a sexually interested way. 
+- dreadlocks: a hairstyle in which the hair hangs in long thick twisted pieces. 
+- titillating: used to describe sexual images/descriptions, etc. that intentionally cause excitement, but not in a serious way. (Def 2: interesting and shocking.)
+- pernicious: having a very harmful effect/influence. 
+- rezone: to change the use of an area of land, or the types of structures that can be built on it. 
+- freemium: a way of charging for a product/service in which the basic product/service is free, but the customer pays for extra features.
+- gaunt: very thin, esp. because of sickness or hunger. 
+- hysteria: extreme fear, excitement, anger, etc. that can't be controlled. 
+- parodying: 
+- languid: 
 - 
