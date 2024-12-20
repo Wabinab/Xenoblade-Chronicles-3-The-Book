@@ -1,5 +1,7 @@
 # More About Melia
 
+> Before reading this, it's encouraged that [you read about Zeon first, because this story assumes you were already introduced to Zeon.](./86_zeon.md) He doesn't appear in the main story, but we included an introduction story for him for you to be introduced to him. 
+
 The group was exiting the blood-red-lit factory of Keves Castle towards the alleyway when they were met with someone whom tried to keep a low profile. Stopping in her track, she asked to "Excuse me." and quickly walked in between them, hoping them not to take notice of her, but Mio recognized, 
 
 "That voice..."

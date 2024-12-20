@@ -10,7 +10,6 @@ The ship arrived, they boarded, and it zoomed off into the sky, towards the City
 
 ---
 
-===
 
 Upon arrival, they met Mr. Samon at his engineering department and explained the problem to him. "...Ahhh, friends mean old beaut? She tucked away, all cozy in Dock No. 3."
 

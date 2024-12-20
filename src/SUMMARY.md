@@ -68,15 +68,22 @@
 - [Ship Repaired, Penetrating Origin](./46_going_to_origin.md)
 - [Inside Origin, N, Rescue Melia](./47_inside_origin.md)
 - [X, Y, and Z: The Final Battle](./48_final_battle.md)
+- [Parting Ways](./49_final_chapter.md)
+
+---
+
+# More About
+- [Miyabi](./93_miyabi.md)
+- [Guernica](./88_guernica.md)
+- [Colony Gamma (Teach)](./87_teach.md)  <!-- Teach's hero quest. Skip Ascension. -->
+- [Zeon](./86_zeon.md)  <!-- Zeon's hero quest. Skip Ascension. -->
+- [Segiri](./85_segiri.md)  <!-- Segiri's hero quest. Skip Ascension. -->
+- [Cammuravi and Ethel]()
+- [Isurd]() <!-- Isurd's ascension quest. Skip Hero. -->
+- [Melia](./91_melia.md)
+- [Nia](./92_nia.md)
 ---
 
 [Postscript](./97_postscript.md)
 [Appendices](./98_appendix.md)
-[More About Miyabi](./93_miyabi.md)
-[More About Guernica](./88_guernica.md)
-[More About Colony Gamma](./87_teach.md)  <!-- Teach's hero quest. Skip Ascension. -->
-[More About Zeon]()  <!-- Zeon's hero quest. Skip Ascension. -->
-[More About Segiri]()  <!-- Segiri's hero quest. Skip Ascension. -->
-[More About Melia](./91_melia.md)
-[More About Nia](./92_nia.md)
 [Index](./99_terms.md)

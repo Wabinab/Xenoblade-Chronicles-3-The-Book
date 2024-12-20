@@ -193,7 +193,7 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - anachronistic: existing out of its time in history.
 - somnolent: almost sleeping, or causing sleep. 
 - impeccable: perfect, with no problems or bad parts (probably related to Valdi and other mechanics like Riku.)
-- moribund: (esp of an organization or business) not active or successful. 
+- moribund: (esp of an organization/business) not active or successful.
 - verisimilitude: the quality of seeming true or of having the appearance of being real. 
 - elucidate: to explain something, to make something clear. 
 - inchoate: only recently or partly formed, or not completely developed or clear. 
@@ -516,8 +516,7 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - colander: a bowl with small holes in it, used for washing food or for emptying food into when it has been cooked in water. 
 - traipsed: to walk from one place to another, often feeling tired or bored. 
 - pundit: a person who knows a lot about a particular subject and is therefore often asked to give an opinion about it. 
-- tattle: to secretly tell someone in authority, esp. a teacher, that someone else has done something bad, often in order to cause trouble. 
-- moribund: (esp. of an organization/business) not active/successful. 
+- tattle: to secretly tell someone in authority, esp. a teacher, that someone else has done something bad, often in order to cause trouble.  
 - **broached**: to begin a discussion of something difficult.
 - portentous: too serious and trying to be very important. (Def 2: of events, statements, or signs: important because they show something unpleasant is very likely to happen.)
 - pogrom: an act of organized cruel behavior or killing that's done to a large group of people because of their race or religion. 
@@ -630,7 +629,7 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - acerbic: used to describe something that's spoken/written in a way that's direct, clever, and cruel. 
 - loquacious: talkative. 
 - quaint: attractive because of being unusual or esp. old-fashioned. (Def 2: to show that you don't approve of something, esp. an opinion, belief, or way of behaving, because it's strange or old-fashioned.)
-- parsimony: unwillingness to spend money or to give things to people. 
+- parsimony/parsimonious: unwillingness to spend money or to give things to people. 
 - (the) linchpin (of): the most important member of a group or part of a system, that holds together the other members or parts or makes it possible for them to operate as intended. 
 - amorphous: (physical) having no fixed form or shape. (Def 2: (idea, plan, etc.) having no clear structure or details.)
 - conflate: to combine two or more separate things, esp. pieces of text, to form a whole. 
@@ -1161,7 +1160,7 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - apportionment: the act of sharing something between several people/organizations. e.g. dividing costs between each in a fair way, depending on responsibility of each. 
 - graying/greying: a person whose hair is becoming gray/white. (Def 2: containing an increasing no. of older people.)
 - homely: plain/ordinary, but pleasant. (Def 2: of a person, ugly.)
-- staunch: always loyal in supporting a person, organization, or a set of beliefs or opinions.
+- staunch/stanched: always loyal in supporting a person, organization, or a set of beliefs or opinions.
 - impunity: freedom from punishment or from the unpleasant results of something that has been done.
 - calloused: (feet/hands) covered with hard areas of skin. 
 - cogitate: to spend time thinking very carefully about a subject. 
@@ -1627,11 +1626,11 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - ventricles: either of 2 small, hollow spaces, one in each side of the heart, that force blood into the tubes leading from the heart to the other parts of the body. (Def 2: any of 4 spaces in the brain that contain cerebrospinal fluid)
 - rapier: a sword with a long, thin blade. (Def 2: used to describe humor or a remark that's extremely clever and funny.)
 - dross: something that has no use or no value. 
-- admixtures: somethign that's added to something else. 
+- admixtures: something that's added to something else. 
 - vouchsafed: to tell or give something to someone. 
 - beatific: appearing happy and calm, esp. in a holy way. 
 - plenipotentiary: a person who has the authority to represent his/her country, esp. in another country. 
-- impenitence/impenitent: not sorry or ashamed abouts omething bad you've done. 
+- impenitence/impenitent: not sorry or ashamed about something bad you've done. 
 - clots: an almost solid piece of something (e.g. blood clot). (Def 2: a stupid person.)
 - ordure: solid waste from the bowels of people/animals. 
 - indiarubber: one name for the natural rubber that comes from the sap of rubber trees, grown in South America and India. 
@@ -1756,6 +1755,181 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - freemium: a way of charging for a product/service in which the basic product/service is free, but the customer pays for extra features.
 - gaunt: very thin, esp. because of sickness or hunger. 
 - hysteria: extreme fear, excitement, anger, etc. that can't be controlled. 
-- parodying: 
-- languid: 
+- parodying/parody: writing, music, art, speech, etc. that intentionally copies the style of someone famous, or copies a particular situation, making the features/qualities of the original more noticeable in a way that's humorous. (Def 2: something that so obviously fails to achieve the effect that was intended that it's stupid.)
+- languid: moving/speaking slowly with little energy, often in an attractive way. 
+- stifled: unable to breathe because you have no air. (Def 2: to prevent something from happening, being expressed, or continuing.)
+- sniffling: to breathe in quickly and repeatedly through the nose, because you're crying or because you have a cold. 
+- yurts: a type of round tent with a wooden frame, used traditionally as a home by some Central Asian people, and now sometimes used for camping in Western countries. 
+- presaging: to show/suggest that something, often something unpleasant, will happen. 
+- roaches (roach):  a European fish that lives in fresh water. (Def 2: informal for cockroach.) (Def 3: a piece of card or other material used to make the end part of a joint(=cannabis cigarette) or roll-up(=hand-made cigarette), that the smoke is breathed through.)
+- refuseniks: someone in the former Soviet Union who was not allowed to leave the country to go live in another country, esp. a Jew who wasn't allowed to go and live in Israel. (Def 2: someone who refuses to do, use, or accept something.)
+- appalled: having strong feelings of shock/disapproval. 
+- lurid: (of a description) shocking because involving violence, sex, or immoral activity. (Def 2: too brightly colored.)
+- mangled: destroyed by being twisted with force or torn into pieces so that the original form is completely changed. (Def 2: (speech, piece of writing) spoiled by having many mistakes in it.)
+- sobriquet: a name given to someone/something that's not theirs or its real/official name. (synomyns: moniker, nickname.)
+- entreaty: an attempt to persuade someone to do something. 
+- fjord: a long strip of sea between steep hills, found esp. in Norway. 
+- incommunicado: not communicating with anyone else because you don't want to or aren't allowed to. 
+- megalomania: an unnaturally strong wish for power and control, or the belief that you're very much more important and powerful than you really are. 
+- heteronormative: suggesting/believing that only heterosexual relationships are normal/right, and that men and women have naturally different roles.
+- prithee: used to add emphasis when you're politely asking someone for something, or asking them do to something. 
+- screed: a long piece of writing, esp. one that's boring or expresses an unreasonably strong opinion. (Def 2: a level layer of concrete used when laying a floor. A board used to make the soft material of a floor level, before the material dries.)
+- dissed: to disrespect someone. 
+- scrivener: someone whose job involved writing documents or dealing with written documents. 
+- cormorant: a large, black sea bird with a long neck and body. 
+- nepotistic: using your power/influence to get good jobs or unfair advantages for members of your own family. 
+- scrappy: badly organized or put together. (Def 2: untidy and not very attractive or well-developed.) (Def 3: having a strong, determined character, and willing to argue or fight for what you want.) (Def 4: very competitive and willing to oppose others without fear to achieve something.)
+- plush: soft to touch. (Def 2: expensive, comfortable, and of high quality.) (Def 3: thick, soft cloth, witha surface like short fur, esp. for covering furniture or making toys for children.)
+- cloying: tasting/smelling too sweet and therefore unpleasant. (Def 2: expressing feelings of love or kindness in a way that's annoying because it doesn't seem real.)
+- pupper: a dog, esp. a young one.
+- abstention: not doing something, not voting for/against something. 
+- knave: a dishonest man. (Def 2: a jack. (not sure which 'jack', the car jack, the card J, the ball jack, or star-shaped object jack, or electrical jack, etc.))
+- elocution: the art of careful public speaking, using clear pronounciation and good breathing to control the voice. 
+- take the mick (NOT EQUAL TO 'mick'): tease/ridicule someone. 
+- sprockets: a device like a wheel with one or more rows of tooth-like parts stickout that keeps a chain moving on a bicycle or pulls flm, paper, etc. through a machine (conveyor belt). 
+- dispensable: more than you need and therefore unnecessary; that can be got rid of. 
+- contretemps: a small argument or unlucky event, often happening in public and causing social embarrassment. 
+- baloney: nonsense. (Def 2: smoked sausage, sliced and eaten cold.) (Def 3: bologna). 
+- disowned: to make it known that you no longer have any connection with someone that you were closely connected with. 
+- protégé: a young person who's helped and taught by an older and usually famous person. Someone who's helped, taught, or protected by an important/more experienced person. 
+- diaristic: similar to, or in the form of a diary. 
+- stenciling/stencil: to draw/paint something via cutting out holes that make shapes from the paintboard (of various materials)
+- skittish: nervous/easily frightened, or easy to change their belief. 
+- ingratiation/ingratiate: to make someone like by by praising them, or trying to please them. 
+- altercasting: assigning a particular role/identity to someone to influence their behavior/perception. 
+- towhee/towhees: a North American songbird of the bunting family, typically with brownish plumage but sometimes black and rufous. 
+- manzanita: a kind of bush/small tree with red berries you can eat, that grows in western parts of North America. 
+- riprap: loose stone used to form a foundation for a breakwater(=a barrier built out of sea to protect a coast/harbor from the force of wave) or other structure. 
+- chthonic: relating to or living in the underworld(=the place in ancient stories where the spirits of the dead go). 
+- seepage (from 'seep'): a process in which a liquid flows slowly out of a hole/through something. 
+- lacy: made of/decorated with lace. 
+- bobcat: a North American wild animal of the cat family with brown hair, pointed ears, and a short tail. 
+- ayahuasca: a drug made from the leaves of different South America plants, used in some religious ceremonies, that causes people who drink it to see the world differently from the way it really is, or to see things that don't really exist. 
+- phainopepla: "shining robe." A songbird with a long tail and a distinct crest. 
+- chuckwalla: a large dark-bodied lizard, the male of which has a light yellow tail, native to the deserts of the south-western US and Mexico. When threatened, it inflates itself with air to wedge itself into a crevice. 
+- supererogation: doing more than necessary. 
+- iniquitous: very wrong and unfair. 
+- balked: to be unwilling to do something or to allow something to happen. (Def 2: in baseball, when throwing the ball to the batter, suddenly stop to cheat the batter. It's against the rules.) (Def 3: a rough, thick piece of wood.)
+- sere: (esp of vegetation) dry/withered.
+- canticles: a hymn/chant, typically with a biblical text, forming a regular part of a church service. (Def 2: another name for Song of Songs (esp. in the Vulgage Bible.))
+- diffident: shy and not confident of your abilities. 
+- blind cord: used to raise, lower, and tilt window blinds. 
+- thurible: a metal incense burner suspended from chains, in which incense is burned during worship services. 
+- vestment: robe worn by the clergy or choristers during services. A garment, esp. a ceremonial or official robe. 
+- chasuble: an ornate sleeveless outer vestment worn by a Catholic or High Anglican priest when celebrating Mass. 
+- subdeacon: (in some Christian Churches) a minister of an order ranking below deacon. 
+- humeral: relating to the humerus(=the long bone in the upper arm). 
+- paten: a plate usually made of precious metal and used to carry the bread at the Eucharist, and sometimes as a cover for the chalice. 
+- tunicle: a short liturgical vestment which is traditionally worn over the alb by a subdeacon at celebrations of the Mass. 
+- dalmatic: a wide-sleeved long, loose vestment open at the sides, worn by deacons and bishops, and by monarchs at their coronation. 
+- novena: (in the Roman Catholic Church) a form of worship consisting of special prayers or services on nine successive days. 
+- novitiate: the period/state of being a novice, esp. in a religious order. A place for housing novices. 
+- jampots: "jam pot": a container for jam. 
+- pith: the white substance between the skin and the flesh of citrus fruits like oranges, or the soft, white inside part of the stem of some plants. 
+- boughs: a large branch of a tree. 
+- harts: a male deer, esp. a red deer. 
+- commiserations: an expression of sympathy for someone, esp. someone who has lost a competition, or for some bad luck. 
+- look askance: to look at/think about someone/something with doubt, disapproval, or distrust. 
+- embayed: formed into bays; hollowed out by the sea. 
+- flecked: having small marks/spots. 
+- arras: a wall hanging made of a rich tapestry fabric, typically used to conceal an alcove(= a recess in the wall of a room/garden). 
+- Thingmote: a raised mound in Dublin, Ireland, where the Norsemen would gather to make laws, conduct political and judicial business, and perform ceremonies. 
+- woodbegirt: covered/surrounded by trees. 
+- vesture: clothing; dress. 
+- cerements: waxed cloth for wrapping a corpse. 
+- jetsam: thigns that're thrown away from ships and then float onto the land. 
+- russet: a reddish-brown color. 
+- kilted: wearing a kilt(=a garment with knee-high skirt of pleated tartan cloth, traditionally worn by men as part of Scottish Highland dress, and now also worn by women and girls.)
+- pleat: a double/multiple fold in a garment/other item made of cloth, held by stitching the top/side. 
+- nook: a small space that's hidden/partly sheltered. 
+- dockets: an official document describing something that's being delivered or transported and giving details of where it's coming from and where it's going to. (Def 2: a list of cases to be dealt with in a law court, or an agenda in business.)
+- interstices: a space between things/events. 
+- quilted: (esp. clothes) filled with thick soft material that's sewn in place. 
+- panhandling/panhandle: a long, thin piece of land joined to a larger area. (Def 2: to ask strangers for money, esp. in a public space. i.e. to beg.)
+- rabble: a large, noisy, uncontrolled group of people. (Def 2: (_the_ rabble) people of a low social position). 
+- unslaked: if someone's feeling of wanting something is unslaked, they have not stopped wanting it. (Def 2: unslaked lime hasn't been treated with water to produce calcium hydroxide.)
+- arroyos: in the southwestern US, a narrow channel in the ground that's usually dry but becomes a stream after heavy rain. 
+- fiacre: a small 4-wheeled carriage for public hire. 
+- gripe: a strong complaint; to complain continuously about something in a way that's annoying. 
+- layup/ lay someone/something up: to force someone to stay in bed. (Def 2: in basketball, to jump in the air very close to the basket and throw the ball into the net with one hand to score, esp. by bouncing it off the backboard.) (Def 3: in golf, to hit the ball a shorter distance than normal, e.g; to avoid water/bunker(=an area filled with sand)). (Def 4: to stop a machine, ship, or vehicle when it needs repairs or there's not enough work to do.)
+- flambéing (flambé): to pour alcohol over food and set fire to it during cooking. 
+- rapacity: the quality of having/showing a strong with to take things for yourself, usually using unfair methods/force. 
+- turds: a piece of solid waste. (Def 2: a rude word for someone who you think is unpleasant.)
+- polyp: a small, simple, tube-shaped water animal. (Def 2: a small mass of cells that grows in the body, and is usually not harmful.)
+- innards (compulsory 's' at the back): the organs inside a person/animal, or the inside parts of a machine. 
+- founts: plural of 'font', as in 'font size'. 
+- reggae: a type of popular music from Jamaica, with a strong 2nd and 4th beat. 
+- deified: to make someone/something into a god. 
+- pallid: very pale, in a way that looks unhealthy and not attractive. (Def 2: shoing no enthusiasm or excitement.)
+- turncoats: a person who changes from one opinion to an opposite one in a way that shows they're not loyal to people who share the original opinion. A traitor. 
+- instigated: to cause an event/situation to happen by making a set of actions or a formal process begin. 
+- bonce: someone's head. 
+- keelhauling: to tell someone off severely. 
+- strut: to walk in a proud way (with your chest pushed forward and your shoulders back) trying to look important. (Def 2: a support for structures.) 
+- exalt: to raise someone to a higher rank or more powerful position. (Def 2: to praise someone a lot.)
+- pallbearer: a person who helps to carry a coffin at a funeral or who walks at the side of the people carrying it. 
+- interred: to bury a dead body. (skip def 2 "inter-"). 
+- upcycled: to make new furniture, objects, etc. out of old or used things or waste material. 
+- doweling: joining of 2 pieces of wood using 'dowels'(=a projecting peg for holding together components of a structure, cylindrical in shale with teeth-like shape on its cylindrical surface.)
+- jig: an energetic traditional dance of Great Britain and Ireland, or the music that's played for such a dance. (Def 2: a piece of equipment for holding a tool or piece of wood, etc. firmly in position while you work in it.) (Def 3: to move quickly up and down or from side to side, or to make someone/something do this.)
+- upending (upend): to push/move soemthing so that the part that usually touches the ground isn't touching the ground anymore. 
+- inextricable: (my guess: cannot be separated???) Unable to be separated, freed, or escaped from. 
+- feint: to pretend to move, or to make a move, in a particular direction to deceive an opponent, or to take attention away from something else. 
+- bods (bod): informal for body. (Def 2: a person.)
+- tenuous: (connection, idea, situation) weak and possibly doesn't exist (unimportant, in doubt). 
+- stringer: someone who sends reports or does interviews for a newspaper, but who isn't an employee of that newspaper. 
+- byline: a line at the top of a newspaper or magazine article giving the writer's name. (Def 2: one/two white lines at teach end of a football pitch, between the edges of the goal and the corner flag.)
+- Realpolitik: practical politics, decided more by the urgent needs of the country, political party, etc., than by morals or principles. 
+- ineluctably: in a way that can't be avoided. 
+- noosphere: The realm of human intelligence, information, and action.
+- winsome: attractive and pleasing, with simple qualities, sometimes like those a child has. Charming and attractive in a simple way. 
+- prissy: caring too much about behaving and dressing in a way that's considered correct and that doesn't shock. 
+- bamboozled: to trick/deceive someone, often by confusing them. 
+- straggle: to move/spread untidily and in small numbers or amounts. (Def 2: to move alone or in small groups slowly and usually separated in distance/time from those who went earlier.)
+- sleeted: wet, partly melted falling snow. Rain that's partly frozen. 
+- cachet: a quality that marks someone/something as special and worth respect and admiration, admirable. 
+- have conniptions: to be very angry/upset.
+- gossamer: the very thin thread that spiders produce to make webs. (Def 2: Very delicate and light.)
+- cronyism: the situation in which someone important gives jobs to friends rather than to independent people who have the necessary skills and experience. 
+- colicky: suffering from or relating to a severe but not continuous pain in the bottom part of the stomach/bowels, that mainly affects babies.
+- ecumenical: encouraging the different Christian Churches to unite. Tending to support and encourage unity among different religions. 
+- do someone in: to kill someone. (Def 2: to make someone extremely tired.) (Def 3: to be the cause of someone's failure.)
+- probity: complete honesty. 
+- platitude: a remark/statement that may be true but is boring and has no meaning because it has been said so many times before. A statement that has been repeated so often that it's meaningless. 
+- periodontal: relating to the gums and other tissues around the teeth. 
+- biopsy: the process of removing and examining a smal amount of tissue from a sick person, to discover more about their illness, to learn if they show signs of a disease. 
+- haggard: looking ill/tired, often with dark skin under the eyes. 
+- pasty-faced: looking pale and sick. (脸色苍白)
+- soupçon: a very small amount. 
+- temptress: a woman who tries to sexually attract men. 
+- comatose: in a coma. (Def 2: very tired or in a deep sleep because of extreme tiredness, hard work, or too much alcohol.) (Def 3: unconscious and unable to wake up, usually because of illness or injury.)
+- lectionary: a list of book or portions of the Bible appointed to be read at divine service. 
+- liturgy: a set of words, music, and actions regularly used in religious ceremonies. 
+- lamentation: sadness and feeling sorry, or something that expresses these feelings. 
+- bequests: money/property belonging to someone that they say that, after their death, they wish to be given to other people. 
+- dervishes: a member of one of a no. of Muslim religious groups, some of which have an energetic dance as part of their worship. 
+- hatha (yoga): force/power technique style. 
+- hardscrabble: (land/soil) not suitable for growing grass, plants, or crops. (Def 2: (life/person) not having a lot of money and needing to work a lot to eat and live.)
+- strife: violent/angry disagreement. 
+- insubordination: refusing to obey orders from people in authority. 
+- ductility: the ability of a substance such as metal to be easily bent/stretched/shaped without breaking. 
+- sidle/sidling: to walk towards/away from someone, trying **not** to be noticed. (Def 2: to move in an uncertain manner with one side facing forward.)
+- sluice: an artificial channel for carrying water, with an opening at one end to control the flow of the water. If water sluices out from somewhere, it _flows in large amounts._
+- interregnum: a period when a country or organization doesn't have a leader. 
+- awnings: a cloth/plastic cover fastened to a building/structure and supported by a frame that's used to protect something/something from th sun/rain. i.e. extended roof to prevent rain from splatters in, for example. 
+- punting (punt): a long, narrow boat with a flat bottom and square ends, moved by a person standing at one end and pushing on the bottom of a river with a pole. (Def 2: a way of kicking the ball in rugby or American football, by dropping it from your hands and kicking it before it hits the ground, or a powerful kick in football that causes the ball to go a long way.) (Def 3: (take a punt on something) to risk money or buying/supporting something, in the hope of making/winning more money.) (Def 4: the standard unit of money used in Ireland before the introduction of the euro.) (Def 5: if you punt something, you decide not to do it.) 
+- paparazzi: the photographers who follow famous people everywhere they go in order to take photographs of them for newspapers and magazines. 
+- meek: quiet, gentle, and not willing to argue/express your opinions in a forceful way. 
+- codicil: an instruction that's added to a will. 
+- hornswoggled: get the better of (someone) by cheating/deception. 
+- parley: (to meet and hold) a discussion between 2 groups of people, esp. one that's intended to end an argument (or a war). 
+- rescind: to make a law, agreement, order, or decision no longer have any (legal) power. 
+- leper: a person who's strongly disliked and avoided by other people because of something bad that (s)he has done. (Def 2: a person who has leprosy(=a disease that damages a person's nerves and skin), used by doctors in the past but is now offensive.)
+- chifforobe: a piece of furniture with drawers on one side, and hanging space on the other. 
+- séance: a meeting where people try to talk with dead people. 
+- mooted: to suggest something for discussion. (Def 2: often discussed/argued by have no definite answer.) (Def 3: not important/not relevant, therefore not worth discussing.) (Def 4: (law) if a legal question is moot, it doesn't need to be dealt with, because something has happened that solves the issue.) (Def 5: imagined/invented as an example, and so without any legal importance. An imaginary legal case.) (Def 6: having no practica use or meaning.) 
+- understudy: an actor who learns the parts of other actors in a play, so that (s)he can replace them if necessary. 
+- prerogative: something that certain people are able or allowed to do or have, but isn't possible or allowed for everyone. 
+- sedition: language/behavior that's intended to persuade other people to oppose their government (and change it, sometimes by using violence).
+- subpoenaed: 
 - 

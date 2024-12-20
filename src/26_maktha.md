@@ -18,6 +18,8 @@ The group turned to face him, but Noah ended the conversation, "I don't think we
 
 Mio crossed her arms, agreed with him, "Fair enough. But we should stay on our toes, until we leave the woodland."
 
+{{footnote: [For the continuation of this tiny levnis, check this story out.](./85_segiri.md) **But a warning**! It contains details that're into the future. It's recommended that you only read this story after completing at least Chapter 5, or better, after [The Sword of the End](./39_sword_of_the_end.md) story, for better clarifications.}}
+
 ---
 
 As they continued their journey, the series of buildings were still visible behind but getting into the background. Instead, replaced with more trees, leaves colored like late in the Fall under the evening sun; barren ground with occasional grass patches growing stoutly. 

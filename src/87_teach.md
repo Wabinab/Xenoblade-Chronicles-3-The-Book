@@ -1,4 +1,4 @@
-# More About Colony Gamma
+# More About Colony Gamma (Teach)
 
 > Unlike the others, 'Teach' is not a character that comes online. But because he's 'Teach', he 'teaches'. He's the commander of one of the two colonies that co-joined forces when taking down Guernica. It was Mio, Taion, and Sena's colony before they became Ouroboros. Taking him in lets you understand their original colony more. We have two videos associated with Teach, but we'll only write about the first. The second is more about Teach in depth, while for this, we'll introduce you to the Agnian's original colony. 
 
