@@ -1,5 +1,9 @@
 # Index
 
+- By "confounded", one used the definition "to confuse/surprise someone, so that they're unable to explain/deal with a situation" **rather than** the other "expressing anger"
+
+### Xenoblade Specific Terms
+
 Here are some terms highlighted in the book. More of these information could be found in the [Xenoblade Wiki](https://xenoblade.fandom.com/wiki/)
 
 - **Agnian Welcoming Stance**: Clench your right hand into a fist and put it by your heart. Refer to its use in `Kevesi Welcoming Stance`. 

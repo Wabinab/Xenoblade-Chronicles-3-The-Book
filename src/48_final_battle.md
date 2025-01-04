@@ -368,7 +368,7 @@ Teach{{footnote: [Learn more about Teach](./87_teach.md). We're including one of
 
 ---
 
-X$\infin$: "Why have you not given up yet...?"
+X\\(\infty\\): "Why have you not given up yet...?"
 
 ---
 
@@ -386,11 +386,11 @@ Ghondor: "You owe me one, OK?"
 
 Juniper: "I'll back you up!"
 
-Y$\infin$: "If you think you can interfere, then you have mis-assessed me grossly. And yet, you will make not a shrrrreeeeed of difference!"
+Y\\(\infty\\): "If you think you can interfere, then you have mis-assessed me grossly. And yet, you will make not a shrrrreeeeed of difference!"
 
 ---
 
-Y$\infin$: "You dare defy my will also...?"
+Y\\(\infty\\): "You dare defy my will also...?"
 
 And Z could no longer retain separating them. He teleported all back on the central stage as Z recombined. "How long will you defy me...? **Fine! If it's endless despair you wish for**, I will grant it to you gladly!"
 

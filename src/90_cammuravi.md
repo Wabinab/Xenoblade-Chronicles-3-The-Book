@@ -324,4 +324,8 @@ Mio nudged, "Taion, he's talking to you."
 
 > As a reminder, the group would continue their path on the way to find the Queen next, at the snowy mountains. 
 
+---
+
+> **Translator's Note:** There's a continuation to this story [in the more about. Read more!](./83_cammuravi_ethel.md)
+
 ### Footnotes:

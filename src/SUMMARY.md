@@ -78,8 +78,8 @@
 - [Colony Gamma (Teach)](./87_teach.md)  <!-- Teach's hero quest. Skip Ascension. -->
 - [Zeon](./86_zeon.md)  <!-- Zeon's hero quest. Skip Ascension. -->
 - [Segiri](./85_segiri.md)  <!-- Segiri's hero quest. Skip Ascension. -->
-- [Cammuravi and Ethel]()
-- [Isurd]() <!-- Isurd's ascension quest. Skip Hero. -->
+- [Cammuravi and Ethel](./83_cammuravi_ethel.md)
+- [Isurd](./84_isurd.md) <!-- Isurd's ascension quest. Skip Hero. -->
 - [Melia](./91_melia.md)
 - [Nia](./92_nia.md)
 ---
@@ -87,3 +87,4 @@
 [Postscript](./97_postscript.md)
 [Appendices](./98_appendix.md)
 [Index](./99_terms.md)
+[References](./82_references.md)

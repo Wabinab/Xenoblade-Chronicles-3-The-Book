@@ -214,8 +214,6 @@ Noah: "_Let it go, guys._"
 
 ---
 
-===
-
 "We'll be arriving presently." Zeon had took them through a valley, and we could see it opening up at the end. 
 
 Noah: "Eunie, you OK?" He noticed she was looking around her. 
@@ -224,7 +222,7 @@ Noah: "Eunie, you OK?" He noticed she was looking around her.
 
 Lanz recalled, "**Oh yeah!** You really made a big deal out of that."
 
-"Did not???!!! _Just wanted to wish upon one._ All the others _laughed in my face, said I'd **never** find one here... Everyone but you guys, and Zeon. You must remember._" They were in deep reminiscence. "_You're not the kind of guy who makes fun of people when they're trying their hardest._ You help people in need."
+"_Did not???!!! Just wanted to wish upon one._ All the others _laughed in my face, said I'd **never** find one here... Everyone but you guys, and Zeon. You must remember._" They were in deep reminiscence. "_You're not the kind of guy who makes fun of people when they're trying their hardest._ You help people in need."
 
 "Hmm..."
 
@@ -234,7 +232,7 @@ Lanz recalled, "**Oh yeah!** You really made a big deal out of that."
 
 Mio: "_Hrrr..._"
 
-"Hmph... You've sent many of my comrades off, _Noah._ Time and time again, you saved the dead, helped survivors... _Even me._ I know, you do not make light of _people's lives._"
+"Hmph... You've sent, many of my comrades off, _Noah._ Time and time again, you saved the dead, helped survivors... _Even me._ I know, you do not make light of _people's lives._"
 
 "So you understand?"
 
@@ -256,9 +254,9 @@ He thought for a second before turning back to their to-go direction, urged, "Ti
 
 ---
 
-The group found the levnises gathering in a short distance. Noah: "There's a lot of them... This'll be a battle of attrition. We can use the terrain for defensive advantage. First, we need to hurt their morale."
+After moving through the valley, the group found the levnises parked in a short distance. Noah: "There's a lot of them... This'll be a battle of attrition. We can use the terrain for defensive advantage. First, we need to hurt their morale."
 
-Taking advantage that they hadn't noticed them yet, Zeon urged, "Before that, we need to talk. **I'll remain here**, and fight for as long as I stand. That's... also part of the plan. It will be a grueling fight. I won't have time to be looking out for... possible deserters."
+Taking advantage that the Agnians hadn't noticed them yet, Zeon urged, "Before that, we need to talk. **I'll remain here**, and fight for as long as I stand. That's... also part of the plan. It will be a grueling fight. I- won't- have time to be looking out for... possible deserters."
 
 Eunie twitched her eyebrow, "Hold on, are you telling us to find a chance to escape?"
 
@@ -268,11 +266,11 @@ Lanz: "**Sparks' sakes, Zeon... Just how rotten do you think we are?**"
 
 Noah folded his arms, "I see where you're coming from, but we're fighting on our own terms. We'll be seeing this through."
 
-Eunie: "_We owe a debt, to Colony 9._ Maybe it wasn't for very long but, it gave us somewhere to belong."
+Eunie: "_We owe a debt, to Colony 9. Maybe it wasn't for very long but, it gave us somewhere to belong._"
 
 "But not any more..."
 
-Lanz: "**Just shut it, you! How hard is it** for you to accept someone just wants to do a good deed, eh? **Get a clue!**" Zeon looked at him for a while while thinking for his reply, but Lanz dashed off towards the Agnians before the others could react. 
+Lanz: "**Just shut it, you! How hard is it** for you to accept someone just wants to do a good deed, eh? **Get a clue!**" Zeon looked at him for a while while thinking how to reply him, but Lanz hadn't waited a moment, dashed off towards the Agnians before the others could react. 
 
 Eunie: "Lanz!"
 
@@ -280,61 +278,61 @@ Zeon: "How often does he need telling not to abandon himself to his feelings?"
 
 Noah: "Have you given in?"
 
-"Hah." He summoned his blades before continuing, "Still... Might as well strike while the iron's hot." And the rest summoned their blades. Looked like Lanz had lured them in! 
+"Hah." He summoned his blades before continuing, "Still... Might as well strike while the iron's hot." And the rest summoned their blades after Lanz had lured them in! 
 
 ---
 
 An Agnus soldier was scared, "**What the spark are Ouroboros doing here? I did _not_, sign up for this!**"
 
-Lanz: "Want us to run 'em down?"
+Lanz questioned, "Want us to run 'em down?"
 
 Zeon: "We aren't here to kill each other. Pull back now, and we won't pursue you."
 
-The Agnus Captain wasn't scared, calmly and slightly teasingly replied, "I'll bet you won't. **Because you'll be dead!**" As he finished, there were Agnian Levnises cruising high up in the air. They seemed to be aiming for the colony. 
+The Agnus Captain wasn't scared, calmly and slightly teasingly replied, "I'll bet you won't. **Because you'll be dead!**" As he finished, there were Agnian Levnises cruising high up in the air. They seemed to be traveling to the colony. 
 
 Eunie: "Levnises!"
 
-Agnus Captain: "Always keep your ace in reserve. That's how the game's played!"
+Agnus Captain: "Always keep your ace in reserve. That's, how the game's played!"
 
 "Ngh..."
 
 Zeon: "Don't falter. We have Kite and the others holding the fort."
 
-Noah: "Yeah. And we'll hold the line here, whatever it takes!" Second round. 
+Noah: "Yeah. And we'll hold the line here, **whatever it takes!**" Second round. 
 
 ---
 
 Agnus Captain: "Ur hrgg, urg hmm... I'm done..."
 
-Another Agnus soldier to his left exclaimed, "Squad leader's been hit! **PULL BACK!!!**" And the soldiers first sheathed their blades and withdrew themselves, leaving the Captain facing the group alone. Zeon watched as they leave the battlefield. 
+Another Agnus soldier to his left exclaimed, "Squad leader's been hit! **PULL BACK!!!**" And the soldiers sheathed their blades and withdrew themselves, leaving the Captain facing the group alone. Zeon watched as they leave the battlefield. 
 
 The Captain asked, "Why aren't you following them?"
 
 Zeon sheathed his blades and explained, "I told you. I don't want needless slaughter."
 
-"You're soft... rookie commander... Let me... tell you something." Zeon squinted his eyes, both ears readied. "You don't win wars while keeping your hands clean. You're gonna learn that... the hard way. You'll see..." And he committed suicide. 
+"You're soft... rookie commander... Let me... tell you something." Zeon squinted his eyes, both ears readied. "You don't win wars while keeping your hands clean. You're gonna learn that... the hard way. You'll see..." And he committed suicide, cut his neck. 
 
 Seeing the danger's gone, the others sheathed their blades. Zeon softly commented, "_I guess we will..._"
 
 Noah: "Don't let it get to you."
 
-"I wouldn't normally but, in this instance, I'm afraid he's struck a chord. I believe I said something similar to you in the past. We were... _sparring with training swords._"
+"_I wouldn't normally but, in this instance_, I'm afraid he's struck a chord. I believe I said something similar to you in the past. We were... _sparring with training swords._"
 
 "You won, in the end."
 
-"I did. _Because you always held back._"
+"_I did. Because you always held back._"
 
 "That's not true."
 
-"Hngh... You hated the very idea of fighting. _That's how it seemed to me._ And back then, I thought that you'd never survive with that _lofty ideal. I was blind._ If we don't stand for something greater, strife and conflict will grow ever fiercer. We would end up fighting not for the Flame Clock, but for our own bloodlust. That is who we are. _It was never going to be easy._"
+"Hngh... You hated the very idea of fighting. _That's how it seemed to me._ And back then, I thought that you'd never survive with that _lofty ideal. I was blind._ **_If we don't stand for something greater, strife and conflict will grow ever fiercer._** We would end up fighting not for the Flame Clock, but for our own bloodlust. That is who we are. _It was never going to be easy._"
 
 "Yeah... I'm still trying to figure out what's right myself. But there's something I want to change. And to do that, I have to change myself."
 
-"Hngh..." He checked his iris for the latest information from the colony, announced, "Kite and the others pulled through OK. It seems we've averted disaster, for now."
+"Hngh..." He checked his iris for the latest information from the colony, announced, "Kite and the others pulled through OK. **It seems we've averted disaster**, for now."
 
 "Not quite. There's still unfinished business. Zeon, I want you to understand the things we've seen. The truth about the Flame Clocks. Just let us explain. After that, we'll let you have the final say."
 
-"As you wish. It also **saves us an awkward silence** on the way back. But don't get your hopes up." Now that they had fought together, trust was up again, at least to the point of willing to listen to each other. 
+"As you wish. It also **saves us an awkward silence** on the way back. But don't get your hopes up." Now that they had fought together, trust was up again, at least to the point of willingness to listen to each other. 
 
 "That's fine. Thank you."
 
@@ -342,7 +340,7 @@ Noah: "Don't let it get to you."
 
 ---
 
-By the time they arrived, it was already nightfall and raining. The soldiers were waiting for their arrival, despite getting soaked. They saluted the Kevesi welcoming stance as they group entered the base. Kite had an extremely depressed look in his face, unfortunately. Then, muted claps (due to wearing gloves) loomed so huge against the silence. The soldiers turned around to look at who's coming. The Consul just walked past them, in between them. 
+By the time they arrived, it was already nightfall and raining. The soldiers were waiting for their arrival, despite getting soaked standing outside. They saluted with the Kevesi welcoming stance as they group entered the base, all except Kite, whom had an extremely depressed look on his face. Before the group reacted, muted claps (due to wearing gloves) echoed so loud against the silence. The soldiers turned around to see who's coming. The Consul walked in between the rights of way they formed for him. 
 
 The group got defensive as the Consul approached, he said, "Our heroes return." He stopped some distance from the group. "Good work, Zeon."
 
@@ -352,33 +350,33 @@ The group got defensive as the Consul approached, he said, "Our heroes return." 
 
 "Hmph. In what way?"
 
-"Beg pardon. I forget! You drones have no aesthetic sense. Your droll skirmish _was one thing... It almost put me to sleep, but this here? Well, I'd say the colony is due a promotion._"
+"Beg _pardon_. I forget! You drones have no aesthetic sense. Your droll skirmish _was one thing... It almost put me to sleep, but this here? Well, I'd say the colony is due a promotion._"
 
 "I recall no 'droll skirmish'."
 
-"The one where these **maggots** surfaced! Loathsome little worms plotting together with Agnus, then deserting their duty like the **cowards** they are! **Truly disgusting.** A disgrace to the colony! And that goes for the ones who croaked for nothing too. Even calling that 'droll' is a disservice to the word!"
+"The one where these **maggots** surfaced! Loathsome little worms plotting together with Agnus, then deserting their duty like the **cowards** they are! **Truly disgusting.** A _disgrace_ to the colony! And that goes for the ones who _croaked_ for nothing too. Even calling that 'droll' is a disservice to the word!"
 
 Eunie: "_'Croaked for nothing'...?_"
 
 Noah: "I know you see us as enemies... But this...?"
 
-Lanz: "_It's our friends you're talkin' about... Even Mwamba, back then... How_ **DARE YOU?!!!**"
+Lanz: "_It's our friends you're talkin' about... Even Mwamba,... back then... How_ **DARE YOU?!!!**"
 
-"**SILENCE, MAGGOTS!!!** You must still be tired from fighting... **Rejoice, then!** You will give me great pleasure as I crush you!" And he stepped on the ground, sent a slash like beams popped from the ground at the group. The group raised their weapons to defense, but it was Zeon whom reacted the quickest, raised his shield at the center of impact. The power get deflected aside. The other soldiers gaped open their mouth, except a few, at his courage to defy the Consul. The few included Kite. "What do you think you're doing?!"
+"**SILENCE, MAGGOTS!!!** You must still be tired from fighting... **Rejoice, then!** You will give me great pleasure as I crush you!" And he kicked on the ground, sending a slash-like beam that swooshed at the group. The group raised their weapons to defend, but it was Zeon whom reacted the quickest, raised his shield at the center of impact. The attack got deflected sideways. The other soldiers gaped open their mouth, except a few (including Kite), at his courage to defy the Consul. "What do you think you're doing?!"
 
-"The words of an idle man who orders others around," and he pointed his sword at the Consul, "or the words of rebels who risked their lives for us. **Which do you think is worth more?!**" And he returned a slash beam at the Consul. 
+"The words of an idle man, who orders others around," and he pointed his sword at the Consul, "or the words of rebels who risked their lives for us. **Which do you think is worth more?!**" And he returned a slash beam at the Consul. 
 
-"**SILENCE!**" Without even twitching a finger, a bubble shield grew around him that blocked such attack. "This is insubordination!" Zeon and Noah exchanged glance through the tip of their eyes. Then, they heard the Consul's movement. He'd jumped high into the air and, with hands crossed, were landing on top of them, sending them flying into the air together with some rocks. As he landed, he kicked the rocks at the group. In mid-air, the group shielded such incoming boulders. 
+"**SILENCE!**" Without even twitching a finger, a bubble shield grew around him that blocked such attack. "This is insubordination!" Zeon and Noah exchanged glance through the tip of their eyes. Then, they heard the Consul jumping high up into the air and, with hands crossed, landed just in front of where they were standing, sending them flying into the air together with some rocks. After he landed, he kicked the rocks at the group. In mid-air, the group shielded such incoming boulders. 
 
-After he landed, Zeon dashed towards the Consul and pierced at him, which he easily dodged. Then, he blocked a hit from the Consul. It was a one-man show for now. The others were watching. "**GO, NOAH!**" He jumped up and pierced his sword on the floor, destroying the ground below. The Consul kicked 360° to clear the dust. 
+After he landed, Zeon dashed towards the Consul and pierced at him, which he easily dodged. Then, he blocked a hit from the Consul. A one-man show between Zeon and the Consul. The others were watching. "**GO, NOAH!**" He jumped up and pierced his sword on the floor, destroying the ground below while sending dust that obstruct the way of sights. The Consul kicked 360° to clear the dust. 
 
-"Where?" He could see the other Ouroboros, but not Zeon, Noah, and Mio. "Stupid maggot! Where did he-"
+"Where?" He could see the other Ouroboros, but not Zeon, Noah, and Mio. "_Stupid maggot!_ Where did he-"
 
 "Don't you realize?" Zeon was still beside him. We didn't see him just now. Then, he turned around to look at the Ferronis. Noah and Mio had launched themselves at the Flame Clock. It was too late for him to do anything. "The maggot that **feasts** on our dead... That would be you!"
 
 "Madness! You seek death then, Zeon?"
 
-"We want to live. **That is why** we fight." And the other Kevesi soldiers had the Consul surrounded. He watched them drew their blades pointing at him. Noah and Mio rejoined the group. "**Prepare yourself, CONSUL B!!!**"
+"We want to live. **That is why** we fight." And the other Kevesi soldiers walked forward and surrounded the Consul. He watched them drew their blades pointing at him. Noah and Mio rejoined the group. "**Prepare yourself, CONSUL B!!!**"
 
 "Why you... You good-for-nothing imbecile!" And he transformed into his Moebius form. "All defectors must be eradicated!"
 
@@ -388,7 +386,7 @@ Noah: "**Zeon!**"
 
 ---
 
-After defeating the Moebius, it transformed back to Consul form. As blue motes starting rising from his dying body, he had his last words, "It's futile, you know. You won't change anything. You think you have a future...? Well you don't. _Only suffering and despair._" And he disappeared completely into blue motes. The group therefore sheathed their blades, certain that he won't be giving final attacks before his imminent death. 
+Moebius B fell to the group, transformed back to Consul form sitting down, head drooped. "It's futile, you know. You won't change anything... You think you have a future...? Well you don't. _Only suffering and despair._" And he transformed totally into blue motes. They sheathed their blades then. 
 
 Looking at the floating motes, he had his reply, but he wouldn't hear it anymore, "Even so... the choice is mine."
 
@@ -406,17 +404,17 @@ Looking at the floating motes, he had his reply, but he wouldn't hear it anymore
 
 "If need be. Whatever the outcome may be, only _we_ can change it. _I believe that_." Kite doesn't know how to rebut. The rest didn't have anything to say so far. 
 
-Noah offered, "We'll help you out too. Not because we're looking for your acceptance, but just so everyone can live. So please, let us further your goal."
+Noah offered, "We'll help you out too, not because we're looking for your acceptance, but just so everyone can live. So please, let us further your goal."
 
 Zeon: "I know you still have doubts, but won't you give them a chance?" The rest of the soldiers looked at each other, trying to find social acceptance. Only Kite looked unwaveringly at the commander. 
 
 Roald started first, "I'll confess, I'm still a bit dazed by these developments... But... I could let them off." With a smile on his face. 
 
-"Yeah, same." Eilis agreed. "The commander's never quite been this insistent. If Mwamba were here, I think he'd been agreed much sooner..." And the rest, including Fox, agreed with them therefore. 
+"Yeah, same." Eilis agreed. "The commander's never quite been this insistent. If Mwamba were here, I think he'd been agreed much sooner..." And the rest, including Fox, agreed with him therefore. 
 
 Zeon: "Friends..."
 
-"Well, I'm still not buying it. The one to make the call, should be me. I should decide! Nobody else. I'll _prove_ it. **The only one fit to be commander... is me.**" That's Kite. As he finished, he walked through the others and walked away himself, with the others turning around and looking at his attitude, "We're gone." The others followed him thereafter. 
+"Well, I'm still not buying it. The one to make the call, should be me. I should decide! Nobody else... I'll _prove_ it. **The only one fit to be commander... is me.**" That's Kite. As he finished, he walked through the others and walked away himself, with the others turning around and looking at his attitude, "We're gone." The others followed him thereafter. 
 
 Eunie: "Man, way to go off on one..."
 
@@ -428,7 +426,7 @@ Lanz: "So? What's the word now, boss?"
 
 Eunie: "What, you mean... by taking long hikes? It'll be tough without anything nearby."
 
-"That was the case up until now. **Myself, I'll try it the other way**."
+"_That was the case up until now._ **Myself, I'll try it the other way**."
 
 Lanz: "What way?"
 
@@ -456,13 +454,13 @@ Taion shared, "Then... start by observing the vegetation. It's not just soldiers
 
 "That's appreciated, but... are you really sure?"
 
-"If you truly want to change something, you must start with the self. _I believe you said that._"
+"**_If you truly want to change something, you must start with the self._** _I believe you said that._"
 
 Before he could say anything, Eunie cut in, "Still, _some folks aren't gonna like you, when you're palling around with us lot._"
 
 "_It doesn't matter what they think of me_. What truly matters, is whether I carry out my duty."
 
-Noah: "Zeon... You haven't changed at all."
+Noah noted, "Zeon... You haven't changed at all."
 
 "Sarcasm? At this stage?"
 

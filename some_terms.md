@@ -783,7 +783,7 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - obstinacy/obstinate: the quality of being unreasonably determined, esp. ot act in a particular way and not to change at all, despite what anyone else says. 
 - fickleness: the quality of being likely to change your opinion or your feelings suddenly and without a good reason/without warning. 
 - obituary: a report, esp. in a newspaper, that gives the news of someone's death and details about their life. 
-- prattle: to talk in a silly way or like a child for a long time about things that're not important or without saying anything important. 
+- prattled: to talk in a silly way or like a child for a long time about things that're not important or without saying anything important. 
 - twaddle: speech/writing that's silly or not true. 
 - vitriol: violent hate and anger expressed via severe criticism. 
 - glossing: a smooth, shiny appearance on the surface of something. (Def 2: an explanation for a word/phrase).
@@ -1429,7 +1429,7 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - strewn (strew): to spread things in an untidy way over a surface, or to be spread in an untidy way over a surface. 
 - laceration: cut. 
 - abbess: a woman who's in charge of a convent(=a building where nuns live). 
-- tarried (tarry): to stay somewhere for longer than expected and delay leaving. 
+- tarried (tarry) (tarrying): to stay somewhere for longer than expected and delay leaving. 
 - subpoenaed/subpoena: to order someone to go to a law court to answer questions. To order that documents must be produced in a law court. 
 - flukey/fluky: (of something good) happening as the result of chance instead of skill/planning. 
 - muskrat(s): a large semiaquatic North American rodent with a musky smell, valued for its fur. 
@@ -1931,5 +1931,181 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - understudy: an actor who learns the parts of other actors in a play, so that (s)he can replace them if necessary. 
 - prerogative: something that certain people are able or allowed to do or have, but isn't possible or allowed for everyone. 
 - sedition: language/behavior that's intended to persuade other people to oppose their government (and change it, sometimes by using violence).
-- subpoenaed: 
+- mete (something) out: to give/order a punishment or make someone receive cruel/unfair treatment. 
+- teetotal/teetotaling: never drinking alcohol or opposed to the drinking of alcohol.
+- lutenists: a person who plays the lute(=a musical instrument with round back, long neck, and strings that're played with the fingers.)
+- stolid: (of a person) calm and not showing emotion or excitement. (Def 2: (of a thing) not interesting/attractive).
+- porkers: a pig, esp. one raised to produce meat. 
+- chines: the backbone, esp. of an animal (chine bone). A cut of meat that includes part of the backbone. To remove the backbone from a cut of meat.
+- flyleaf: an empty page at the beginning/end of a book next to the cover. 
+- myrtle: a small tree with shiny green leaves, pleasant-smelling white flowers, and blue-black fruit. 
+- vervain (verbena): a plant that has small colorful flowers growing in groups on its stems. THere are many different types of verbena, some used in perfumes, or to make tea, etc. 
+- cumbrous: cumbersome
+- matriculation: the process of formally becoming a student at a university or college, or the ceremony at which this happens. 
+- caman: shinty: the wooden stick used to hit the ball. 
+- handsel (hansel): a gift given at the beginning of the year or to mark an acquisition or the start of an enterprise, supposedly to bring good luck. 
+- hoydenish: wild, boisterous, or carefree. 
+- gibing: jibe; make insulting or mocking remarks; jeer. 
+- levite: a member of the Hebrew tribe of Levi, esp. of that part of it which provided assistants to the priests in the worship in the Jewish temple. 
+- ephod: (in ancient Israel) a sleeveless garment worn by Jewish priests.
+- prelatic: (of a prelate): a bishop or other high ecclesiastical dignitary. 
+- aught: anything. 
+- sinewy: with strong muscles and little fat. 
+- apostleship: the position/duty of an apostle(=each of the 12 chief disciples of Jesus; a vigorous and pioneering advocate/supporter of a particular policy, idea, or cause.)
+- tundish: a broad open container or large funnel with one or more holes at the bottom, used esp. in plumbing or metal-founding. 
+- welter: a large and esp. badly organized no. of things. a large no. of things in confusion/disorder. 
+- spralapsarian: a person who believes that God decreed the election/non-election of individuals to salvation even before the Fall of Man.
+- finespun (fine-spun): (esp of fabric) fine/delicate in texture. 
+- insufflation: to blow into. 
+- zincroofed: zinc roof. 
+- inanition: exhaustion caused by lack of nourishment. Lack of mental or spiritual vigor and enthusiasm. 
+- snoutish: resembling a snout(=the projecting nose and mouth of an animal, esp a mammal. Def 2: a cigarette.)
+- Freemason: a member of a large and old secret society for men, in which all the members help each other and use secret signs to communicate with each other. 
+- florid: with too much decoration/detail. (Def 2: (of a person's face) too red, esp. in a way that's unhealthy.)
+- bursar: the person in a college/university/school(UK) who deals with its financial affairs. 
+- platinoid: an alloy of copper with zinc, nickel, and sometimes tungsten, used for its high electrical resistance. 
+- ebonite (vulcanite): a hard, readily cut and polished rubber, obtained by vulcanizing(=harden by treating it with sulfur at high temperature) rubber with a large amount of sulfur, used in the manufacture of combs and buttons and for electric insulation. 
+- bobbins: (w/o the 's': bobbin) a small round or tube-shaped object around which thread is put, often to to in a sewing machine. (Def 2: (with the 's') something that you think is silly, stupid, not true, or very low in quality. Def 3: A very small amount; almost nothing.)
+- bleating: sound of sheep/goat. (Def 2: to complain in an annoying way.)
+- equine: connected with horses, or appearing similar to a horse. 
+- ruddy: red (skin of white person, to suggest healthy skin). (Def 2: used to avoid saying bloody to express anger.)
+- reactionary: a person who's opposed to political/social change/new ideas. 
+- imbecile: a person who behaves in an extremely stupid way. 
+- crankery: the ideas or practices of a crank/crackpot(=eccentric/foolish/impractical). 
+- boarder: a student at a school who sleeps and eats there and only goes home during school holidays. (Def 2: a person who pays to stay and receive meals in someone else's house.) (Def 3: a person who practices snowboarding.) (Def 4: someone who rides on a skateboard.)
+- matric: a public exam in a range of subjects taken by some children in their final year of high school in South Africa (or in English and Wales in the past), or its qualification; 
+- stave: the 5 lines and 4 spaces between them on which musical notes are written. (Def 2: a staff). 
+- smote (past simple of smite): to hit someone forcefully or to have a sudden powerful or damaging effect on someone. 
+- fianna: small warrior-hunter bands in Gaelic Ireland. 
+- farrow: a litter of pigs. (Def 2: (of a sow) give birth to piglets.)
+- hansom (cab): a two-wheeled vehicle pulled by a horse, used like a taxi in the past. 
+- carmelite: a friar/nun of a contemplative Catholic order founded at Mt. Carmel during the Crusades and dedicated to Our Lady. 
+- eugenics ('s' compulsory): the idea that it's possible to improve humans by allowing only particular people to produce children, which most people now don't accept/support because the idea was connected with racist and Nazi theories and actions. 
+- rosary: a string of beads used esp. by Roman Catholics and Buddhists to count prayers, or the prayers themselves. 
+- villanelle: a pastoral/lyrical poem of 19 lines, with only 2 rhymes throughout, and some lines repeated. 
+- loth (loath): unwilling, reluctant. 
+- paramour: the person you're having a romantic/sexual relationship with, but aren't married to. 
+- potboy: a boy who serves drinks in a tavern. 
+- bolster: to support/improve something or make it stronger. (Def 2: a long firm cylinder-shaped pillow.)
+- suave: very polite, pleasant, and usually attractive, often in a way that's slightly false/insincere. 
+- ashplant: a sapling from an ash tree, typically used as a walking stick. 
+- swerve: to change direction suddenly. (Def 2: (principle/actions) continue to think/act as you did in the beginning)
+- farinaceous: (food) consisting/containing starch. 
+- hubcap: a metal/plastic cover for the hub/rim of a motor vehicle's wheel. 
+- golly: used to show surprise, or to emphasize what you're saying. (Def 2: a golliwog, i.e. a child's toy made of soft material, in the form of a small man with a black face and stiff black hair, now considered offensive to Black people.)
+- misogyny: feelings of hating women, or the belief that men are much better than women. 
+- preppy: a young person from a rich family who goes to an expensive school and who wears expensive, tidy clothes. 
+- froufrou: frills or other ornamentation, particularly of women's clothes. 
+- heft: to lift, hold, or carry something heavy using your hands. (Def 2: the weight of something.) (Def 3: the influence, ability, or importance that someone/something has.)
+- listicle: a newspaper, magazine, or online article that's in the form of a list.
+- moorhens: a small, black bird that lives near water. 
+- gatecrashers: someone who goes to a party or other event when they've not been invited. 
+- freeholders: an owner of a particular building or piece of land. 
+- primulas: any of a group of wild plants with white, yellow, pink, or purple flowers. 
+- cadged (cadge): to (try to) get something from someone else without paying for it. 
+- spindrift: small drops of water/snow, or small pieces of sand, carried in the wind. 
+- ichneumon: a slender parasitic wasp with long antennae, which deposits its eggs in, on, or near the larvae of other insects. (Def 2: Egyptian mongoose.)
+- vetches: a type of plant with long blue, purple, or white flowers that's related to peas and beans. Some kinds are used for animal food.
+- mallow: a plant that has pink/purple flowers and a stem with small hairs on it. There are many different types of mallow.
+- scabious: a plant with blue, white, or pink flowers on long stems. 
+- elaiosome: seeds that have tiny globule of fat and protein. 
+- commodious: used to describe a room/house that has lot of space. 
+- daphne: laurel tree: a small, typiaclly evergreen Eurasian shrub with sweet-scented flowers. 
+- pastiche: a piece of art, music, literature, etc. that intentionally copies the style of someone else's work, or is intentionally in various styles, or the practice of making art in either of these ways. 
+- patination: the production by oxidation of a green/brown film on the surface of bronze/similar metals. The production/formation of a gloss/sheen. 
+- hoicked: to raise/pull something, usually with a quick movement and with effort. (Def 2: in cricket, to hit the ball with a lot of effort to the leg side(=the left side for a right-handed batter).)
+- spangled: decorated with small pieces of shiny metal/plastic, or wearing clothes decorated in this way. 
+- feelers: one of the two long parts on the head of an insect and some other creatures with which it touches things in order to discover what is around it. (Def 2 (put out feelers): a tentative proposal intended to ascertain someone's attitude or opinion.)
+- deleterious: harmful. 
+- edict: an official order, esp. one that's given in a forceful/unfair way. 
+- schoolmarm: a female school teacher. (Def 2: a formal and severe woman, esp. a school teacher, who likes to control other people and is easily shocked.)
+- filibuster: to make a long speech to delay/prevent a new law being made. 
+- front-runner: the person, animal, or organization that's most likely to win something/to succeed.
+- uterine: relating to the uterus. 
+- surgency: a personality trait that describes a person's tendency toward positive emotions, sociability, and high levels of activity. (similar to extraversion in Big Five)
+- tightwad: a person who's not willing to spend money. 
+- phlebotomist: a person who's trained to take blood from a patient. 
+- hoodlum: a violent person, esp. one who's member of a group of criminals. 
+- whippersnapper: a young person who's too confident and shows no respect towards other, esp. older, people. 
+- codger: an old man, esp. one who's strange/humorous in some way. 
+- bested: to defeat someone in a fight/competition. 
+- honeysuckle: a climbing plant with (white, yellow, or red) flowers that smell sweet.
+- burlesque: a type of writing/acting that tries to make something serious seem stupid/funny. (Def 2: a type of theatre entertainment in the US in late 19th and early 20th centuries that had funny acts and a striptease).
+- concession: something that's allowed or given up, often to end a disagreement. The act of admitting defeat. (Def 2: a reduction in the usual price of something, made available to students, old people, etc.) (Def 3: a special right to property/land; the right to sell a product in a particular area.)
+- tontine: an annuity shared by subscribers to a loan/common fund, the shares increasing as subscribers die until the last survivor enjoys the whole income. A scheme of life assurance in which the beneficiaries are those who survive and maintain a policy to the end of a given period. An investment linked to a living person which provides an income for as long as that person is alive.
+- hawse(-)hole: a hole in the deck of a ship through which an anchor cable passes. A.k.a. cat hole. 
+- dirigibles: a large aircraft without wings, consisting of a large bag filled with gas that's lighter than air and driven by engine. The pilot, passengers, etc. travel in a structure hanging below. A.k.a. hydrogen/helium airship. 
+- malapropisms: the wrong use of one word instead of another word because they sound similar to each other, with results that're unintentionally funny. 
+- burnish: to rub metal until it's smooth and shiny. (Def 2: (public image) you take action to improve it and make it more attractive). 
+- layaway: a system of paying for goods in small amounts and receiving the goods after the full amount has been paid, or goods bought in this way. I.e. a large deposit is made so the store keep the goods until the full price can be paid. 
+- endearment: a word/phrase that you use to show that you love someone. 
+- amalgamation: the process in which separate organizations unite to form a larger organization or group, or an organization/group formed in this way. 
+- archdiocese: the area of which an archbishop in some Christian Churches is in charge. 
+- jackknifed: if a truck that has 2 parts jackknifed, one part moves around so far towards the other part that it cannot be driven. (Def 2: a large knife with a blade that folds into the handle (to be concealed)). (Def 3: a dive in which the diver, while in the air, bends from the waist to touch the toues without bending the legs, and then becomes straight again.) (Def 4: to bend in half, or bend so the parts make a sharp angle.)
+- rescission: the act of officially ending a law, taking back a decision, or saying that an agreement no longer exists. 
+- augury: a sign of what might happen in the future. The skill of knowing what'll happen in the future. 
+- ibis: a large bird with long legs and a long, downward-curving beak, that walks around in water to find its food. 
+- frontispiece: the picture that faces the page of a book with the title on. 
+- athwart: from side to side of; across. (Def 2: in poosition to, contradicting.)
+- mannikin (manikin): a model of a human body, used for teaching medical/art students. (Def 2: a very short man.)
+- bollock: a rude word for testicles/nonsense, when you speak angrily to someone. 
+- constabulary: the British police organization for a particular area. 
+- lambent: shining gently. (Def 2: (lambent wit) the ability to use words in a clever and humorous way without being unkind.)
+- slobbering: to allow saliva/food to run out of the mouth. 
+- pavan: a god of wind in Hindu mythology. 
+- disinterred/disinter: to dig up a dead body from the ground. (Def 2: to find and use something that hasn't been seen/used for a long time.)
+- pediment: a triangular part at the top of the front of a building that supports the roof and is often decorated. 
+- ferrule: a band, usually made of metal, around something such as a stick/handle. (E.g. the metal band that attach the brush of a painting brush to its handle). 
+- reprovingly: in a way that shows that you disapprove of someone's bad or silly behavior. 
+- consumptive: (a person) suffering from consumption. 
+- sugan: a straw/heather rope. 
+- perambulator (UK: pram): baby carriage. 
+- squires: in the past in England, a man who owned most of the land around a village. (Def 2: used as a friendly form of address by one man to another who might be of a higher social class.) (Def 3: to take someone places; escort.)
+- begat: to cause. (Def 2 (obsolete usage): to be the father of)
+- blithering: extremely silly/stupid. A lot of silly talk that makes no sense. 
+- Eucharist: the Christian ceremony based on Jesus Christ's last meal with his disciples or the holy bread and wine used in this ceremony. 
+- well-to-do: rich. Showing signs of being successful (rich). 
+- sepulchre: a stone structure where someone is buried. 
+- blackguard: a person who's not honest/fair and has no moral principles. 
+- proparoxyton: Heavy stress or acute accent on the antepenultimate (3rd-to-last) syllable of a word. 
+- saddlebow: the arched front part (arch in part) of a saddle, or the pieces that form the front of a saddle. 
+- chastisement: a severe criticism/punishment. 
+- sacrilege: treating something holy/important without respect. 
+- veronica: an action in a bullfight, in which the matador(=the person fighting) moves his cape(=type of loose coat) slowly away from the running bull. 
+- decollation: the act of beheading(=behead) someone, and is a violent and harmful act. 
+- heifer: a young cow, esp. one that hasn't yet given birth to a calf. 
+- peevish: easily annoyed. 
+- pidgin: a type of language that develops when people who don't speak the same language need to communicate with each other, which usually has a simple grammar and vocabulary influenced by several different languags. 
+- diorama: a model that shows a situation, such as a historical event or animals in their natural environment, in a way that looks real. 
+- clodhoppers: a person who moves in an awkward way. (Def 2: a heavy shoe.)
+- nobs: a rich person whose family has been important for a long time. 
+- phosphorescent: producing a weak light by absorbing light from something, and continuing to produce the weak light for a period of time after that thing is no longer there. 
+- scudding (scud): (esp. of clouds and ships) to move quickly and w/o stopping in a straight line. (Def 2: a shower of rain/snow blown by the wind.) (Def 3: a missile that can be fired over a very long distances from land/sea.)
+- hurley: a stick with a wide, flat oval end, used in a game of hurling(=an Irish team game similar to hockey). (Def 2: Another name for the game hurling.)
+- romping: to play in a rough, excited, and noisy way. 
+- cloven: used to describe something, esp. an animal's hoof, that's divided into 2 parts. (Def 2: past participate of 'cleave'(=to separate/divide into 2/more parts, often violently))
+- tidings ('s' compulsory): news 
+- red-rimmed/redrimmed: (of the eyes) having the inner edges of the eyelids reddened as a result of crying or irritation. 
+- ferret: a small, yellowish-white animal (a type of weasel) with a long body, bred for hunting rabbits and other small animals. (Def 2: to search for something by moving things around; or to search for someone by looking in many places/asking many questions.)
+- forfend: protect (something) by precautionary measures. (Def 2 (archaic/obsolete): avert/prevent (something evil or unpleasant).)
+- cantaloupe: a type of melon that's round and has yellow/green skin and sweet orange flesh. 
+- attaboy: used to praise someone to encourage them to continue doing something. 
+- swinishness/swine: a person who you consider to be extremely unpleaant and unkind. (Def 2: a pig.)
+- randy: feeling a lot of sexual desire. 
+- finicky: not easily satisfied/pleased, and only liking/accepting particular things. Difficult to do/deal with, usually because of having small parts/small details. Giving too much attention to small details; hard to please. 
+- bestir (oneself): to become active after a period of rest. 
+- cosmopolitan: containing/having experience of people and things from many different parts of the world. (Def 2: a red alcoholic drink made by mixing together vodka, triple sec(=an alcoholic drink made with oranges), cranberry juice, and lime juice.)
+- vituperation: language that's full of hate or angry criticism. 
+- pesky: annoying/causing trouble. 
+- overbearing: too confident and too determined to tell other people what to do, in a way that's unpleasant. 
+- umwelt: (ethology) the world as it's experienced by a particular organism. 
+- rambunctious: full of energy and difficult to control. 
+- segues: to move easily and w/o interruption from one piece of music, part of a story, subject, or situation, to another. 
+- supplication: the act of asking a god or someone who's in a position of power for something in a humble way. 
+- compunction: a slight guilty/anxiety feeling about something you've done or might do. 
+- harry: to repeatedly demand something from someone, often causing them to feel worried/angry. 
+- bludgeon: to hit someone hard and repeatedly with a heavy (blunt) weapon. (Def 2: to force someone to do something.)
+- vexation: worry/anger/annoying. 
+- winsomeness: generally pleasing and engaging often because of a child-like charm and innocence. 
+- pouty: used to describe lips that're pushed forward, to show you're annoyed, or to look more sexually attractive. 
 - 
