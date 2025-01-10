@@ -3,6 +3,7 @@
 [Preface](./00_preface.md)
 
 # Chapter 1: Ouroboros
+
 - [Prologue](./01_prologue.md)
 - [Memories: Born for War](./02_born_for_war.md)
 - [Homecoming, Off Seers, Shower](./03_homecoming_off_seer.md)
@@ -12,6 +13,7 @@
 - [Hunted Down, Reunion](./07_reunion.md)
 
 # Chapter 2: Moebius
+
 - [Memories: Silvercoat Ethel](./08_ethel.md)
 - [The Journey](./09_new_journey.md)
 - [Consul K and Silvercoat Ethel](./10_k.md)
@@ -21,6 +23,7 @@
 - [Colony 4, the Queens, and Consuls](./14_after_the_battle.md)
 
 # Chapter 3: Saffronias
+
 - [Memories: Lambda, Taion, and Nimue](./15_taion.md)
 - [Cammuravi, Life, Helping Ethel, Goodbye Colony 4](./16_colony_4.md)
 - [Ribbi Flats and Valdi](./17_valdi.md)
@@ -30,6 +33,7 @@
 - [Isurd, Off-Seer Purpose, Emotional Recourse](./21_lambda.md)
 
 # Chapter 4: Life
+
 - [N and Cammuravi](./22_cammuravi.md)
 - [A Dragon Against Their Journey](./23_journey.md)
 - [The Annihilator, Thoughts On Moebius](./24_annihilator.md)
@@ -40,7 +44,8 @@
 - [Ethel and Cammuravi, O and P](./29_ethel_cammuravi.md)
 - [Hovering Reefs, Castle Infiltration](./30_castle.md)
 
-# Chapter 5: Eclipse 
+# Chapter 5: Eclipse
+
 - [Colony Theta in Memories](./31_theta.md)
 - [The City, Purpose, Baby, Ancestor](./32_city.md)
 - [Day 2 at the City](./33_city_day2.md)
@@ -52,6 +57,7 @@
 - [The Eclipse](./37_eclipse.md)
 
 # Chapter 6: Choices
+
 - [Fragments of the Past](./38_memory_shards.md)
 - [The Sword of the End](./39_sword_of_the_end.md)
 - [Sena and Shania (Side Story)](./96_sena_side_story.md)
@@ -61,6 +67,7 @@
 - [Cloudkeep, D and J returned](./42_cloudkeep.md)
 
 # Chapter 7: Time Moves Again
+
 - [Queen Nia's Story](./43_nia.md)
 - [Building the Ship](./44_ship.md)
 - [Noah and Crys (Side Story)](./45_noah_side_story.md)
@@ -73,6 +80,7 @@
 ---
 
 # More About
+
 - [Miyabi](./93_miyabi.md)
 - [Guernica](./88_guernica.md)
 - [Colony Gamma (Teach)](./87_teach.md)  <!-- Teach's hero quest. Skip Ascension. -->
@@ -82,6 +90,7 @@
 - [Isurd](./84_isurd.md) <!-- Isurd's ascension quest. Skip Hero. -->
 - [Melia](./91_melia.md)
 - [Nia](./92_nia.md)
+
 ---
 
 [Postscript](./97_postscript.md)

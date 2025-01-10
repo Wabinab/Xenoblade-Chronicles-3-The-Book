@@ -812,7 +812,7 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - dichotomous: involving 2 completely opposing ideas/things. 
 - enamored/enamoured: liking something a lot. 
 - premeditation: thinking about/carefully planning to do something, esp. a crime or something unpleasant. 
-- disquieting: causing worry. 
+- disquieting: causing worry. (disquieted: worried)
 - unmoored: (of a boat) no longer tied in place. (Def 2: having little confidence and being uncertain about how you should feel/behave, or what you should do.)
 - jarring: (sight/sound/experience) so different/unexpected that it has a strong and unpleasant effect on something or someone. 
 - saccharine: too sweet or too polite. 
