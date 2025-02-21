@@ -603,7 +603,7 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - calisthenics/callisthenics: (a system of) simple (physical) exercises that're done to make the body firm, able to stretch easily, and more attractive. 
 - prosaic: without interest, imagination, and excitement. 
 - sumptuous: impressive in a way that seems expensive. 
-- vacuous: not expressing or showing intelligent thought or purpose. 
+- vacuous/vacuity: not expressing or showing intelligent thought or purpose. 
 - garner: to collect something, usually after much work or with difficulty. 
 - pedantry: the quality of being too interested in formal rules and small details that're not important. 
 - tapestry: a piece of cloth with a pattern or picture that's created by sewing or weaving different colored threads onto a special type of strong cloth. (Def 2: something that's made of many different parts.)
@@ -1785,7 +1785,7 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - abstention: not doing something, not voting for/against something. 
 - knave: a dishonest man. (Def 2: a jack. (not sure which 'jack', the car jack, the card J, the ball jack, or star-shaped object jack, or electrical jack, etc.))
 - elocution: the art of careful public speaking, using clear pronounciation and good breathing to control the voice. 
-- take the mick (NOT EQUAL TO 'mick'): tease/ridicule someone. 
+- take the mick (NOT EQUAL TO 'mick'): tease/ridicule someone. to laugh at someone and make them seem silly, in a funny or unkind way. 
 - sprockets: a device like a wheel with one or more rows of tooth-like parts stickout that keeps a chain moving on a bicycle or pulls flm, paper, etc. through a machine (conveyor belt). 
 - dispensable: more than you need and therefore unnecessary; that can be got rid of. 
 - contretemps: a small argument or unlucky event, often happening in public and causing social embarrassment. 
@@ -2108,4 +2108,110 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - vexation: worry/anger/annoying. 
 - winsomeness: generally pleasing and engaging often because of a child-like charm and innocence. 
 - pouty: used to describe lips that're pushed forward, to show you're annoyed, or to look more sexually attractive. 
+- socking: a powerful hit. To hit someone with your fist. Or to hit a ball very powerfully (in baseball). 
+- standoff: a situation in which agreement in an argument doesn't seem possible. 
+- charade: an act/event that's clearly false. (Def 2: a team game in which each member tries to communicate to the others a particular word/phrse they've been given, by expressing each syllable/word using silent actions.)
+- leering: looking/behaving in a way that shows sexual interest, esp. when this isn't wanted. 
+- acrimony: anger, argument, and bad feeling. 
+- contraindicated: a drug/treatment shouldn't be used in a particular situation as it's likely to harm the patient. 
+- frippery: a silly decoration or other unnecessary object. 
+- diverticulitis: a condition in a diverticulum(=a small pocket) that has formed in the bowels, esp. in the colon, becomes sore or infected, causing pain and often problems with digesting food. 
+- wend one's way: to move slowly and not directly. 
+- extricated: to remove something or set something free with difficulty. 
+- freeloading: the action of using money, food, a room in a house, etc. given by other people, but giving nothing to them in exchange. 
+- bilious: relating to an illness, caused by too much bile, that can cause vomiting. (Def 2: if someone is bilious, they're always in a bad mood.) (Def 3: extremely unpleasant.)
+- expletive: a word that's considered offensive. 
+- septuagenarian: a person who's between 70-79 years old. 
+- crampons: a metal frame with sharp points that's attached to the bottom of a boot to make walking on ice/snow easier. 
+- cleats: special shoe with studs (nails), usually worn when playing football. 
+- triune: consisting of 3-in-1 (used esp. with reference to the Trinity.)
+- crabby: easily annoyed and complaining. 
+- conferred: to exchange ideas on a particular subject, often in order to reach a decision on what action to take. (Def 2: to give an official title, honor, or advantage to someone.)
+- divan: a long, comfortable seat for more than one person that has no back/arms. (Def 2 (bed): bed consisting of a mattress and a base, with no boards at either end).
+- wan: (of a person's face) more pale than usual and tired-looking. 
+- veranda(s): a raised, covered, sometimes partly closed area, often made of wood, on the front/side of a building. (like a balcony on the ground floor). 
+- settee: a long, soft seat for 2 or more people, with a back and usually with arms. 
+- rotogravure: a printing system using a rotary press with intaglio cylinders, typically running at high speed and used for long print runs of magazines and stamps. 
+- libel: a piece of writing that contains bad/false things about a person. 
+- banns ('s' compulsory): a public announcement made in a church, esp. in the UK, that 2 people are going to get married. 
+- ectoplasm: the outer layer of particular types of cell. (Def 2: a substance that's believe to surround ghosts and other creatures that're connected with spiritual activities). 
+- flounce: to walk with large, noticeable movements, esp. to attract attention/show that you're angry. (Def 2: a wide strip of cloth sewn along the edge of esp. a dress/skirt for decoration -- i.e. the wavy part of the skirt/dress.)
+- gyp(ed): pain/trouble. (Def 2: to cheat someone.)
+- slunk (past participle of 'slink'): to walk away from somewhere quietly so that you're not noticed. 
+- impetuously: in a sudden way, w/o considering the results of your actions. 
+- hilarity: a situation in which people laugh very loudly and think something is very funny. 
+- tinny: (sound) low quality, or like metal being hit. (Def 2: if something made of metal is tinny, it's not strong and not of good quality.) (Def 3: a can of bear.)
+- corpulent: fat. 
+- echolalia: a medical condition in which someone repeats the words that someone else just said, in a way that they can't control. 
+- vinous: relating to wine. Similar to wine or having the qualities of wine. 
+- dissension: arguments/disagreements, esp. in an organization, group, political party, etc. 
+- apparition: the spirit of a dead person appearing in a form that can be seen. Ghost. 
+- caterwauling: a high unpleasant noise like a cat, made by a person/animal. 
+- nonolfactory: not related to the sense of smell. Mental process that doesn't involve smell. 
+- somnambulatory: to walk when asleep. 
+- gonnegtion: a misspelling of the word 'connection' in The Great Gatsby. 
+- underhand: done secretly, and sometimes dishonestly, in order to achieve an advantage. (Def 2: (done by) moving the arm below shoulder level.)
+- jonquils: a yellow/white bell-shaped flower from the narcissus family that's commmonly seen in the spring, with a long stem and a sweet smell. 
+- plaids: a pattern of squares and lines on cloth, or cloth with this pattern. (Def 2: a long piece of tartan cloth worn over the shoulder as part of traditional Scottish dress.) (Def 3: a pattern of different colored straight lines crossing each other at 90° angles, or a cloth with this pattern.)
+- meretricious: seeming attractive but really false or of little value. 
+- bootlegger: someone who makes, copies, or sells something illegally. 
+- dilatory: slow and likely to cause delay. 
+- menagerie: a collection of wild animals that're kept privately or to show to the public. 
+- pigsty: an enclosed area where pigs are kept. (Def 2: a dirty/messy place.)
+- lowdown: the most important facts and info about something. 
+- reconnoitering: (of soldiers/military aircraft) to get information about an area or the size and position of enemy forces.
+- lucre: money/profit. 
+- bunion: a painful swelling on the first joint of the big toe. 
+- kip: to sleep, esp. in a place that's not your home. 
+- germane: ideas/info that's germane to a particular subject/situation is connected with and important to it. 
+- have/take a shufti: to look at something quickly. 
+- mellifluous: having a pleasant and flowing sound. 
+- concussion: temporary damage to the brain caused by a fall or hit on the head or by violent shaking. 
+- redneck: an offensive word describing a poor, whit eperson w/o education, esp. one living in the countryside in southern US, who's believed to have prejudiced ideas and beliefs. 
+- peyote: a type of cactus, part of which can be taken as a drug that makes one hallucinate. 
+- symbiosis: a relationship between 2 types of animal/plant/people/organization where each provides for the other the conditions necessary for its continued existence. 
+- contumely: criticisms/insults that show a lack of respect. 
+- continence: the ability to control when you urinate/empty your bowels; the ability to control your sexual desires.
+- catena: a connected series/chain. 
+- coitus: the sexual act in which a man puts his penis into a woman's vagina. 
+- succoring (succor/succour): help given to someone, esp. someone who's suffering or in need. 
+- vigilante: a person who forces obedience to the law w/o legal authority to do so. Perhaps they think the official organizations cannot do their job effectively. Vigilantes usually form groups.
+- vitiated: to destroy/damage something. 
+- recusant: someone in the past who refused to go to Church of England services. (Def 2: someone who refuses to obey people who've authority.)
+- pantheistic: showing/holding a belief in many/all gods, or the belief that God exist in, and is the same in, all things, animals, and people within the universe. 
+- pell-mell: very fast and not organized. 
+- archonship: the position, authority, or term of office of one of the 9 chief magistrates of ancient Athens. 
+- systole: the part of a heart's action where it pushes blood out. 
+- diastole: the period of time when the heart is filling with blood after contraction. 
+- fellaheen: a peasant/farm worker in an Arab country. 
+- graft: to work hard. (Def 2: to get money/advantage via dishonest use of political power and influence.) (Def 3: taking a piece of healthy cells and implant to the damaged part, to repair it; so taking one part of a plant and stick it to another part.)
+- frisson: a sudden feeling of excitement/fear, esp. when you think that something is about to happen. 
+- reedy: place with many reeds. (Def 2: (sound) that's thin and high, not pleasant to listen to.)
+- stridor: a noise made when breathing because the upper airway is narrowed. 
+- coupe: a glass, used esp. for some alcoholic drinks, with a wide, shallow bowl and a stem. 
+- coupé: a car with a fixed roof, 2 doors, 2 or 4 seats, and usually a sloping back. (Def 2: in the past, a closed vehicle pulled by a horse, with seats for 2 passengers facing forwards.)
+- indiscreet: saying/doing things that tell people things that should be secret or that embarrass people. 
+- julep: an alcoholic drink containing whisky, crushed ice, sugar, and mint, originally drunk in the southern states of the US. 
+- prig: a person who obeys the rules of correct behavior and considers oneself morally better than others. 
+- swindler: someone who gets money dishonestly by deceiving/cheating people. 
+- vestibule: a small room just inside the outer door of a public building where one can leave one's coat. (Def 2: a small closed area on the front of a house.) (Def 3: (medical) an empty space in the body that's an entrance/passage/another space.)
+- forlorn: alone and unhappy; left alone and not cared for. (Def 2: (place) feels empty and sad.) (Def 3: (adj) very unlikely to be achieved or to succeed.)
+- inquest: an official process to discover the cause of someone's death. (Def 2: an examination of or discussion about the reasons for someone's/something's failure.)
+- pasquinade: a satire/lampoon(=using humor to publicly criticize someone else), originally one displayed/delivered in a public place. 
+- coroner: an offocial who examines the reason for a person's death, esp. if it was violent/unexpected. 
+- Ulster: one of the 4 provinces of Ireland, part of which is now in Northern Ireland, and part in the republic of Ireland. 
+- coverlet: a bedspread(=decorative cover put on a bed, on top of sheets and other covers.)
+- reverent: showing great respect and admiration. 
+- gaieties/gaiety: the state/quality of being light-hearted or cheerful. 
+- shindig: a noisy event/situation, esp. a large, energetic party, celebration, etc. (Def 2: a noisy argument.)
+- meliorative: something that improves/enhances. (améliorer)
+- interpose: to put yourself/something between 2 things, people, or groups, esp. in order to stop them doing something. To interupt someone. 
+- smidge (smidgen): a very small amount. 
+- fodder: food that's given to cows, horses, or other farm animals. (Def 2: people/things that're useful for the stated purpose.)
+- couturier: a person/company that designs, makes, and sells expensive fashionable clothing. 
+- leonine: (often of a person's head or hair) like a lion. 
+- panacea: something that'll solve all problems, or cure all illnesses. 
+- pliant: (people) easily influenced/controlled by other people. (Def 2: being able/willing to accept change/new ideas.) (Def 3: able to bend easily w/o breaking). 
+- gumption: the ability to decide what's the best thing to do in a particular situation, and to do it with energy and determination. 
+- transvestite: an offensive word for people wearing the clothes of a different gender. 
 - 
