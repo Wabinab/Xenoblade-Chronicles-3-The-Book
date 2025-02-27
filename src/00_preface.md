@@ -18,7 +18,7 @@ Note: the actual main storyline isn't exactly as below. In fact, one added some 
 One does not receive money on this work, and feel free to support one's work at the following addresses:
 
 <!-- - [Buy me a coffee.](https://buymeacoffee.com/wabinab) -->
-- <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="wabinab" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+- <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" data-emoji=""  data-font="Cookie" data-text="Make a donation!" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 - NEAR Protocol: wabinab.near
 - ETH, OP, BNB: 0xa32e05D545FEc9cADb46BEB0839E3Ac0A9E39d9B
 - BTC: 1Gp2bnMk73LUwTRo8bPUimeWbztAR9DViU
