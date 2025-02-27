@@ -1,0 +1,379 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Ship Repaired, Penetrating Origin - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html" class="active"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="ship-repaired-penetrating-origin"><a class="header" href="#ship-repaired-penetrating-origin">Ship Repaired, Penetrating Origin</a></h1>
+<p>Near the ship dock, at Samon's engineering department, the group gathered behind the table where Samon originally laid out his blueprints for their Origin-piercing ship. While they were waiting for him to complete his work, Lanz announced: "Finally... Origin."</p>
+<p>Noah was thinking about the final moments before the Moebius they fought die:</p>
+<blockquote>
+<p>"<strong>Noooooo... I don't want to diiiiieeeee!!!</strong>" And the first time they saw a Moebius wrinkled face.</p>
+<p>And he remember the O and P ugly interlink. And the explosion of Joran and D's.</p>
+<p>"Moebius are... an entity bound by the confines of this world. Strong, yet somehow fragile..." And Crys's disappearance.</p>
+</blockquote>
+<p>"<em>Moebius... What even <strong>are</strong> they...? Harvesting our lives, to cling to life... Even stopping time...</em>"</p>
+<p>Taion: "Mio?" Clearly, she was the only one whom inherited a Moebius's memories, she should know something, right? "Allowing for limiting conditions, we are reborn after we have died. Are Moebius as well?"</p>
+<p>"Moebius, uh... They can't be brought back once they die."</p>
+<p>"<em>Why is that?</em>"</p>
+<p>"I'm not sure, myself. Although, each of them is fundamentally aware of this. That's why they're afraid. Of death."</p>
+<p>Lanz: "<strong>They're scared</strong>, huh? I guess... <em>Joran knew too.</em>"</p>
+<p>Eunie: "<em>And he still... killed himself... And now, he's really gone.</em>"</p>
+<p>Noah: "Still, he left us a parting gift."</p>
+<p>Lanz: "Yeah... The smile on his face..." That was what he recalled. "I'll never forget it. Not until my dying breath."</p>
+<p>Eunie: "<em>Mm...</em>"</p>
+<p>Noah: "What lies beyond death, that Moebius fear it so? What the Queen said, about the key that we hold... That smile might be it."</p>
+<p>Sena questioned, "Because he broke free of Z's control?" And he returned nod.</p>
+<p>Taion voiced it clear, "<em>The power of hope... If we're being trite.</em>"</p>
+<p>"Power to create future? Big props from Manana!"</p>
+<p>Lanz: "Any way you slice it, <strong>it's not about lookin' backwards.</strong> More like, the <em>opposite</em>."</p>
+<p>Shaking his head, "There no need to wrack brains about. Riku think it fine to just be true to self."</p>
+<p>Mio, in her appreciative stance, "Riku makes a good point. Wanting to do what <em>we</em> want, to be how <em>we</em> want to be... that's how we should carry on." And she looked to Noah, whom agreed with her.</p>
+<p>"In that case... I'll continue down the road... of the future that was meant to be..."</p>
+<blockquote>
+<p>"If I were given the chance... If this road I've walked... were to keep on going... I'd like to spend that time... with my Noah."</p>
+</blockquote>
+<p>And Mio nodded back. Sena, Lanz, Eunie, Taion, dropped their head to the side, thinking. Noah continued, "Forever isn't <strong>it</strong>... "</p>
+<hr />
+<p>The group met Samon at the port. Noah: "Mr. Samon?"</p>
+<p>"Meh, I wait for you long time. Engine already installed." And they look at the ship; the external view doesn't change, as expected. "Finally... Finally she <strong>finished and perfect!!!</strong>" And he jingles his feet on the ground as if he won first place. Manana punched her wings into the air to celebrate with him.</p>
+<p>Sena: "Congratulations, Mr. Samon!"</p>
+<p>Noah: "So now we'll be able to go to Origin."</p>
+<p>Samon turned and asked, "Riku will be pilot, yes?"</p>
+<p>"Affirmative!" And he dabbed!</p>
+<p>"Samon send Riku information on how to steer and on equipment loadout. But first..."</p>
+<p>Lanz suggested before Samon even finished, "Let's look around!"</p>
+<p>"Meh! You all hasty as always... Samon is basking in his achievement now. Listen to explanation of ship!"</p>
+<p>Eunie, dull-ly, "Yeahhh, Mr. Samon, we don't really get all your technical talk... We'll leave all that to Riku, yeah?"</p>
+<p>Similarly from Lanz: "That's fine, right?"</p>
+<p>Riku agreed, "Oh, this very fine, yes..." Only Samon bent his head and slammed it on the ground, defeated by their lack of passion.</p>
+<p>After he jumped back up, "Samon have calculate optimum route for throwing ship at vortex. Waters around Farview Cape are good. Samon send precise coordinates, friends verify later."</p>
+<p>Mio was surprised, "You'd do all of that for us?" Feeling appreciative, "Mr. Samon, thank you so much. Without you, we wouldn't be able to join the battle."</p>
+<p>"You let Samon help this much. Just come back alive for sure!"</p>
+<p>Noah promised, "We will!"</p>
+<hr />
+<p>A fleet of ships, including their new ship plus other Lost Numbers fighting units, pressed on, zooming toward their destination at traveling speed{{footnote: i.e. they're not speeding, nor are they on 'enjoying the view' speed.}} Inside the ship, Riku briefed the group, seated and waiting to arrive at their destination. "We here. Middle of Great Sea. Noah! Please to activate cloaking device." So Noah and Riku were both driving the ship, Riku main, Noah helping. The rest seated at the back.</p>
+<p>"Roger." With electric sparkles, the ship became highly translucent{{footnote: nearly transparent. Being translucent, you can still see the refraction of light if viewed carefully.}}, and the only thing that could give them up is the waves along which they drift. "Cloaking activated. No issues yet."</p>
+<p>Sena was self-questioning at the back, "Are we sure this is really gonna work...? They're not gonna, like, open fire when we get too close...?"</p>
+<p>Mio recalled herself being half-Moebius when they met the Queen, "Maybe I shouldn't be here. If it ends up working to our disadvantage..."</p>
+<p>"We cross bridge when we get to." Riku boosted their luckiness, raising his eyebrow, "<strong>Eh, anyhow, we small target</strong>, so won't take every bullet."</p>
+<p>Eunie was getting nervous, "<strong>Riku, you don't seem to be taking this</strong> seriously..."</p>
+<p>On another ship, Ghondor overheard their conversations{{footnote: Seemingly they're on open-communication at all times.}} while driving her ship, "If worse comes to worst, we'll try to draw the heat for ya. Heh. That'll take the wind outta their sails!" Her image was casted real-time in front of Noah.</p>
+<p>Sena: "OK...? Hey, uh, what's a 'sail' again...?" Bro, is that even important now? Or maybe, she just wanted that as a distraction.</p>
+<p>Lanz, in a low but unrelenting tone, "We've made it this far. <strong>Just quit worrying. Go with the flow, yeah?</strong>"</p>
+<p>Taion immediately retorted, "<strong>Spark's sake</strong>, talk about carefree..."</p>
+<p>Riku announced, "It go time! <strong>Full power to engine!</strong> There be a <em>little</em> drop, <strong>so make sure to hold on tight</strong>!"</p>
+<p>Eunie was getting more nervous, "<strong>WAIT... WHAT DROP?!</strong>" Even Lanz and Sena eyes widened, shocked at being informed last second. At the other side, Mio and Taion eyes widened too, Manana questioned,</p>
+<p>"Mehmehmeh??? <strong>NEED PRIOR WARNING!!!</strong> Meh-<strong>MEEEEEHHHHHH???!!!</strong>"  Too late, the ship already jumped off the waterfall-falling-like vortex. With full speed to the rocket boosters engine, they temporarily floated out of water in the middle of the air than going down with the water-fall, before nosediving straight for the vortex. Weirdly, the other ships were also following them dropping. Is it not yet at the hull-breaking vortex, so they won't yet rip apart?</p>
+<hr />
+<p>The voices inside Z was noisy. He opened his eyes, just waken from a short nap, sensed them, "So you've <em>come</em>... Ouroboros." Their cloaking is of no use, clearly displayed in front of Z's cinema screen, tracking them down.</p>
+<hr />
+<p>They were still in their cloaking state as they were approached the vortex tornado. The rain were getting heavy the nearer they got{{footnote: From water being sucked up and fall back down.}}. Finally, the intensely strong wind, the intensely big rocky waves.</p>
+<p>Sena: "<strong>Huh? Check it! The sea's looking funky!</strong>"</p>
+<p>Riku: "<strong>It not only sea!</strong>" Yeah, tornado, with electric sparkles inside the tornado... The ship was starting to get very shaky, extremely turbulent.</p>
+<p>Manana: "<strong>No-no-no! We going to get blown away!</strong>"</p>
+<p>Lanz: "<strong>Ngh-... We can hold on!</strong>"</p>
+<p>Noah strain his eyes to look clearly, "<strong>Something's... coming!</strong>" They couldn't yet see what it is yet, shrouded behind the tornado it is.</p>
+<p>Taion: "<em>Out on the other side...</em> <strong>What is that?</strong>"</p>
+<p>Mio: "I sense Moebius... Lots of them, beyond the vortex... It must be... Origin!"</p>
+<p>The group were also looking through the windscreen. Lanz asked, "<strong>So that shadow, that's what we're after?!</strong>"</p>
+<p>Eunie exclaimed, "<strong>It's sparking ginormous!</strong>"</p>
+<p>Taion: "Easily ten times the size of a Castle..."</p>
+<p>Noah: "The place where everything began... Origin. The Kevesi Queen is there... Not to mention..."</p>
+<p>Inside the cinema room, Z was waiting. "Why even <em>resist</em>...? When you could simply resign yourself <em>to the flow</em>..." And he stood up, walking forward, "<strong>The endless now</strong> <em>is our cherished wish</em>. Any resisters will <em>be pacified, and returned to the</em> <strong>perpetual cycle</strong>..." And he opened his arms as to embrace the return. And there were six red 'eyes' (light), arranged in a hexagon, that blinked in and out in the 'no signal' cinema screen.</p>
+<hr />
+<p>From within the vortex, Origin shot multiple purple beams at different directions. Some of that blasted some Ferronis and Levnises far on the land. They can't even withstand one hit. Though, one of the Agnian Ferronis managed to raise a frequency shield that prolonged its death; but it wasn't long before the shield overburdened and broke under the beam, evaporating together with the Ferronis, the latter immediately dislocate and became unusable, crashing to the ground below.</p>
+<p>One of the beam was directed at the fleet. It destroyed one of the ship just beside the Ouroboros's, a 'just miss'. Inside, some were making distressed screams as Riku and Noah navigated their way away from being shot. The energy nonetheless were so strong it broke their cloaking layer, shaking the whole fleet out of cloaking state.</p>
+<hr />
+<p>The fallen does not stop Origin from continued blasting, sending beams past them to further inland. Inside Bravery{{footnote: the name of the vortex-poking ship, just in case you forget the name. The earlier ship is 'Boundary'.}}, Noah and the others watched the wretched state the beams left, the raging flames that engulfed the remains of the vehicles, of the rocks and hills and mountains.</p>
+<p>Eunie: "<em>Oh, crap...</em>"</p>
+<p>Lanz: "Moebius mudders... <strong>What're they thinking?!</strong>"</p>
+<p>Sena noted, "They're even shooting at Colonies that haven't been freed!"</p>
+<p>Taion: "<strong>Taking potshots now?!</strong>"</p>
+<p>Eunie: "<em>They're still their allies!</em> <strong>Have they lost the plot?</strong>" Mio just looked sad in her eyes.</p>
+<p>Just then, someone asked over the COM, "You alive?"</p>
+<p>And Mio's eyes widened as "<strong>Monica!</strong>" appeared on the screen.</p>
+<p>Ghondor joined in the conversation, "<em>Just barely...</em> They dropped one of our ships... How're you?"</p>
+<p>She was inside the control room deck of the 'City Ferronis', with soldiers at the various terminals doing the control{{footnote: Like the Captain on board on Star Trek calling out instructions to the various minions in front of their control panels, if you'd watch that before.}}, replying to them, whom also showed their face (Noah and Ghondor) in front of the huge screen, "We're holding out here. Bastards... I can't believe they're firing at their own. <strong>I thought we were</strong> the only ones they wanted gone."</p>
+<p>Ghondor: "Yeah. If this keeps up, they'll as good as raze the entire world."</p>
+<p>Eunie: "They're all about life, aren't they?"</p>
+<p>Mio rationalized, "As long as they have Origin, they can keep on making more of us. For them, this might just count as charging up. Reveling in the final glimmers of our lives." And the half-Moebius-half-Ouroboros symbol glowed in her iris.</p>
+<p>Noah: "<em>They want us to flicker out...</em>"</p>
+<p>"When the last light fades, they're planning on starting over. In a world without us."</p>
+<p>"Grrr..."</p>
+<p>Lanz dropped his head, "That's all kinds of messed up."</p>
+<p>Manana shouted, "<strong>PLEASE TO LOOK THERE!</strong>" On screen, it showed a Kevesi Ferronises (and Levnises) lining up on the edge, firing beams and shots into the vortex. Even if most exploded outside the vortex, destroyed by the tornado, they didn't stop. Even if one or two get passed lucky and reached Origin, it will count.</p>
+<p>Sena recognized, "Isn't that... the Colony 30 detachment?!"{{footnote: Commander: Valdi.}}</p>
+<p>Taion: "<strong>But that's SUICIDE!!!</strong>"</p>
+<p>Mio, shouted as if they could hear, "<strong>TURN AROUND!!!</strong>" But her shout could not reach them. One purple beam blasted at them and wiped over them, leaving ashes and flames instantaneously.</p>
+<hr />
+<p>Inside the cinema, Z watched the colony rebelling, "<em>Such drama</em>... So much unavoidable <em>tragedy,</em> in order to preserve... the endless <em>now</em>... Fear not. You need not grieve." And he grasped his hands into a fist, "Lives come back around... In due time, you will <strong>all</strong>, be reborn, <em>once again...</em>" And he opened up his hands wide to embrace. It was his stage; and he was the only one inside the cinema watching himself.</p>
+<hr />
+<p>More beams reached every inch of the world, trimming the land of Aionios with flames and forces{{footnote: Newton's force, one meant.}}, be there people or not, be there colonies or not, be there animals and plants or not.</p>
+<hr />
+<p>The group were still speeding towards their destination as another beam shot past them. Manana screamed again, "<strong>Meh-meeeeh!!!</strong>" They dodged their head aside, as if that would help steer the ship.</p>
+<p>Ghondor: "Tch... <strong>Those punks are gettin' rowdy!</strong>"</p>
+<p>Taion: "They do seem <strong>thoroughly committed</strong> to ensuring our deaths, yes."</p>
+<p>Watching the beams, Noah was in deep thought, "Or maybe... they're not even <em>conscious</em> of the whole <em>notion</em> of killing."</p>
+<p>"<strong>How so?</strong>"</p>
+<p>"It's like a natural instinct... To them, it's as basic as breathing..."</p>
+<p>Monica: "Nice theory, <em>kid</em>, but don't make <em>excuses for 'em.</em>"</p>
+<p>"Of course."</p>
+<p>"<em>Huhuh</em>.. All right then. <strong>GHONDOR!</strong>"</p>
+<p>"Hmph... Guess it's time to pull out all the stops. We'll play the decoy <em>for ya</em>! You guys gun it, yeah? Go and clear us out a path! <strong>A path to give this world a future!</strong>"</p>
+<p>"Ghondor... We got it. <strong>If we're gonna get to the vortex, we'll need your help!</strong>" And they both nodded and disappeared from the screen to focus on their job. "<strong>Riku, pass me the controls!</strong>"</p>
+<p>"<strong>Aye-aye!</strong>"</p>
+<p>"How's the engine doing?" He was busy dodging incoming beams while pushing forward to their destination.</p>
+<p>"Spick and span. Admittedly, we lose some instruments to attack just now... but engine proper is raring to go!"</p>
+<p>"All right. Let's punch clear through! <strong>HOLD ON TO SOMETHING!!! IT'S GONNA BE A ROUGH RIDE!!!</strong>" And they pierced directly into the vortex therefore.</p>
+<hr />
+<p>The group were still following them towards the vortex, but their hull was getting weak as they draw nearer, with beeping sounds warning them of overstressing the hull. Just then, one beam rubbed against Ghondor's ship. She managed to dodge rolling to the left on time. Noah: "<strong>GHONDOR!!</strong>"</p>
+<p>"It's just a scratch. Keep goin'! Mind your own ship, dag!"</p>
+<p>"Urgh!!!"</p>
+<p>Riku reported, "Distance to vortex rim, 300 and falling! Powering shields to max!" And a green frequency shield rolled around the ship. "Noah! <strong>When punch through, open throttle to full!</strong> We climb up flow in one big swell!"</p>
+<p>"<strong>ROGER THAT!!!</strong>" And he gritted his teeth and pushed forward. The rocket engine, or perhaps with the help of the tornado's wind, pushed them upwards, getting them on to the surface of the tornado. Against the storm where hail brushed through, electrical sparks strike, and beams flying around, Noah bent forward, putting his whole weight on the throttle, gritting his teeth.{{footnote: In real life, the design of the throttle will not be up in this case, but down, so gravity can help, and there would be a lock to lock it at max position than having to push it yourself, wishing it doesn't bounce back.}} "Yaaargh, urggggg..." The engines pushed and pushed and overclocked, blasting from purple flames to blue flames, providing extra thrust. "Kh... We can't... take much more!"</p>
+<p>Ghondor urged, "<strong>Get in, Ouroboros!</strong>" Nope, their hope cannot lose. They are already here, they must push through.</p>
+<p>The ship originally had its nose directed into the vortex while they were going upwards; but realizing they can't, they tilt it so the belly parallel the tornado surface, zooming upwards. After escaping the top of the tornado, the ship, like a rocket, temporarily floated on mid-air. Their engine dies off, inertia was slowly taking hold. "Over there... The center!" The ship rolled to its right. "Riku! Deploy the ram!"</p>
+<p>"Riku on it!" He pressed a button, and a glowing pointed object stuck out from below the nose of the ship to become the new nose of the ship. With gravity and game maker director's will, their roll aimed 'perfectly' at Origin's center. Two of the six engines were throttled to full speed.</p>
+<p>"<strong>We've got a clear shot! Here goes!</strong>" The central wasn't metallic, but a hole which they can enter. However, because it has layers, each separated by a bulging ring, each rotating opposite of the next{{footnote: So when one rotate clockwise, the next will be anticlockwise, the next then clockwise, and so on.}}. The ship does not slid through perfectly, instead bounced along the walls and jumped here and there as they penetrate deeper. The ram destroyed the bulging rings whenever they hit. The others gritted their teeth as they withstood impacts.</p>
+<p>At the end of the layers of giant generator the shape of a donut, but having sinusoidal wave at its surface. On the peak of each wave were a tube filled with blindingly red liquid. The ship pierced from the side of the generator and exit on the other side. Short circuited, it immediately sparkles electricity; exploded as the ship exited the structure, and all its red lights turned off.</p>
+<p>By now, the ship had lost all its kinetic energy, floating mid-air just after exiting the generator. Gravity took over and it fell down, crashing into the pool of water below, before floating slowly to the edge on the opposite side.</p>
+<p>They had arrived at their destination. Origin.</p>
+<hr />
+<p>Meanwhile outside, shots continued as the Ouroboros were having fun inside. Their success immediately reflected as tornado faded, shots stopped. Ghondor and the others were watching in their ship the giant rotating disc that appeared before their eyes. When the tornado cleared mostly, she beamed the image to the group inside Origin.</p>
+<p>Watching from inside their ship, Taion: "Origin..."</p>
+<p>Eunie: "Almost like a Ferronis, huh?"</p>
+<p>The group were standing up, preparing for land battle. Mio announced, "The original Ferronis..."</p>
+<p>Noah was surprised, turning around with Riku, "This one's the first?"</p>
+<p>"Not just first... I think <strong>all</strong> Ferronises... derived from this one right here."</p>
+<p>The group got out of the ship, now that it's parked alongside the land, and observed at its interior. There were a lot of fortress-like structure just in front of them, with very thick black fog.</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="89_taion_side_story.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="47_inside_origin.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="89_taion_side_story.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="47_inside_origin.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

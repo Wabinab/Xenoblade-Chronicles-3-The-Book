@@ -1,0 +1,478 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Zeon - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html" class="active"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="more-about-zeon"><a class="header" href="#more-about-zeon">More About Zeon</a></h1>
+<p>The group were traversing along a wind-blowing meadow in a crevasse when someone sliced a sword "Qi" at them.</p>
+<p>Lanz first sensed the incoming attack, shouted "<strong>Noah!!</strong>", and immediately got in front and raised his shield.</p>
+<p>"Got you!" Noah dashed past after he blocked the first attack and slashed at the shield. It leaves a crack in the shield, but was quickly recovered as the shield regenerates itself.</p>
+<p>"Well coordinated, but ineffective." And he raised his sword into the air to ready for another slash.</p>
+<p>Eunie recognized the guy attacking them, "Hey, it's you!"</p>
+<p>Noah: "Oh no!" The slash broke Noah's sword; it returned to his Iris.</p>
+<p>Lanz: "Spark's sake... <strong>Zeon!</strong>" He quickly dashed to bash at Zeon. After blocking, he made another slash that forced Lanz's blade to sheathe. Lanz quickly recalled his weapon to face Zeon, currently alone.</p>
+<p>Zeon, with a blonde scruffy hair over his forehead, and wings that were similar color to his hair, pale skin, turquoise iris, and thin grey eyebrow. He was of average size, just like Noah, not buff-looking like Lanz. He wore a Kevesi armor, wielded a sword on his right hand and a shield on his left. He was clearly disappointed, "You lose yourself to emotion. Some special forces you are."</p>
+<p>"<strong>You shut your trap</strong>. What a <strong>joke!</strong>"</p>
+<p>"You consider me the joke, do you? <em>Really now?</em>"</p>
+<p>With Noah pointing his sword at Zeon, Mio, whom stood beside him, questioned, "Hey, isn't he...?"</p>
+<p>"Yeah. He's our friend, from Colony 9."</p>
+<p>Zeon overheard: "That's where you're wrong. You're traitors... You're no friends of mine!" And he blew away Lanz.</p>
+<p>Eunie: "Zeon, just listen! We don't want to-"</p>
+<p>Taion: "Drop it, Eunie. Negotiation doesn't appear to be on the table." Other Kevesi soldiers were approaching Zeon to help him. All therefore called their blades to join the unavoidable battle.</p>
+<p>"Mimi..."</p>
+<p>"Huh..." Not her to decide, but Noah and Zeon.</p>
+<p>Zeon: "Arrest the turncoats!" And the other Kevesi soldiers obeyed his order, withdrew their weapons.</p>
+<p>Noah: "So we have to fight...?"</p>
+<hr />
+<p>Halfway through the fight, a Colony 9 soldier called Zeon, "Commander, please respond!"</p>
+<p>Zeon and his group sheathed their weapons to get in touch with their Iris, "What's wrong?"</p>
+<p>"<strong>Enemy attack! Agnian forces!</strong>" The other soldiers looked at each other turned to him, waiting for his final decision.</p>
+<p>On the other side, Sena "Wonder what's going on..."</p>
+<p>Taion: "Hmph..."</p>
+<p>The buff guy to Zeon's right, with brown hair and pale skin and huge nose, called Roald, "...Commander?"</p>
+<p>"Yes... Ah, I'm thinking."</p>
+<p>Lanz and Noah sheathed their blade, with Lanz feeling surprised, questioned, "Hey, what did ya just say? Zeon's the <strong>commander</strong> now?"</p>
+<p>Eunie{{footnote: Nope, not yet sheathed her blade.}}: "Does that mean the old one...?"</p>
+<p>The guy behind Zeon of normal size and pale skin, called Fox, answered their questions, "There was a change of command! Someone had to take the fall for the traitors."</p>
+<p>And the woman with short hair to the right, Eilis, added, "They even dropped our colony rank... We've been so pressed for food, we had to venture out this far... All because of you."</p>
+<p>Sheathed her blade, Eunie felt awful, "...<em>Well, crap.</em>"</p>
+<p>Fox urged Zeon, "Go back. We'll take care of things here."</p>
+<p>He shook his head, "I can't allow that."</p>
+<p>"Just get going already!"</p>
+<p>Noah: "The Agnian battalion. They're using terrain to cover their approach. Am I right?"</p>
+<p>Zeon: "How do you know that?"</p>
+<p>Folding his arms, "I'm well aware that you don't trust me, I'm just speaking aloud here. We'll intercept the enemy troops, engage them while they're still advancing. They won't get their hands on the Colony. You retreat and shore up your defenses."</p>
+<p>"What are you really after here? Why is it you're fighting?"</p>
+<p>"We're both in very different positions now. But that doesn't have to mean everything's changed between us."</p>
+<p>Fox voiced a snide remark, "Oh, well, done, a voice of reason. Come off it!"</p>
+<p>Zeon: "Wait. Change of plans. We're bringing them back to the colony."</p>
+<p>"<strong>What? Why?</strong>"</p>
+<p>Roald hypothesized, "You're handling them to the Consul?"</p>
+<p>"No... I'm integrating them into our force as the vanguard."</p>
+<p>Eilis: "We're fighting <strong>with</strong> them?! Mwamba <strong>died</strong> because of them!"</p>
+<p>"<strong>We're up against a whole battalion. Hardly the time</strong> for us to be picky. It's also possible that Ouroboros have instigated this attack themselves."</p>
+<p>Lanz can't believe what he'd heard, "Ugh, you can't be serious!"</p>
+<p>"You know exactly how serious I am."</p>
+<p>"Fire and sparks..."</p>
+<p>Eunie urged for him to calm down, "<em>Hold up. Let's do as he says.</em>"</p>
+<p>"<strong>What?</strong> Why should we?"</p>
+<p>"<em>Just, play along! We'll be better able to help protect Colony 9 if we're part of the plan.</em>"</p>
+<p>Noah turned to Mio and the others; they also agreed to join in. Then, he turned to convince "<em>Lanz...</em>"</p>
+<p>Reluctantly, folding his arms and looking at the other side, he abide, "Tch. If you say so."</p>
+<p>Zeon: "You have good friends."</p>
+<p>But his tone wouldn't be friendly, "One day, I'm gonna crack that thick bonce of yours and really see what makes you <strong>tick</strong>..."</p>
+<p>"I look forward to it." Turning to Roald, he gave instruction, "<strong>You lot head back</strong> and update Kite on the situation. I'll see to these ones. <strong>Meet me in command.</strong>"</p>
+<p>After doing the Kevesi welcoming stance, "As you say."</p>
+<p>Fox was not satisfied, "Hmph," so he turned his head away, seeing that he can't sway Zeon's decision. He took a walk, Eilis followed immediately after, and finally Roald.</p>
+<p>Zeon turned back to Noah and the others, asked, "You said not everything's changed between us. Your words no longer have merit. <strong>So let's judge</strong> where your allegiance lies, by way of your actions."</p>
+<p>Noah: "I understand. We won't let you down."</p>
+<hr />
+<p>In the evening, inside Zeon's office, with 3 male Kevesi's accompaniment, the group chatted with him. Fox was still feeling aggressive towards them, folding his arms as he gave snide comments, "I'm impressed. You didn't run away this time." Noah didn't reply.</p>
+<p>Kite turned to Fox and Roald, "I'll explain what comes next. The rest of you are dismissed."</p>
+<p>Roald bit his words: "Stay cool, Kite." Fox was annoyed.</p>
+<p>"<strong>I'm always</strong> cool." And the two left, but kept locking their eyes at the group as they walked until they exited the room.</p>
+<p>Zeon asked, "Tell us about Agnus's movements."</p>
+<p>"Right now, they're assembling their forces on Everblight Plain. They've stopped concealing themselves, which feels like cause for concern enough."</p>
+<p>He concluded, "They're confident they have the numbers for a full assault, then? Or perhaps it's a feint..."</p>
+<p>"Or they're just a bunch of <strong>dolts</strong> who like <strong>pretending</strong> they have a plan, <strong>hahahahahahaha!</strong>"</p>
+<p>"I'm not in the mood for jokes right now." He replied seriously.</p>
+<p>"<strong>Hey, we need a little levity</strong> sometimes. With enough food, we can draw this out. Give the word and we could even launch a raid-..."</p>
+<p>He shook his head, "I told you, that's not going to happen. <em>It would cost us too many lives.</em>"</p>
+<p>"<strong>What then? Our troops are hungry, anxious, and quite frankly, more pissed off by the hour. You leave things like this, and we're going to fall apart by ourselves.</strong>"</p>
+<p>Noah suggested, "We could just remove their reason for fighting you."</p>
+<p>"What?"</p>
+<p>Zeon urged "In plain language, please."</p>
+<p>"If we smashed your Flame Clock, it would alter the equation."</p>
+<p>"<strong>If you 'smashed it'</strong>!!!"</p>
+<p>Kite: "<strong>Uhh, WHAT? Well now, I know you're all jokers!</strong>"</p>
+<p>Riku rebut, "Kite biggest joker of all. <strong>This why Kite always runner-up in life. No one can take serious with hopeless second-best attitude!</strong>"</p>
+<p>"<em>Shut it, Riku! Y-you really know how to hit a man when he's down, don't you?</em> <strong>Why are you back here, anyhow? How'd you worm</strong> your way back into Zeon's favor?"</p>
+<p>Riku got defensive and opened his arms, like a bird opened up its wings to make it look big to scare the enemy away, "<strong>Meh... No worming performed...</strong>"</p>
+<p>"<strong>We don't <em>need</em> you here! I've had enough of seeing my friends die, betray me... I CAN'T deal with this DIRT any more!</strong>"</p>
+<p>Noah: "<strong>We feel</strong> just the same. Which is why we want to do as much as we possibly can to help. That's <em>why</em> we came back."</p>
+<p>"Yeah, <strong>you're not</strong> <em>fooling</em> anybody."</p>
+<p>Zeon disagreed, "You need not believe them; but they will prove to be an asset."</p>
+<p>"<strong>HUH, SO THAT'S IT? You're siding with them in the end? You choose Noah over your own lieutenant? AGAIN?!</strong>"</p>
+<p>"<strong>That's NOT what I'm saying.</strong>"</p>
+<p>He turned around from facing him, blurted out, "<strong>DON'T YOU REALIZE HOW HARD I'M TRYING HERE? URGGGGHHHH!!! SPARK THIS!!!</strong>" And he just walked out of the room, unable to take it anymore.</p>
+<p>Noah: "<em>Sorry. I didn't mean to complicate matters.</em>"</p>
+<p>Zeon: "<strong>On the contrary, was this not your intent?</strong> I would have thought you'd be <em>gloating</em> by now."</p>
+<p>"We can gloat if it makes you feel better. But we can't just judge someone in the <em>heat of the moment.</em>"</p>
+<p>"<strong>Whatever you might think</strong>, suspicion will be cast upon you. <em>That is all I can say.</em>"</p>
+<p>Taion: "Suspicious or not, isn't it about time you tell us this plan of yours? You <strong>said</strong> we'd prove to be an asset."</p>
+<p>"I'll continue. Though we have a geographical advantage, our provisions and numbers are limited. That's what the enemy will be banking on. And that's where <em>you</em> come in, as the vanguard."</p>
+<p>Mio: "Our sudden appearance will put a spanner in their works, and that'll give you the edge you need, right?"</p>
+<p>Eunie: "Seeing Keves and Agnus bods fighting together and tearing up their front line's gonna throw 'em off their game, for sure."</p>
+<p>Lanz scratched his head, "So we've gotta fight independently then. Better than being on a leash, I s'pose."</p>
+<p>"You seem to misunderstand. I'm not cutting you loose... You're still being regarded as traitors. <strong>Keep in mind</strong> that I shall be supervising your <em>every. action</em>. personally."</p>
+<p>"<strong>SIR YES SIR COMMANDER SIR.</strong>"</p>
+<p>Eunie just shook her head, "<em>Do you have to...?</em>"{{footnote: Think she meant Zeon's supervision, but it could also mean the heck Lanz react like that.}}</p>
+<p>Noah: "<em>Let it go, guys.</em>"</p>
+<p>"I'll send details of the operation to your Iris. The plan will commence at once."</p>
+<p>"We're on it."</p>
+<hr />
+<p>"We'll be arriving presently." Zeon had took them through a valley, and we could see it opening up at the end.</p>
+<p>Noah: "Eunie, you OK?" He noticed she was looking around her.</p>
+<p>"<em>Just feeling wistful... This is where we went looking for Fourtune Clovers, isn't it?</em>"</p>
+<p>Lanz recalled, "<strong>Oh yeah!</strong> You really made a big deal out of that."</p>
+<p>"<em>Did not???!!! Just wanted to wish upon one.</em> All the others <em>laughed in my face, said I'd <strong>never</strong> find one here... Everyone but you guys, and Zeon. You must remember.</em>" They were in deep reminiscence. "<em>You're not the kind of guy who makes fun of people when they're trying their hardest.</em> You help people in need."</p>
+<p>"Hmm..."</p>
+<p>"<em>Listen.</em> I know you've been through all sorts of crap, but you don't know the whole story..."</p>
+<p>"Oh I'm sure. Hmph, there is no such thing as a traitor who rebels, <em>without cause. Be it... Keves, or Agnus.</em>"</p>
+<p>Mio: "<em>Hrrr...</em>"</p>
+<p>"Hmph... You've sent, many of my comrades off, <em>Noah.</em> Time and time again, you saved the dead, helped survivors... <em>Even me.</em> I know, you do not make light of <em>people's lives.</em>"</p>
+<p>"So you understand?"</p>
+<p>He looked aside, "<em>I do.</em> But I can never be the friend to you, that I once was."</p>
+<p>Lanz: "You don't give a cetri, do you?"</p>
+<p>"<strong>I wasn't talking to you, Lanz.</strong>"</p>
+<p>"<strong>'Scuse me?</strong>"</p>
+<p>Noah: "Maybe we can't go back to the old days. But we can build something new."</p>
+<p>"Leave your platitudes for after. <strong>The battlefield awaits.</strong>"</p>
+<p>Nodding, "Don't worry, we'll win. No one's dying on our watch. Never again."</p>
+<p>He thought for a second before turning back to their to-go direction, urged, "Time to move. Stay sharp."</p>
+<hr />
+<p>After moving through the valley, the group found the levnises parked in a short distance. Noah: "There's a lot of them... This'll be a battle of attrition. We can use the terrain for defensive advantage. First, we need to hurt their morale."</p>
+<p>Taking advantage that the Agnians hadn't noticed them yet, Zeon urged, "Before that, we need to talk. <strong>I'll remain here</strong>, and fight for as long as I stand. That's... also part of the plan. It will be a grueling fight. I- won't- have time to be looking out for... possible deserters."</p>
+<p>Eunie twitched her eyebrow, "Hold on, are you telling us to find a chance to escape?"</p>
+<p>"<em>I never said that...</em> But this battle should be of little importance to you."</p>
+<p>Lanz: "<strong>Sparks' sakes, Zeon... Just how rotten do you think we are?</strong>"</p>
+<p>Noah folded his arms, "I see where you're coming from, but we're fighting on our own terms. We'll be seeing this through."</p>
+<p>Eunie: "<em>We owe a debt, to Colony 9. Maybe it wasn't for very long but, it gave us somewhere to belong.</em>"</p>
+<p>"But not any more..."</p>
+<p>Lanz: "<strong>Just shut it, you! How hard is it</strong> for you to accept someone just wants to do a good deed, eh? <strong>Get a clue!</strong>" Zeon looked at him for a while while thinking how to reply him, but Lanz hadn't waited a moment, dashed off towards the Agnians before the others could react.</p>
+<p>Eunie: "Lanz!"</p>
+<p>Zeon: "How often does he need telling not to abandon himself to his feelings?"</p>
+<p>Noah: "Have you given in?"</p>
+<p>"Hah." He summoned his blades before continuing, "Still... Might as well strike while the iron's hot." And the rest summoned their blades after Lanz had lured them in!</p>
+<hr />
+<p>An Agnus soldier was scared, "<strong>What the spark are Ouroboros doing here? I did <em>not</em>, sign up for this!</strong>"</p>
+<p>Lanz questioned, "Want us to run 'em down?"</p>
+<p>Zeon: "We aren't here to kill each other. Pull back now, and we won't pursue you."</p>
+<p>The Agnus Captain wasn't scared, calmly and slightly teasingly replied, "I'll bet you won't. <strong>Because you'll be dead!</strong>" As he finished, there were Agnian Levnises cruising high up in the air. They seemed to be traveling to the colony.</p>
+<p>Eunie: "Levnises!"</p>
+<p>Agnus Captain: "Always keep your ace in reserve. That's, how the game's played!"</p>
+<p>"Ngh..."</p>
+<p>Zeon: "Don't falter. We have Kite and the others holding the fort."</p>
+<p>Noah: "Yeah. And we'll hold the line here, <strong>whatever it takes!</strong>" Second round.</p>
+<hr />
+<p>Agnus Captain: "Ur hrgg, urg hmm... I'm done..."</p>
+<p>Another Agnus soldier to his left exclaimed, "Squad leader's been hit! <strong>PULL BACK!!!</strong>" And the soldiers sheathed their blades and withdrew themselves, leaving the Captain facing the group alone. Zeon watched as they leave the battlefield.</p>
+<p>The Captain asked, "Why aren't you following them?"</p>
+<p>Zeon sheathed his blades and explained, "I told you. I don't want needless slaughter."</p>
+<p>"You're soft... rookie commander... Let me... tell you something." Zeon squinted his eyes, both ears readied. "You don't win wars while keeping your hands clean. You're gonna learn that... the hard way. You'll see..." And he committed suicide, cut his neck.</p>
+<p>Seeing the danger's gone, the others sheathed their blades. Zeon softly commented, "<em>I guess we will...</em>"</p>
+<p>Noah: "Don't let it get to you."</p>
+<p>"<em>I wouldn't normally but, in this instance</em>, I'm afraid he's struck a chord. I believe I said something similar to you in the past. We were... <em>sparring with training swords.</em>"</p>
+<p>"You won, in the end."</p>
+<p>"<em>I did. Because you always held back.</em>"</p>
+<p>"That's not true."</p>
+<p>"Hngh... You hated the very idea of fighting. <em>That's how it seemed to me.</em> And back then, I thought that you'd never survive with that <em>lofty ideal. I was blind.</em> <strong><em>If we don't stand for something greater, strife and conflict will grow ever fiercer.</em></strong> We would end up fighting not for the Flame Clock, but for our own bloodlust. That is who we are. <em>It was never going to be easy.</em>"</p>
+<p>"Yeah... I'm still trying to figure out what's right myself. But there's something I want to change. And to do that, I have to change myself."</p>
+<p>"Hngh..." He checked his iris for the latest information from the colony, announced, "Kite and the others pulled through OK. <strong>It seems we've averted disaster</strong>, for now."</p>
+<p>"Not quite. There's still unfinished business. Zeon, I want you to understand the things we've seen. The truth about the Flame Clocks. Just let us explain. After that, we'll let you have the final say."</p>
+<p>"As you wish. It also <strong>saves us an awkward silence</strong> on the way back. But don't get your hopes up." Now that they had fought together, trust was up again, at least to the point of willingness to listen to each other.</p>
+<p>"That's fine. Thank you."</p>
+<p>"I'll round up everyone in the square. But first, to Colony 9." And that's a long way back.</p>
+<hr />
+<p>By the time they arrived, it was already nightfall and raining. The soldiers were waiting for their arrival, despite getting soaked standing outside. They saluted with the Kevesi welcoming stance as they group entered the base, all except Kite, whom had an extremely depressed look on his face. Before the group reacted, muted claps (due to wearing gloves) echoed so loud against the silence. The soldiers turned around to see who's coming. The Consul walked in between the rights of way they formed for him.</p>
+<p>The group got defensive as the Consul approached, he said, "Our heroes return." He stopped some distance from the group. "Good work, Zeon."</p>
+<p>"Where have you been?" He put his thumb and index finger under his chin.</p>
+<p>"Just watching from the sidelines. <em>And I must say, it was quite a spectacle.</em>"</p>
+<p>"Hmph. In what way?"</p>
+<p>"Beg <em>pardon</em>. I forget! You drones have no aesthetic sense. Your droll skirmish <em>was one thing... It almost put me to sleep, but this here? Well, I'd say the colony is due a promotion.</em>"</p>
+<p>"I recall no 'droll skirmish'."</p>
+<p>"The one where these <strong>maggots</strong> surfaced! Loathsome little worms plotting together with Agnus, then deserting their duty like the <strong>cowards</strong> they are! <strong>Truly disgusting.</strong> A <em>disgrace</em> to the colony! And that goes for the ones who <em>croaked</em> for nothing too. Even calling that 'droll' is a disservice to the word!"</p>
+<p>Eunie: "<em>'Croaked for nothing'...?</em>"</p>
+<p>Noah: "I know you see us as enemies... But this...?"</p>
+<p>Lanz: "<em>It's our friends you're talkin' about... Even Mwamba,... back then... How</em> <strong>DARE YOU?!!!</strong>"</p>
+<p>"<strong>SILENCE, MAGGOTS!!!</strong> You must still be tired from fighting... <strong>Rejoice, then!</strong> You will give me great pleasure as I crush you!" And he kicked on the ground, sending a slash-like beam that swooshed at the group. The group raised their weapons to defend, but it was Zeon whom reacted the quickest, raised his shield at the center of impact. The attack got deflected sideways. The other soldiers gaped open their mouth, except a few (including Kite), at his courage to defy the Consul. "What do you think you're doing?!"</p>
+<p>"The words of an idle man, who orders others around," and he pointed his sword at the Consul, "or the words of rebels who risked their lives for us. <strong>Which do you think is worth more?!</strong>" And he returned a slash beam at the Consul.</p>
+<p>"<strong>SILENCE!</strong>" Without even twitching a finger, a bubble shield grew around him that blocked such attack. "This is insubordination!" Zeon and Noah exchanged glance through the tip of their eyes. Then, they heard the Consul jumping high up into the air and, with hands crossed, landed just in front of where they were standing, sending them flying into the air together with some rocks. After he landed, he kicked the rocks at the group. In mid-air, the group shielded such incoming boulders.</p>
+<p>After he landed, Zeon dashed towards the Consul and pierced at him, which he easily dodged. Then, he blocked a hit from the Consul. A one-man show between Zeon and the Consul. The others were watching. "<strong>GO, NOAH!</strong>" He jumped up and pierced his sword on the floor, destroying the ground below while sending dust that obstruct the way of sights. The Consul kicked 360° to clear the dust.</p>
+<p>"Where?" He could see the other Ouroboros, but not Zeon, Noah, and Mio. "<em>Stupid maggot!</em> Where did he-"</p>
+<p>"Don't you realize?" Zeon was still beside him. We didn't see him just now. Then, he turned around to look at the Ferronis. Noah and Mio had launched themselves at the Flame Clock. It was too late for him to do anything. "The maggot that <strong>feasts</strong> on our dead... That would be you!"</p>
+<p>"Madness! You seek death then, Zeon?"</p>
+<p>"We want to live. <strong>That is why</strong> we fight." And the other Kevesi soldiers walked forward and surrounded the Consul. He watched them drew their blades pointing at him. Noah and Mio rejoined the group. "<strong>Prepare yourself, CONSUL B!!!</strong>"</p>
+<p>"Why you... You good-for-nothing imbecile!" And he transformed into his Moebius form. "All defectors must be eradicated!"</p>
+<p>Noah: "<strong>Zeon!</strong>"</p>
+<p>"<em>Yes.</em> <strong>Let's go!</strong>"</p>
+<hr />
+<p>Moebius B fell to the group, transformed back to Consul form sitting down, head drooped. "It's futile, you know. You won't change anything... You think you have a future...? Well you don't. <em>Only suffering and despair.</em>" And he transformed totally into blue motes. They sheathed their blades then.</p>
+<p>Looking at the floating motes, he had his reply, but he wouldn't hear it anymore, "Even so... the choice is mine."</p>
+<p>"Lay things out for me here, Commander." Kite and the others were approaching him, now that they had a chance to hear him out. "Our Consul's a monster.{{footnote: Well that rhymes!}} <strong>Our Flame Clock's busted. We still don't have enough food to go round.</strong> I have to ask... <strong>What was the point of all this?</strong>"</p>
+<p>"We succeeded. Though not quite the way I'd hoped. <strong>Now then, listen.</strong>"</p>
+<hr />
+<p>"Y-<strong>you can't be serious! Then what, it was all a sham?</strong>" Kite can't believed his ears. The rest of the Kevesi soldiers didn't interrupt.</p>
+<p>"So it would appear. For that reason, we need to learn as much as we can. About ourselves. And about the world outside."</p>
+<p>"<strong>OH, IS THAT EVERYTHING? AND WHILE EATING SHOE LEATHER?!!!</strong>"</p>
+<p>"If need be. Whatever the outcome may be, only <em>we</em> can change it. <em>I believe that</em>." Kite doesn't know how to rebut. The rest didn't have anything to say so far.</p>
+<p>Noah offered, "We'll help you out too, not because we're looking for your acceptance, but just so everyone can live. So please, let us further your goal."</p>
+<p>Zeon: "I know you still have doubts, but won't you give them a chance?" The rest of the soldiers looked at each other, trying to find social acceptance. Only Kite looked unwaveringly at the commander.</p>
+<p>Roald started first, "I'll confess, I'm still a bit dazed by these developments... But... I could let them off." With a smile on his face.</p>
+<p>"Yeah, same." Eilis agreed. "The commander's never quite been this insistent. If Mwamba were here, I think he'd been agreed much sooner..." And the rest, including Fox, agreed with him therefore.</p>
+<p>Zeon: "Friends..."</p>
+<p>"Well, I'm still not buying it. The one to make the call, should be me. I should decide! Nobody else... I'll <em>prove</em> it. <strong>The only one fit to be commander... is me.</strong>" That's Kite. As he finished, he walked through the others and walked away himself, with the others turning around and looking at his attitude, "We're gone." The others followed him thereafter.</p>
+<p>Eunie: "Man, way to go off on one..."</p>
+<p>"Kite, he just worries for the colony. He will come round eventually."</p>
+<p>Lanz: "So? What's the word now, boss?"</p>
+<p>"First, I want to solve the food shortage."</p>
+<p>Eunie: "What, you mean... by taking long hikes? It'll be tough without anything nearby."</p>
+<p>"<em>That was the case up until now.</em> <strong>Myself, I'll try it the other way</strong>."</p>
+<p>Lanz: "What way?"</p>
+<p>"<em>We'll make fields.</em> Our own food supply, grown with our own hands."</p>
+<p>Eunie: "When he says fields, does he mean like that bit in the textbook?"</p>
+<p>Taion memorized the definitions from the textbook, "'When food is scarce, one may till the soil, and plant Glitter Radishes.'"</p>
+<p>"<em>You always know your stuff.</em>"</p>
+<p>"<em>Obviously.</em>"</p>
+<p>Noah: "I see. It was difficult to find time before, since you had to worry about the Flame Clock."</p>
+<p>"Yes, but not any longer."</p>
+<p>Mio: "Heh. You're giving it a go then?"</p>
+<p>"There will <em>be toil, but we'll try.</em>"</p>
+<p>Taion shared, "Then... start by observing the vegetation. It's not just soldiers that want to survive out here. You're sure to learn something." He looked out at the grass and shrubs out in the plains while he speak.</p>
+<p>"I understand. We'll try that." Then, turning to Noah, "Oh and... if you're ever in need of my support, just call on me. I'll help."</p>
+<p>"That's appreciated, but... are you really sure?"</p>
+<p>"<strong><em>If you truly want to change something, you must start with the self.</em></strong> <em>I believe you said that.</em>"</p>
+<p>Before he could say anything, Eunie cut in, "Still, <em>some folks aren't gonna like you, when you're palling around with us lot.</em>"</p>
+<p>"<em>It doesn't matter what they think of me</em>. What truly matters, is whether I carry out my duty."</p>
+<p>Noah noted, "Zeon... You haven't changed at all."</p>
+<p>"Sarcasm? At this stage?"</p>
+<p>He shook his head, "Not at all... I was just thinking that... you're still the same old friend from back then."</p>
+<p>"You've gained a way with words. I see. Perhaps people <em>can</em> change."</p>
+<p>"Wow, ouch!"</p>
+<p>"Ahahahah! <em>You gave us strength. Thank you.</em>"</p>
+<p>"Thank <em>you</em>."</p>
+<hr />
+<blockquote>
+<p><strong>Translator's Note:</strong> We're skipping the 2nd story, which speaks about pest/disease invasion on the fields and how they solved it. Half as interesting.</p>
+</blockquote>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="87_teach.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="85_segiri.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="87_teach.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="85_segiri.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

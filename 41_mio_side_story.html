@@ -1,0 +1,542 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Mio and Miyabi (Side Story) - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html" class="active"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="mio-and-miyabi-side-story"><a class="header" href="#mio-and-miyabi-side-story">Mio and Miyabi (Side Story)</a></h1>
+<blockquote>
+<p><strong>Translator's note on Environment:</strong> Snow carpeted every single tile of land, some weighing down leaves and trunks, burying any undergrowth. Mountain goat strolling, searching for the scarce food in their habitat. Icy stalactites hung from cliff walls, with its sharp-pointing tip suspended from the barely-protruding parts of the wall. Ice skeeters, Eagles, and other animals made an ecosystem. This, is <strong>Captocorn Peak</strong>, of Aetia Region.</p>
+</blockquote>
+<hr />
+<p>Upon arrival, the group overlooked the frozen view in silence; but Mio had something lingering in her mind.</p>
+<h4 id="start-of-mios-memories"><a class="header" href="#start-of-mios-memories">Start of Mio's Memories</a></h4>
+<p>A dome-shaped Agnian Ferronis covering one part of half-barren-half-lush land, with other camps and training grounds set up in front of it. Agnian soldiers, including the young Mio, were training. They had a competition-like training, vaulting over obstacles. Other's did it with difficulty; Mio easily wrapped herself around a wall 1.5 times her height.</p>
+<p>From the side, Sena was standing with 3 other helmet-Agnian, watching the race. She was trailing her, trodding as Mio swooshed past, ensuring she always had an eye on her. After Mio finished, she walked towards Sena, and the latter greeted, "<strong>Whoa, nice one, Mimi!</strong>"</p>
+<p>On the other side, someone was having difficulty walking through the log, stretching her hands on both sides, having difficulty even balancing herself. Every step forward risk falling. "Ngagh-" As Miyabi's torso lose balance, she dropped to the ground.</p>
+<p>The instructor, a male of pale brown hair and crystal ears, pale skin, turquoise iris, immediately scolded, "<strong>Can't even get through that obstacle, Miyabi? Shouldn't have slacked in basic! 20 laps of the Colony! And pick up the pace!</strong>"</p>
+<p>"Hahahaha!" The crowd just laughed at her, ensuring that she felt guilty about it. Sena wasn't laughing. Mio was busy drinking water. They didn't help her either; not of their ranks anyways.</p>
+<hr />
+<p>Inside a tent, Mio was surprised, "<strong>An off-seer? Really?!</strong>"</p>
+<p>A buff guy with two crystal horns poking out in front of his eyebrow assured, "That's right."</p>
+<p>"<strong>But why? I was top of the rankings, in all the training categories!</strong>"</p>
+<p>"It's done." Yeah, sure, one's just telling you to accept your fate, not asking you to question one's decisions.</p>
+<p>"<strong>But sir-!</strong>"</p>
+<p>Just then, a knock came from behind. Mio turned to look who's there while the guy, presumably the commander?, answered, "<strong>Enter.</strong>"</p>
+<p>"Miyabi...?"</p>
+<p>The commander continued, "As of now, consider yourselves our official... Colony Theta off-seers."</p>
+<p>Mio still tried to change his mind, "<strong>But Commander!</strong>"</p>
+<p>The voice was firm and unwavering, "Understand. This decision is final."</p>
+<p>"Urgh..."</p>
+<hr />
+<p>Sena was swinging her hammer. Other soldiers practicing their blades. Mio, sat at the other side alone, now wearing a different attire (presumably an off-seer attire?), reminiscing her training days. Only that now she had her Agnian flutes by her arm and she can no longer join in. She felt disappointed. As her emotions turned lower and lower, wanting to cry at why fate did this to her, Miyabi nervously sounded from beside,</p>
+<p>"So, did you... learn the score?"</p>
+<p>Mio turned up a little, looked at her from the top of her eye-tip without directly facing her, softly and calmly replied, "Mhm, I guess..."</p>
+<p>"So you can play it?" Miyabi also had her off-seer attire, though its hem is green; unlike Mio's orange.</p>
+<p>"More or less..."</p>
+<p>"<strong>That's so cool! And your part's so much harder than mine as well... I've been trying,</strong> but I'm struggling a bit with... the start of the 12th bar..."</p>
+<p>"Can we please just... drop it?" She didn't have the heart to talk about it. Miyabi, being last, may have been excited she don't have to train. Mio, on the other hand, loves training and be on the top of the rank.</p>
+<p>"Oh...!"</p>
+<p>"We play tomorrow... I just wanna get it over with."</p>
+<p>Her tone suddenly picked up pace, "Y-you're right, yeah. Sorry..." Then continued softly, "Ah... Well then! I'll practice, and make sure I've got my part down pat." Then, she walked away.</p>
+<p>"Huh..." Mio could just sigh, still couldn't get over with her new role.</p>
+<h4 id="end-of-mios-memories"><a class="header" href="#end-of-mios-memories">End of Mio's Memories</a></h4>
+<p>"Shall we go, Mio?" Noah's voice brought her back from her reminiscing. Looking at him, she gave a quiet nod, and the rest leave. Noah didn't even look at her attentively, to sense if she had more to say, or what she meant wasn't what she was trying to mean. She stayed back for a moment, just to sort out her memories for a moment, before finally took off behind the group.</p>
+<hr />
+<p>Overlooking the snow white lurking the distance, hearing the howling winds blowing at the junction, Mio, still immersed in her thoughts, puffed out a sad breath. Noticed some junks on the ground, she walked towards them, trying to figure them out. Softly caressing the burnt objects, she thought she can feel, or perhaps hear, Miyabi's melody...</p>
+<h4 id="start-of-mios-memories-2"><a class="header" href="#start-of-mios-memories-2">Start of Mio's Memories 2</a></h4>
+<p>Mio and Miyabi were sending the fallen off. Standing atop a platform that could overlook the whole battlefield, blue motes rose from everywhere. The effetely alive Agnian soldiers slowly slumped their way back home, too tired to even converse. Mio blew it with eyes wide opened; Miyabi was totally immersed in her melody, eyes closed to feel the environment. Despite playing it, Mio's heart wasn't there, only <em>the</em> melody.</p>
+<hr />
+<p>Back inside the barracks. Mio sat herself on her bed, looking at the flute, still lingering on the disappointment of becoming an off-seer.</p>
+<p>"Hey!"</p>
+<p>Mio looked up and saw a cat-ear dark-skin girl by the entrance, "Nadja...?"</p>
+<p>"What's up? Fine-tuning?"</p>
+<p>"<em>Yeah...</em> Got another... battle tomorrow..."</p>
+<p>"Bit of a waste, ah? And you're suck a slick fighter too... <em>Can't believe they paired you with that klutz Miyabi... I don't know what the commander was thinking...</em>"</p>
+<p>That seemed to speak to her heart, "Uh...? Ahaha..."</p>
+<p>"Eh, at least you get to take it easy. Low risk of dying, when you're in the rear guard." Is that a compliment, or a compliment?</p>
+<p>"<em>Uhm...</em>" She could hardly retained her smile. Maybe feeling betrayed? Or feel to have betrayed them?</p>
+<p>Then, some female with crystal ears called out, "Nadja! We're waiting for you! Mission briefing?"</p>
+<p>And she shoot, "Cool, be right there!" Turning to Mio, "<strong>Later!</strong>" And she dashed off to join them. Mio, not anymore. Still holding her flute, still feeling depressed.</p>
+<hr />
+<p>The evening sun scorched the sandy environment; so much sand dust it seemed to shroud the views. Above stood Mio and Miyabi; and some soldiers below exclaimed, "Guess we live to fight another day!"</p>
+<p>Another female voice urged, "C'mon, let's head back."</p>
+<p>"To be fair, we scored some good points today!"</p>
+<p>Another male voice, "Tally's next week, was it?"</p>
+<p>Mio stood in front of Miyabi; they weren't playing their melody. Mio, hearing their discussion, tried to ignore it, to turn herself away from what she could've joined if not for <em>this</em>. No time to think; time for the melody.</p>
+<p>As they finished, Mio commented, "This is all... <em>such a waste...</em>"</p>
+<p>Miyabi heard her, "What is?"</p>
+<p>"Everyone else is out collecting life, and here we are, noodling our tunes... What use are we really...? To the colony and everyone?"</p>
+<p>Miyabi don't even need another second to think, "I think it's obvious. We can only truly contribute... after death, is all." She walked forward by her side, looked at Mio attentively.</p>
+<p>She can't be convinced, shot back, "<strong>'After death', though</strong>? Isn't that just pointless? We could be playing our hearts out here, and nobody'd even see us."</p>
+<p>"<strong><em>Is that right?</em></strong>{{footnote: Now this is a good sentence to ask whenever you thought someone was stuck in their flawed conclusion. You don't tell them what to do; that don't work. You asked them to question their own assumptions instead.}}"</p>
+<p>Mio took no second thought at it, "<strong>Sure it is!</strong>"</p>
+<p>Miyabi turned to the battlefield, asked a follow up question, "<strong>Mio... Is that why you're here, for recognition? is that why you're being an off-seer? For a commendation?</strong>"</p>
+<p>Perhaps she felt bad, tried to rebut, "No, it's just... <em>duty</em>...?"</p>
+<p>Bending down, hugging her feet together while in a squat, arms wrapped around her legs, Miyabi continued, "You know, I'm actually glad I was born a klutz."</p>
+<p>"...I bet you're just scared."</p>
+<p>"Mm... It is scary... fighting. I am afraid... to steal others' lives with my own hands. Actually, I'm impressed that it comes so easy, to everyone else."</p>
+<p>No second thought, "It's just natural. We all of us live to fight."</p>
+<p>"<em>You're wrong.</em> We just have to... We fight to live, that's all."{{footnote: <strong>Invert, always invert!</strong>}}</p>
+<p>"Huh?" That was a new concept to Mio.</p>
+<p>"<em>Mio... Have you ever touched a mote of light from a Kevesi?</em>" Mio shook her head, and Miyabi continued, holding out her palm as if she could feel it now, "They're the same as ours. On the other side, the people live hoping the same things as us. <em>It's a sad fate</em>... Still... if we're forced to live this way... the least we can do..." and she stood up, "is this." And she played the melody with full heart and full zest, at the top of her lungs. Blue motes evaporated faster and filled the whole air, surrounded her and Mio. Mio watched the motes, not joining.</p>
+<p>Down there, Nadja was standing in front of a corpse, probably one of her friends, and looked at the motes rising too, feeling the motes brushing through her. Tears rolled down her cheeks thereafter.</p>
+<p>Miyabi, after finishing her melody, wished, "Fly high! Ever higher! Goodbye... and... thank you... <strong><em>To send on the voices of the departed, is an off-seer's purpose...</em></strong> It's not a waste at all, so long as those voices speak to you..."</p>
+<p>"Voices...?" She hadn't yet understood, but the seed had already been planted. It'll take time to grow, but surely it will.</p>
+<p>"<strong>Mio! Miyabi!</strong>" They looked down and saw Nadja shouting at them. Wiping off her tears, "<strong>Thanks, guys!</strong>"</p>
+<p>Mio held on to her flute even stronger and brought them close to her heart, strengthening her conviction. She had did something useful after all.</p>
+<hr />
+<p>Another day on the battlefield, both playing the melody after a battle, in unison. It was morning daylight. Mio opened her eyes to watch the Motes rise. In the distance laid a tall Kevesi Ferronis, probably abandoned after the battle.</p>
+<h4 id="end-of-mios-memories-2"><a class="header" href="#end-of-mios-memories-2">End of Mio's Memories 2</a></h4>
+<p>As she caressed the levnis remnants, her memories drifted to an end. Looking at the sky, she hoped to see her again.</p>
+<hr />
+<p>As the night falls and the group was about to arrive at a junction with cliff walls shielding one side of the junction, Eunie suddenly dropped to the floor, reverberating, "Brrrrrrr.... It's so cold I might fall over..." The wind was breezy; and icy breeze is no fun.</p>
+<p>The group heard her. Mio took a look around, "Hrrrrrr... Should we take, a breather?"</p>
+<p>Noah effetely replied, "Sounds good..."</p>
+<p>Taion agreed, "The cold of the highlands is no joke. It would... definitely be a good idea to rest up."</p>
+<p>Looking towards a campfire along the cliff wall, Mio questioned, "How about that spot, over there?"</p>
+<p>Noah: "Yeah, that looks good. Let's go."</p>
+<hr />
+<p>Gathering around the campfire, Mio was still dwelling in her memories, until Noah questioned, "Mio, can you tell us more about Colony Omega? I've had glimpses when we Interlink, but what does it all mean...?"</p>
+<p>"Right... I'll try." Then, turning to her left, "Sena, is that OK? May I?" Yeah, she was also involved!</p>
+<p>"Yeah, <em>I don't see a problem with that. You can tell them.</em>" She acknowledged and started recalling,</p>
+<h4 id="start-of-mios-memories-3"><a class="header" href="#start-of-mios-memories-3">Start of Mio's Memories 3</a></h4>
+<blockquote>
+<p>{{footnote: Anything within this (speech) is narrated.}} Five years ago,the three of us were footsoldiers in Colony Theta. One day, with no reason given, we were transferred to Colony Omega.</p>
+</blockquote>
+<p>By a camp in the late afternoon; the sky was gloomy. A Ferronis was in one area, and other camps too. This certainly wasn't the camp from before; the setup and the Ferronis were different. In the assembly, Mio, Miyabi, Sena, and other soldiers lined up in a grid. The Ferronis had a purple Flame Clock burning 5/8 of its way, attached to the top of its head. Mio looked at the very different Flame Clock that they now had. A Moebius appeared after the group had gathered, slowly walking towards them. It was Y.</p>
+<blockquote>
+<p>We didn't fight. Rather... we were subject to daily examinations for no clear reason.</p>
+</blockquote>
+<p>Miyabi was put on a screening bed, with green light screened over her like a scanner while she was (probably) unconscious. The machine looked like one of an MRI. Beside the scanning bed stood Y. Outside, Sena and Mio watched from behind the semi-translucent glasses.{{footnote: i.e. dark-tinted.}} Not just them, the other soldiers were also there; they were lining up waiting for their turn.</p>
+<blockquote>
+<p>Then one day, there was a... an accident.</p>
+</blockquote>
+<p>The purple Flame Clock suddenly got unstable and burst. The Flame inside evaporated into purple gas dissipated rapidly, filling its surrounding, including the inside of the building. It filled up so fast the soldiers weren't able to react to it, still lining up waiting for their turn, even as it blew past them.</p>
+<p>After Y teleported away, and soldiers suddenly falling to the ground, only did they finally realized. A few struggled to run, but the gas had devoid them of oxygen; they dropped to the ground with both hands on their neck, trying to expand it to no avail, finally falling to the ground.</p>
+<p>As Miyabi shouldered the effete Mio through the channels, an explosion to the right tunnel that conjoined the current tunnel they're traversing; they're lucky it missed. Miyabi cared not the strangers. She just wanted to get the half-unconscious Mio out of the affected area, slowly waddled forward.</p>
+<p>As Mio woke up, still dizzy, "Miya... bi...?" More and more explosion shook the building. It also interrupted their supposed conversation, if there will be any. Miyabi brought Mio through a small door by the side of the tunnel. Then, softly placing her inside the escape pod directly behind the door, she said,</p>
+<p>"Just wait..."</p>
+<p>"Aah..." Mio was effetely laying her back against the pod, one hand on the door, as she watched Miyabi turned back. An even stronger explosion near where she was; the flames lit up her face. She faced to her side to shy away from the dust and smoke. Along the corridor, Miyabi reappeared after the explosion, again slowly waddling towards where Mio was, this time dragging Sena along. Purple smoke slowly diffuse from behind; they were running out of time. It was catching up with her.</p>
+<p>As she finally threw Sena beside Mio, another explosion happened, shaking the escape pod bay. Holding by the door, Miyabi held out her flute with another hand, calling out, "Mio. Take this... I'm giving you my whole self. So please... Live life in my stead."</p>
+<p>Still effete, "Miyabi..." But she was unwavering, pushed forward her flute. Mio subconsciously took hold of her flute, and Miyabi released it. With a final smile, "Thank you..." Before the purple flames diffused into the bay, she pressed on the button; the door slammed shut, and purple fog shrouded Mio's view on Miyabi.</p>
+<p>"Hrrrrr...." Mio launched herself forward by a shook, hands against the thick glass, trying to look out of it. Miyabi had already activated the escape pod. It zwooshed through the escape tunnel as Mio shouted from the depth of her lungs, the depth of her heart, "<strong>MIYABIIIIIII!!!!</strong>" And flames filled the tunnel where Miyabi previously stood.</p>
+<p>As the escape pod zwooshed into the night sky, Mio watched the purple explosion engulfed the whole Ferronis. The brightening flames comparable to a nuclear detonation blinded their view. Nothing she could do.</p>
+<hr />
+<p>Along the desert, some cars drove along. Inside were soldiers sat around the floor, along the edge of the truck; including Mio and Sena.</p>
+<p>Sena took time to blame herself, "<em>I... I couldn't do a thing... I wasn't any use... None at all...</em>"</p>
+<p>With tears herself, "Sena... <em>Miyabi was a hero... All that an off-seer ought to be...</em> she put it in here," All she had left was the flute now on her hands, "and she gave it to me..." Putting the flute against her heart, to embrace... "Truly a... hero..." That doesn't prevented her from wiping her tears, nor feeling desolate for losing someone dear. "I decided. I'll find it for myself. I'll leave my mark, on others and the world. This lifetime... <em>that Miyabi gave to me... I'll use it well!</em>"</p>
+<p>Amidst the thundering weather, the few floating transporting Levnises moved in a row through the desert for their next destination.</p>
+<h4 id="end-of-mios-memories-3"><a class="header" href="#end-of-mios-memories-3">End of Mio's Memories 3</a></h4>
+<p>"Regret all you want... but the past, can never be changed. But... <strong><em>you can change who you are in the present.</em></strong> If I was stronger then... Like now... I might've been able to save everyone..." Turning to Noah for his opinion, or maybe, asking for a peace of mind, "<em>Is it wrong to think that?</em>"</p>
+<p>"Not at all." That was Lanz before Noah could answer. "I feel you. <em>I know I wish I'd been stronger... back then</em>." That was Joran thrusting him out of the flames and the rubble.</p>
+<p>The breezy wind blew in the background as each immersed in their own thoughts. Nimue's watch was in Taion's hand.</p>
+<p>Mio continued, "So yeah, I want to go back there, with that in mind. And now I have the chance."</p>
+<p>Taion, coming out of his reminiscence, questioned, "Mio, what kind of Colony is this Omega? I never even knew it existed."</p>
+<p>Lanz agreed, "Yeah, our side didn't know about it either."</p>
+<p>Eunie counted in her mind, "We've got... what, 23 Agnian colonies, in all? They go up to Psi."</p>
+<p>Mio: "Good intel."</p>
+<p>"<strong>Hey now... don't go lumping me in with Lanz. I took my education seriously.</strong>" Now Lanz turned his head on her, rebutted,</p>
+<p>"Ah, shaddap. Don't flatter yourself!"</p>
+<p>Mio continued, "Colony Omega was... an independent entity. It never engaged. The name it used was Agnian, but even that... wasn't the whole truth. Omega's administrator... was the Moebius Y. He was... performing some kind of experiment there, using us as guinea pigs. I don't know what he was doing. M wasn't briefed on it either. All I can remember is... that oddly-glowing... violet Flame Clock."</p>
+<p>Eunie: "<em>A Colony that doesn't fight...</em>"</p>
+<p>Lanz: "Never knew that was even a thing."</p>
+<p>"Y's restored it now. Colony Omega, I mean."</p>
+<p>Noah questioned, "You know this from M?" And she nodded.</p>
+<p>Taion wanted another perspective, "Sena, anything to add?"</p>
+<p>Shaking her head, "I don't really know much about it... The accident happened... <em>pretty soon after we were moved</em>."</p>
+<p>"I see..."</p>
+<p>Mio: "Omega's existence... the tests... It was all Y. That's just... the Moebius he is.{{footnote: Yeah, scientist/researcher.}}"</p>
+<p>As Sena recalled and recalled and recalled, suddenly, something struck her mind, "<strong>Ah...!</strong>"</p>
+<p>Taion pressed on, "Do share."</p>
+<p>Turning to Mio, "Mimi, remember? Didn't we see <em>the same color... on Ethel and Cammuravi's Ferronises?</em>"</p>
+<p>"Hrrrrrrr!" She didn't recalled until she mentioned!</p>
+<p>"I could... be wrong..."</p>
+<p>"No, you're spot on. <strong>Good call, Sena! I didn't think of that at all.</strong>"</p>
+<p>"Really?" And she nodded back.</p>
+<p>Turning to them, Mio continued, "Ethel and Cammuravi had their lives taken. And in that accident, so were the whole Colony's... Most likely, Y was... running experiments that could potentially prove fatal to us soldiers."</p>
+<p>"And now that the Colony's back... You're thinking... <strong>Miyabi's still in there!</strong>"</p>
+<p>"<em>Yeah.</em> <strong>That's why I have to go... To end this. He's toyed with our lives as he pleases for long enough!</strong>"</p>
+<p>"...Exactly. I'm with you! <strong>Let me go too!</strong>"</p>
+<p>Taion was confused, "We're all going, I thought? Right?" And Noah agreed with him.</p>
+<p>"Yeah. Obviously. Let's go, Mio. To Colony Omega." Mio turned to the rest of the group; they all agreed.</p>
+<p>"Everyone, thank you. This time, I'll do the saving!"</p>
+<hr />
+<p>In front of a huge door, with several street lights guarding its entrance; looking up was a Ferronis of Omega; it's hands holding a stick that resembled the staff; it's head was still a Flame Clock, still purple{{footnote: Though seen afar, it looked orange, but given a closer look, it's actually purple.}}. Miyabi stood in front watching, while Y started his speech, slowly walking up to her, "The brilliance doth please. For ceaseless eons, we Moebius, have abidden apace with this world. Yet with drawn-out abiding, many lost sight of the pith thereof... dissipating slowly, as doth the world." He was referring to the annihilation events that were slowly swallowing the lands of Aionios.</p>
+<p>Hugging Miyabi from behind, she didn't reject{{footnote: Well of course, a puppet couldn't reject.}}; he continued, "The brilliance of life is exigent. More dazzling than now... If we wish... to save the world..." and his Moebius iris glowed, to signify that Moebius were the saviors, and would be the only saviors of the world. The purple flames within the Flame Clock glows brightly, as if about to burst with his control. Miyabi watched innocently even as the purple caressed her face.</p>
+<hr />
+<p>Noah and the others just knocked down a bunch of soldiers. They noticed something out of place, "Wait a sec..."</p>
+<p>Eunie: "They're a mixed unit?! But that's just not possible!"</p>
+<p>Taion: "Possible or not, it's what we've got to deal with right now. We'll just have to adapt."{{footnote: Well said. Can't care about the 'why' if you got the 'how' to solve...}}</p>
+<p>"Tch..."</p>
+<p>Noah: "Unusual... They might be stretched thin."</p>
+<p>"Huh?" The rest of them asked for clearer explanation.</p>
+<p>"If it's like Mio said... and they've been running an experiment out of Omega..."</p>
+<p>Taion got it, "These soldiers are evidently one of the results!"</p>
+<p>Sena: "Keves and Agnus... What kind of experiment could involve both of them...?" She turned to Mio for clarification.</p>
+<p>"I don't know. But... I do know... the answer lies ahead." The Ferronis wasn't far away anymore, just a short climb.</p>
+<hr />
+<p>"Ungh...!" Eunie fired his rifle at one of the soldiers. The Keves soldier tilted his head up to dodge her shot, but it removed his helmet. As she tried to get another shot, she was shocked. "<strong>M-Mwamba?!</strong>" Alas, his iris was red, clearly under control.</p>
+<p>Another Agnian soldier removed his helmet. Mio recognized, "<em>Hackt...</em>"</p>
+<p>Lanz: "They've been... reborn?"</p>
+<p>Eunie rebutted, "No... i-if that was the case, wouldn't they be way younger? Mwamba looks like he did this term!"</p>
+<p>Lanz sheathed his weapon and shouted out, "<strong>Mwamba! It's me! Lanz! You know me!</strong>" No he don't. He pointed his rifle at him and fired a few shots as a reply. Lanz drew his shield to block, calling out in the meantime, "<strong>S-stop it! Mwamba!</strong>"</p>
+<p>On the other side, Cammuravi sent flames that aimed at Lanz's defense. Taion noticed and sent his Mondo in front of his frequency shield, blocked it for him instead. Cammuravi slowly walked into the scene from afar.</p>
+<p>Taion: "And now Cammuravi?! What's going on?" Clearly they saw him dead, turned into motes before their eyes? Cammuravi didn't reply, withdrew his weapons and ready for a fight.</p>
+<p>Before they engaged, the tune of Miyabi sounded, echoing the environment.</p>
+<p>"This Melody..." Noah looked around to sense its source. Mio finally found her behind Cammuravi. Ripples ricocheted as she played.</p>
+<p>"Miyabi!" Mio immediately sheathed her weapon. Sena lowered hers,</p>
+<p>"It's Miyabi?"</p>
+<p>Then, Y teleported and stood beside Miyabi.</p>
+<p>"Y..."</p>
+<p>Noah: "So that's... Y."</p>
+<p>Sena: "<strong>Miyabi! It's me, Sena, your friend! We came to save you! You don't have to fight for him any more! So, stop, and come along with us!</strong>" She couldn't hear her; her melody kept echoing.</p>
+<p>Y spoke for her, "Save thy breath."</p>
+<p>"Hhhh!"</p>
+<p>"The revenants neither remember nor feel. Only... the instinct... to fight tooth and nail <em>for survival</em>." Then, he removed his helmet to reveal a huge pale-skin face, with those purple lightning-bolt strikes Z had on his face, but much more pale. He had huge, thick eyebrow, giant nose, red iris, and everything huge. Continued, "Normally, they would undergo basic conditioning in a cradle prior to be awoken. As you all once did... They would fight for 10 years, <em>before returning to Her Majesty</em>."</p>
+<p>Lanz wasn't impressed, "What a piece of work..."</p>
+<p>"These younglings... They live for the sole purpose of battle. They are just... as you are."</p>
+<p>Noah rebutted, "<strong>You're full of it! Our memories and feelings, they define us. They dictate who we are! When you take all of that away-</strong>"</p>
+<p>"<em>'Tis a phantasm</em>." Nope, not planning to hear what you had to say. "Fundamentally... memories and feelings... are but tacked-on extras, an afterthought."</p>
+<p>Taion couldn't understand how he could've thought like that, "<strong>'Tacked-on'? Cut the crap!</strong>"</p>
+<p>"<em>Oh, they are as sheep.</em> You are simply deceiving yourselves, wishing to divine some meaning, from something, that is <em>devoid of it</em>. "</p>
+<p>"<strong>Urgh...</strong>"</p>
+<p>Noah questioned, "<strong>Why are you doing this? What's your goal!??</strong>"</p>
+<p>"Merely the betterment of life for Moebius."</p>
+<p>"What?"</p>
+<p>"For such is Z's <em>humble desire</em>..."</p>
+<p>"<strong>Z!!!</strong>"</p>
+<p>"It is Z who wove <em>the fabric of this world</em>. Consequently, we who are his avatars enjoy powers <em>beyond mortal ken</em>."</p>
+<p>Sena: "Moebius are Z's... 'avatars'?"</p>
+<p>"The gift I was imparted... is the creation, <em>of Flame Clocks. Must I say more?</em> I hold the life of every soldier, <em>in the very palm of my hand</em>!"</p>
+<p>"Huh..."</p>
+<p>"Indeed, <em>the Flame Clocks</em>... They are part of my very being! Ethel and Cammuravi's Flame Clocks... <em>Those were some of my <strong>finest</strong> work</em>. Did they not thrill you? <em>The ebb and flow of their lives...! Ahhh....</em>" He wiggled around as if you're enjoying life with a drink, or a puff.</p>
+<p>He changed his tone from enjoyment to excitement, "<strong>Then</strong> did it <em>strike me</em>... Like unto a flame, human life also doth glow and glimmer brightest just afore it is quenched. And hence... <strong>There can be no greater nourishment!</strong> <em>Indeed...</em> This Flame Clock is therefore my <em>proudest creation</em>. The <em>final year, when life is at its most dazzling! A Clock, that gives rise, to a sublime instant!</em> 'Tis a Flame Clock most radiant!"</p>
+<p>Noah: "Final year...? So that's it! Mwamba and Cammuravi... You brought them back close to their Homecoming!"</p>
+<p>Mio: "Y...!"</p>
+<p>Eunie bit her teeth, "This is all kinds of screwed up... I've never met anyone I wanted to punch more...!"</p>
+<p>Lanz: "<em>Yeah... Even for Moebius</em>, he takes the biscuit!"</p>
+<p>Y had lost his patience, ordered, "What is the matter? <strong>Proceed with the killing</strong>! Let your function be fulfilled, <strong>and kill</strong>! And I, <strong>shall raise you up</strong> as many times as needed! <strong>With my Flame Clock</strong> <em>ablaze</em>!"</p>
+<p>Noah: "<em>He's mad...</em>"</p>
+<p>"<em>Come!</em> <strong>COME!!!</strong> <em>Let mine eyes</em> <strong>feast!</strong> Upon the <strong>BRILLIANCE OF YOUR LIVES!!! HERE, ANON!</strong>" And he teleported out of the scene.</p>
+<hr />
+<p>Everyone was panting heavily.</p>
+<p>Eunie complaint, "Ugh, Mwamba... When did you get so strong?!" Miyabi's melody was still playing behind the scene, with Y beside her again.{{footnote: Not sure when he teleported back, though.}}</p>
+<p>Taion: "Cammuravi too. The last time we fought, he was in a Ferronis, but he seems to be even more driven this time round! <strong>Sparks!</strong> is this, their fight or flight instinct...?"</p>
+<p>Sena: "<em>Poor Miyabi</em>... <strong>They're strong</strong>, <em>all right... But...</em> that's all they are!"</p>
+<p>"Huh?" Taion didn't understood.</p>
+<p>"The melody Miyabi used to play? <strong>It wasn't like this!</strong> There's no way it was ever this sad!"</p>
+<p>Mio: "So then..."</p>
+<p>Noah: "Yeah... They're hollow. There's no will behind their actions. It's not our old friends that we're fighting here... It's something else!"</p>
+<p>Y wasn't scared of holding back the data of his experiment, "An astute <em>observation, yes. It is so</em>. <strong>Owing to the basic</strong> conditioning of lacking, their psyches are rather... <em>unstable</em>. The melody you hear serves to prop them up. An off-seer... <em>conveys</em> peace <em>to their cohorts</em>. <strong>They enable them to</strong> realize dreams. That is what I focused my efforts on, <strong>and</strong> iterated!"</p>
+<p>"<strong>That's wrong! You can't use the off-seers!</strong>"</p>
+<p>"Au contraire, <em>au contraire! Behold for thyself.</em> The mental instability is assuaged, and their movements adhere to the base specifications. Certainly, there is no will behind it, but 'will' is an undesired side-effect!"</p>
+<p>The group was speechless for a moment, until Sena broke the silence, "Evil..."</p>
+<p>Mio launched herself forward beside Noah, "You can't do this... Not to Miyabi... Not to our off-seeing rites... How dare you use them to your own ends!"</p>
+<p>Noah recalled his past exchanges with Crys:</p>
+<blockquote>
+<p>Crys was tucking his flute to his pocket as Noah commented, "That's a good tune. A Crys original?"</p>
+<p>"Yeah, I suppose it is." They were by a battlefield.</p>
+<p>"Maybe I'll pinch it as well."</p>
+<p>"You've got your own tunes, Noah. Those are... just as good. Wonderful, I'd say..."</p>
+<p>"<strong>Really?</strong> I only... tweaked a few notes in a score from my previous Colony..."</p>
+<p>"It's not the notes that matter... <strong><em>It's the feelings you imbue them with.</em></strong>"</p>
+<p>"Feelings?"</p>
+<p>He nodded, explained, "Raw emotion... It resonates."</p>
+</blockquote>
+<p>"<strong>MIO! IT'S FEELINGS!</strong>"</p>
+<p>"Feelings?" Not understanding what you're speaking about.</p>
+<p>"<strong>It's the off-seer melody we've been playing. We just need to play it again now. She's an off-seer</strong> too. I know for sure it'll reach her!"</p>
+<p>Mio looked at Miyabi attentively for a second, thoughts rushing through her heads, before replying, her tone excited by Noah's, "<strong>Of course, yeah. Our melody, just like always...</strong>"</p>
+<p>"Yeah."</p>
+<p>Sheathing her blade and taking out her flute, she continued, "<strong>Understood! I'm taking the lead. You follow!</strong>" And he nodded, stuck his sword into the snowy ground before taking out his flute too!</p>
+<p>Taion was confused at such illogical actions, "Noah, Mio, what're you-?!"</p>
+<p>Eunie: "Wow, good thinking, you two."</p>
+<p>"Huh?" He still didn't understood how logical that could be. Sena already rushed off in front of him.</p>
+<p>"<strong>I'm saying</strong>, this might actually work!" And the formed a semicircle in front of the two, to shield them for the moment. "C'mon guys, defend! Lanz! Sena!"</p>
+<p>"<strong>Arright!</strong>"</p>
+<p>"Sure thing!"</p>
+<hr />
+<p>Their melody together sent ripples like Miyabi, but it's two against one. While they were doing that, the battle do not stop. Mwamba shooting at Lanz, Eunie knocked him off, trying to aim and shoot at him, but Cammuravi was coming after her. The flame was blocked in time by Lanz's frequency shield. Taion's dealing with Hackt, the latter dodged and got near him. Shocked by the lack of time to block, Sena knocked him off on time while sending Taion off-balance a few step back. And we'll skip the rest of the movements.</p>
+<p>The ripple from Mio and Noah's produced a sharp noise that pricked Miyabi's; she temporarily stopped hearing the ear-pricking tone. Losing Miyabi's tune, the other soldiers' might were greatly reduced. Even standing on their feet is a burden. Y put his arms around Miyabi's shoulders and spoke something on to her ears. That brought her back under control.</p>
+<p>Meanwhile, Hackt and Mwamba dodged the frontline with Cammuravi 1 vs 4, launching themselves up into the air aiming for the two. But their tune is so strong it affected not just Miyabi, but also the launching two -- they can hear the high-pitch noise! Together with Cammuravi, they dropped to the ground, no longer able to fight. Their head too painful to continue.</p>
+<p>Even Y put his hand on his head, confused, "Huh? What in the...?"</p>
+<p>Mio was trying to convey via the melody{{footnote: 传音。This is thoughts in the mind directly appearing in the thoughts of someone else's mind.}}: "<em>Miyabi? Hear me? It's me, Mio. Remember?</em>" Memory fragments of them first being selected as off-seer appeared, and other sceneries. Mio continued, "<em>That day, when you first explained to me the purpose of an off-seer, softly. That fateful day, when the lights of life danced into the sky, so high... Ever since that day, I've... I've done my best. To play that melody... you trusted me with.</em>"</p>
+<p>Miyabi still tried to play, being under controlled, but it's been too hard. She no longer can. "<em>Miyabi... You gave me newfound life, back then. Now, let it be my turn.</em>"</p>
+<p>Slowly putting her flute away from her lips, she softly, cryingly sounded, "<em>Mio...</em>" Tears slid down the side of her cheeks as her feelings and memories reemerged. Unfortunately, her eyes was still red under control, "<em>...help me...</em>" And she bent down, palms against her head. Y saw it and tried to move near her, to reassure her.</p>
+<p>"<em>Just wait, Miyabi. I'll be with you soon...!</em>" Lucky Seven seemed to have heard their desire to free them; golden motes emanates from it as it vibrates more and more vibrantly, releasing a shockwave that cleared them of control. Y looked around to see what the spark is that light.</p>
+<p>As for Mwamba and Hackt? "Urgh..." "<em>Mio...</em>" before they fell to the ground and be unconscious temporarily for the rest of the battle. The redness in Miyabi's eyes dissipated finally.</p>
+<p>"Mio...!" Mio had already put down her flute, gave her a smile, and welcomed her friends' return. She was too exhausted; only one eye before falling to the ground, unconscious too.</p>
+<p>Y was in shocked, "Huh...? <em>How can this be</em>...?" Putting his arms on one side of his head, shocked more at his failed experiment, perhaps, "Their memories... <strong>Their minds ought to have all been scoured clean...!</strong>"</p>
+<p>Mio: "Y... An off-seer's melody, it's more than a sequence of notes. It is shaped by feelings; those of the player and of the ones being played for. All I did, was shape the feeling Miyabi passed to me, and play my heart out!"</p>
+<p>Shaking his head furiously in denial, "Inconceivable... <em>You were able to override Z's precepts</em>...?! No Ouroboros <strong>should command that sort of power!</strong>" Then, something caught his eye, "<em>The Sword of the End?!</em> <strong>That's</strong> what's behind this reprehensible act?! <strong>Well then... I shall just have to ascertain the matter!</strong>" Both his iris glowed Moebius, certainly stronger than the single-iris moebius. Purple sparkles glowed as he transformed to Moebius; even the shockwave released was much stronger than any of their previous enemies.</p>
+<p>Sena: "Oh spark! He's coming!"</p>
+<p>Taion: "<em>Now</em> he steps in?"</p>
+<p>Eunie: "He's even chunkier than that K guy..."</p>
+<p>Lanz: "<em>That</em> is a lot of chunk...!" Not only larger in side, but the ratio of chest to hip was much much larger, perhaps 10:1 or something, to exaggerate the size. "<strong>Noah! Mio! C'mon!</strong>" Final enemy before reunion!</p>
+<p>Noah: "Yeah! Take him down. Then we can free the Colony!" They already took/recalled their blades.</p>
+<p>Y: "Since <em>you vermin are no longer bound by the Flame Clocks</em>, my Moebius power sadly holds no <em>sway</em> over you... Ergo!" And he punched his fist together that made the sound of metal clashing against one another. "<em>At this late hour, I will bring my mind, spirit, and flesh to bear</em>, and <strong>batter</strong> you all into oblivion! Come...! <strong>Come! COME!!!</strong> <em>May the</em> <strong>bloody sport commence!</strong>" He had 3 pairs of fingernail-like spikes on both his arms. The others are either too hard to describe, or doesn't appeal too unique to the translator.</p>
+<hr />
+<p>Sena's Ouroboros dashed towards Y, swung her hammer and knocked him flying backwards. Taion's Ouroboros, while Y was in mid-air, formed a gyroscopic bond around him. Sena: "Noah! It's time! Quick, set them all free!"</p>
+<p>Taion: "Cut the Flame Clock, now!"</p>
+<p>Mio's Ouroboros made a jump past Y, Noah took over, cut the Interlink, and sliced it in half.</p>
+<p>Y, seeing that nothing could be turned back, calmly announced, "A creditable effort, <em>Ouroboros</em>. Reviving their <em>memories is no small feat</em>...  And how <em>scintillating a display</em>...! Now take that brilliance in hand, and spread it wide, and in so doing illuminate the world <em>therewith</em>! I shall be watching... <em>eagerly</em>!" As his last words done, he didn't even need to break free of Taion's binding, just able to teleport into thin air.</p>
+<p>After cancelling the Interlink, Taion was shocked, "He got away..." The soldiers previously down on the floor now awake, slowly getting on their feet, watching the purple 'lives' floating back down. Perhaps into themselves? We don't know; it seems just to be floating around, neither entering any body nor went anywhere.</p>
+<hr />
+<p>Miyabi wasn't even awoken until it was parting time. With Cammuravi and the others far far away, not able to eavesdrop, Mio, accompanied by her group, had the chance to speak to Miyabi herself. "Miyabi..."</p>
+<p>Sena also called out, "Miyabi..."</p>
+<p>"I've, uh... I've been listening all along. The melody you've been playing. Every day, since then..."</p>
+<p>"Yeah. Miyabi, thanks to you... I sent on so many. So many voices to so many others. And I'm not done yet... <em>I'll keep going</em>...!"</p>
+<p>She agreed, "It was a gorgeous melody. Yours... and...?" She turned her head to him.</p>
+<p>"Noah. Nice to meet you, I guess. Though I already feel like I know you."</p>
+<p>"Noah, huh? Yours was very beautiful, just like Mio's."</p>
+<p>"I owe it to this." And he brought out the flute he exchanged with Mio, Miyabi's original flute. He tried to return it, but she shook her head.</p>
+<p>"No, you... You hold onto that."</p>
+<p>"Oh... I-I'm sorry. I'll wash it. It'll be as good as new...!"</p>
+<p>Mio giggled at that, "<em>Dummy...</em> That's not what she was trying to say at all."</p>
+<p>"Wait, why am I...?"</p>
+<p>"Right?" And she nodded.</p>
+<p>"From me to Mio, and from her to you... The feeling, is passed on. <strong>Until you can make your voice truly heard</strong>... please, keep it with you. Yeah?"</p>
+<p>He paused for a moment to process what she just said, before unwaveringly answered, "I will. If that's how you feel, I'll be more than happy to keep using it."</p>
+<p>"Take care, then. <strong>Mio...</strong>"</p>
+<p>"Huh?"{{footnote: Surprised.}}</p>
+<p>"You've become the greatest off-seer I've ever seen." Surprisingly, Miyabi's term symbol was still 9th-term, like Noah and the others, also on her neck like Mio's.</p>
+<p>Now that's flattering; she humbly replied, "...Oh, there's still room to grow. But at least, I've found my stride. Since I'm... not alone." She looked to her right and left, and others nodded back to her.</p>
+<p>Nervously asked, "Could I, uh... come with you?"</p>
+<p>Mio immediately walked up and took her hands, "Of course. You're back, Miyabi."</p>
+<p>Sena happily put both her hands on the two's as well, stacking them up, looking attentively and smiling at Miyabi, also welcoming her. "We really missed you!"</p>
+<p>"Thank you, Mio, Sena!" And the stack of hand would bond them until the end of their days.</p>
+<p>{{footnote: After this, Miyabi joined the group in-game.}}</p>
+<blockquote>
+<p><strong>Translator's note:</strong> If you'd love to know more about Miyabi, watch out in the <a href="/93_miyabi.html">appendix section</a>. There'll be one on Miyabi after she moved to the City. It's optional and doesn't affect the main story.</p>
+</blockquote>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="40_hope_rest.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="90_cammuravi.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="40_hope_rest.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="90_cammuravi.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

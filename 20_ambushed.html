@@ -1,0 +1,417 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Ambushed, Colony Lambda, Consul J - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html" class="active"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="ambushed-colony-lambda-consul-j"><a class="header" href="#ambushed-colony-lambda-consul-j">Ambushed, Colony Lambda, Consul J</a></h1>
+<p>Continuing their journey on a flat surface, the surrounding barren; a slope located behind them, and some tunnels in their direction of travel. Halfway through, soldiers wearing Agnian armor fired some blasts that draws a purple tail as they flew. Hitting the ground in front of the group, it blasted, purple smoke released, blocking their view of the tunnel.</p>
+<p>Defensively posed, more shots fired on to behind them, cutting their retreat route. Lanz gasped, "What the-... smokescreen?!"</p>
+<p>Riku took a few breath, then covered his nose as he warned: "It smell weird! This... not just normal smoke!{{footnote: The translator think this is Riku, but the word 'smoke' seemed like Taion's voice.}}"</p>
+<p>Taion, standing to his 5 o'clock, immediately covered his nose as he warned. The others quickly followed, backs facing each other in a circle. Soldiers with twin blades moved, their visor dragged a red trail as (s)he moved towards Noah.</p>
+<p>Noah managed to react in time, swords bashing together as he sliced back. The soldier was quick to respond, retreated before (s)he suffered any injury, and vanished into the smoke. "They're hiding in the smoke!" The others withdrew their weapons.{{footnote: Which means, they no longer block their nose!}}</p>
+<p>Mio's sharp ears counted the footsteps, then warned, "More incoming!"</p>
+<p>An Agnian was driving towards Eunie. Mio, standing to her right, heard its arrival and moved to block for her. Yet, she felt a weakness and numbness, "Huh? My legs?!"</p>
+<p>Her attention turned to her faltering legs, the soldier took the chance to slash just as her attention retargeted, sending her on to the ground. "Ahhhh!"</p>
+<p>"Mimi!" Sena's hammer landed empty, though managed to prevent him/her from taking advanced actions. While she helped her up, (two) soldiers carrying guns appeared from their front, fired more somnolent gas at the group.</p>
+<p>Lanz ran and blocked for Mio and Sena, warned "This smoke... Don't breathe it in!" Sticking his broadsword into the ground, he withdrew the hidden machine gun and fired at the gunned soldiers. Their agile movement dodged his bullets as they retrieved behind the smoke. Perhaps unaware, or perhaps believed in his teammates, he didn't turn to face a twin-blade soldier approaching from behind.</p>
+<p>"Who the spark are they?!" Eunie had his back.</p>
+<p>Manana replied, her wok 'shield' carried in front of her, "Soldiers from Agnus, duh!"</p>
+<p>Taion deflected a soldier with his Mondo, commented, "I... I know this maneuver...!"</p>
+<p>"What is it?" Noah, to the right of him, prompted for more.</p>
+<p>"One of Colony 13's little specialties." That brought him back to the past memories, how Lambda's soldiers were slaughtered by the Kevesi without mercy.</p>
+<p>Lanz, still firing his guns, "So, you've seen this before? But... wait a mo, these mudders are Agnian!"</p>
+<p>"I don't get it... Why this specific tactic...?" His mondo made a barrier in front of him, giving him the time to think and hypothesized, "Could it be... the commander...?!"</p>
+<p>Even without soldiers attacking them, the soldiers whom initially fired the shots, standing at a higher platform to both side of their route, continued firing more smoke, making it thicker.</p>
+<p>Eunie now laid her back on Taion, "This is looking grim... There's no way to tell where they're gonna come from next!"</p>
+<p>"Urgggg..." Recalling how they had handled it from before, he commented, "Water."</p>
+<p>"Water?" Eunie wasn't sure what he's talking about.</p>
+<p>"Yeah. There are water veins in these caves. We can use them to make an escape."</p>
+<p>"You sayin' make a dash for it?"</p>
+<p>"Errrr...." Taion's eye scanned the vicinity as he continued to analyze the situation, to take in more information. Red trail were encircling them while others waited for him.</p>
+<p>Lanz, still firing his gun at a single direction, urged, "Taion, decide! Look, I trust your judgment!"</p>
+<p>"You do...?" His fist clenched, had no choice but nodded, then shouted to the group,  "All right... We'll have to run. I judge it to be the best option right now!"</p>
+<p>"All I needed to hear. Let's move! Lead the way!" Lanz was relieved, sheathing his machine gun as he had his back.</p>
+<p>"I'm on it." He make for a run, the others followed, two by two.</p>
+<hr />
+<p>They arrived before the gushing river, cleared of anesthetic smoke. There was some roof structure behind them, and he stood where he and Nimue stood before, on the wooden (or maybe metallic) platform facing the river. "This is it!"</p>
+<p>All except Eunie walked up to assess the river, Eunie on the lookout. Except for some metal beams to her 10 o'clock, above the slope in front of Eunie, purple smoke were quick to spread towards their direction.</p>
+<p>While Noah was making further analysis, or to ask his gut, Eunie called out, "They're here! Can't see 'em, but it's a real welcome party."</p>
+<p>No more time to think. He looked towards Mio, whom nodded back at him. The final decision had been made, "Time to go! Big breath, then jump!" He took the lead and plunged head first into the stream.</p>
+<hr />
+<p>The group were running from rocky ground towards grassy, leafy, flowery, ground. A tree, beside a cylindrical rock, the base of a waterfall in the distant, the evaporating water vapor/mist enshrouded our view of what's behind.</p>
+<p>Just as they dashed past the tree, Noah, on the lead, stopped on his track, and others were quick to follow. The ground shook, loud noise from where they were facing, which is actually a base of another waterfall. Defensively, they watched as a pike with an Agnian Flame Clock, half-filled, emerged from behind. It was so huge its torso temporarily cut the whole width of the waterfall from reaching where it normally reach. Fully emerged, it drove and landed in front of the group, shadowing them from the sunlight with its Flame Clock. With waters still dripping, it extended both its legs and landed on the edge of the island before them, sending dirt splashing up, and it "turned on" its eyes.</p>
+<p>From below it, levnises of various types (the ball bearing type with two swords on its hand which we saw during the Guernica mission, and the four-armed autonomous levnis they fought back at the Colony 18's battlefield) surrounded them.</p>
+<p>Isurd, his right iris blood red, walked out of the ferronis on the higher platform (a platform higher than the horn above the Flame Clock).</p>
+<p>Taion's eyes gleamed, "I knew it... Commander Isurd!"</p>
+<p>Isurd sneeringly shouted back, "Long time no see, <em>Taion</em>!"</p>
+<p>"That guy..." Eunie recognized him from Taion's past memories.</p>
+<p>"So they got to you too. Commander!" Taion shouted back. "Did they order you to destroy Ouroboros too?" Soldiers now joined the levnises, encircling them.</p>
+<p>Isurd replied, "Not... exactly."</p>
+<p>"Huh?"</p>
+<p>"You must've worked it out. This strategy... mirrors that day. When Nimue's life... was cut short!" His voice, sharp and vicious, struck at Taion's emotional chord.</p>
+<p>Taion's iris widened. The commander, joyful his tactic worked out, continued, "I figured you would try to use that route to flee. That's how I knew to wait right here. And so I replicated the conditions of that day to a tee."</p>
+<p>Taion took a step backward, questioned, "But why do such thing?!"</p>
+<p>Starting with a calm tone, then undulating, lively, "Why? Well, let's see... In a nutshell... To remind you- of your past! To make you relive it, and drive you to despair! To break your heart! To steal all that you hold dear!" Clenching his fist tempestuously in front of him, "To ruin you to your very core! Wahahahahahahahah!"</p>
+<p>"That is my revenge! It's payback for Nimue dying with her wish unfulfilled! It's your own past! Its finally caught up with you!" He pugnaciously sneered at him.</p>
+<p>There was a moment of silence, and Taion seemed stoical. A moment later, the stone weighted too deep in his heart. He closed his eyes, looked down, and his breathe betrayed him, recalling his conversation with Isurd after the mission.</p>
+<h4 id="start-of-taions-memories"><a class="header" href="#start-of-taions-memories">(Start of Taion's memories)</a></h4>
+<p>In the dimly-lit commander's tent, young Taion spoke <em>something</em>{{footnote: We couldn't hear what this something is.}} to the commander. Isurd listened attentively, gently nodded as he finished. Then, Taion looked down to his 11 o'clock in agony. Isurd took two steps forward, put his hand on his shoulder. Perhaps distracted, he brought out Nimue's stopwatch gadget from his pocket, held it on his palm, glancing at it.</p>
+<p>Isurd took his hands off him, calmly asked, "Nimue gave it to you, right? You should hold on to it."</p>
+<p>With a tone trying to hold back his tears, "It was... my fault... My pride led to her death. If only I'd presented a less reckless plan... The strategist would never have... Nimue would..." He gripped on to the gadget forcefully.</p>
+<p>As tears aggregated, he held out the gadget straight at the commander, not daring to look at him as he wept. Whimperingly, "It- It's too much for me..." Then, he put his hands down{{footnote: Translator couldn't see whether he gave it to him or not.}} "I don't... I don't deserve this..." As he spoke, he took steps backward, and leave thereafter.</p>
+<p>Isurd right palm held upwards{{footnote: Again, one couldn't see whether there is any gadget on his hand or not}}, looking at him leaving, didn't say a thing nor tried retaining him.</p>
+<h4 id="end-of-taions-memories"><a class="header" href="#end-of-taions-memories">(End of Taion's memories)</a></h4>
+<p>The smiling, red-iris Isurd looked down on Taion, watching him grieved his past loss.</p>
+<p>"It's true... It is my fault..." His fingers slowly and tremblingly clenched into a grip, "You were the kindest man I knew, Commander..." Then, raised his tone two octaves, "But I made you use the same enemy tactic that cost Nimue her life..." He looked up at him, "I drove you to such desperation, and now... you're determined to kill me..."</p>
+<p>Calmly spoken, "Precisely right, Taion." As he finished, he turned to re-enter the torso of the Ferronis. Before he entered the door, he looked to his side, "The past..." then turn to him, in a vicious tone, "has come back to haunt you!" Then turned and walked in.</p>
+<hr />
+<p>Bang! The ferronis's leg dragged along the muddy ground, its "hands" tucked into the ground to increase drag, sending dirt into the air. The group, with water halfway up to their ankle, stood and watched. Isurd almost lose balance inside the ferronis control room, tempestuously snapped at them, "Lay down and die already!"</p>
+<p>As the ferronis tilted its head upwards, beams emanated from around the edge of its disc plate (that looks like a turtle's shell), top and bottom, in all direction. The beam randomly swing itself to cover all possible regions, though there was a chance it tracked down the group's location and, working together, chased after them. Beams that pierced into the ground sent dirt and rocks flying where it sliced through.</p>
+<p>The group groaned as they dodged the beam, flying backwards. Someone as agile as Mio acrobatically jumped sideways as it swooped past. As for the heavy Lanz, where he can't dodged, he raised a shield to block the passing attacks.</p>
+<p>Behind the ferronis, trees grew on top of the waterfall. There was a cement-looking building on one of the top, unsure what it was.</p>
+<p>Taion stood stationary, looking up at the Ferronis, shouted out,"Commander Isurd...! Please... Please, stop this now!"</p>
+<p>Eunie was rolling on the water before she got up on her feet, shouting, "Taion..." We could see two beams drilling through some rock and dirt, closing in to Eunie. She ran after Taion, hugged{{footnote: her hands around his neck}} and dislodged him just before a beam zoomed past his left. They were headed towards water.</p>
+<p>His attention locked to the Ferronis; he held out his left hand, trying to reach out for <em>something</em>, perhaps the commander's heart? His mouth wide opened, still trying to convince him. Time passed really slow. He could see the blue sky with mostly cirrus clouds, a horn stuck out to the left, blurred in the background, some trees at the edge of his vision; but mostly, the various feathers (of unknown species and unknown origin) that floated down; his hands, in a grabbing posture, trying to reach out to the one nearest.</p>
+<p>His trial wasn't futile; the feather floated closer and closer to his hands. As he blinked his eye, the Ouroboros symbol glowed in his left Iris, the feather finally within reach, and he grabbed on to it. Cyan lights covered his body surface as they plunged into the water, and splashed not just where they collide with it, and also around it.</p>
+<p>A bright light brought them into the yellow-smoke memory space. "<em>If you haven't used this power back there, you'll be... a win would've been a nice surprise... quick! we're going to miss the homecoming... first one they've ever had here, right? Eunie!!!</em>" On Eunie's side, Isurd and Nimue surrounded her, The swirling yellow strips swallowed as they transformed into globules, collided, and formed the Ouroboros Core.</p>
+<p>Water was rippling vigorously, ald temporarily calmed down a little, before the bubbling burst, splashing water up tens of meters up high.</p>
+<p>"What the...?" Isurd was surprised. Taion's Ouroboros, wearing a white robe, with female-like hands, black slim fingers; the conical-shaped sleeves that tightened around his elbow displayed veins of purple and orange (classical ouroboros color), cyan feather on the edge of the sleeve. We could also see cyan feathers arranged in flower petals behind his heads, and it seemed a visor attached to his forehead. A ring that grew out of his chest, tilted 15° to the vertical, it closed behind his head, and 4 feathers attached to it. It also had knee plates on its ankle. Oh, let's not forget the triangle mouth with metallic moustache.</p>
+<p>As it glanced at the Ferronis, water splashed meters high encircled it; with its fall, emerged more replicas of Taion's Ouroboros, all floating mid-air. Soldiers{{footnote: We could see not just normal soldiers, but also those wearing special helmet that probably protected them from sniffing in purple gas.}} on the ground aiming their guns incessantly changing their aims. Isurd himself was horrified to identify, switching his view angle as he questioned, "Wh-which one?! Which one's real?"</p>
+<p>He figured the easiest way to determine is to destroy all of them. Cannon beams zipped past, most of them burnt like burning papers, with smoke released, before turning into dust and paper scraps. "This one?!" He waved his hands to his left. Taion's Ouroboroses doesn't stay still after Isurd's initial action, dodging the beams athletically. Yet, the concentration of the beam caught up with them in the end, shattering them.</p>
+<p>"How about here?!" He now turned to his right, the same thing happened; he still hadn't distinguished him from his doppelgängers. His teeth gritted, he scanned for more; only paper scraps floated to the ground behind him{{footnote: All that we could see.}}. Then, something above the ferronis caught his eyes; he gaped at it.</p>
+<p>A massive boulder not much smaller or larger than the disc plate on the ferronis floating above it, shadowing it. Taion's Ouroboros was at the bottom of the boulder, 'creating antigravity' on it. As he lowered his arms, the boulder plotted a trajectory towards the top of the ferronis while Isurd watched effetely in horror. "Urg!" To prepare for the impact, he crossed his arms above his face, hoping it would've blocked it.</p>
+<p>The last moment before impact, the ferronis already lowered its torso to prepare for impact, they did not touch. The boulder disappeared into scraps of paper that polluted the atmosphere. The groups, Sena beside Lanz on a ground, Mio behind Noah stood on knee-high water, watched as the pieces dropped. The pieces shaped like Mondo, except there were red patches that decorated it.</p>
+<p>Isurd got out of his protective stance, feeling humiliated, "Wha- Another illusion?!"</p>
+<p>Noah held out his hands as a Mondo with drawn symbols on its back and triangles of red patches folded on it, landed on his palm{{footnote: And Mio watching.}}. The Mondo aptly stood up, waved at him, before turning to its left and jumped off.</p>
+<p>"Gh... Playing me for a fool?! <strong>AAARRRRRGGGGHHHHHH, I'll show you a fool! I'll blow you away, you and all your rustling phantoms!</strong>" Isurd turned around as he whipped the air, before sighting Taion in the distance, beside where a giant wheel-like structure half stuck into some platform. Exasperated, he activated the central cannon located on the chest of the ferronis. The metal structure opened up to reveal the cannon, its inner structure signifies those of an airplane's engine, pushed out of its chest before aiming at Taion's Ouroboros, gathering a huge yellow globules of energy only comparable to Ethel's ferronis's purple lightning ball that K maneuvered before.</p>
+<p>"Whoa... Intense... I can't defend against that..." Lanz, flabbergasted, shook his head in confirmation. Sena watched intensely at Taion's Ouroboros as she convinced herself, "If Taion took the Ouroboros form... I can too!" She sheathed her weapons as she ran towards the ferronis, calling out, "Lanz! Come with me!"</p>
+<p>"You insane!" Lanz was shocked. He stood up and sheathed his weapon.</p>
+<p>"Just trust me! Hurry!" She galvanized him to run after her!</p>
+<p>"<strong>It's over! TAION!</strong>" Isurd, his mind now totally hijacked...</p>
+<p>Sena, with an unwavering voice, the Ouroboros symbol started glowing her left iris as she made her speech, "Taion, all of you... I won't let this creep... <strong>lay a finger on anyone!</strong>" Lanz was now running beside her. At the end of the island was an elevated rock, which they jumped, hands reaching out as blue spirals engulfed them.</p>
+<p>"<em>Quick thinking Lanz... Get off me, had to be the hero... Come on, he's trying to protect you... just stop it... no more arguing... you gonna hit something...</em>"{{footnote:Sena almost toppled as she put a few steps in front just to rebalance.}} "<em>we... haven't met before, have we?</em>" The last voice was Mio's in Sena's memory; they both watched until yellow spirals encircled them, engulfed them, collided, and generated the Ouroboros Core.</p>
+<p>Still flying in mid-air, an Ouroboros with a pair of wings that shaped like palms, and two butterfly-winged shape 'knives' below it, floated behind her. Her braided hair formed a tail that resembled a whip, with a burning ring at the end of the 'whip'. It jumped and landed beside the left knee of the ferronis, palms holding in front in a 'ready to push' position. Jet engine flames burnt behind her 'shoes', which was like roller coaster, dragging along the ground. She laid her right hand on the feet as she continually dragged along its circumference until she reached a calculated position, stopped herself with another hand gripping on it, hugging its leg. Her eyes blinked a moment.</p>
+<p>Inside the control room, Isurd hadn't noticed her arrival until the ground shook below him. He turned and saw Sena's Ouroboros pulling its left leg upwards, the jet engine on her legs blasted at full speed, sending black smoke in the direction of of its blast, she shouted for strength "ErrrrrrrrrAAAAAHHHHHHH!!!!!".</p>
+<p>"Whhhhhhhoooooooaaaaaaa<strong>OOOOOOOAAAAAAAAHHHHHH</strong>!!!" Isurd was horrified as he lost his footings, his bent his knee and put his hands on the ground to regain balance.</p>
+<p>As she threw the leg up on to the air, she spinned along her vertical axis, her 'whip' transformed withdrawn and transformed into a hammer; the wings still on he handle side, while the giant hammer (with butterfly wings attached to its back) on the other side.</p>
+<p>"<strong>ErrrrrrrrrAAAAAHHHHHHH!!!!!</strong>" She launched herself towards the tossed leg, vision locked onto it, smashing it so hard it reached a new equilibrium: to land on its back.</p>
+<p>"<strong>No...! Unacceptable!</strong>" With Isurd voice emanating from the control room, the cannon aggregated to its threshold, a beam shot into the open air while the ferronis fell first on its left side{{footnote: The beam probably give laid some physics force on the ferronis, via Newton's third law, that changed its course slightly.}}, before landing on its back. We could now see the ferronis is actually turtle shape, and not two legs but four, just like a real turtle, now that its legs faced upwards.</p>
+<p>As it crashed down, soldiers and levnises were running for their lives. Some soldiers looked back just to get themselved tossed by the immense rippling shockwave, dragged along the water. Sena's Ouroboros clung tight to a rock stuck from underwater to prevent the shockwave from sending her flying off. Only now was Taion's Ouroboros floated and stopped landing, a relatively low height from the water surface.</p>
+<p>The ferronis wasn't giving up so readily. Its cannons retained its ability to fire despite being toppled. With such desperation, it no longer looked out for its own soldiers, the willingness to sacrifice whoever was in its way. Sena's Ouroboros jumped in all directions, dodging them with agile. She sometimes passed very near Agnian soldiers, the beam zwooped past and killed them while targeting her.</p>
+<p>Mio and Noah regrouped, back to back, overlooking the Flame Clock to their side (or rather, they stood in front of the Flame Clock). "The Flame Clock! It has to go!"</p>
+<p>As Mio finished her sentence, a beam sliced between them; they dodged to both sides, both their currently travelling paths joined to form an oval/ellipsoidal shape, each carefully avoided the beams. Noah started to chant Ethel's final warning, "Embers on coat... Brush them off."</p>
+<p>"If push comes to shove, do not flinch!" Mio continued the sentence. They ran to intersect one another.</p>
+<p>"Do whatever it takes!"</p>
+<p>Then together, "For the greater good!" Running side by side, blue lights enshrouded their surface, and...</p>
+<p>"<em>The dead don't think anything...They don't speak, to me... Stop crying, Lanz! It won't change anything... it's the feeling you...</em>" "<em>I was top of the rankings in all... is that why you're here?... is that why you're being an off-seer?</em>" They joined course into an Ouroboros Core, Mio's Ouroboros, purple hairs flowed behind like a waterfall. Rings attached to behind its elbow and to its side, with two more below the legs that acts like "ice-skater", though it was so light it could skate on top of the water surface. It also had a pair of cat-like ears.</p>
+<p>The beam tried to reach her, but she changed directions so fast it leaves afterimages. Perhaps Isurd had calculated where it would land in the future, fired several beams together at a single point, water vapor and smokes enshrouded his view. Yellow electric sparkles flowed through its surface.</p>
+<p>Suddenly, water splashed, together with Mio's Ouroboros, so high it seemed to reached the higher platforms where trees grew. Mio's Ouroboros did plenty of somersault while in air, until it reached the highest point the force could brought her to. Aiming at the central cannon, she pushed both legs and both hands behind to increase their speed towards the Ferronis, as she called out to Noah, "Better make it count!" Then, they cancelled the Interlink.</p>
+<p>"I was planning to!" He replied, Lucky Seven already unsheathed by the time they cancelled. His legs were folded to push forward faster, Mio behind him to provide a platform he could push on. She flew backwards into the air while he dived even faster towards the Ferronis.</p>
+<p>The ferronis central cannon was already at its tipping point, blasted in Noah's direction. He held out his left-arm gauntlet (the Lucky Seven sheathe that transformed) and surprisingly, it prevented the beam from going further, forming a 'heliosphere' of radiating rainbow around him as continued to move even closer to the Ferronis.</p>
+<p>As the beam came to a close{{footnote: Meaning, it blasted only for <em>n</em> seconds, and after that, no more.}}, he swung his body to his left, his left arm in a punching position, with the Lucky Seven horizontally position to his left, as if to slice something from left to right; he did slice it, though not for slicing the clock but slicing the air to give him force.</p>
+<p>As he targeted the Flame Clock, he grabbed the Lucky Seven's handle with both hands, its tip facing down, finally piercing into the Flame Clock. 'Lives' splattered from its wounds, immediately the high-pressure 'lives' splashed out analogous to a broken artery spilling blood. Less concentrated 'lives' splashed out towards the side, and the Flame Clock quickly drained of its gauge. No more 'lives' splashing out, but none within either, and the Ferronis shut down.</p>
+<hr />
+<p>Dual-blade Agnian soldiers surrounded the group, now cancelled their Interlink. Isurd dropped hands on the ground, his effete feet had trouble supporting his weight. He struggled back up, walked a few more steps and stopped beside an Agnian soldier, panting with each step.</p>
+<p>Taion dashed and stopped below Noah's blade, held his arms wide, blocking Isurd, whom was directly in front of Noah before, from progressing further. "Come on... Enough is enough, Commander... There's no reason for us to be fighting each other. If you still need a life to satisfy you, you can have mine."</p>
+<p>"<strong>Taion?!</strong>" Feeling unacceptable, Eunie loudly called out.</p>
+<p>Touching both hands on his heart, "If that helps put your heart at ease... <em>If it settles the debt I owe Nimue</em>... I'll do it."</p>
+<p>"Eehehehehehehehehe, <strong>AHAHAHAHAHAHAHAHAHAHAH</strong>!!!!" As if he heard the most funny thing ever, he laughed and laughed, and turned into a mud statue before crashing into the ground; a puddle of dark mud{{footnote: See second video; there were some rendering issue with first video that showed it gray.}} crashed into the light brown soil, forming a puddle of polluting substance.</p>
+<p>"Whuh?" Taion took a step back, the others sheathed their blades. "_C-Commander?!__"</p>
+<p>Riku and Manana joined the team from their hiding place, with Riku asking, "He turn into mud pie?" The other Agnian soldiers had their blade sheathed too.</p>
+<p>Above the mud, purple specks of particles gradually aggregated, and Consul J materialized before their eyes. He scanned the horizon left and right before speaking to the group, "Have you ever felt so much fondness, that it made you... quiver?"</p>
+<p>"Huh? That voice..." Something deep and stagnant in his memory triggered. Mio was curious.</p>
+<p>Pacing left and right, he introduced, "Long time no see... You forgot about me... I missed you... All these sayings that have to do with time... They ring so insufferably hollow, when you only have ten years on the clock. It doesn't feel real. But you know..."</p>
+<p>"No... It can't be..." Stopping few meters in front of Eunie, she realized it too.</p>
+<p>Turning to face them one by one as he called out names, "Noah... Eunie... Riku... Lanz... I have to tell you... I'm overwhelmed with emotion!" He raised his right hand, clicked on a button behind his neck; the helmet spiralled into nothingness, revealing his face, which the Kevesi gasped, eyes wide opened,</p>
+<p>Lanz, surprisingly, "Joran!"</p>
+<p>"<em>Sincerely... I'm on the verge of tears.</em>"</p>
+<p>"Joran... But you...!" He took two steps forward, can't believe his eyes.</p>
+<p>"Joran...?" Sena watched his reaction,</p>
+<p>Mio, one step behind him{{footnote: 8 o'clock}}, prompted, "You know him?" He didn't reply, but she recalled what she saw in his past memories, "Wait... <em>I</em> know him... Yes, Joran... amid the rubble and the flames..."</p>
+<p>Sena lightly called out, "He died in a battle with Agnus... They were all friends."</p>
+<p>Taion skeptically challenged the notion, "But wait... How does that work? H-How can he be...?!"</p>
+<p>Mio: "Assuming the memories we saw were correct... " She and Sena turned to face Noah, with Sena prompting for assurances,</p>
+<p>"Noah...?" He displayed in inscrutable face, though his quivering breathe a few seconds later gave it up. Lanz drew their attention, walking towards Joran, "Joran! You're... You're our Joran! Y-you were alive?!" He stopped a few steps away from him.</p>
+<p>In a gleeful tone, he returned the question, "Was I alive? Hah! Of course not. I did die on that day! Evidently! That's why I can be here now!" His speech moved with lively body emotions, putting his hands on his chest, then held it out in front of him, then held it out wide as if to embrace. "You can call me J! Guess what?" Using his right hand, he pushed the long dark green hair that hid his right iris so they could watch the glowing Moebius ring in it, "I'm a proud member of Moebius now!"</p>
+<p>"<strong>No...! You can't mean it...?!</strong>" with a shaking voice, Noah, and the other Kevesi, took a step backward, couldn't believe their eyes.</p>
+<p>"J-Joran..." Eunie sadly, softly called out.</p>
+<p>"You see, they gave me this incredible power... I can take... people's memories... and refashion them into my very own mudpuppets." He squatted down to look at the pile of mud Isurd formed.</p>
+<p>Lanz: "Mudpuppets...?"</p>
+<p>"'Refashion' my wings!" Her tone suppressed her anger.</p>
+<p>He stood up, took a few steps to his right before teleported behind an Agnian soldier, stabbed him with a short knife from behind. The group gasped at what he did.</p>
+<p>"N-not yet... I can still..." The soldier called out, his tone getting deeper as he turned into a mud statue, then fell under gravity, creating another puddle of mud in front of Joran. The group breathe shakily, can't believed their eyes, nor could they assign the current Joran to their Joran in memory.</p>
+<p>His knives held out, he teleported and repeated the same thing; this time, a female soldier, but her tone nor her fate changed, "I don't wanna die! Don't make me die here, please!"</p>
+<p>"I told you we shouldn't have come here... You just had to make me..."</p>
+<p>He explained; the group had been facing him even as he changed target: "The body may be mud, but their minds are the real deal. But without hearts, they're pretty quick to tell you what's on their minds!" This time, he didn't teleport, but walked slowly in a circle around the group.</p>
+<p>"Grrrrffffttt!!!" Taion angrily snorted, but effetely didn't stop him.</p>
+<p>"Joran..." Noah pitifully watched what he did.</p>
+<p>"To be honest... These nobodies are beneath me. Noah, Eunie, or Lanz... <em>You'd</em> make good puppets." As he finished the last of the Agnian soldiers, his tone turned gloating, "What profound and clear-sighted words would your cold lips utter? I've so wished to hear... Why did you have to go and become Ouroboros, hm? <em>Hehehehehehehehheheheheh...</em>"</p>
+<p>Eunie questioned him, "J-Joran... You were never like this! What did they do to you?!"</p>
+<p>"What do you think you knew of me? You didn't know anything." Her assumptions challenged, she can't believe it. "I am only myself, Eunie." In disappointment, she looked down.</p>
+<p>"The realest, truest, me! <strong>I don't need to hide any more! I can finally be me!</strong>" He bent forward, his eyes wide opened, hands held up with palms facing his face, "Becoming Moebius? Best thing that ever happened to me!" Touched his right hand on his heart, tone getting higher and higher, "I want you to feel it...! Feel the joy I feel!" His hands wide opened, as if to embrace them, "<strong>Feel my absolute elation!</strong>" Then, he drew his weapon, prepare to fight them.</p>
+<p>Final note about the environment, there was a bridge behind where he stood, trees and rocky hills in the distance. It seemed like a waterfall falling into unlimited zone{{footnote: "unlimited" means "inaccessible", which means, no game data available, which means, if you jumped down, you'd get teleported to a checkpoint near where you jumped.}} below the bridge.</p>
+<hr />
+<p>(After the fight)</p>
+<p>The group sheathed their blades, Joran eyes wide opened, embracing, asked for feedback, "Did you get a good taste of it? Of my elation...?"</p>
+<p>"Cut the crap!" Lanz clenched his fist, utterly disappointed with him, "What're ya droning on about?! I don't buy it... I refuse to believe you're him...! You aren't our Joran! <strong>Joran saved our lives!</strong>"</p>
+<h4 id="start-of-kevesis-memories"><a class="header" href="#start-of-kevesis-memories">(Start of Kevesi's Memories)</a></h4>
+<p>Dark and dusty sky; not even the raging flames could lit its vicinity. Patrolling Agnian levnises slicing buildings where it passed, which exploded. Along a path, young Noah leading the way; Eunie, Joran, and Riku followed behind, panting; Lanz and Garvel last. Explosions released shockwaves that shook the ground.</p>
+<p>There was a "meteor" that blasted at a building 11 o'clock their direction, shattering a metal beam support, it fell towards where the group were about to trespass. "Yurrrrrrrrrr<strong>AHHHHHHHHH</strong>" They darted, jumped, dragged, and rolled on the ground, barely dodging the beam. Unfortunately, Lanz and Garvel didn't made it. His lower torso buried by the beam; Garvel completely under. Lanz had trouble dragging himself out, "UUUUURRRRRHHHHH!!!"</p>
+<p>"Lanz! Garvel!" Noah called out, he darted a few steps, but Eunie held him back by his arms,</p>
+<p>"No time! Look! Above!" Flames raging behind a whole storey made of metal, flames sparkles where beams were supporting it. It tilted 10 extra degrees towards their path.</p>
+<p>"We can't-"</p>
+<p>"Noah!" Eunie cut him off. He turned to look at her. Lanz was still groaning as he tried to force himself.</p>
+<p>"Move it!" Garvel called out to Noah and the others.</p>
+<p>"Lanz!" Noah watched back in agony.</p>
+<p>"We can take care of ourselves! Just go!" Noah gritted his teeth between the decision to leave or to save him, frozen. Eunie still held his arms. Joran didn't wait; he darted towards Lanz and Garvel, supported himself to push the metal beam upwards.</p>
+<p>Lanz was surprised. "Jo-Joran?!"</p>
+<p>"Nggggggggg..." It was too heavy for him. "Wh... Why are-" Garvel equally.</p>
+<p>"You dumb clod... Come on... Joran..." Lanz hoped he would run and save his asses. Joran adamantly ignored and continued his effort. That convinced Noah and the others,</p>
+<p>"Joran!" He dashed towards him, the others followed. Together, they raised the beam enough for Lanz to climb out.He held his hands to Garvel thereafter and pulled him out too. The beam crashed onto the floor as the group released their push; Lanz was sitting down. Garvel on all fours; Riku and Eunie rushed to help him up.</p>
+<p>Noah turned to Lanz, held his hands to offer him a pull, "You hurt? Can you run?"</p>
+<p>"Yeah, more or less..." As he stood, he turned to look around him. Eunie hold on to Garvel's arm; he found Joran panting to his right, questioned, "Joran... Why...?" Their eyes met, disturbed by Noah's arm on Lanz's shoulder,</p>
+<p>"We should go!"</p>
+<p>Lanz turned to face him, "Yeah." The group continued running, Joran and Lanz stood still for a moment. He nodded to Joran before they started walking, with Joran a step behind{{footnote: To his 5 o'clock.}}</p>
+<p>Metal creaking sound caught Joran's attention. He turned to back, upwards, and whimpered horifically. The group stopped at the distress signal he sent. "Huh?"</p>
+<p>The metal storey finally put too much stress on its support, came crashing down towards Lanz and Joran.</p>
+<p>"Watch out!" Joran, his hands on Lanz's chest, shoved him away. His action took him aghast; his eyes fixed on him. Flames burning behind, rocks tumbling around, Joran smiled back at him, his destiny fulfilled. Lanz's right arm held out, his last effort to reach him in agony. Smaller and smaller as he flew farther and farther; separated by an imaginary sheathe of rocks and pebbles, before the whole floor buried him alive.</p>
+<p>"Ahhhhh!" The ground shielded their face from the dust and shards; Lanz effetely sat on the ground; the group took a moment to realize what they had lost, forever.</p>
+<p>"Joran...? Joran?" He stood up and took steps toward the debris, only to had Noah grabbing his left arm. Unconvinced, he forcefully pushed, "Joran! <strong>Jooooraaaaaannnn!!!!!</strong>" Noah hugged him from behind, dragged him away as more rubble, flames, and rocks covered the existing remnants. What was buried was not only Joran, but his choice to apologize, his choice to say, "Thank you."</p>
+<h4 id="end-of-kevesis-memories"><a class="header" href="#end-of-kevesis-memories">(End of Kevesi's Memories)</a></h4>
+<p>"You don't get it? You honestly don't get it? In that instant, I rose above you miserable fools! By saving your... worthless! Piddling! Lives!" He held his hands in front of him, as if clenching his fist would crush Lanz from his head into his torso{{footnote: Due to distance, your hands can 'measure/grab' huge object, like trees, imaginarily, if you stood far enough from it, if you get what one means.}}. Joyfully, "It was indescribable, Lanz!"</p>
+<p>Lanz took a step backward, disappointed at his adamant, sharing no similitude in emotions. Noah looked at him pitifully, "Joran..."</p>
+<p>"Ahh, wasn't this fun?" He turned with his back facing them, "I guess I'll call it a day here." He dancingly took steps forward, "Can't be hoarding all the fun for myself now. Gotta leave some for the next guy or gal."</p>
+<p>"Say what?" Lanz was flabbergasted. With his back facing them, Joran spoke,</p>
+<p>"I should thank you, Lanz." Lanz's contracted his eyelid's muscles as he watched Joran turned to see him from the tip of his eyes, between his long hairs, "'Cause I get to be like this now, and I owe it to you." Purple particles arose from his body as he spoke, "Toodles!" Then disappeared into thin air.{{footnote: As one mentioned, there were rendering errors with the first video, no purple particles; see the second video instead.}}</p>
+<p>The group retained vision where he left for a moment while they calmed themselves, their minds unconsciously sorting out the clash between sorrow and gleefulness that filled the atmosphere.</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="19_riku_manana.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="21_lambda.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="19_riku_manana.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="21_lambda.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

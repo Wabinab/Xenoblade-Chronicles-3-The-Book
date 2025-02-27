@@ -1,0 +1,407 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Bolearis&#x27;s Tale, Ethel and Cammuravi - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html" class="active"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="boleariss-tale-ethel-and-cammuravi"><a class="header" href="#boleariss-tale-ethel-and-cammuravi">Bolearis's Tale, Ethel and Cammuravi</a></h1>
+<p>Mushroom packed in sacks, giant turnip laying beside. Noah inspected the quantity and quality, stood up and sighed with a relief, "All right then. That should be us good for food now."</p>
+<p>The group gathering around, Sena seconded, "Yeah! Looks like that'll last us a little while."</p>
+<p>Grass rustling from behind; Mio's sensitive ears first picked up the signal from the background noise. She turned to investigate the direction. Taion was alarmed, "What's wrong, Mio?"</p>
+<p>A second sound alerted the group, whom quickly turned and withdrew their blades, with Lanz shouting, "Who's there? Come out!"</p>
+<p>Limping, he appeared from behind the bushes. Noah gasped and sheathed his blade, surprised, "Bolearis?"</p>
+<p>Holding onto one of his injured leg, he panted hard, unable to speak, finally could catch his breath.</p>
+<hr />
+<p>A bonfire was lit while the group gathered on one side, surrounding Bolearis, whom was being sat{{footnote: This is funny in French, because it's called <em>je t'assieds</em>, even though that's probably not the right way to use...}} on a chair. Eunie casted a healing ring targeting him. A few moments later, "Yeah, much better... I owe you."</p>
+<p>Now that he could speak, Noah initiated the questioning session, "What are you doing over this way? I thought you were going to the Castle?"</p>
+<p>"Yeah... No, I went. Annndddd this is what I got for my trouble."</p>
+<p>"So, tell us, what happened...?"</p>
+<p>He closed his eyes and recall.</p>
+<hr />
+<p>(Some time earlier...)</p>
+<p>Ethel vehemently questioned, "<strong>But why, Your Majesty? Why would you attack Colony 4?!</strong>"</p>
+<p>N answered in her stead, "You came into contact with Ouroboros, did you not?" Ethel gasped at his interrogation and, how did he know that? He  continued, "I'd call it... burning out the <em>contagion</em>."</p>
+<p>"C...contagion...?"</p>
+<p>Borealis retorted "You're implying we've been contaminated?!"</p>
+<p>"Have you not? You have been removed from the protection of the Flame Clocks. You no longer need to wager your lives in battle."</p>
+<p>The Queen added, "Who struggles not in life, deserves not to live. That is the compact of our nation, and moreover, the truth."</p>
+<p>Ethel was disappointed, "Majesty... My Queen..." Her hopes had dwindled.</p>
+<p>N continued, "Yet, to punish you all for fate's machinations would be a misstep. Therefore... I shall grant you a chance."</p>
+<p>"What must I do?"</p>
+<p>"<em>Eliminate Ouroboros</em>."</p>
+<p>Her eyes widened, gasping for a second time. He eliminated her hopes; she struggled to reply, "You want me to-... Noah, and the rest...?!"</p>
+<p>"Naturally, I am cognizant of the fact that the enemy is wily and capable. I have no intention... of sending you alone." While he was speaking, O and P accompanied someone with silver legged plates coming into the scene from behind Ethel; but she hadn't noticed with N drawing her attention.</p>
+<p>Hearing footsteps, she turned and saw O and P stopped, sandwiching him. "Huh! <em>Cammuravi?!</em> Wh-Why are <em>you</em> here...?" The shock she experienced in her whole 9+ terms probably was far less than those experienced on that day.</p>
+<p>Cammuravi calmly called out, "Ethel..."</p>
+<p>Bolearis was flabbergasted: "H-how? But you're not even on the same side!"</p>
+<p>N smiled, "Entertainment."</p>
+<p>Both turned to him, Ethel asking for "Pardon?" Cammuravi eyes widened and turned to him, would also like an explanation.</p>
+<p>He explained, "Those who have been released from the Flame Clocks sacred indenture... cannot be affected by the Moebius Iris. To bring you back under control, I would have to force your rebirth... But that wouldn't be nearly as fun..."</p>
+<p>The Queen added: "The power you two wield surpasses even some of our Consuls. I have great hopes for you... Ethel. Cammuravi... "</p>
+<hr />
+<p>"They gave Ethel, and Cammuravi, new Ferronises. They've been made, specifically to kill Ouroboros."</p>
+<blockquote>
+<p>In a dark room, Ethel was looking at a giant Ferronis with two huge rings behind each shoulder, some blue lights illuminating from the inner circumference of the ring, and other body parts of the Ferronis. Its head shaped like rabbit, with two conical drill pointed out from both sides where human ears would have been located. Just below its chin, purple flames (neither of Kevesi nor Agnian origin) roared more than half-filled in the Flame Clock.</p>
+</blockquote>
+<p>"The tune-up... might take a little while. Though... You don't have much time. The two of them are after your heads." He spoke with a low tone, perhaps tired, or perhaps dejected, or maybe that's just how he spoke.</p>
+<p>Noah asked for affirmation, "You're sure of this? Really?"</p>
+<p>"That's why I came here. To give you warning. They already know your rough position. That's how I found you in the first place."</p>
+<hr />
+<p>In a dark room, information transmitted to Bolearis Iris as he asked, "What's this?" There was only some red lights that certainly wasn't use to lit up the room.</p>
+<p>Facing him, Ethel replied, "Plans of the Castle. They were tuning up my Ferronis when I 'happened' upon them. They include schematics for the Annihilator. Take them, and go back to Colony 4."</p>
+<p>"Commander, you mean...?" Her eyes tightened as she nodded.</p>
+<p>"If they can find us wherever we are, I want to at least secure a way for us to put up a fight. Am I wrong?"</p>
+<p>"Huh huh huh... But Ma'am, we can't very well-!"</p>
+<p>She ignored his rebuffal{{footnote: This word isn't in the dictionary, but one rephrased it based on the word "rebuff". Just like rebuttal is to rebutted.}}, "Also, about Noah's group... If you happen across them, tell them this: I <em>will</em> use lethal force... Yes?"</p>
+<p>Bolearis tried to read what she's transmitting via eye contacts. This is the time to test their tacit agreement.</p>
+<p>She continued inscrutably, "Furthermore, tell them I wish them all the best of luck, I hope they reach their goal."</p>
+<p>"Commander..."</p>
+<hr />
+<p>Running, he navigated the Castle factory patrolled by levnises and soldiers,{{footnote: This is the Mechon Factory in Xenoblade 1, if you'd played that before.}} checking that they weren't looking as he sneaked through junctions. Before exiting the front entrance, two soldiers were busily chatting and missed him running in the other direction.</p>
+<hr />
+<p>Back to the present. Sena exclaimed, "Oh, Ethel... She sounds serious..."</p>
+<p>Mio, in her appreciation stance, was touched by her words,  "And still, telling us to just... keep going...?"</p>
+<p>Bolearis: "That's Ethel for you. Hard-headed as they come."</p>
+<p>Noah asked, "Won't she get into trouble? Because of you slipping out?"</p>
+<p>"Hardly... I'm just one missing footsoldier. No one's gonna pay it any mind."</p>
+<p>Eunie wasn't convinced, "Huh? But your wounds earlier...?"</p>
+<p>"Ha - truth is... They're from falling off a cliff on the way here. It was dark as snuff. Hahahahahaha..." Bolearis just laughed it off.</p>
+<p>"<em>Are you tuggin' my wings?</em>"</p>
+<p>"Well, anyhow. It's nothing for you lot to fret over. This is our problem now. You focus on achieving your objective."</p>
+<p>Noah: "We appreciate it." We now could see the a body of water, river or pond, running behind him. We'd expect the lush trees and undergrowth around the area. The bonfire was put out, though some charcoals still had sparks on them; perhaps not long ago it burnt.</p>
+<p>"Eh but maaann... Why's the commander gotta duke it out with you lot, eh? And why was our foe Cammuravi there, the <strong>Aspar</strong>? Feels like the whole world's turned on its head." As he stood up, he announced to the group, "All righty. I'm headin' back! Got it? You lot scoot on along out of these parts. There's still some time before they're done tweaking. And with you on foot..."</p>
+<p>Noah cut him short, shook his head,  "We're not running away. Not after all this."</p>
+<p>"Huh?" He was baffled.</p>
+<p>Mio seconded her de-facto partner, "I'm staying too."</p>
+<p>Sena turned to look at her, surprised, "What, really?"</p>
+<p>"That light we saw, a while back... If that... If that had come from the Annihilator... <em>Even</em> if we were to somehow reach our destination, if it was at the cost of all <em>your</em> lives, it wouldn't be worth it!"</p>
+<p>"Hmmmmph..."</p>
+<p>Mio continued, "Surviving like that... I couldn't bear it..." She dropped her head as tears started to aggregate.</p>
+<p>"Mimi..."</p>
+<p>"Mio..."</p>
+<p>Noah turned his glance from Mio and spoke strictly to "Bolearis. The Castle plans, can you share them?"</p>
+<p>"Noah... You're not...? You wouldn't..."</p>
+<p>"The fact remains - it was <em>us</em> that destroyed your Clock, therefore... "</p>
+<p>"Yes, but that's-"</p>
+<p>"Either way, I think it's clear at least part of the blame... lies with us. It's only fair, then, that we destroy this 'Annihilator'. Agreed?" Feeling beholden, he turned to look to Mio, whom returned glance and nodded.</p>
+<p>Eunie still thought they were kidding, "You for real?"</p>
+<p>Lanz, now stood up from sitting on his chair, "I'd be up for a little <em>detour</em>."</p>
+<p>Sena: "Same here."</p>
+<p>Bolearis looked to them for a few seconds in silence, as Taion the coolheaded added, "You did offer us shelter. That creates an obligation."</p>
+<p>Riku added, "No way around! Someone here need to keep friends in line. Count Riku in."</p>
+<p>"If plan on fighting, will need first-rate chef too!"</p>
+<p>Eunie looked at them all agreeing, and she's the last, "Uhh..." She turned her glance from Manana to Mio, whom was looking on the floor. She remembered what they had spoke before:</p>
+<blockquote>
+<p>"<em>And that's it? No looking back?</em>"</p>
+<p>"<em>While my de-facto partner's running full steam ahead? I mean, I can't very well go backwards, can I now?</em>"</p>
+</blockquote>
+<p>She contemplated, lowering her head slowly during the process, before announcing in a wham-bam-whatever-ma'am{{footnote: One took this and tweak it from 'The Undoing Project' book.}} manner, "...Oh fine, go on then. You wouldn't make it far inside the Castle without a proper Healer, anyway."</p>
+<p>In her appreciation stance, Mio was glad of her support, "Eunie..." Taion looked to her, not sure what he was thinking, perhaps surprised she'd make the improbable choice?</p>
+<p>Bolearis give in after a few seconds, "Thanks, guys... You're the best."</p>
+<hr />
+<p>Next morning, a rainy day. Seemingly where they camped before when the tirkins stole their food. The group looked as Bolearis was about to head towards where the giant tunnel made of tree trunks we saw before. At a distance, they were making their final goodbyes.</p>
+<p>"I'll head back to Colony 4, in case the shit hits the fan. Good luck then, to all of you."</p>
+<p>Noah replied, "Yeah. We'll be all right." Bolearis nodded to him before the group watched him off.</p>
+<p>Some distance later, Taion warned, "Remember, we're up against a Castle. Get too close and we may come under fire. What's our plan?"</p>
+<p>"I think we'll be able to manage, as long as we're careful."</p>
+<blockquote>
+<p><strong>Noah's memories:</strong> Metallic floor, night time. Buildings placed around the side of the broad path, so broad levnises could drive through side by side! We could see a levnis parked in the distance, barricade set up that faced the side of the road for no reason. Soldiers speaking with each other. Noah stopped as others walked pass him. Behind, we could see a building emitting purple smoke from its windows. Looking up, he gleaned at the Castle, the pitchfork and dual flame clock at the very top.</p>
+</blockquote>
+<p>Lanz recalled with his arms crossed, "Come to think of it, you used to go to the Castle for off-seer training once a year, right, Noah?"</p>
+<p>Noah nodded. Taion pressed for more concerns, "The black fog... Is there much there?"</p>
+<p>"There's actually quite a bit. Around this time, the whole area is shrouded in it. They couldn't find us in that cave in Nih'l Valley, right?"</p>
+<p>Mio questioned, "And you think... we can repeat that?"</p>
+<p>"Maybe."</p>
+<p>Taion balanced the probabilities, "Using the fog to approach is clever, but risky... What if an annihilation event occurs?"</p>
+<p>"You know, I hadn't really given it much thought up until you mentioned it, but... oddly, it hasn't been happening."</p>
+<p>"Seriously?"</p>
+<p>He nodded, questioned in a lower tone, "I'm not sure why." Moving on, he touched his temple twice and brought up the Castle plan Bolearis had sent them, continued, "Behind the Castle, there's an ether deposit being mined, in an area facing a lake." That was on an island connected to the castle via a bridge. "The ether being obtained there is then delivered into the Castle through a freight entrance."</p>
+<p>The others received the map data on their Iris, with Eunie questioned after she deactivated hers, "So that's where we'll get our sneak on?"</p>
+<p>He affirmed, "There won't be anyone in the containers. If we can just get to them, without being spotted..."</p>
+<p>Mio looked at him in the eyes, continued his words, "Then we can get into the Castle." He turned to her as she spoke and nodded thereafter.</p>
+<p>Sena, in a pose like Taion's thinking mode, tracked the logic, "OK, let's assume we do give the guards the slip. What do we do once we're inside the place?"</p>
+<p>Noah called out in a louder voice, "Taion. The sensors. What was the Colony 4 soldiers' search radius, with the fog out?"</p>
+<p>"Their scanning range... I'd put in the ballpark of 15 metri."</p>
+<p>Noah touched his iris, looked at the map to check the calculations. Moving through the freight entrance in first person view, he signaled, "Look here. In the reserve area, there's a maintenance hatch that leads directly to the outer wall." Pitching up, we could see a ladder-like scaffolding that slanted towards a window. "If we make it through here and get to the main housing... It'll land us in front of the Annihilator." Behind the door was a platform facing their destination; in between the two platforms were some empty space, with a giant ring structure beneath, and some cross section that connect the giant ring with other smaller interior ring, and ring at other levels.</p>
+<p>Lanz seemingly agreed, "Less chance of being spotted by troops outside, too."</p>
+<p>Sena upvoted, "We can do this."</p>
+<p>Taion reconsidered for any unthought concerns and raised, "There's one concern. The Castle is the Queen's residence. What if we're found by the Consuls?" It's funny, they look at each other while looking at their maps, hands still on their temple.</p>
+<p>Noah replied, "Then I guess... we'll have a fight on our hands." Raising his voice, "But it's not like we don't have a retreat. Here." He plotted a route from a window just behind where the Annihilator was positioned. That window zig-zagged across and brought them to the opposite end of the Castle.{{footnote: Okay, somewhat opposite end, though not perfectly lined.}}  "In Keves, after a Homecoming... They wash away the belongings of the dead, as part of a ritual. It's an understated affair. And the channel they use for it... is here. It flows straight out, connecting to the lake outside the Castle." The lake was a small island, below the exit of the 'river', the island so small it seems insignificant compared to the size of the Castle.</p>
+<p>"I see... So, we open a hatch near the Annihilator, ride the current, and we <em>should</em> come out right at the lake." Noah nodded back as they deactivated their Iris.</p>
+<p>Eunie was complaining on the meantime, picking the tip of her wings as she spoke in a high tone, "More snuffin' water. <em>Every time we run... why do we always end up getting drenched?</em> I mean... Feathers are a bitch to dry."</p>
+<p>Sena just smiled back at her, while Lanz crossed his arms and rebutted, "Every time being our grand total of once."</p>
+<p>Noah joined in, "Well, let's just hope we don't have to fight. That's the ideal case."</p>
+<p>Mio: "That's it, then."</p>
+<p>"<strong>Mmm</strong>. Ready whatever supplies you need. Then we can go."</p>
+<hr />
+<p>Birds chirping from where the group were about to travel down a huge tree trunk/root that swivels toward the bottom layer of Maktha Wildwoods. The modern dilapidated buildings had their ground floor{{footnote: The translator read about UK calling ground floor ground floor, but US called it first floor; but that was from a book in the 1970s, not sure if they'd changed it or standardized it. Anyways, one used the UK format, so one don't know; though this book is written with English US ahem ahem.}} located on the bottom layer. Purple liquids, presumably poisonous, filled large area of the lands below, creating purple lakes. The lack of ventilation contained the mist in the area. Looking down, Eunie said to Lanz and Riku, feeling dissuaded, "Er, are we really going this way?"</p>
+<p>Lanz replied, "I can't see any other way to the Castle, can you?"</p>
+<p>The others were waiting for Taion to check the map, perhaps for an alternative route. As he deactivated his Iris, he turned to Noah and shook his head, whom commented, "I don't want to drag our feet getting there. Be careful crossing through, yeah?"</p>
+<p>Eunie dropped her head, effetely replied, "Are you joking me..."</p>
+<p>Sena questioned, "Afraid of heights, huh?"</p>
+<p>She snapped back, "Not afraid as such, but if we fell from here, we'd, like, die? Instantly?!"</p>
+<p>Punching her fists on to the air, "If Manana think something tasty waiting on other side, then Manana can be brave." Sena nodded her head in her encouraging stance. Eunie just dropped her head one more time.</p>
+<p>Taion commented, "If we can make it across, we'll almost be out of Maktha Wildwood."</p>
+<p>Mio: "Just one more hop to Keves Castle."</p>
+<p>Noah turned to look back at the modern dilapidated building, the group followed his glance to check out what he saw, as he remarked, "We'll probably have quite a good view of it from over there."</p>
+<p>Well except for Eunie, whom contemplated and compromised, "Fine, fine, I get it! Let's just get this over with!" Then, she led the way as the group followed, hoping to quickly get the snuff out of there.</p>
+<hr />
+<p>To the right of Ethel's Ferronis laid Cammuravi's. It had a crescent horn, seemingly wearing a coat, and the flame clock also of purple origin, except they're burning clockwise; while Ethel's burned anticlockwise. There were some platforms that allowed reaching the torso of the Ferronis.  Cammuravi and Ethel were standing below in between their Ferronises.</p>
+<p>Not looking at each other, though standing at a distance side by side, Ethel started the conversation, "Of all the ways we could meet again, it ends up being this. The irony of it all."</p>
+<p>"We are bound. That is how I see it."</p>
+<p>"Bound? That certainly sounds like you. You're talking about..."</p>
+<p>Closing his eyes, he replied, "Fate. I think, that is how you would put it."</p>
+<p>Looking down to think for a moment, before looking up seemingly into the sky but perhaps at her Ferronis, "Fate, you say..." Then, turning to look at Cammuravi, she questioned, "Why? Why did you agree? To be reborn?"</p>
+<p>He turned to her, "So you know?"</p>
+<p>"There were rumors. That you were imprisoned. That you took the blame for the Colony's seizure."</p>
+<p>"It was only fitting."</p>
+<p>Reminiscing their battle, Ethel continued, "Perhaps I should have killed you there and then."</p>
+<p>But he hadn't got much time left. The central dot was the only red, but his was even fainter than Mio's.{{footnote: Translator don't know if Homecoming is once per year, or once per month, or what frequency it's held at. But later, we know it's held during an eclipse, but is eclipse even happening once in every n years or something?}} "Only through death... can our feud be resolved." Looking up at his Ferronis, "In a way, I am grateful. Now that I have been blessed with a Ferronis, and another chance."</p>
+<p>"Another chance..." she looked back at her Ferronis. She recalled her speech with P when she brought her to her Ferronis earlier.</p>
+<blockquote>
+<p>"A Ferronis? This is for me?"</p>
+<p>"Absolutely. It's been tailor-made to suit your every need. The same goes for his Ferronis... So, you'd better make the most of it, with what life you have left, hm?" The room was dark, but two beams of light shone, one on Ethel's, another on Cammuravi's.</p>
+<p>"Huh..." She didn't spoke anything, but looking back at her Ferronis, she gasped as something shocked her, caught her attention.</p>
+<p>"You've noticed! Good girl. I guess they don't call you Silvercoat Ethel for nothing. What a clever thing you are." Turning to the Flame Clock, she explained, "Those ones are a bit special. They're tied to both yours and Cammuravi's lives."</p>
+<p>"Huh!"</p>
+<p>"The more the two of you get heated up, the more your power grows! Ahh! Doesn't that <em>sound sublime</em>? Even though you're released from the struggle of life, your precious life force... will connect straight to <strong>Origin</strong>."</p>
+<p>She tried to read whatever signals she may had conveyed, didn't questioned what is Origin, and just looked back at her Ferronis. The purple flame clock roars up to three-quarter of the gauge, searing hot.</p>
+</blockquote>
+<p>Back to the present, we could see behind them were soldiers and levnises patrolling the area, seemingly not noticing Cammuravi being an Agnian? Cammuravi directed a question to Ethel, "Ouroboros... They showed me their image, but just who are they? They seemed like soldiers from Keves and Agnus, but are they human?"</p>
+<p>Closing her eyes, she replied succinctly, "They're hope."</p>
+<p>"Hope?"</p>
+<p>"Dreams... Desires... The future. Yes... They are hope, personified."</p>
+<p>"Indeed? They are your hope?"</p>
+<p>"They are everyone's hope... Yes."</p>
+<p>Their tacit agreement don't even require them to speak their intention clearly to make their final decisions, "I see... Then there's only one choice."</p>
+<p>"Yes. Only one."</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="26_maktha.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="28_exchanging_flutes.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="26_maktha.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="28_exchanging_flutes.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

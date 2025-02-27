@@ -1,0 +1,330 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>The Time Is Nigh - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html" class="active"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="the-time-is-nigh"><a class="header" href="#the-time-is-nigh">The Time Is Nigh</a></h1>
+<p>Unrepaired roads, buildings with their metal grids{{footnote: Roads, buildings, all have metal grids within the cement to support them, if you don't already know.}} sticking out from its walls. As the group reached the ledge, the Keves Castle a silhouette in the distance. Trees filled the landscape below them and in front of their vicinity; a giant tree the size of Yggdrasil to the right of the picture. There were some lower storey rectangular buildings at the lower level in front that seemingly encased an outdoor area within it, now overgrown with trees. In between the forest and the castle seemed like a sea. The group stopped overlooking the scenario.</p>
+<p>Mio commented, "There's Keves Castle... It'll still take a while on foot."</p>
+<p>Noah turned to the group, "We'll rest here today, then head out at first light." Eunie nodded back.</p>
+<hr />
+<p>Noah and Taion stood beside the bonfire, speaking. Manana was speaking with Eunie, while Riku helping Sena with sit-ups. Lanz and Mio were in a distance, cleaning up the dishes. The moon gleamed dimly in the distance. As Lanz passed the dishes to her and she scrubbed them under running water{{footnote: God knows where do they have piped water in the middle of nowhere.}}, and passed back so he could rubbed them with a towel.</p>
+<p>Mio tried to start a conversation, "What a relief. I was worried, about the water." She handed him a plate, he took it first before passing another plate to her, only then he rubbed it dry. He didn't answer her comments.</p>
+<p>As she tried to change hands, her grip on the plate got loose and it fell onto the floor.{{footnote: It sounded like glass, but it didn't break!?? Bulletproof glass plate it is.}} "Ughhh..." The plate reverberate for a moment before coming to a rest.</p>
+<p>Lanz, alerted, turned to her, concerned, "You all right?"</p>
+<p>"Y-yeah! My hand slipped. I better wash this again." She squatted down and picked it up, continued the washing, ending the conversation stiffly. He didn't believed; she had been losing strength for the past few days.</p>
+<p>"Hm..."</p>
+<hr />
+<p>The moon shone between the clouds. Sitting herself on an elevated rock overlooking the moon, her mind wasn't on the scenery. She tried to feel the flute she held on her hands while she looked forward, lost in thought. Occupied, she looked down as she held up her right palm, questioned, "Am I... losing feeling?" She moved her fingers, attended to its dexterity{{footnote: from the word 'dexterous', one wanted to call it dexterousity but oh well...}}. Is it still moving as one want? Is it growing weaker? Is it numbing? Is it less dexterous? Then, she gently caressed where her term symbol was, uncertain of her days left.</p>
+<p>Noah interrupted her private time, sounded from behind, "Tomorrow, we'll finally reach the Castle lands. I want us to be at our readiest. We should run one final check of everyone's equipment." She turned and saw her stopped by a distance behind. Turning back and curled forward, with a quivering tone, she signaled indirectly,</p>
+<p>"Fine for you, isn't it? All that... time you've got."</p>
+<p>"Hm?" He tilted his head to try make sense on what she's trying to convey.</p>
+<p>"We keep taking this at such a casual pace. Now Swordmarch... seems so distant."</p>
+<p>"Mio?"</p>
+<p>"What am I even doing...? I can't..."</p>
+<p>As his eyes glanced left and right, finding the logic to persuade her, "You still have two months left. If we take care of this now, we can ensure the Colonies' safety. Just maybe, we can make an ally of people in the Castle. It'll make getting to Swordmarch a bit easier-..." He tried the logical approach when Mio felt visceral, and the result? Altercation. The more he spoke, the more stones pressed against her heart, and she gripped her hands, clenching it into a fist slowly, now free of holding her flute...</p>
+<p>Stood up, she turned to him and retorted, "'<strong>Still</strong>'? It's two months! Might as well be nothing!"</p>
+<p>His eyes looked left and right for a rebuttal, "But... I... You did... agree to do this..."</p>
+<p>"Well, yeah, but... I know I did, but..."</p>
+<p>There was a moment of silence between as they were considering how to deal with the situation. Noah still prefer the logical way of persuasion. He turned away from looking at her, feeling uneasy as he searched for the 'right' words, "Look, I know... it was a snap decision. I understand why you're upset. Let's just... take it easy tonight, take a moment to breathe."</p>
+<p>Her lips shuddered. He clearly didn't understood. Her emotional needs was replaced by an inferior logical needs. On the verge of tears, mind hijacked, she snapped back, "Why wouldn't I be upset? Take <strong>what</strong> easy? We rest today, and tomorrow... Before I know it, <em>it'll be time</em>... <strong>And then I'll be...</strong>"</p>
+<p>"I mean, I get that, but we-" He took two futile steps forward.</p>
+<p>As her tears leaked, she closed her eyes and drooped her head, cut him off, "You don't <strong>get it! Not at all!</strong>" And he watched her running off into the alleyway to her right.</p>
+<p>He was still confused, "What the spark...?"</p>
+<p>Some moments passed by and Sena approached from behind, prompted, "Noah, do you... D'you think you're perfect?"</p>
+<p>He turned to look at her, "Huh? How could I be perfect? I'm just a regular guy."</p>
+<p>"Right? Even Mimi has her faults. We're only human. The truth is, she's terrified. She needs someone to tell her. That everything will be all right. I mean, <strong>you</strong>." He waited for her next sentence, "Never seen her like this. Poor Mimi... She actually... tells you stuff." She looked to her side, <em>probably</em> expressing her envy.</p>
+<p>Looking to the alleyway where she ran off, he commented, "I have seen her thoughts, you know."</p>
+<p>She rejected his remark, "Nuh-nuh-nuh, I'm not talking about any of that. She just... needed to vent."</p>
+<p>"She did?"</p>
+<p>Biting her tongue as she put up a smile, "I'm actually kinda jealous..."</p>
+<p>"Huh?"</p>
+<p>"You're an off-seer, Noah. I thought you were sharper than this."</p>
+<p>"What's that supposed to-"</p>
+<p>She took a step towards him; they're now separated by half an arm length, asking for his action, "You better give her a good apology later, you hear? (short pause) Got it? Promise me that."</p>
+<p>Confounded, he stuttered while sorting out the heads and the tails of the situation, "Uh... Sure..." He nodded his head involuntarily, and Sena, getting his promise, turned and ran off after Mio.</p>
+<p>All the while, Lanz and Taion (and his Mondo) sat at his tea table, watching the scene from afar. Artificial light sprinkles a light orange hue on their body surface.</p>
+<p>Lanz: "Yeah, uh... You can count me out for any of that."</p>
+<p>Holding his teacup, "Huh?" Putting it down, "Well... maybe..." His mondo drooped hearing the doubts in his tone.</p>
+<p>Lanz turned to him, pressed further, "'Maybe'...? What you mean?"</p>
+<p>His fiery eyes made him felt anxious. Quickly turning to look at the side and pushing his glasses up, "Er, uh... forget it!"</p>
+<p>Lanz slightly nodded, wasn't convinced. Taion turned back at him, logically explained himself, "In any case, it has no bearing on our objective."</p>
+<p>"Too right... We'll get all of this done, then next stop: the City." As he speak, he turned his body to face towards him.</p>
+<p>"Right. For Mio's sake."</p>
+<p>"Hehehehe..." Lanz sudden laugh interrupted Taion.</p>
+<p>"Huh?"</p>
+<p>Smiling, "First time we've agreed on something, eh?"</p>
+<p>"It is?"</p>
+<p>"Hey!" He held up his right palm to ask for a high five, vibrating it forward and backward to show his intention.</p>
+<p>He wasn't convinced, even though he know what it means. "What's that in aid of?" The Mondo tilted its torso to its left, wandering.</p>
+<p>"Do the right thing. Come one." He continued reverberating his palms while inviting him.</p>
+<p>Yet, he refused to put himself below first class logic. "Wh-... Sorry, but I refuse to debase myself like this!" His mondo shook it's torso left and right. Then, he stood up and walked away from the uneasy atmosphere, his Mondo floated behind.</p>
+<p>Still had his hands held out, he dropped it down, whatever: "All right. You be that way." Disappointed, he rested his heads on his palm, his arms rested on the table. But his eyes and raised lips clearly showed he wasn't <em>too</em> disappointed; at least he took a step towards the illogical, yes?</p>
+<p>The moon continued to stay unchanged, be the humans on the ground happy, sad, angry, worried; none of its business.</p>
+<hr />
+<p>As the morning sun rise, smoke rose from the pile of burnt charcoal. Eunie approached the yellow-orange morning sunlight with a nice stretching, and an extended yawn! Lanz and Sena were already training, legs together, hands behind their heads, their legs swing up and down, one count towards the left, another count towards the right. Riku approached Manana in the meantime.</p>
+<p>"Mmeeehhh...."</p>
+<p>He flapped his wings on her belly, called out, "Manana."</p>
+<p>In her dream words, "Cannot possibly eat portion of Riku...", she turned to the side away from Riku.</p>
+<p>Riku wasn't impressed, suddenly jumped up and grabbed her and shook her, "<strong>Mmeh</strong>... No more snooze! Sun already hang high in sky!"</p>
+<p>Taion had activated his iris and studied some map while Eunie approached and sat at the side of the table in front of him, looking at him. She saluted to him, to which he nodded back to her, deactivated his iris while holding his cup of tea, and started chatting. The morning light reflected off the shiny floor.</p>
+<p>Noah was practicing his swords in the morning, as usual, alone, near the edge where he and Mio had an argument the night before. His breathe and shouts was especially loud today, and with exceptional strength he slashed the air. As he completed his set, he sheathed his blade and looked at the morning sun.</p>
+<p>Footsteps approaching from behind, she sounded calmly from behind, "Sorry about... last night. I was just feeling the pressure."</p>
+<p>He turned to his left as she stopped beside him, looking at the morning sun that give hope to another day. He apologized in return, eyes facing to the bottom left, not daring to look at her, "I should be sorry. I didn't realize." He searched his mind for the right words to reconciliate with her, to attend to her emotions, "...It must be tough for you, I'm sure."</p>
+<p>She turned to face him with a smile, and slowly took out her flute, grabbed it with both hands strongly, shared its story, "This, uh... belonged to a friend. We served in the same colony. She was my off-seer partner. Miyabi, was her name."</p>
+<p>His hands in his pocket, he moved his body to face her directly, curiously asked, "So your off-seers... sometimes work in pairs?"</p>
+<p>"Yeah. You know, I was surprised. When you joined in, and played alongside me back then." That was the first time when they sent Guernica home. She continued, "Anyway... One day, there was an experiment... And she... She told me to keep on living."</p>
+<blockquote>
+<p>Miyabi held her flute out to Mio just before she closed the door to the escape pod.</p>
+</blockquote>
+<p>"To live life in her stead. To fight on. But..." she tighten her grip on her flute, paused for a moment to refrain her tears from overflowing, looking straight into his eyes, "<strong>The stupid thing is... I was the one... who was... older than she was.</strong>" Closing her eyes, emotions overwhelmed, tears overflowed.</p>
+<p>Noah was recalling what he saw in her memories as he let her cry. "Now I see... That was..."</p>
+<p>A few moments later, she rubbed away her tears, taking a small step forward as she made up her mind, invited him, "<strong>Say...</strong> Wanna... exchange flutes?"</p>
+<p>He was confounded, "What? But isn't that..."</p>
+<p>She felt a little disappointed as her hope dwindled at the sudden snap decision, "I guess it's a little too... icky?"</p>
+<p>He violently shook his head instantaneously, "No no, I-I don't care about that! I'm just trying (to say){{footnote: The one in bracket, Mio had cut him off while his voice dampened...}}..."</p>
+<p>Feeling distraught and cutting him off, "I'd just like it... to be used a little longer." Holding the flute up to her chest, "To make up for the time Miyabi lost..." Then, she turned her look from the flute to look into his eyes, "You'll still be around after me."</p>
+<p>"Mio..." He contemplated for a moment, "I get it. <em>All right. It's a trade.</em>" With uplifting tone, he shared while taking out his flute, "You should know, mine's seen better days too."</p>
+<p>"Don't worry, I don't really mind either."</p>
+<p>Both held out their flutes with both hands, the sun witnessing; he took hers with his right hand, she received it with both. She put Noah's flute close to her heart as she embraced, and he examined hers.</p>
+<p>"Thank you. For the chat. I'm kind of surprised."</p>
+<p>"Surprised?"</p>
+<p>"Even after Interlinking, there's still things I don't know about you."</p>
+<p>"Well, of course! How can you when there are things I don't understand myself? You're not going to pick up on everything."</p>
+<p>Slanting his body forward towards her, "Got to put into words first?"</p>
+<p>"Yeah, <em><strong>but it doesn't always work</strong></em>{{footnote: One give three upvotes on this, very very true. Words don't always works. Actually, sound is the most important channel of transmission of messages; even then, we could never transcribe what he really feel into words, sounds, and body language all together perfectly.}}, even then..."</p>
+<p>"Like last night?"</p>
+<p>"Oh, that? That was me being selfish. But now, I feel like we're starting to get... on the same wavelength{{footnote: Do they study physics? So they knew about wavelength?}}."</p>
+<p>He gave a gentle nod as he thought about what to say, before suggesting, "Maybe Interlinking... just helped that along. <em>To bring us a little closer together.</em>"</p>
+<p>"Maybe, yeah. That might just be it." As she finished, she turned to look at the morning sun, now rising higher in the horizon as it signifies another day. Noah followed her glance, looking at the sea of mist that enshrouded the trees below their platform, their flutes in their hands.</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="27_bolearis.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="29_ethel_cammuravi.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="27_bolearis.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="29_ethel_cammuravi.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

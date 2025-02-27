@@ -1,0 +1,352 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Queen Nia&#x27;s Story - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html" class="active"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="queen-nias-story"><a class="header" href="#queen-nias-story">Queen Nia's Story</a></h1>
+<p>Nia, standing by a balcony, peered at the distance. A giant semicircle-disc-shaped object that looked like motor lurked in the sky. Let's dismiss the weird-shape mountains and the cloud sea below. On the other side, Melia{{footnote: Queen of Kevesi, if you hadn't already know.}}, also on a balcony, looked at the other half of the disc structure.</p>
+<hr />
+<p>After Melia returned to her room, on a tiny screen on her table showed two planets, blue and red, attracted towards each other. They were so near that lightning formed in between their gaps. "300 days remain to the Intersection. It seems we might make it."</p>
+<p>The screen now displayed Nia on video call. "Yes. It took every bit of our combined intellects... But we built it."</p>
+<p>"To prepare for the time our two worlds collide..."</p>
+<p>Nia was also in her room, chatting via a round mirror attached to her table, "All that we are is contained within. Memories, <em>and our souls</em>..."{{footnote: Snuff, their video quality is barely 240p.}}</p>
+<p>"We will all be gone, <em>and then reborn</em>. Will it be a new beginning, or our demise...? No one can tell us that."</p>
+<p>"Time will run its due course, and show us the true meaning... of our deed." And Melia nodded and cut the conversation.</p>
+<hr />
+<p>The day child Noah saw pigeon fluttered, as the clock struck 12, and the rolling of the giant red ball in the distance during the Queen's ceremony... The worlds are coming inevitable, and the Queens await their fates by their balcony. A bright light engulfed all.</p>
+<hr />
+<p>"In the distant past, what was once a single world was cleft in twain. Plus and minus... On the surface, they were identical. These two worlds, of opposing nature,... knew nothing of each other as they wended their way, towards their own respective futures. However, the worlds yearned for each other. Against the solitude of existence, they strove to reunite... though it would spell certain destruction. Should the two worlds intersect, they would cancel each other out and cease to be,{{footnote: Now we're talking matter and antimatter.}} leaving only light."</p>
+<p>She continued, "Light... A shining beacon in the darkness. The last common language left to us. Though we inhabited separate worlds, the medium of light allowed us to communicate for the very first time, and so we sought for a way to prevent <em>total</em> oblivion... We pooled our knowledge, and through time, gave birth to a single point of hope..." It showed the engineering design (blueprint) of the giant circular disc.</p>
+<p>"<strong>Origin.</strong> An ark, containing all the worlds' data, recorded in words of light, carrying hope into the future... Origin was a system we constructed to reboot the worlds' states. And then... the time was upon us."</p>
+<p>"The reboot process failed to initiate. Instead, in that instant, the worlds became still, by the will of Moebius." Z standing in the middle, accompanied by X and Y. The red moon lurked in the background.</p>
+<p>Noah concluded prematurely, "So it's their fault..."</p>
+<p>"And at the heart of it, was their ringleader, Z. You could say Z embodies this frozen world."</p>
+<p>Lanz don't understand, "But what does that achieve? Freezing everything?"</p>
+<p>"Not a thing... He didn't need to do anything after that. Only... to keep everything in its place, in stasis, and create an eternity to abide within,... as was their wish." That's the killing between the two nations.</p>
+<p>Noah: "He made our lives their sustenance..."</p>
+<p>"Precisely so. In order to gain control of Origin, Z captured the Kevesi Queen." Showed Melia chained in an unknown location.</p>
+<p>Mio: "To what end?"</p>
+<p>"To access the memories in Origin, to bend them to his will. He needed a key, held only by its creators."</p>
+<p>Eunie: "A key?"</p>
+<p>"A heart... might be more fitting. Z used the key held by the Queen of Keves,... and seized Origin in its entirety. Controlling Origin... means controlling the world. And having shackled it, he can bend it to his will. Life and death... are his playthings." More and more moebius were created thereafter and joined the ranks.</p>
+<p>Noah, looking at his term symbol, "Life and... <em>death...</em>"</p>
+<p>While looking at Mio, "No one, not even M, knew the origins of this world." It made Mio breathed out with uneasiness, the statement.</p>
+<p>Taion hypothesized, "So I guess... You have another key?"</p>
+<p>"Yes, it's in my possession. With its help, I was able to create... the Ouroboros Stones." To her left now emerged the previously undisplayed Ouroboros Stone, glowing incandescent green brightly. "Though most of the power is with Z, I have been able to... resist him, to a small extent." The Stone opened up and showed a triangle metal.</p>
+<p>Sena observed it, questioned, "It's a... cogwheel?"</p>
+<p>"One of the gears from Origin. Through a process of catalysis, between the Origin substrate and the Core in my chest, I can generate the Stones." A blue-pink diamond-shaped crystal located in Nia's chest.</p>
+<p>Lanz: "And thanks to that, we became Ouroboros..."</p>
+<p>"Yes, but... not completely."</p>
+<p>Sena: "Huh?" That power so immeasurable was still not its full form?</p>
+<p>"Remember. Have you not succumbed to Moebius's power before?"</p>
+<p>"Urgh..." X's staff that forced these two to cancel their Interlink.{{footnote: But, how does she know though? She can watch them while she's sleeping?}}</p>
+<p>"As I've said before, Z commands the world's very fabric. Unfortunately, my own powers are sorely limited. And yet, you too can break Z's fetters, as you've shown, smashing through the rules he established. With your Ouroboros powers, and the Sword of the End, both."</p>
+<p>Noah, looking at his blade, "The Sword... of the End?"</p>
+<p>"The sword you hold. It is a byproduct of resonance... between the Kevesi Queen's heart, and Origin."</p>
+<p>Taion: "Does that mean... it's like an Ouroboros Stone?"</p>
+<p>"The Ouroboros Stones, and the sword... <em>They're mere gimmicks</em>. The crux of them <em>lies with you. You see, there are keys inside of you too</em>."</p>
+<p>Lanz: "Inside of us..."</p>
+<p>Sena: "Keys...?"</p>
+<p>"Finally, my efforts were rewarded. I'm glad... To meet with all of you who embody hope..."</p>
+<p>Noah: "Majesty, what is it that we must do?"</p>
+<p>"Right. Infiltrate Origin, then free it, and the Kevesi Queen... from Z... From the hands of Moebius, once and for all."</p>
+<p>Sena: "If we do free it, will we get to change the world? It's so cruel and senseless... <em>Can we undo that</em>?"</p>
+<p>Nia looked down for a while, thinking about the philosophical question. Noah sensed her lack of confirmation. Sena: "<em>Your Majesty...?</em>"</p>
+<p>After she gathered her words, "<strong><em>If you desire... to have a future before you...</em></strong>{{footnote: Damn, that doesn't even mean anything, Your Majesty!}}" Mio's eyes widened at the possibility.</p>
+<p>Noah pressed on, "I need to know." Mio turned to him, whom continued, "Z and Moebius... Must they be our enemy?"</p>
+<p>"Noah..."</p>
+<p>"Now that... is something for <em>you</em> to decide. After confronting them, and discerning for yourselves what they truly are."</p>
+<p>Noah thought for a moment before agreeing, "All right."</p>
+<p>She nodded and urged, "Come this way." Then, she lead the way to the balcony.</p>
+<hr />
+<p>===</p>
+<p>"Behold... There at the nadir of the vortex... sleeps Origin." In the distance was a tornado clouds that swirls.</p>
+<p>"<strong>In the sea?!!!</strong>" Noah was shocked.</p>
+<p>"Deep beneath the sea where none may tread, Z spins his world-spanning web."</p>
+<p>Sena: "So you're saying... the Queen of Keves, she's there as well?" Agreed.</p>
+<p>Lanz: "Well snuff me... I want to save the Queen as much as the next guy, but how are we supposed to even get there? You can't even get near, without being ripped apart." Ethel once mentioned some Ferronis tried to enter...</p>
+<p>Eunie was optimistic "Yeah, but... If anyone were to know the trick, it's Queen Nia! Seeing as, y'know, she's the mastermind behind the whole Origin shebang, yeah?"</p>
+<p>Nia summoned the innocent face therefore as the group have high hopes for her. Uneasily, she... "Uhhh.... Urgggghhh... Right... Actually, I... <em>kinda don't.</em>"</p>
+<p>Lanz released the most shocking and high pitch voice in the whole episode, "<strong>Abuh... But you're the Queen! How do you <em>not</em> know that?!</strong>"</p>
+<p>Eunie dropped her head, "This is shocking..."</p>
+<p>Even Taion can't keep his rationality, "<strong>Absolute nonsense... I simply cannot believe this!</strong>"</p>
+<p>"<em>I... I don't know how to respond...</em>"</p>
+<p>Mio: "C'mon, you lot. Rein it in now."</p>
+<p>Now her voice struck something in Lanz: "Huh...? Hang on..."</p>
+<p>"Hm?"</p>
+<p>"Mio, don't you... get to use those Moebius powers?"</p>
+<p>"Uh? U-uhm, well..."</p>
+<p>"<strong>Then it should be a snap, right? Peww! We're there. Those clowns were doing it all the time!</strong>"</p>
+<p>"Actually..."</p>
+<p>"Go on?"</p>
+<p>"I can't... use them right now... The Moebius powers."</p>
+<p>"What?"</p>
+<p>"I noticed it... right after we liberated the Castle. I couldn't work out why myself, i-it was so sudden."</p>
+<p>Eunie: "<strong>Noooo-! Is this why you blew us off saying to ask the Queen ourselves?!</strong>"</p>
+<p>"Uhhh... Sorry, Eunie..."</p>
+<p>"<em>Oh, love...</em>"</p>
+<p>Nia: "I suspect, it must be Z."</p>
+<p>"<strong>Huh?</strong>"</p>
+<p>"The power of Moebius... It's part of the flow and fabric of the world. What is permitted, and what is prohibited, is subject to Z's whims. Even with Origin, not every Moebius knows of its existence."</p>
+<p>"But I was able to use the Ouroboros powers..."</p>
+<p>"The power you currently wield is, let's say, <em>external</em> to the flow. Even Z himself cannot grasp what's beyond his reach. Therein is <em>my hope based</em>."</p>
+<p>"Hm..."</p>
+<p>Lanz: "We're still stuck though. We know where to go, but we're kinda dead in the water here."</p>
+<p>Noah, looking at the vortex, tried to think for alternative solutions, "<em>How to tackle the vortex, then...</em> Huh! Mr. Samon...!"</p>
+<p>Mio tried recalling, "Mr. Samon was, uh... That Nopon from the City?"</p>
+<p>"Yeah! Recall what he said? About a ship that could brave the Great Sea."</p>
+<blockquote>
+<p>"Ultimate... vessel?"</p>
+<p>"That right. Even vortex in raging Great Sea not slow advance. It go down in history as Queen of boats! Still work in progress, but sure to bring to fruition someday. Is Samon's dream!"</p>
+</blockquote>
+<p>Eunie: "Yeah, he did say that! Something about it being able to take on stormy weather?"</p>
+<p>Lanz: "Wait, wasn't that a work in progress, though?"</p>
+<p>Taion: "I think he might've been drawing up blueprints...?"</p>
+<p>Noah: "Whatever Mr. Samon said, he was pretty ardent about it."</p>
+<p>Eunie: "Which must mean..."</p>
+<p>Sena: "There might be a way to get there, after all!"</p>
+<p>Mio, looking at Noah in the eyes, excitedly, "<strong>All right, let's go!</strong>"</p>
+<p>"<strong>Yeah!</strong>"</p>
+<p>Lanz: "Finally, our lucky break."</p>
+<p>Sena: "Looks like this place was worth the trip!"</p>
+<p>Taion: "Better hurry. I hardly imagine Moebius will stand idly by."</p>
+<p>Eunie: "Agreed." And they just dashed off into the distance, leaving Queen Nia out of their short attention span.</p>
+<p>After some run, Noah suddenly remembered, "<strong>Your Majesty</strong>!"</p>
+<p>"Huh?" Her attention came back and saw Noah and Mio facing her from a distance.</p>
+<p>"<strong>Thanks a lot! Things are looking up!</strong>" And he ran off first. Mio gave a smile, a neck-bow{{footnote: i.e. a nod.}}, before going after him.</p>
+<p>After they leave, "Uh... sure..."</p>
+<hr />
+<blockquote>
+<p><strong>Translator's Note:</strong> If you'd like to know more about Nia, <a href="/92_nia.html">we'd got another story for her here.</a> Though, some information there only makes sense <strong>after</strong> you read the <a href="/44_ship.html">next section on "building the ship".</a></p>
+</blockquote>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="42_cloudkeep.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="44_ship.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="42_cloudkeep.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="44_ship.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

@@ -1,0 +1,461 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Miyabi - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html" class="active"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="more-about-miyabi"><a class="header" href="#more-about-miyabi">More About Miyabi</a></h1>
+<blockquote>
+<p><strong>Translator's Note:</strong> Miyabi, being Mio's close friends and one whom changed her life and influenced her thoughts earlier, would worth look closer into. Here we'll tell a story about Miyabi. This would happen after Mio's side story, after Miyabi moved to the City, and when the group had time to visit the City after whatever they're on to.</p>
+</blockquote>
+<p>The restaurant, Michiba's Canteen, in the City had unusually full of people today. Mio was the first to notice, questioned, "It seems pretty lively over there. What's the occasion?"</p>
+<p>Miyabi was well-informed, "There's supposed to be some kind of cooking contest. Maybe they're preparing for it?"</p>
+<p>Now that was interest attracting, esp. to <em>someone</em>, "<strong>Ohoho! Someone say cooking contest?!</strong>"{{footnote: Manana was the someone, of course.}}</p>
+<p>Then someone asked, "You think they'd let me participate...?"</p>
+<p>Sena was surprised at who said that, "Huh?! I didn't know you cooked, Lanz!"</p>
+<p>"<strong>Me?</strong> Nah. I'm all about the eating! <strong>Think of all that grub</strong>!" Now <em>that</em> sounds more like what he would be doing.</p>
+<p>"<em>Ahhh! Maybe I should join too</em>..." Both interested, eh!</p>
+<p>"Hey there, folks!" Travis{{footnote: If you hadn't already know from Lanz's Side Story, he's the highest sidekicks of Monica; apparently the CEO/manager that handles all the stuffs if Monica doesn't have enough attention to handle or just too low level for her 'City Elder' status.}} appeared out of nowhere.</p>
+<p>The group turned to face them, with Noah doing the speaking, "Travis. Monica. We just heard about this cooking contest."</p>
+<p>"<strong>Yeah?</strong> It's kind of a tradition around here. You know how the world is. Can't set foot outside without putting yourself in danger. People are going stir-crazy, all shut up with nowhere to go. They need a bit of <em>light entertainment</em>{{footnote: Spoken slowly to emphasize.}} to diffuse some of that stress, so these contests are, kind of a regular thing."</p>
+<p>Monica invited, "This seems like the perfect opportunity for you to join in."</p>
+<p>Lanz: "<strong>To sample the food?!</strong>" His mind haven't got off that!</p>
+<p>Travis disappointed him, "Ahhh... I'm afraid the judges are selected by <em>majority</em> vote. They've already been decided well in advance." And Lanz and Sena just disappointedly dropped their heads. But there's a turnback, "That said, the winning dishes do get shared among the audience." And their heads popped back up!</p>
+<p>Mio questioned, "So, you'd like us to join as chefs?"</p>
+<p>"<strong>YESSSSS!!! Count Manana In!!!! Manana been champing at bit for cookery action!</strong>" Her wings fluttered with her dance of joy.</p>
+<p>Eunie: "Hahaha, yeah... This event's pretty much made for Manana."</p>
+<p>"<strong>Word!!!</strong>"</p>
+<p>Miyabi thought for quite a long pause before nervously spoke out, "C-could I... Could I join as well?!"</p>
+<p>Monica calmly replied, "I like your spirit. You're both very welcome."</p>
+<p>Travis: "Looks like you'll have your work cut out for you, eh, Boss."</p>
+<p>"You said it, Travis. I'll let you prepare the Lucky Spice."</p>
+<p>"<strong>AWWWW, tch, crap! Not that stuff...</strong>" Just thinking of it was... unbearable?</p>
+<p>She ignored him, continued her introduction of the contest to the group, "There are no binding rules, no themes to follow. You're free to make whatever you like. But you are expected to bring your own ingredients. Once you have them, take them to Michiba at her canteen. She'll hold onto them for you."</p>
+<p>Manana: "Hearing loud and clear!"</p>
+<p>And she was ready to depart, "I'll see you at the contest then."</p>
+<p>Miyabi: "Looking forward to it!"</p>
+<p>After they left, "Manana not pull punches! <em>We rivals now</em>, Miss Miyabi!"</p>
+<p>Miyabi bent down to look at her about the same height, excitedly commented, "Yes, let's do this!"</p>
+<p>Sena: "Since when did you learn to cook, Miyabi? You never told me!"</p>
+<p>"Ahahaha. I've only dabbled, really."</p>
+<p>Lanz: "Right! We'd better go out looking for our ingredients, eh?" And he already decided to leave.</p>
+<p>The group watched him starting to walk away, until Taion called him to a halt, to pause and think longer, "Hold on, we haven't even decided what we're going to make yet."</p>
+<p>"Uh-huh. Just testin' ya."{{footnote: OK, to save face, we'll go with it.}}</p>
+<p>Miyabi suggested, "Before we decide, maybe we should ask around the City first? See what kind of foods they like, their favorite seasonings... That should give us enough to make a start on."</p>
+<p>Eunie agreed, "True... We need some kind of direction to start with before we can think about making anything."</p>
+<p>The rest already leave, including Miyabi, ready to get a head start. Noah saw Mio still standing there, prompted, "Something on your mind, Mio?"{{footnote: Actually, Sena saw too, but she just leave after Noah decided to  stood still. There's a tacit agreement between the animation maker on when the 'signal' is sent without even looking behind her back.}}</p>
+<p>She shook her head, walked nearer to him, and questioned out loud, "I was just thinking, it's unusual for Miyabi to voice her interest in something like this. Before, she'd always try to avoid anything that involved competition. So this is... <strong>kind of a surprise.</strong>"{{footnote: In her appreciation stance.}}</p>
+<p>"Hah, I see... Well, <em>all the more reason for us to cheer her on</em>."</p>
+<p>"Yeah."</p>
+<hr />
+<p>Outside by a white sandy floor, camping as the sun was about to go to sleep, Sena exclaimed, "Everybody's super excited for this contest."</p>
+<p>Taion: "Most likely they're excited about getting a taste of the winning meal."</p>
+<p>Mio: "...Hey, Miyabi? Can I ask you something?"</p>
+<p>"Hm? Sure."</p>
+<p>"You didn't enter this contest just because you wanted to win, did you?"</p>
+<p>"...No, I didn't. It's because I feel indebted to the people of the City. I wanted to take this opportunity to show them my appreciation."</p>
+<p>Sena: "Awwww, how sweet! That's just like you!"</p>
+<p>Mio: "Yeah, you haven't changed a bit. You've always been like this."{{footnote: In real life, people do change, actually, albeit ranging from slightly to largely. But if they had a core philosophy, that probably won't change much, perhaps minor tweaks to fit into the modern world where things were before obsolete, or hadn't been met in the past. Unless their core changes, that probably stays. Other stuffs changes, though. }}</p>
+<p>"Meh-hrm... Regardless of ulterior motive of Miyabi, Manana is innit to winnit! Will not hesitate to clash with full force of Manana might!"</p>
+<p>"That's totally fine, Manana. Give it your all!"</p>
+<p>Noah directed the conversation to the main topic of today, "All right, let's go over what we've learned."</p>
+<p>Lanz made a head start, "From what we've heard, we should serve a huge portion of something, with a flavor that packs a wallop." Now that was vague, but if they've all experienced it before, it serves as an anchor to retrieve their memory.</p>
+<p>Taion added, "It seems that the presentation is also highly regarded in addition to flavor. Something that'll deliver an impact."</p>
+<p>Noah: "An impact, huh... That's setting the bar pretty high..."</p>
+<p>Sena, with a "But others were saying they'd like homemade dishes. Something they'd feel familiar with."</p>
+<p>Mio: "Given that we don't know who the judges will be, it might be best to go for something neutral that everyone can enjoy."{{footnote: Not true, if you'd read <em>Different</em> by Youngme Moon. Neutral means blending into the background, average, not standing out of the crowd, tasteless.}}</p>
+<p>Eunie got her head swirling, "So... doesn't this just mean that they'll enjoy pretty much whatever we throw at them?" Never mind you; you're not gonna cook anyways.</p>
+<p>Miyabi: "In that case... I think I know what might be good to try..."</p>
+<p>Inside her thoughts, her eyes gleaming with stars, "Meh heh heh... Secret weapon of Manana will guarantee surefire win..."</p>
+<p>Eunie noticed her eyes, "Hmm? You're looking pretty confident there, love."</p>
+<p>"Meh heh heh... That because Manana already thought up ultimate recipe of ultimate delicious! Current name of dish... is closely guarded secret!" OK, Manana, OK.</p>
+<p>Miyabi can feel her, "Haha! Yes, you don't want to be telling your competitors."</p>
+<p>"Exactly! Anticipation must be savored!"</p>
+<p>Lanz: "Looks like you two have already got your entries sorted. Guess next up's getting the ingredients?"</p>
+<p>Sena questioned, "What'll you need for your dish, Manana?"</p>
+<p>"Meh! Manana will need Mottlemarble Aries Meat, Killjoy Crustip Meat, Cozy Rhogul Egggems, and Lucky Marrin Thickcuts!"</p>
+<p>Lanz: "Huh... They're a pretty big deal, is what I'm getting here..." Difficult to get stuffs, or the monsters difficult to kill.</p>
+<p>Mio: "How about you, Miyabi?"</p>
+<p>"Umm... Smushi Rice, Refreshing Piranhax Meat, Glitter Radishes... and Soyprime Sauce... Though we can probably ask the City folk to share some with us."</p>
+<p>Lanz: "Huh... That all sounds like pretty average stuff."</p>
+<p>"Yes, um... I'd really like to prepare something that anyone can make, using familiar ingredients."</p>
+<p>"Yeah, you're totally winning people over that way!"</p>
+<p>Mio: "So, who to start with?"{{footnote: Here, you can choose. It doesn't matter who to start with, the end result will be the same.}}</p>
+<p>After decision, Mio announced, "We'll start with Manana's."</p>
+<p>"<strong>Ohohoho!</strong> Manana pleased to welcome aboard all affiliated parties!"</p>
+<hr />
+<p>In the City's Michiba's Canteen, Sena announced, "That's the last of Manana's ingredients!" The kitchen was wood-made; and those of metal looked very old and even rusty. Cardboard, cooler (fridge/refrigerator), cpuboards, the walls, floors, beams. Perhaps it was the lighting partly, and perhaps it was supposed to be old partly.{{footnote: Note, here only got 4 person: Sena, Mio, Miyabi, and Manana. The rest are nowhere to be seen. Maybe behind the camera? Or maybe waiting outside? And second note: the place is just over the counter. It also served as the 'cashier/counter' where you'd pay your bills after eating.}}</p>
+<p>"Many thankings! Friends did bang-up job!"</p>
+<p>"Now, for Miyabi's..."</p>
+<p>"That's it! Thanks again! We should talk to people in the City to see if anyone can give us the Soyprimo Sauce."</p>
+<hr />
+<p>Approching a blonde-hair lady whom was inspecting some boxes in an extremely dark alley, Miyabi called for her attention, "Boxy..."</p>
+<p>She turned her attention to the group, "Oh, hey Miyabi! You're with your friends today?"{{footnote: That includes Noah and the others, not just the 4 at the counter earlier.}}</p>
+<p>"Yes, sorry if we're bothering you."</p>
+<p>"Not at all, <strong>not at all!</strong> Always nice to see you. So what brings you here?"</p>
+<p>"Actually, I've decided to enter the cooking contest..."</p>
+<p>"Oooohhh, really?!"</p>
+<p>"I'd like it if you came. I'm going to try as hard as I can!"{{footnote: Miyabi's iris actually glowed in the incadescent greenish-hue light. Actually, the light reflected off her eyes like those of cats at night but less ghost-y.}}</p>
+<p>"Sweetie, I would love to! I'll be cheering you on all the way!"</p>
+<p>"There's... one other thing... I have a request, if it's not too much trouble."</p>
+<p>"Tell me. Anything I can do to help."</p>
+<p>"Would you mind sharing some of your Soyprimo Sauce? Your homemade recipe?"</p>
+<p>"<strong>My sauce is going to feature...?! This just keeps getting better and better!</strong> Please, take as much as you need!"</p>
+<p>After she came back fetching the sauce, she handed them to Miyabi, "I'm sure it'll be enough, but if by any chance you run out, just swing by again. Romero{{footnote: Something unrelated, Romero was trying to run away with Julietta, so they could love each other forever.}} absolutely loves that sauce. I've got <strong>jars</strong> full of the stuff."</p>
+<p>"<strong>Thank you so much...!</strong>"</p>
+<p>"Hahah! You're getting awfully worked up about all this. <em>Just relax</em>, and enjoy the experience."</p>
+<p>"Yes, ma'am! ...<strong>Ah!</strong>"</p>
+<p>"Hahahah! Now what did I just say?"</p>
+<p>"Hehehehe...." fAnd her eyes curled into a crescent moon shape.</p>
+<hr />
+<p>Back at the kitchen, Mio announced, "That's all of the ingredients, for the both of them."{{footnote: Yeah, still the four.}}</p>
+<p>"<strong>Tippy-toppy job!</strong>"</p>
+<p>Michiba appeared over the counter, "Got everything you need now? Then I think it's about time to start the contest. <em>Is everyone ready?</em>"</p>
+<p>You bet!</p>
+<hr />
+<p>At the front of the canteen. The table and chairs had been cleared out for the audience to surround a huge round table of ankle-high. The people of the City who were interested already gathered around in a giant circle. The judges sat themselves down by one side of the table, surrounded in a semicircle by the people. At the other side stood emptier: only Travis and the chefs. Travis would be the moderator for today.</p>
+<p>"Looks like both the chefs and the judges are ready. Well, ladies and gents, it's time to start another <em>annual</em> cook-off! And who else to narrate the events as they unfold <strong>but</strong> the City's number one Charmer..."</p>
+<p>Then Monica gave him <em>that</em> look, and he just turned his head away from her... "...Just kidding -- it's me, Travis, your ever-affable Lost Numbers lieutenant. Let's start by introducing our expert panel of judges... The lucky four adjudicators for this year's <em>incredible</em> turnout are... Drumroll, please..."</p>
+<p>Nobody drumroll, but he didn't expected one either. "<strong>Ghondor!</strong> You've been begging to be a judge for ages now. Looks like it's your lucky day!"</p>
+<p>"<strong>Oooiiii!!!</strong> Don't you bloody patronize me. You'll be laughing on the other side of your face if you're not careful..."</p>
+<p>"Ur urg ahem! <em>Moving</em> swiftly on..." He turned towards a purple nopon with eyeglasses so short that they bordered the center bottom tip of his eyes; and he carried a giant abacus behind. "You fancy yourself an avid foodie? Well, let's see how you measure up to the wise and erudite Wellwell!"</p>
+<p>Turning to the right, an old man whom gave everyone a very dull look on his face, "Next up, a lover of music and all things lyrical... It's Mr. Boomer! He's got a refined palate for music and food, and I'm sure he's about to give us a piece of his mind!" He already closed his eyes, for whatever reason.</p>
+<p>Then, a child wearing a bucket on his head, with <em>very</em> large eyes, "Last but not least, we have our youngest judge on record! Introducing San! Far as I can tell, he just plain enjoys food. He'll eat whatever you can throw at him!"</p>
+<p>"Tehehehehe, yeah! Gimme all your food!"</p>
+<p>"We want you four to judge the meals on their own merits, as honestly as possible. Now, let's introduce our chefs! First up's our Lost Numbers ace cook, Nissick!" That's a brown-blonde hair guy with turquoise iris, having a stern look. "So, how're you feelin'? Think you've got the potential to be numero uno? Hehehe..."</p>
+<p>"Grrrr....."{{footnote: HAHHAHAHAHAHA!}} He's just looking at Ghondor all the time. Is she making him angry?</p>
+<p>As Ghondor looking towards him, he turned his head away; and Travis warned, "Watch it, you. No intimidating the judges! You're gonna scare the kid! You wanna settle the score, you do it with food. <em>Calm and peaceful-like</em>!"</p>
+<p>"Next up, it's our very own boss! <strong>Or, should that be Elder...? Eh err oh, let's just say.. Madam... Monica</strong>?"</p>
+<p>"Just stick to the usual. Who's next?"</p>
+<p>"<em>All right, 'Boss' it is.</em> Next, we have Ouroboros's very own <em>Queen</em> of Cuisine, Manana!"</p>
+<p>"<strong>Manana ready to steal away hearts and stomachs of all!</strong>"</p>
+<p>"And whispers on the grapevine tell me our last contestant is a rising star! She's everyone's sweetheart, Miss Miyabi!"</p>
+<p>Boxy: "<strong>You go, girl!!</strong>" Well, you really come to cheer!</p>
+<p>"Ahhhhh!" Miyabi turned and saw her standing behind Ghondor, nodded to her in surprise.</p>
+<p>"And those are our four entrants for today. Shall we get started? Then Nissick, if you'd like to <em>reveal</em> the meal!" He nodded and went back to fetch it.</p>
+<hr />
+<p>"<strong>Feast your eyes... on this!</strong>" On a plate, a green lobster with some meat, some orange (or is it lemon?), and some other unknown ingredients (salad leaf, and is that mushroom?), plus some sauce.</p>
+<p>San: "So cool!"</p>
+<p>Wellwell: "Well, well, well... Applying heat cause emergence of emerald green undertones... Shell gradually transluce as it shine with beryl glaze. Behold... <strong>the Jade Lobster</strong>!" OK, that's the chemistry... Thanks for explaining, well well....</p>
+<p>Ghondor scrutinized, "Is this thing edible?"</p>
+<p>Nissick: "...Hrmph!!!" Now that heats up.</p>
+<hr />
+<p>After eating, Ghondor actually changed her mind, "<strong>Mmm! Hey, this is pretty tasty!</strong> <em>And juicy!</em>" And she got another bite of it.</p>
+<p>Wellwell: "Contrary to expectation, taste pop and lock inside mouth... <strong>Big bang of umami fill entire tastebuds!</strong>"</p>
+<p>Boomer: "Hmmhmm, hm hm hmmm..." That's middling tone, "hm hm hmm..." And he continued to get bites of it, nodded.{{footnote: Couldn't speak, could ya...}}</p>
+<p>San: "Hey! How're you s'posed to eat this? I don't get it..."</p>
+<p>Travis suggested, "Maybe Nissick would be kind enough to assist..."</p>
+<p>"<strong>I beg your pardon?!</strong>" Nope, not kind enough!</p>
+<hr />
+<p>"Let's check in with our next culinary combatant! It's our very own boss!"</p>
+<p>Ghondor, inside her heart, "Heh... I'll find a chink in your armor..."</p>
+<p>"My dish is the Monicurry... Special!" Rice, some sausages, and curry at one side.</p>
+<p>Ghondor: "<strong>Oh, come on! How's that fair?</strong>" No more chink for you, eh!</p>
+<p>San: "Ah! It's got Tasty Sausages in it!"</p>
+<p>"Well, well, well! Wellwell only heard rumors, but Monicurry said to be <em>legendary</em> meal among Lost Numbers!"</p>
+<p>Jansen was already eager, "...I'll have me some of that."</p>
+<hr />
+<p>Ghondor had to change her heart, "Nngh, damn you, Bitchqueen! You got the spiciness spot on!"</p>
+<p>Boomer was drinking from his cup, blowing steam, "Hooo hooo hoo, Ooh! Slurp!" Too spicy for him, probably!</p>
+<p>Wellwell: "These vegetables... Flavor, normally distinctive, yet subtly veiled here... And spiciness <em>perfectly</em> compensate... But despite this, single plate appear positively heaped with <em>nutrition</em>...? Is dish spice-renowned, or something deeper...?"</p>
+<p>"Urgh... It's making my tongue all prickly..."</p>
+<p>Travis laughed at that, "Hohoho oops... Guess the kid's tastebuds weren't quite prepared for that just yet hehehheheheh!"</p>
+<p>Thinking in her heart, "Funny... Everyone normally loves the stuff. <em>Did I add too much Lucky Spice</em>...?"</p>
+<hr />
+<p>"I'm sure your bellies are gradually getting rounder, but there's plenty more where that came from! The next contender is... Manana!"</p>
+<p>"<strong>Finally! Time for big moment!</strong> Delicious dish of Manana is... Secret recipe of Nopon, passed down in greatest of stealthy! Or rather, little spin on traditional version... <strong>Doodlenoodles, Manana-style! Prepare for taste beyond taste</strong>!" Well, some bread-like stuffs and meat arranged in a circle around the bowl, with some eggs placed in an inner circle; and finally, some other ingredients wrapped around the central circle. That's very full! Plus that flag on top of the central egg-like object...</p>
+<p>San, just by its look, "<strong>That looks yummy!</strong> This is gonna be awesome!"</p>
+<p>Ghondor was impressed, "Whoa! That's gonna be a banger."</p>
+<p>"<em>Tears of Wellwell might form small pool</em>... To think Nopon exist that could <em>recreate recipe of legend</em>...!"</p>
+<p>Even Riku was shocked, "O-ho-ho-ho-ho-ho-ho-ho...!" This is a must-try for Nopon! MUST-TRY!!!!</p>
+<hr />
+<p>Boomer: "<strong>Hohohoho! Hmhm! Hohohohohoh!</strong>" Clearly very tasty! He laughed 'until stomach ache'.</p>
+<p>San: "Gimme more of this meat! More! <strong>Moooore!!!</strong>"</p>
+<p>"Wellwell never <strong>dream</strong> of chance to eat <em>perfect</em> Doodlenoodles in lifetime... Taste is <em>beyond compare</em>...! <strong>Such level of extravagant.</strong> Wellwell could well <strong>rocket into skies above</strong>!" Tears started rolling down his face of extreme happiness.</p>
+<p>"How the crap is this <strong>so good?!</strong> I don't know what to say!"</p>
+<hr />
+<p>"Oooooo the competition's fierceeee, but we've got one more dish lined up for you all! Take it away, Miyabi!"</p>
+<p>"OK...! Here's the meal I'll be presenting today..." A simple bowl of rice, some fish slices on a platter (with a strain of vegetable leaves on top of them), and another bowl with sauces and some 'decorations' (that looked like tofu or something) on top of it.</p>
+<p>Boomer: "Oooooh?"</p>
+<p>San: "Huh. It doesn't look very special..."</p>
+<p>Ghondor agreed, "<em>I guess, when you put it alongside the others, yeah...</em>"</p>
+<p>"But it clearly made with love! Preparation of dish, reflect nature <em>of chef</em>. And this <strong>noooo</strong> exception... "</p>
+<hr />
+<p>Ghondor: "Ahhh, it feels... <em>How should I put it...?</em> Comforting."</p>
+<p>"Mmmh, so understated, yet <strong>so palatable... Hard to express</strong> in words... Like warmth filling entire body..."</p>
+<p>"I eat this fish all the time, but I don't think it's ever been <strong>this</strong> tasty before!"</p>
+<p>A City resident was amused, "Gosh! I wonder how she prepared it...? I'd love to know!"</p>
+<p>Mei{{footnote: From the Lost Numbers?}} "Same! Why don't we go and ask her once the contest's over?"</p>
+<p>"Mei, you have the <strong>best</strong> ideas!"</p>
+<p>Boxy: "Now that looks scrumptious. They look like they're loving the Soyprimo Sauce, too!"</p>
+<p>And Boomer was just singing all the while he was eating. "Hm hm hm hmmm, hm hm hm hmmm. Mmhmmm... Tastessss gooooood...."{{footnote: First time he talks eh. He had difficulty talking, even the words are stretched long.}}</p>
+<p>Miyabi appreciated the reaction the judges had on her heartily-prepared meal. Mio and Sena felt the success they'd helped, for Miyabi to realize her potential, to realize what she wanted to give back had been met with happiness.</p>
+<hr />
+<p>Travis, animately, "Nowwwwww, I haaate to break it to you, folks, but it's time for the judges to make their decision. <em>Which of these</em> four <strong>outstanding</strong> meals has satisfied their stomachs?! I'm sure you're all on the edge of your seats... The winner of this year's cooking contest <strong>is...!</strong>"</p>
+<p>Miyabi's heart was... not pounding. Outwardly looking calm, hope not very high perhaps.</p>
+<hr />
+<p>After the contest, many gathered around the huge table, sitting down eating. Manana's doodlenoodles were lined on the tables for everyone to try. Some kids at the other side preferred Miyabi's preparations. Other people just gathered further away from the tables, in groups, talking. Manana and Miyabi were sharing their cooking with those two whom approached them. That's not all. Outside the Canteen, by a table, lined plates of Monicurry. More people were talking. Nissick had a platter of doodlenoodles for himself, sitting lonely there; but two other female Lost Numbers had his Jade Lobster -- they stood close to where he sat. Travis and Monica stood at the corner; and Ghondor alone at a table behind Monica, more food. Behind Ghondor are another table with nobodies{{footnote: LOL}} gathering.</p>
+<p>Back at the central table. While Noah and Taion was busy speaking behind, Lanz got a try of every single recipe -- he finally could taste all the food! Too bad Sena didn't join in; but hey! Riku had like, what, 5 bowls of doodlenoodles lined in front of him, all for himself, sitting beside Lanz?</p>
+<p>Seeing that the two leave Manana and Miyabi alone, Mio could finally approached the two that now chatted among themselves.</p>
+<p>Mio: "<strong>Congratulations, Manana!</strong>"</p>
+<p>"<strong>Meh-heh-heh! Feels good at top!</strong>"</p>
+<p>"Better luck next time, Miyabi."</p>
+<p>"Thanks, everyone. You all helped me sooo much. I didn't make first place, but I'm glad everyone got the chance to try my food. Manana was kind enough to raise the idea. Thank you, Manana."</p>
+<p>"Aww, <strong>not to mention!</strong> Would be terrible shame for friends to miss out <em>delicious nomnoms</em> of Miyabi!"</p>
+<p>Olive, one of the female of the two, said softly, "Nissick looks in a right mood."</p>
+<p>After finished drinking from his cup, he announced loudly, "<strong>I can hear you.</strong>"</p>
+<p>"Can't let 'em get away with this though, can we? We'll lend you a hand next time!"</p>
+<p>"Hmph..." But he nodded; just his face cannot put down so easily, but the girls knew it.</p>
+<p>Monica had seated herself opposite of Ghondor, "How d'you like the Monicurry, Ghondor?"</p>
+<p>"Wh-why're you asking me? Same as you always make it. The name's dumb, though. Couldn't you come up with something better?!"</p>
+<p>"You say that every time. I don't see the problem, personally. I actually kind of like it."</p>
+<p>"I'm not asking YOUR opinion! <em>I'm saying</em> <strong>it's freakin' embarrassing!</strong>"</p>
+<p>Monica just looked at her for a moment, disregarded that, "I've still got some left, by the way. You want a bowl, or not?"</p>
+<p>"Don't change the subject! And... <em>of course I want a bowl!</em>" Giving, in, giving in, <strong>giving in!</strong></p>
+<p>Miyabi watched all these interactions, seemed to be enjoying herself. Commenting, "Ahh, that contest was so much fun!"</p>
+<p>"Maaaximum agree! Plus was big learning experience! Can see Manana need to <strong>greatly</strong> expand repertoire!"</p>
+<p>"Ah...! If... that's your plan, would you mind... teaching me some more about cooking?"</p>
+<p>That was a surprise. "Meh-meh? Even though Miyabi already <strong>plenty</strong> good at cooking?"</p>
+<p>"Ahah, I'm honored that you'd say so. But I really don't have a lot of experience. I'd love it if you could teach me some more."</p>
+<p>"<strong>Ohoho!</strong> Then let Manana <em>pick up what Miyabi putting downnnn</em>... Miyabi asking to become apprentice of Manana?"</p>
+<p>"<strong>That's right! ...If it's</strong> <em>not a problem?</em>"</p>
+<p>"<strong>No problem! Manana welcome with open wings!</strong>"</p>
+<p>"<strong>Oh, that's wonderful! Thank you, Manana!</strong>"</p>
+<p>"<strong>Ah!</strong> Before Manana forget... <em>Should snaffle up recipes of Monica and Nissick while still have chance!</em>"</p>
+<p>"<strong>Oh, good idea! Let's do that!</strong>"</p>
+<p>"Hey, Miyabi." Mio suddenly called out from behind.</p>
+<p>"You did great there! Your food was amazing!" Sena was beside her.</p>
+<p>Putting her head down, "Iah... I said before... that I did this... for the City. Of course, they were the highest priority in my mind..." Then raising her head to look at them, "But really, it was for the both of you. I so wanted you to try it."</p>
+<p>Sena: "<em>It was for us?</em>"</p>
+<p>She stood up: "This world... It's filled with nothing but tragedy and hardship for us. But now... after coming here, that feels, like a distant dream... " They looked around the people here and there, standing or sitting around, "Yeah, that's right... You've always kept my wishes in your heart, haven't you? That's why you brought me here, right? <strong><em>Because we're alive, we get to see these sights... Thank you...</em></strong>"</p>
+<p>Mio felt the heaviness in her heart, get into her appreciation stance, appreciated her appreciation. "No, Miyabi... Thank <em>you</em>."</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="49_final_chapter.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="88_guernica.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="49_final_chapter.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="88_guernica.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>
