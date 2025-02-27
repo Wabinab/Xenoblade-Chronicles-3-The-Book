@@ -17,11 +17,10 @@ Note: the actual main storyline isn't exactly as below. In fact, one added some 
 ### Donations and Support:
 One does not receive money on this work, and feel free to support one's work at the following addresses:
 
-- [Buy me a coffee.](https://buymeacoffee.com/wabinab)
+<!-- - [Buy me a coffee.](https://buymeacoffee.com/wabinab) -->
+- <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="wabinab" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 - NEAR Protocol: wabinab.near
 - ETH, OP, BNB: 0xa32e05D545FEc9cADb46BEB0839E3Ac0A9E39d9B
 - BTC: 1Gp2bnMk73LUwTRo8bPUimeWbztAR9DViU
 - BCH: qzv2w8f8nn3jzudnescpha0s46fvha6lpgrlfh2t67
 - Polygon MATIC: 0xCD9a17ae05D4C985fA6C8603e8a5215650F9a584
-
-Unfortunately, the country one's living in doesn't support PayPal receive money. (I.e. one could only send money out, but not receive money). The closest one could think of receiving money is via [Upwork.](https://www.upwork.com/freelancers/~011a1c60f09fff5f90?mp_source=share) Feel free to suggest another way to one and one can check if it's available [in the discussion](https://github.com/Wabinab/Xenoblade-Chronicles-3-The-Book/discussions/1). 
