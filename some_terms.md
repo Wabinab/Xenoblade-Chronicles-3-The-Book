@@ -2214,4 +2214,8 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - pliant: (people) easily influenced/controlled by other people. (Def 2: being able/willing to accept change/new ideas.) (Def 3: able to bend easily w/o breaking). 
 - gumption: the ability to decide what's the best thing to do in a particular situation, and to do it with energy and determination. 
 - transvestite: an offensive word for people wearing the clothes of a different gender. 
+- kibbutz: a farm/factory in Israel where profits and duties are shared and all work is considered equally important. 
+- schlump: a dull, colorless person. Slovenly person. 
+- blanching: 
+- minitel: 
 - 
