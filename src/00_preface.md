@@ -15,7 +15,7 @@ Note: the actual main storyline isn't exactly as below. In fact, one added some 
 ---
 
 ### Donations and Support:
-One does not receive money on this work, and feel free to support one's work at the following addresses:
+One does not receive money for this work, and feel free to support one's work at the following addresses:
 
 <!-- - [Buy me a coffee.](https://buymeacoffee.com/wabinab) -->
 - <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" data-emoji=""  data-font="Cookie" data-text="Make a donation!" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>

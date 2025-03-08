@@ -2216,6 +2216,18 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - transvestite: an offensive word for people wearing the clothes of a different gender. 
 - kibbutz: a farm/factory in Israel where profits and duties are shared and all work is considered equally important. 
 - schlump: a dull, colorless person. Slovenly person. 
-- blanching: 
-- minitel: 
+- blanching/blanch: to turn pale because you're shock/surprised. (Def 2: to make a plant pale by covering it up so light don't reach it as it grows.) (Def 3: to put vegetables or similar foods into boiling water for a few minutes to make them white, remove the skins, get rid of strong flavors, or prepare them for freezing.)
+- minitel: a.k.a. teletel, an interactive medium for digitized information by telephone. 
+- tchotchkes: a small decorative object. 
+- linguine: pasta in the shape of long, thin strips. 
+- élan: a combination of style and energetic confidence or speed, esp. in a performance or someone's behavior. 
+- incriminating: making someone feels guilty. 
+- equipoise: a situation in which things're perfectly balanced. 
+- obliquely: said in a way that's indirect, so the real meaning isn't immediately clear. (Def 2: in a slanting/sloping manner.)
+- telex: a method of sending written messages down a phone line from one teleprinter to another, the machien that does this, or the message itself. 
+- femme fatale: a woman who's very attractive in a mysterious way, usually leading men into danger or causing their destruction. 
+- anomie: a state of no moral/social principles in a person or in society.
+- sorrel: a plant with sour leaves that're used in cooking and salads. 
+- leleshwa: Tarchonanthus camphoratus, camphor bush, a shrub/small tree, widespread in Africa south of the Sahel. 
+- trawled: 
 - 
