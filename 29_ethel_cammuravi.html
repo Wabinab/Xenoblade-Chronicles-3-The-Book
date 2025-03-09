@@ -1,0 +1,426 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Ethel and Cammuravi, O and P - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html" class="active"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="ethel-and-cammuravi-o-and-p"><a class="header" href="#ethel-and-cammuravi-o-and-p">Ethel and Cammuravi, O and P</a></h1>
+<p>Continuing their journey on some barren war-torn land, Mio's ears fluttered as she heard something, alerting the others, "What's that sound?!"</p>
+<p>To describe the environment, behind them, they just descended from a slanted platform. There were trees and some grass to the side. Turning to their right, where the booming sound echoed louder, stood a giant boulder taller than the trees. To its right stood the old building structure. To its left, we could see the Castle's silhouette (still) in the distance, plus some other trees and rocks.</p>
+<p>Looking up, they saw Ethel's and Cammuravi's Ferronises standing atop the boulder.</p>
+<p>Noah exclaimed, "Ferronises!" The Ferronises took a few steps forward before gently dropping onto the ground in front of them, sending dust blowing in their direction; they were forced to face sideways to shield against them entering their eyes. As they cleared, the group watched the Ferronises "unbent" their knees.</p>
+<p>From within, Ethel voice echoed via an invisible speaker towards the group, "I told you life is short, but I didn't mean it like this! Noah, Mio."</p>
+<p>Noah: "That voice... Ethel?!" To prove his prediction, Ethel climbed out of her Ferronis, stood on top of it. Noah then turned to the fiery Ferronis, "Ethel... But then who's the other one?"</p>
+<p>Sena: "That one? It's from Agnus, right?"</p>
+<p>Taion: "I recognize the crescent moon crest... Cammuravi's piloting that thing." Cammuravi also climbed out of his Ferronis to show his face, standing in front of the Ferronis's head.</p>
+<p>Noah: "Cammuravi... That's him... Ethel's sworn rival..."</p>
+<p>Mio: "But why? How did they get them to work together?"{{footnote: Borealis already brought the news? Unsure why they felt so shocked when they themselves are working together... And they know Ethel and Cammuravi's stories anyways; if she didn't kill him, it's not too difficult to understand they could work together.}}</p>
+<p>As they were thinking, P sounded as she and O teleported in front of the Ferronises, "Flitting like moths... to a flame. N's predictions are nothing to be sniffed at. Gotta hand it to him."</p>
+<p>Lanz: "Urghhh... Anyone else wanna show up?"</p>
+<p>Noah was more concerned with the new moebius she introduced to them,  "N?"</p>
+<p>"Hehhhhh...." Putting his arms on his waist, O commented, "I'm afraid this is about as far as you go. Terribly sorry, chums!"</p>
+<p>Sena remarked, "I know who he is. He's the Consul from Colony Zeta! I remember him from a... joint operation."</p>
+<p>Eunie guessed, "Then I guess this one's meant to be... from our side then, is she? Never seen her before."</p>
+<p>Lanz: "Probably. So the Consuls are colludin' as well? Something's really starting to smell."</p>
+<p>Taion: "I concur."</p>
+<p>Ethel continued, her voice loud and clear, "I thought that my message to you was crystal clear."</p>
+<p>Noah exited his defensive stance as he replied, "Yes, we heard you."</p>
+<p>Mio added: "That's why we're here!"</p>
+<p>She closed her eyes, "Hm. I thought so." Reopening it, "I had a hunch that this would be the path Ouroboros chose to follow."</p>
+<p>Noah: "I don't suppose... you'll step aside for us?"</p>
+<p>"Wishful thinking. Give it up." She turned as she re-entered her Ferronis. Cammuravi spoke no words and followed after her the same action.</p>
+<p>"Well, then... We'll do whatever it takes." Together with Mio: "For the Greater Good!" And they both withdrew their weapons. Not the others, though.</p>
+<p>Ethel, from inside her Ferronis, swung her dual blades as she replied, "Well spoken! Then I say the same to you!" The dual blades of her Ferronis glowed in cyan after she activated the blades.</p>
+<p>Cammuravi spoke for the first time, "Off-seers from Keves and Agnus... Fate binds us... I bear none of you ill will, but my Way demands we fight!" Pointing his lance at them, inside and outside, flares burning from the tip of the lance, releasing sparks, "Come then... and test your mettle against my lance!"</p>
+<p>Sena: "You've gotta be joking!" The group <em>still</em> haven't called their weapons yet!</p>
+<p>Eunie never stop complaining when she sees the chance, "Mudder! I'm not testing anything against that! What happened to fighting fair?!"</p>
+<p>Taion logically replied to her, "We won't get anywhere complaining! Ready yourself, Eunie!"</p>
+<p>"Ready, he says..." She took a look at Mio whom was to her 10 o'clock, whom was focusing on Ethel and Cammuravi. Perhaps remembering their conversations earlier below the Bright Fig tree? Then she exclaimed, "From the moment I chose this muddy path, I've been <strong>more than ready</strong>!"</p>
+<p>Taion had the time to stood up and pushed his glasses, "Hah! Oh, I know."</p>
+<p>Eunie turned to him in, angry eyed, "Then whatcha say it for? Arsehole!"</p>
+<p>Lanz stopped them from continuing their drama, withdrawing his blades as he shouted to them, "Zip it, guys. Get ready! They're here!" The others followed with calling their blades after him.</p>
+<hr />
+<p>Noah's Ouroboros dashed towards Ethel's Ferronis before the former jumping up and meeting swords. Ouroboros are puny, compared to Ferronises. Despite the sheer size, Ethel's was no slower than Noah's.</p>
+<p>"Whoa! How is it so... fast? Can't find any way to... get inside! Hah!" He dragged backward with their last exchange.</p>
+<p>Ethel was in no better position, either. Electrical sparkles around "The joints... Their sheer power really is something to behold..." The control room was blinking red, while a triangle in front of her screen tried to lock onto Noah's, whom was dashing towards her again. "Noah... Mio..."</p>
+<p>"Urrrrrrahhhhhh..." Lanz's Ouroboros dodged a strike from Cammuravi's Ferronis's lance as he dashed forward, jumped up and landed on top of its head. Then, fired an art that emanates multiple beams from a ring forward, pushing Cammuravi's back. He regained balance quickly, turning his lance to deflect incoming bullets.</p>
+<p>"Gah! No good, eh?" Soaring low above the ground, she dodged just before Cammuravi's lance strikes.</p>
+<p>"Good coordination. I'd be done for, if it weren't for this Ferronis." He readied for another blow while Eunie's drifted backwards.</p>
+<p>"Thanks for the <strong>compliment!</strong>"</p>
+<p>Sena took control while Cammuravi was busy poking Eunie; and Taion took over the moment he successfully landed a hit, splitting into multiple paper mondos. Ethel and Cammuravi were fighting back to back, while the Ouroboros frequently changed their targets.</p>
+<p>While the fighting continued, Taion called out, "Noah."</p>
+<p>"What is it?"</p>
+<p>"I think this is the decider. OK... Let's do it."</p>
+<p>"Yeah... We've got this."</p>
+<p>A distance from the scene, O and P were watching{{footnote: O sitting on a protruding rock, while P stood beside him.}}. P stepped her feet on the ground, impatiently remarked, "Come on, what are they playing at?! Am I crazy? We gave them Ferronises and everything! They had better not be holding back."</p>
+<p>O: "You think they might be underestimating us? <strong>Us</strong> of all people?"</p>
+<p>"Listen, O. Ethel's a lost cause. But Cammuravi... We could use him."</p>
+<p>"Cammuravi? Hoh, I get what you're saying! You know, I forgot we even had that option! Hmm..." He stood up, excited, and put a 'frame'{{footnote: That's what picture-man or photo-man do, when they don't have a camera. They aimed their index finger and thumb 90° to each other into a gun shaped, and joined them so they shape like a frame.}} around their fighting scene. With his left Iris glowing Moebius, he called out, "Now, see the enemy before you? Use every last ounce of strength, and grind them to dust!"</p>
+<p>That makes Cammuravi groaned in pain, his Ferronis knelt with one leg on the ground, supporting itself from falling with its lance. Ethel heard his pain and felt concerned, "What's wrong, Cammuravi?"</p>
+<p>As he continued groaning, his iris glowed red, O's voice sounding within his head, "Look, you can see your enemy right there!"</p>
+<p>"Enemy? Th-That is... My... Enemy...?" Ouroboros shrouded in black fog, red eyes, abhorrent creatures. "Enemy... Enemy! <strong>Enemy!!!</strong>"</p>
+<p>"Cammuravi? What's wrong with you?! Cammuravi!" Then, she remembered something. Looking towards where O and P was, she saw what he was doing. "Oh no! The Iris... I knew it. <strong>Cammuravi!</strong>"</p>
+<p>His two fingers already pointing at his red Iris; the Ferronis's lance struck the air. "Urrrrrrrrahhhhh!!!" As he took deep breathe quickly, he slowly lowered his left hand, his palm enclosing his eyeball. Closing his left iris{{footnote: to reduce blood flow}}, his right shone with determination. "This is... I am... I am <strong>under no one's yoke</strong>!"</p>
+<p>Ethel's eyes widened by his action, "Cammuravi, you... you really... Your own eye..."</p>
+<p>"I will be as they are! I am... <strong>I am free</strong>!" He exclaimed as he pointed his lance forward.</p>
+<p>"Free..." She thought about it for a moment, elated, "<em>You're right... We're free!</em> <strong>Free! The two of us!</strong>"</p>
+<p>Noah, hearing them out, was confused, "What are you saying? Ethel, what's...?"</p>
+<p>Cammuravi snatched her attention, "Attend, Ethel!"</p>
+<p>She tacitly knew what they wanted, "Yes! Our dream will not perish!" Previously back to back, they ran a distance, turned, and started fencing each other.</p>
+<p>Lanz was confused, "Uh? What the snuff's going on?!"</p>
+<p>Taion: "Are the Consuls doing this?!" They stood watching their battle.</p>
+<p>Mio was the first to link the dots, "No! This is... It's what <em>they</em> want!"</p>
+<p>Ethel seconded her, fighting as she spoke elatedly, "Absolutely right, Mio!"</p>
+<p>"Ethel?!"</p>
+<p>"Ever since I met you all, I have admired you!"</p>
+<p>"Admired us?!"</p>
+<p>"Your freedom! I bless the fortune I have had... in meeting all of you! You have... my gratitude!"</p>
+<p>Noah: "Gratitude?"</p>
+<p>Cammuravi explained, "This feeling of elation... Liberating, is it not?"</p>
+<p>"I feel it too, Cammuravi!"</p>
+<p>P stomped her feet once, "Wh- what are they fighting each other for?! O?" She turned to look at him.</p>
+<p>His hands was shaking, his iris was still glowing. As he tried to pluck the strings, it didn't work as he'd expected. "<em>Uhh... I-I can't believe this! He... He won't listen to any of my commands</em>!"</p>
+<p>Noah called out{{footnote: Himself enshrouded in dust from the Ferronises stepping on the ground.}}, he don't understand, "Ethel! Why in flames do you have to fight each other?! We're supposed to be your enemies."</p>
+<p>"I told you, Noah. Observe. This here is the purpose of my life! Just know... You were the ones who finally opened my eyes!"</p>
+<p>P desperately shouted at them, "Stop this! Stop it this instant! Ethel! Cammuravi! Uhhh!!! <em>In that case</em>...!" She activated her iris, and lives start to be drawn away from their Flame Clocks.</p>
+<p>Sena exclaimed as she noticed, "Their Flame Clocks!!!"</p>
+<p>Taion, referring to the 'lives', "This is weird! Look at the way the light is moving!"</p>
+<p>"Is that... Is that their life force we're seeing?" From within the control chamber, 'lives' were escaping from both person, but they didn't care a bit.</p>
+<p>P was furious. Her effort didn't incur what she wanted; but she couldn't do anything else except snapping at them, "<strong>Have you gone completely insane? You were supposed to kill Ouroboros!</strong> <em>So stop this senseless fighting and obliterate those brats!</em>"{{footnote: Meanwhile, O was still shaking, still haven't stop trying to control Cammuravi.}} She then changed into a threatening tone, clenching her fist as if to squash their hearts, "If you don't... I'll take your precious little life, and drain it dry!"</p>
+<p>Eunie: "Wha- Did you hear that?!"</p>
+<p>Noah: "Huh, I knew it. So they really can drain their life! <strong>Ethel! Cammuravi!</strong>"</p>
+<p>Taion: "Noah! We have to kill the Consuls!"</p>
+<p>"You're right!" He immediately made a dash for it, but Ethel stopped him with one of her (Ferronis's) feet, while she was blocking Cammuravi's lance from pressing down with both swords crossed,</p>
+<p>"It's OK, Noah... It's <em>over</em> for us now."</p>
+<p>He wouldn't give up convincing, "That's rubbish! <strong>Ethel</strong>!"</p>
+<p>Mio: "This is wrong. All of this is wrong! There's no reason for you two to be fighting each other!"</p>
+<p>Ethel: "Ugh! You might not understand now,... but someday you will. This is what I... This is what, <em>both</em> of us want!"</p>
+<p>Noah's took a few steps forward as he questioned, "How can... How can any of this be what you want?! <strong>You're both gonna die!</strong>"</p>
+<p>"What we leave you is more important! All our aspirations... You must keep them in your hearts! You must take them... Make it all mean something! You have to live... <strong>You must live on!</strong>" She then break the shielding position, which had been going on for a while, and continued exchanging blows.</p>
+<p>As she felt it's time, they backed up some distance, Ethel crossed her sword into a plus (+) shape, for a final round, "Here I come, <strong>Cammuravi</strong>!"</p>
+<p>"Let us cross blades, one last time!" "<strong>Aaaaaaaaahhhhhhhh</strong>!" Both shouted as they released all their strength for their final blow, given up their defenses, and struck each other's Flame Clock, ending their own lives. Till death, they stayed standing. They could no longer hold their lives, it escaped and saturated their vicinity, as the elated two reddened and lost their flesh, their clothing remains fell onto the ground.</p>
+<p>Mio: "<strong>Ethellll!!!</strong>" The group stopped for a moment, watching their lives floating towards the air. After it died down, she and Noah cancelled their Interlink, "Huh... Ethel..."</p>
+<p>O and P had calmed down. They couldn't reverse their death, no use staying heated. P: "Tsk. Well, didn't they come in handy? What was N thinking, picking those reckless hotheads?"</p>
+<p>Both slowly moving towards the scene while chatting, O: "Hmm... Good grief. Looks like... we're just gonna have to wipe out this lot ourselves!"</p>
+<p>"You scumbags..." Looking at them angrily, Noah scolded.</p>
+<p>P: "Fine then. I did expect something like this. Time for Plan B. Interlinking... You've been blessed with quite the talent. You feel special?"</p>
+<p>Noah: "What now?" The others cancelled their Interlink a while ago, joining beside Noah and Mio.</p>
+<p>She continued, "I do hate to burst your bubble... but I'm afraid it's not just an Ouroboros thing. O?"</p>
+<p>"I'm ready when you are! Hah!"</p>
+<p>"Then... shall we?" Both transformed into their Moebius form, P with several knife-shape blades that made up a wing like a bird, a ring circled around her neck, and a crest like that of a chicken. O is a buff (only its upper torso, though) Moebius, with a ring around its very thin waist.</p>
+<p>Lanz: "Moebius..."</p>
+<p>P: "Now, feast your eyes!" Electric sparkles consumed their body, releasing an energy burst, sending thick dust shrouding their view. After it thinned, an abhorrent creature so ugly appeared before their eyes: an inflated chest, thin legs, an inflated chest; P's horse-like neck protruded from behind O, her teeth looks more sharp. O now had a ring around his neck, stretching his head behind P, a big mouth with not-necessarily-sharp-but-very-huge teeth, and two horns like that of a bull. Ignoring its upper torso, it does have a "golden ratio" lower torso, two horn-like structure constructing a V-shape at its waist. Two whip-like structure joining to where P's shoulders supposedly were. She inherited O's muscular arm. As their heads are directly 180° to each other{{footnote: Perhaps approximately?}}, O had difficulty turning his head to see the group.</p>
+<p>The group showed disgust towards the sheer ugliness of the creature, Eunie expressed it openly, "Urgh, can't unsee!"</p>
+<p>P: "Don't try to curb your disgust, you dirty pleb."</p>
+<p>O wanted to speak, so he pushed P to the side temporarily for his eyes to meet the group, "Hah! We'll have you know that this is the true form of Interlinking!"</p>
+<p>P started her speech like a model showing off her body, "<strong>YES!!!</strong> The form in which two worlds become one. A far more refined form than this... half-assed one you've stumbled upon. Look upon us and tremble before perfection! You'll writhe in agony before we-"</p>
+<p>She never finished her speech. Mio landed her feet in her face so hard, and she was so into the speech she didn't notice until the last second, that she goes rolling backwards, making several rolls, knocking out dirt, before crashing into a rock. Clouds of dirt temporarily shrouded them from the group's view.</p>
+<p>"Huh... Huh... Huh... Huh... Huh..." Mio was panting with all her might. The group had never seen <em>this</em> from her, gasped with eyes and mouth wide opened, flabbergasted and frozen. O and P were sitting on the ground, trying to get their head around what had just happened.</p>
+<p>Noah sounded from behind, "Mio?"</p>
+<p>"<strong>Stop...</strong>"</p>
+<p>P looked up at her, "Stop?"</p>
+<p>Shouting at her, "<strong>Stop toying... with everyone's livessssss!!! What did they ever do to you? Why? All they wanted was their wish to be realized! You turned everything into a game! Cast them away like dolls! These are our lives here! They're not some toys you can just play with!</strong>"</p>
+<p>As the rain poured, Sena was first to recovered from her surprising action, seconded her anger, remarked with a seething tone, "Mimi's right! I've got no idea who you truly are. <em>Though I hate to admit it</em>. However, I do know one thing!" She summoned her blades and continued, "You guys really make my sparks fly!" Then, she punched the floor with her hammer.</p>
+<p>Eunie took steps next, "You there, in the back. Feeling lonely 'cause you haven't been punched yet?" Summoning her blades and continuing, "You better enjoy that while it lasts, 'cause I'm about to rearrange both your mugs!" She then pointed her rifle at them.</p>
+<p>Taion followed, "Usually, I'm not one for outward displays of emotion." His Mondo gauntlet appeared, Mondo swirled around him as he raised them on top of him, "<strong>But not today!</strong>"</p>
+<p>Lanz slammed his broadsword into the ground, "Noah, <strong>you better not stop us!</strong>"</p>
+<p>Withdrawing his blades, walking forward and stopping beside Mio, "Oh believe me, I won't. <strong>You make me laugh. Us, 'half-arsed'?</strong>" Pointing his sword at them, "Our conviction has never been stronger! <strong>And now...</strong> we will show no mercy. <strong>By Ethel and Cammuravi's lives, I swear... I'll make you pay!</strong>"</p>
+<p>P felt insulted, "Huh! You Ouroboros brats!" Jumping high into the air and landing as a quadrupeds, with O head down and P behind the spines, "Come on then! This time, you shall tremble before our perfection!" Standing up, P swapped her direction with O, facing the group.</p>
+<hr />
+<p>The beeping sound similar to Ouroboros overheating could be heard; Sena's, Mio's, and Eunie's Ouroboros teamed up against him and her, but their body didn't glow yellow-orange, seemingly not them overheating.</p>
+<p>Both couldn't believed their eyes, "...How could this be...? Our offense and defense... They were perfect!"</p>
+<p>"Aaaaaaaaargh!" Sena's hammer broke their shield, slamming O in his face. As he looked up, we could see the Moebius ring glowing red hot, steam emanates from it.</p>
+<p>O was still brain-locked, "How did they? H-how could they?! How are they so strong?! That damn noise! Shut UP with your infernal beeping!" O goes quadruped again to regain balance.</p>
+<p>P: "Don't go telling us our time is up now! We were only just getting to the best part! I'll take these half-brains, and throttle the life out of 'em! I can still..." Their Moebius core started to glow red hot too, but she didn't care. Seemingly made her choice, the core released a burst of energy, itself changed to glow purple, "I can still do this! Nothing for it. Go for full Interlink! O!"</p>
+<p>The group watched O and P gathering energy by their core, and two energy balls held atop their palm, "Aaaargggggghhhh!!!"</p>
+<p>P: "Better brace yourself. 'Cause you're gonna have a hard time... stopping this!" Tired of her speech, Mio kicked her in her face again! She rolled backwards again, and their full Interlink process was cut short therefore.</p>
+<p>As the dust thinned, we saw them all fours on the ground, catching their breath, steam dissipates from their whole body, "You're Ouroboros... Nobodies... You are nothing... to Moebius...!" She didn't give up, gathering more electrical sparkles that shrouded their body surface, releasing thick purple cloud/fog and shockwave that the Ouroboros had to shield their face against.</p>
+<p>Eunie: "Oi, oi! Things are lookin' pretty snuffed up!"</p>
+<p>Taion: "Noah, something's strange!"</p>
+<p>"Iaaaaaaaahhhhhhh!" Every step their feet put forward, purple flames the color of black fog burned a hole in the ground. P: "Y-you'll never... get away with this! Neveeeeerrrrr!!! Ne... ne... ne...?" The core has reached its limit, emitting a burst of energy shockwave to release the pressure.</p>
+<p>A few moments later, dust started to blow in the opposite direction, towards O and P. Confused, P looked at their body, "Wh- what's this light?! What's happening?! Wh-why can't we move?!"</p>
+<p>Taion: "The black fog?!" It's not just dust being absorbed, but black fog were aggregating with them as the center of absorption. He was reminded of the damage an annihilation cast when they visited the desert, "No... the annihilation effect?!"</p>
+<p>Noah: "What? Are you sure?!"</p>
+<p>"Noah! We have to get away from them! <strong>We have to retreat!</strong>"</p>
+<p>Sena: "<strong>We're not gonna make it...!</strong>"</p>
+<p>Lanz took control, "<strong>OH, SHIT!!!</strong>" He raised a ring shield; the best he could do in this situation. Taion also did the same, taking control and raised a Mondo shield.</p>
+<p>Noah: "Huh... <strong>Mio!</strong>"</p>
+<p>"I'm on it!" Mio's Ouroboros sprinted towards O and P.</p>
+<p>"Huh? Mio! What are you?"{{footnote: Is this from Lanz or from Taion?}}</p>
+<p>Just before they arrived, she jumped mid-air, cancelled the Interlink, and Noah unsheathed Lucky Seven while they slowly floated upwards{{footnote: while their force were still larger than gravity acting on them.}.</p>
+<p>"This is it!" He held out the handle for Mio to grab.</p>
+<p>"It's the only... way!!!" One of her hand on the tip of the handle, Noah covered her hand with his. Aiming at the ground, "Hahhhhhhhhhhh!!!!" They stuck Lucky Seven into the ground in front of O and P, cracking the floor open, releasing lots of dust and debris. The ground O and P stood on cracked into two, and they went falling downwards.</p>
+<p>While P watched in agony, the two quickly turned around and sprinted for their lives, lest they get themselves falling down, lest they cannot get out of the annihilation bubble on time. "Waaaaaaaaaaaa!!!" O and P screamed as they dropped.</p>
+<p>A few moments later, a bright green light blinded the vicinity. Noah hugged her as they fall onto the ground. Taion's and Lanz's get in front of them, raised the shield just in time for the shockwave. "Urgggggggghhhhhhh!!!!" The annihilation lasted for a few seconds, leaving some engravings on the rocky pillars, signifying it had been here before. Remnants of rocks swirled around where the annihilation event disappeared, as usual.</p>
+<p>Sensing the disappearance of the intense winds and dusts, the two slowly got back up on their feet, while the other four cancelled their Interlink. Noah, scanning the horizon, asked, "Is it over...?"</p>
+<p>Sena: "Are we... all in one piece?"</p>
+<p>Lanz, scratching his head, "Yeah... Think I've got all my limbs attached."</p>
+<p>Eunie was coughing furiously, "Queen's fingers, that was close!"</p>
+<p>Taion was impressed, "Quite a snap decision there, Noah!"</p>
+<p>He calmly replied, turning towards her, "That was Mio's doing. I'm very impressed!"</p>
+<p>"It was easy. I do know how you think."</p>
+<p>She felt complimented, but not cheered up. She turned and walked towards the Ferronises, the group followed behind. Both brought out their flutes, reminisced for a moment, then played their melody.{{footnote: The first time they played with swapped flutes, eh...}}</p>
+<p>Blue moats rose from within the command center, from the remains of their shirt, dissipating as it rose into the air. The others reminisced the scene in silence. Mio shed a tear while she was playing the melody. They could finally rest in peace.</p>
+<hr />
+<p>That night, gathering around a bonfire, camping beside a rocky wall. Riku and Manana were fully asleep. The others just sat around, as Lanz started the conversation, "Noah. Can I ask a weird question?"</p>
+<p>"Sure."</p>
+<p>"In that ceremony... You didn't send... 'them' off?"</p>
+<p>His raised his eyebrows, "No, today's been a bit much. I'm only human."</p>
+<p>"I know, right? Well then. That's a relief."</p>
+<p>Mio remarked, "It's wrong. That shouldn't be what gives our lives purpose. Wasn't there a different way? A better one?"</p>
+<p>Lanz: "Those two... fought for their ideal..." Looking up as if they turned into stars, watching down at them{{footnote: Though we couldn't see any stars...}}, "Something more important than their lives."</p>
+<p>Eunie: "Honor? Or pride?"</p>
+<p>Taion: "Satisfaction, perhaps?" Then immediately rejected himself, shaking his head, "No, that's wrong... Something we can't put into words."</p>
+<p>Mio: "Yeah, but what? Can it really be that important?"</p>
+<p>"I can't say..."</p>
+<p>Sena asked, "Do you think they found it? That... 'something'?"</p>
+<p>Lanz: "Be nice if they did."</p>
+<p>Noah: "You think so?" They turned to him, whom was looking on the ground, "I just... Seems... so sad."</p>
+<p>"Huh..." Mio felt the stone in his heart. Together, they watched sparks rose from the bonfire, dissipating its little light as it floated upwards, before their flames died.</p>
+<hr />
+<p>The next morning. Seemingly a (short) valley, with rocks to the left and right, the left far taller than the right. On the right platform, we saw the old buildings placed on it, together with some trees behind.</p>
+<p>Lanz, Eunie, Sena, and Taion were gathering around, chatting. Riku tried to wake Manana up. Mio took steps towards Noah, whom was practicing his sword some distance away. To the distance, a building resting slanted to the horizontal, its beams so strong it didn't break{{footnote: Does cement building breaks if we slanted them 75° to the vertical?}} Below the building laid the Ferronises.</p>
+<p>Finishing his moves and sheathing his blades, he turned to the footsteps behind, asked, "Sleep well?"</p>
+<p>"Yeah... Well, sort of."</p>
+<p>"Well... Your eyes are red."</p>
+<p>"Hey, shut up... So what if they are?" She step forward and poke him on his forehead, turned away while he covered where she poked. "But... I know what I have to do." Turning back to him, "Everything's so... clear now."</p>
+<p>"Same here."</p>
+<p>"We'd better hurry. After all... the threat's not gone."</p>
+<p>"Yeah. That's true. <em>Heh...</em>"</p>
+<p>"Hm?"</p>
+<p>In an uplifting tone, "You surprised me." Then, he showed it by punching himself in his cheek.{{footnote: Perhaps that's her foot at P's face he meant?}} She could only scratched her head.</p>
+<p>She replied, "You did too. I... I didn't think you were the sort to take such a stand."</p>
+<p>"Sometimes, we're left with no other choice."</p>
+<p>She thought for a while what he meant before agreeing, "Mmm... Yeah! I think you're right! Absolutely right." Then, she turned to look at the Ferronises. He followed her glance, before she asked, "What do we do about... Ethel?"</p>
+<p>"When things are settled, we'll let Colony 4 know. It's what she'd want. I'm certain of it."</p>
+<p>"Yeah, you're right. She'd be... happy." As she finished, they turned and walk towards the group, where they camped. The others had finished chatting, awaiting their return.</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="28_exchanging_flutes.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="30_castle.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="28_exchanging_flutes.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="30_castle.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

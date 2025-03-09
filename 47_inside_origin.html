@@ -1,0 +1,419 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Inside Origin, N, Rescue Melia - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html" class="active"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="inside-origin-n-rescue-melia"><a class="header" href="#inside-origin-n-rescue-melia">Inside Origin, N, Rescue Melia</a></h1>
+<blockquote>
+<p><strong>Translator's note on environment:</strong> Purple light beams shone up like those used in holograms. The high-tech industrial-like structure inside the giant room, with some platforms and several storey tall buildings, occupy all spaces. Some generators sparkle electric from their central core. And there were unnamed creatures burning purple flames guarding the area. This, is <strong>Origin.</strong> A forever dark, gloomy, purple-reddish sky loomed over the area.</p>
+</blockquote>
+<hr />
+<p>Lanz: "Whoa... So this is what it's like on the inside... It's all just... machines, and more machines..." Sena bent down to touch the floor.</p>
+<p>Taion observed, "I also see... trace amounts of the black fog."</p>
+<p>Sena: "Hey, this metal... It's like Noah's sword!" Noah then bent down to feel it.</p>
+<p>"You're right. It is the same."</p>
+<p>Eunie questioned, "Mio, you know what's in here?"</p>
+<p>"Sorry, no. Whenever we teleported, it was always to a large, dim room. I think that was Z's doing, to keep the location secret."</p>
+<p>"<em>Welllll... Guess we're searching the old-fashioned way, then.</em>"</p>
+<p>Noah: "What about the other Moebius? Anything?"</p>
+<p>"About that..." She looked up, trying to access her memory. "It's odd... It's like they're right here beside me, but also far away. I feel like I'm surrounded by them on all sides."</p>
+<p>Lanz reasoned, "<em>Well... This is the enemy base and all. Kinda makes sense.</em>"</p>
+<p>"<em>Or maybe...</em>"</p>
+<p>"Huh?"</p>
+<p>She hypothesized, "This whole place... floor, walls, and ceiling... <strong>Everything here could be Moebius</strong>." And the whole group gasped, surprised by such notion. An inanimate Moebius, huh? Or the Origin had been Moebius-ed.</p>
+<p>Noah's sword was oscillating strongly. Taion, noticing such movement, questioned, "Is it them?"</p>
+<p>"No... The transmission pattern's different. <em>This feeling</em>... It's like it's calling to us."</p>
+<p>Sena asked, "You think it's... the Kevesi Queen?"</p>
+<p>"Maybe."</p>
+<p>Mio: "Where, then? Can you tell?" And he drew out Lucky Seven, pointing it around him to find a direction.</p>
+<p>The strongest vibration was "Below."</p>
+<p>Taion: "<em>Do we go, Noah?</em>"</p>
+<p>"Yeah. Let's go. It's <strong>all</strong> been leading to this." And so their new direction had been set.</p>
+<hr />
+<p>Destroying some monsters that lurk the Origin floor, and it fell into ashes, the group sheathed their blades, and Eunie exclaimed, "<strong>What the spark were those things?! They fall apart the moment we take 'em down!!!</strong>"</p>
+<p>Sena noted that "the black fog is gone too..."</p>
+<p>Taion stated his observation, "They're not mechanical... But neither are they biological."</p>
+<p>Noah noted that she was thinking hard, asked, "Something wrong, Mio?"</p>
+<p>"Mm... As they fell, I could feel it, very slightly... A vague whiff of Moebius{{footnote: So the word 'Moebius' here had the <em>term</em> of not a person, but a feeling. To understand the meaning of 'term', read <em>How to Read a Book</em> by Mortimer Adler.}} coming off them."</p>
+<p>Eunie folded her arms, "Those things? What's that mean?"</p>
+<p>She shook her head, "I'm not sure..."</p>
+<p>Noah reminded, "Mio, didn't you say before, all this could be Moebius?"</p>
+<p>"Yeah."</p>
+<p>Taion asked, "Are you trying to say those things might be Moebius as well?"</p>
+<p>Lanz: "But they don't even look human."</p>
+<p>"I think the shape might not matter so much."</p>
+<p>"Huh?"</p>
+<p>"<em>I think I'm starting to get the picture.</em>" He closed his eyes, "I feel like I know what Moebius{{footnote: Another different term that don't mean the 'Consul', but something else... that includes these abhorrent creatures...}} is..."</p>
+<hr />
+<p>Inside the cinema room. N was still in the desolated state. Z stood in front of him, trying to call him back for one more time. "You, who wield the Sword of the End. The endless now, is under <em>threat</em> of being <em>cut short</em>." That doesn't matter anymore. His Mio is gone. Who had he to share the endless now with, if she's gone forever? "Could you do <em>it, I wonder?</em> <strong>Could you slay the ones</strong> <em>who advance relentlessly toward despair? You do after all desire eternity... Above. All. Others.</em>" Nope, still looking on the ground. He could not do it, not after Mio is gone. "<em>Now. Take it in your hand.</em> <strong>For the endless</strong> <em>now</em>. <strong>For that which you so</strong> <em>desire</em>."</p>
+<p>Perhaps being mind controlled, he tilted his head up, stood up slowly, and pulled the Sword that looked just exactly like Lucky Seven that had been pierced onto the floor in front of where he'd just stood up from. He raised it in front of him, looked at it attentively without emotions, and his eyes glowed Moebius.</p>
+<hr />
+<p>They arrived at a place which was shielded by an array of doors. Door after door, back to back, they opened. Dust started rising to ankle high, for no one had set foot here for a long while. Nevertheless, forget about the dust. They will set foot once more after such long time.</p>
+<p>Inside the giant chamber was brightly lit purple. Noah: "<strong>Over there!</strong>" And he quickly dashed towards the center, which was a purple core with spikes, each having a metal chain 360° that held something, or perhaps, someone, dangling in the middle, in mid-air. Came up close, the group can see clearly: it's the Queen. Melia Antiqua. Chains wrapped around her waist, hands, and neck. Her eyes were shut, unable to wake. She was hung a few meters above them.</p>
+<p>"<em>Man, that's our Queen, Melia.</em>" said Lanz.</p>
+<p>Mio felt hurt, "That's vile... How could they do this to her?"</p>
+<p>Taion: "With all we've seen of Moebius... I'd put nothing past them."</p>
+<p>Sena: "We have to release her!"</p>
+<p>Noah: "Yeah!"</p>
+<p>As he put his hand on Lucky Seven's hilt, ready to slice such chains into pieces, N's words reverberated softly, as if directly into their ears, "<em>Took you long enough...</em>"</p>
+<p>"I know that voice... It's N." And he gave up pulling the sword before solving their enemies. They looked to the left -- he was entering the room and finally stood between them and the Queen. The darkness and dullness in his eyes betrayed all hope. He had no more hope. "<em>Huh</em>... You look unwell. Like me..." He rethe depressed state he was in when he was locked away by him. "When you had us locked up."</p>
+<p>"Hmph... Got my just deserts? <em>Well don't you look smug, with my woman on your arm,... Noah</em>."</p>
+<p>"Does this face really look smug to you?"</p>
+<p>"What else would you call it, huh?"</p>
+<p>Mio: "N..." He hadn't changed his mind, in serious denial.</p>
+<p>Noah: "<em>Poor clod.</em> You don't understand anything..."</p>
+<p>Doesn't matter. But "You cannot have <em>the Queen.</em> She is the fulcrum of <em>Origin itself</em>. By my very existence, <em>I will keep her from you</em>."</p>
+<p>Lanz retorted immediately, "<strong>Well that's not gonna happen. Our schedule's tight enough as is.</strong>"</p>
+<p>Eunie was still angry with him, "And also, this is <em>our</em> Queen you're talking about! <strong>So get ready for a right royal thrashing!</strong>"</p>
+<p>Taion: "You're effectively a part of Noah himself. We'd reeeeaaallly rather not hurt you."</p>
+<p>Sena: "But we will if we have to. 'Cause if you get in our way, then Moebius or not, we're throwing out all the stops <strong>and then some!</strong>"</p>
+<p>"Hmph... Don't fool yourself. Willpower alone won't change the world." And he started drawing immense dark energy into his sword as he got into his preparing stance.</p>
+<p>Noah: "We'll prove you wrong. you'll see. Watch."</p>
+<p>"You cannot hope to win. Not while I stand here, at the brink of the void."</p>
+<p>"Void..."</p>
+<p>"<em>Hm?</em>"</p>
+<p>"That's just... <strong><em>your grief.</em></strong>"</p>
+<p>"What?"</p>
+<p>"It's called sadness, N."</p>
+<p>"Hmph..."</p>
+<p>"We came here... for you. <strong>To honor M's wishes.</strong> And to rescue <strong>you from your sorrow!</strong>"</p>
+<p>"<em>To rescue me...?</em> What meaning does that tripe hold for me? <strong>Now that</strong> all is past, <strong>why should</strong> it matter?" And there was a pause as they looked at each other, he looking at him with sad eyes, and him looking as if they're the ones that know nothing. "If you don't know, then let me teach you. <strong>I'll drag</strong> <em>you with me...</em> <strong>Deep into the void! To the depths of DESPAIR!</strong>" And the group drew their weapons, ready for battle.</p>
+<hr />
+<p>Halfway through the battle. Noah: "I'll ask again... <em>Why did you do it?</em> <strong>TELL ME!!!</strong> How could you <strong>murder</strong> the <strong>City's people?</strong> Just think... <strong>They were the lives of your OWN KIN!!!</strong>"</p>
+<p>"<em>My own kin...? You're wrong. They were nothing but mere chaff.</em>"</p>
+<p>"<strong>What?!!</strong>"</p>
+<p>"They were superfluous for us Moebius living in the now. <strong>Furthermore! All those lives wouldn't have EXISTED without me!</strong>"</p>
+<p>"Ngrh..."</p>
+<p>"<strong>As their original</strong> creator, <strong>I held dominion over their lives and deaths!</strong>"</p>
+<p>"<strong>Listen to yourself!</strong> Tell me... What about M, then...? What about the love <strong>'Mio'</strong> had for them?!"</p>
+<p>"<em>Mio...!</em> <strong>Mio! MIO! MIO!!!</strong>" With each shout his crease on his eyes deepened, and he pointed his sword on Noah's neck, the desperation in his voice, "<strong>You are the ones who couldn't protect her! In the end you were powerless!</strong> <em>And now she's</em> <strong>gone...!</strong> <em>How could you?!</em> <strong>ANSWER ME!!!</strong>"</p>
+<p>"You really don't know? Don't you understand anything? <strong>I don't get it! Why, N...</strong> Why do you keep <strong>punishing yourself like this?!</strong>"</p>
+<p>"Hrrr hrrrrgh..."</p>
+<p>Dropping his head as he speak, "<em>You took the wrong path,</em> <strong>and then</strong> <em>you had to walk it alone... You just messed up...</em> You messed up royally!" There were two paths he could chose in the past.</p>
+<p>"Hrrrghhh..."</p>
+<p>"<strong><em>Regret owns you...</em></strong>"</p>
+<p>"What do you know...?"</p>
+<p>"'If only I'd make the right choice...'; 'If what happened, hadn't...' Clinging to the past, <strong>obsessively</strong>... You just had to keep walking that path. <strong><em>What you've become... is 'regret' itself!</em></strong>"</p>
+<p>"Really. And what <em>does that make you, then...?</em>"</p>
+<p>"I am... All of us... We're hope."</p>
+<p>And he raised his eyebrow, "They're hope, <em>he says...</em> <strong>Ha-hah!</strong> What lofty heights of arrogance.{{footnote: Shaking his head.}} Like some self-proclaimed <strong>savior</strong>?"</p>
+<p>Mio joined in, "Not at all. They're the words of the one you held most dear."</p>
+<p>His voice shaky, "Huh?!" Mio in bed looking at her newborn, they recalled. And she looked at him, sad at his current state. But he, he... he was flabbergasted.</p>
+<p>"That's her... <em>inside there?</em>" Fragile voices.</p>
+<p>Noah: "She felt regret... Just like you did." Or she wouldn't have stood by the cliff one night, thinking of jumping off and hopefully end her life. "And yet, she had hopes for the future. That's why she left everything to Mio." Her smile, on the day of the eclipse. Her wishes does not{{footnote: does not evaporate with it.}}. And N continue to look at the teary-eyed Mio for long.</p>
+<p>"This 'Hope' of yours... How can there be anything like it?!" It's too late. This is the path he'd walked, and he could no longer return. How could he? People say you could start exercising at any age, but do you believe such words? Maybe some of you, but not most. He shook his head, forcing his thoughts unwavering, "<strong>In this world, there is nothing but the void!</strong>" Putting his sword back into the scabbard to gather energy again, "<strong>Peer now into it, and watch your precious hope CRUMBLE to nothing!</strong>" It released a shockwave at the group and shook them back one step.</p>
+<p>"<strong>I'm trying to tell you...! THAT'S JUST THE SADNESS, SPEAKING THROUGH YOU!!!</strong>" Another round between hope and depression commenced.</p>
+<hr />
+<p>"Urgggghhhhh...Irghhh hurggggghhh Ngggrrrhhhh" He dragged behind while he lost his sword, fell to the ground, too effete to stand up. His panting breathe cannot hide his desolation, his worthlessness.</p>
+<p>While the group were still on their defense, Mio, looking at him full of sorry, sheathed her blade, dropped her guard. The rest were surprised at her actions. She nodded to Noah before walking towards him. The others sheathed their blade as they watched.</p>
+<p>"<em>'I want to be with you forever'</em>... Those words back then were the truth. It's what she really wished for..." She bent forward to look at him closer. Recall herself in her cell, looking out at the moon, shedding tears.</p>
+<p>"Yes, that's right... I wasn't... Hurggg... I wasn't mistaken. When I tried to give her <strong>eternity</strong>, that was the <strong>correct</strong>, choice... <strong>And you ruined it!</strong>"</p>
+<p>"<strong>BECAUSE YOU'VE CHANGED!!!</strong>" She immediately retorted.</p>
+<p>"<strong>HURRRGGGGHHHH!!!</strong>"</p>
+<p>"<strong>You still don't understand? You were together so long... How can you not get it?! She wanted you to go back,</strong> back to the name <em>'Noah'</em>..." And his iris constricted, putting it so blandly in front of him his problem. With tears in her eyes, "<strong>She wanted you to call her...</strong> by the name <em>'Mio'</em>..."</p>
+<p>"<em>Why?...</em> Why are you the ones, who get to stand there together? In this world, edge to <strong>bleeding</strong> edge filled with sorrow..."</p>
+<p>Noah from behind walked up towards Mio, while speaking, "Perhaps... we just got lucky."</p>
+<p>"'Got lucky'...?"</p>
+<p>"Trace it to chance encounters."</p>
+<p>"<em>Huh!!!</em>"</p>
+<p>"I've met... so many people." Guernica, Ethel, Monica, Ghondor, Shania, Crys, "Lanz, Eunie, Taion, Sena, Riku, and Manana...{{footnote: The group walked up to stand beside them as he speak.}} My friends have been invaluable. <em>And of course</em>," and he turned to look at the one he most cherished, "I met Mio, too... <em>There's a very small difference, between you, and me.</em> If I had been in your shoes, I'm sure I would have <em>chosen the same.</em>"</p>
+<p>As if hope came back, or maybe, reassurement, "<em>You would, would you...?</em>"</p>
+<p>"Yeah... But not any more. Mio and my friends... and not just them,... but the other Mio, and the other me... Every person I have met, has <strong>shaped</strong> me and <strong>changed</strong> who I am. Thanks to them, I can <strong>choose</strong> the future."</p>
+<p>"Hurggg... Even if you do succeed at returning the world to its original form, there's no guarantee you'll live long enough to enjoy it. <em>What about that? Do you still intend to persist regardless...?</em>"</p>
+<p>Without a moment hesitation, "Yeah, we will. We'll fight our way out <em>of these ten years.</em> That's all."</p>
+<p>"Huh..."</p>
+<p>Mio took a step forward, bent forward again to look at him attentively, "N... You were just like us once, <em>an Ouroboros</em>, fighting for the future. But one day, you gave up on it, and made the choice to protect the 'now'. But you know, that's OK too!" She put her fist on her heart and appreciated, "<strong><em>To protect, and to endure... They're shapes a wish can take.</em></strong>"</p>
+<p>"<em>Hngggh...</em>"</p>
+<p>"And I, I knew exactly what that meant." He looked at her, as if he saw his Mio once again overlapping with her.</p>
+<p>"<em>Mio...</em>"</p>
+<p>Noah walked near him, held out his hand to invite, "Won't you come with us? You could try... to move forwards again."</p>
+<p>"<em>After so long...?</em>"</p>
+<p>"<em>It's what you both wanted, right?</em> Well then, easy choice."</p>
+<p>"<em>Haaaarggghhh...</em>" With trembling hands, he slowly held out and touched Noah. Upon contact, a bright glowing light shone, illuminating the room bright, and brought up Noah's Ouroboros symbol and N's Moebius's symbol. With smile on N's face and surprise on Noah's, N brought them back to where the road situation had lead before.</p>
+<p>By the evening sun, grass to both sides of the road, trees beyond the boundaries, and sun at infinity, there were no longer two path to choose; only one... to keep walking the one under your feet, until you succeed. As if standing behind the cinema screen, N took a step into the cinema and walked down that single road, never looking back. There's no Mio waiting at the edge to walk with him, but he will walk on nevertheless.</p>
+<p>The bright light blinded the space and Noah was inside his thought. As N merged with him, he gained the half-Moebius-half-Ouroboros symbol.</p>
+<hr />
+<p>Back in the room, wind blew through, leaving no trace of N's existence.</p>
+<p>Lanz: "<em>What in the...?</em>"</p>
+<p>Sena: "<em>He vanished...</em>"</p>
+<p>Taion: "What exactly does this mean...? Noah?"</p>
+<p>Eunie: "Is he... dead, or what?"</p>
+<p>Still holding out his hand, he looked at where he touched him in his palm. Slowly grabbing it into a fist, he replied, "No... He's fine."</p>
+<p>Taion: "Fine in what sense?"</p>
+<p>He looked at Mio, and she nodded to him, he nodded back, but didn't explain to the others. Perhaps she knew something about it, though her situation is somewhat different, but she also gained the half-Moebius before. "For now, let's do what we came for." And he lead the group towards Queen Melia.</p>
+<p>Sparkles like glitters shook off from her shirt. The group looked as she was being lowered to the floor, the chains gone without them doing anything to it, but her eyes still closed until she touched the ground. She slowly regained her feet and opened back her eyes, as the others were astonished. "<em>Huh...</em>"</p>
+<p>"<em>I had... a long dream.{{footnote: Nice one, Melia! Your first sentence after so long is very conclusive!}} A very, very long dream.</em> In my dream, youths were fighting. And as many times as they fell, <em>they always got back up again.</em> A dream of young people, simply trying to survive..."</p>
+<p>Noah: "Majesty..."</p>
+<p>"Noah... <em>correct</em>?" And he nodded in affirmation. "I have been watching you,... all this time, through the eyes of my simulacrum... <em>Well done making it here.</em>"</p>
+<p>"The Queen of Agnus is already free. Now you are too. And now... <em>that leaves only <strong>him</strong>.</em>"</p>
+<p>"You mean... Z?"</p>
+<p>"Yes."</p>
+<p>"About Z... He is not a person, but a concept."</p>
+<p>"Concept?"</p>
+<p>"Everyone can feel uncertain,... frightened... These feelings, coagulated, and then given human form, are Z. Unlike those people who were granted a Moebius body, he is a true, Moebius."</p>
+<p>"Sounds ominous..."</p>
+<p>Taion: "So he's not even <em>an individual</em>?"</p>
+<p>"He is and he isn't. There is some Moebius within you, too. But... <em>perhaps you've realized that?</em>"</p>
+<p>"<em>Hmph...</em>" Who says not when N and M materialized? When Crys materialized? When Joran materialized?</p>
+<p>"Your Aionios... lies in frozen time... born from the Moebius wish that chose the endless now."</p>
+<p>Taion: "<em>So then, both <strong>us</strong>, and the world... Everything that exists, it's all false?</em>"</p>
+<p>She shook her head, "Everything that exists is reality... Present lives... and future ones..." And they recalled the drop of moments to moments up till now, the experiences, the adventures, the people, the knowledge, the idea, the concepts, the emotions... Looking at the Core where she was enchained, "Moebius aside, the wills of countless people persist, inside of Origin." Turning to Noah, "The Sword of the End you carry, and Ouroboros, they take their shape from these thoughts. Protect the now, or carve a path <em>to the future?</em> The wielder decides."</p>
+<p>The others look at him, and he looked down at his sword.</p>
+<p>Melia continued, "The future is undeniable, <em>but you must realize your own.</em> I've seen what you've done. <em>You can do this, too.</em>" She then scanned the group, and after that, nodded, "Very well. There remains but one more thing I have to say to you. Noah. Mio. Lanz. Sena. Taion. Eunie." As she called out names, each "huh" or "hooo" escaped as they felt entitled. "<strong><em>This world... is yours.</em></strong>"</p>
+<p>Then she went on to guide them, "Further below this point, lies the nucleus of Origin. You will find Z there. I shall return to the Castle, and free the soldiers from the Flame Clock's bondage. Otherwise, their lives will only feed Z's power."</p>
+<p>Lanz: "Nice thinking, Your Majesty! Countin' on ya!"</p>
+<p>Sena: "Oh, uh, will you need an escort...?"{{footnote: Urmmm... You want to be the escort, Sena?}}</p>
+<p>"I would think not. Might you have forgotten who I am?" And she summoned her blade, the staff, held it up high into the air which released some turquoise lights, and the green covered the surface of her. As she was doing that and others were attracted to her staff, she turned to look at Riku, whom suddenly turned a happy face at her and nodded, and she nodded back. Immediately, the green covered her blindingly and she teleported away.{{footnote: So not only the Moebius can teleport, she can too... Or maybe, the teleportation power the Moebius got came from her?}}</p>
+<p>Lanz: "Whoa... Awesome!"</p>
+<p>Noah walked forward and turned around to face the group, ready to give the next step, the next direction, "All right. This will be the last battle. We're all gonna make it through this, <strong>I promise!</strong>"</p>
+<p>Eunie: "<strong>Yeah! This new world</strong>, sounds like a blast."</p>
+<p>Sena: "There's no way we can lose!"</p>
+<p>Mio: "We're strong now. Just look how far we've come together."</p>
+<p>Taion: "<em>The world is in our hands.</em>"</p>
+<p>Lanz: "<strong>Right. Let's grab it, and hold tight!</strong>"</p>
+<p>Both Manana and Riku nodded. And Noah nodded to all of them.</p>
+<hr />
+<p>Outside. It was already evening; the sun was setting red on the horizon.{{footnote: From second video. Anyway; not important detail to fumble over.}} Ferronises and Levnises of Agnians and Kevesis fired their beams and cannons at Origin. Monica, inside the control room still, watched 6 (3x2 column x row) tiny frames in front of the screen from different angles, "What a sight, the worlds fighting together. If you'd told me I'd live to see it, I'd have never believed it. Hehehehe... <strong>The time has come for the City to mobilize! Keves, Agnus - support them all! Gilgamesh, deploy!</strong>"</p>
+<p>And the City started moving. It, in its usual fighter jet form, dropped off from the underneath of the rock it had clung to and nosedived into the water below. Then, it turned a few rounds, blasted its rockets, and stretched its wings as it swooshed and zoomed upwards into the sky beyond the waterfall that hid them.</p>
+<hr />
+<p>"Ghondor" She heard her mom on the round mirror like screen, and she showed herself as a portrait in her mom's ship.</p>
+<p>"What is it now? And can you not use that name?"</p>
+<p>As usual, she ignored her complaints, "We're ready to launch a full offensive on Origin. Back us up!"</p>
+<p>"<strong>Mother, dear...</strong> Like I wasn't gonna do that anyway!" And the fleet joined in beside Gilgamesh.{{footnote: God knows if that was her fleet or not.If yes, how did she teleported from far away in Origin back to the City so fast; and why not just waited there near Origin? Or maybe Gilgamesh had already neared Origin before Monica called her?}}</p>
+<p>"<strong>Our main goal is</strong> ultimately defense. <strong>Only destroy</strong> weapons on the outer rim. <strong>Noah and the others are</strong> heading for the core. <strong>Leave the middle</strong> intact."</p>
+<p>"Screw that up, and we can't restore the world, right? <strong>Roger, Wilco!</strong>" And the fleet advanced first towards Origin while Gilgamesh followed behind.</p>
+<hr />
+<blockquote>
+<p><strong>Translator's Note:</strong> <a href="/91_melia.html">Find out more about Melia in her story.</a></p>
+</blockquote>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="46_going_to_origin.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="48_final_battle.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="46_going_to_origin.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="48_final_battle.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

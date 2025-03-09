@@ -1,0 +1,489 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Ribbi Flats and Valdi - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html" class="active"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="ribbi-flats-and-valdi"><a class="header" href="#ribbi-flats-and-valdi">Ribbi Flats and Valdi</a></h1>
+<blockquote>
+<p><strong>Translator's note on environment:</strong> By a riverside, some fluffy animals called "kapiba" could be seen, with yellow furs and poop-brown head, short horns, occpying a rocky river bank. Further ahead, green and brown grass carpeted the uneven surface. A triceraptor-like creature lurked in the distance. Trees that shoot up like pine were occasionally seen. Beyond, we could see tall mountaineous regions, sometimes screwlike, other times nail-like. Taos appeared in the distance. Another scene, water falls from a huge circular-ish hole down to a river below. The bank roofed by the water-falling platform looked sandy-white, while the opposite side of the bank, yellow-back green brogs made it their home, together with some trees. Yet another scene. Cloud lurks below the edge of the ground towards infinity. Triceraptor-like creatures occupied the platform. At a distance, we could see a tall cylindrical rock like an island on clouds with some unknown creatures{{footnote: This could only be seen on the morning scene, second video.}}. A Taos flew above the clouds. In the background, some snowy peaks hid behind thin clouds. It was the monster-shaped snowy mountain that got its body destroyed by an annihilation event we seen earlier. Despite being flat, this area had lots of staircased platforms, layer by layer. This, is <strong>Ribbi Flats</strong>, of Fornis Region.</p>
+</blockquote>
+<hr />
+<p>The group were walking up some rocky slope by a body of water to their right when Eunie called out, "Hey! Over there!" At the top of the slope was a tree. She turned to face the group, "If we set up camp there, we'll have good visibility. Think it's time we took a break?"</p>
+<p>"Riku, for one, want to rest, anyway! Relentless walking has left legs like numbed-out sausages..."</p>
+<p>Manana, triggered by food, waved her wings, "Sausages indeed! Mealtime is here!"</p>
+<p>Mio: "Sounds good." Turning to Eunie, "Let's go for it, I say. Should we rest in shifts? I can take sentry duty first."</p>
+<p>"Ah, Mimi! Let me back you up on that!"</p>
+<p>Noah nodded, "OK! Then let's take a break there."</p>
+<hr />
+<p>Night time.</p>
+<p>To the right of the path was the tree, a big rock stood beside the tree. The groups, seated in two, formed a diamond. Assuming the tree as the "top" of a diamond, Noah and Riku were on the "right edge" of the diamond, with Riku showing Noah something circular while he listened to him. Taion and Manana, him sitting by a table with his teapot and teacup, and Manana stood on top of a box with her tea served, talking to Taion. They were on the "left edge" of the diamond. Eunie and Lanz, perpedicular to each other, slept with their back on the tree trunk. A waterfall could be seen in the distance, beyond the road. Mio and Sena were looking in their direction, their back facing some laddered ledge, totalled probably a few meters high. Their emotions seemed neutral to one.</p>
+<p>Further "right" of the diamond were ledge that seems to fall down to infinity, just empty space. Further, some taller ledges could be seen.</p>
+<p>Perhaps something came into her mind, Sena sorrowly commented suddenly, "Meanies..."</p>
+<p>"What was that, Sena?"</p>
+<p>"It's just, I was up all night thinking. Those guys are so selfish."</p>
+<p>Mio didn't get it, "Selfish how...?"</p>
+<p>"You know what I mean! Every time we Interlink, they're the ones taking the lead! And me? All I do is watch..."</p>
+<p>"Ohh, that's what you mean."</p>
+<p>"Tell me you don't think so too?"</p>
+<p>"Maybe not 'selfish', but like... 'Hey, why didn't you move that way?!', and stuff like that, yeah..."</p>
+<p>"Yeah, right?!"</p>
+<p>"So, you'd prefer to take the reins?"</p>
+<p>Sena looked down, "I just wanna do more! Like, pull my weight... Y'know?"</p>
+<p>Mio laughed at her, "Hahah, that's so you, Sena." She turned to look towards Noah and Riku, shared, "I think it's probably fine, though. They're just being protective, I think."</p>
+<p>Sena looked at her, "Like what Noah said? Yeah.{{footnote: One can't be sure whether she answered her own question or...}}"</p>
+<p>"I wouldn't worry about it. I'm sure we'll get our turn." Noah was tuned in on Riku he didn't see her glancing at him.</p>
+<p>"You sure?"</p>
+<p>She turned to her and affirmed, "Yeah. Positive." They looked off in Eunie's direction, enjoying the moments of tranquility.</p>
+<hr />
+<h4 id="start-of-valdis-hero-quest"><a class="header" href="#start-of-valdis-hero-quest">(Start of Valdi's Hero Quest)</a></h4>
+<p>By a watering hole, water falling from a platform that stretched out far from a cliff wall. Sena was looking up towards their destination, with a trembling voice, "Probably shouldn't be climbing up this one, huh..."</p>
+<p>Taion insisted on following the plan, "But, this is the route Ethel told us to take, no question."</p>
+<p>Mio: "Well, I guess that means... We'll just, uh... have to keep going then." Where the group stood, tall grass grows as high as their ankle, with some patches of dark pink flowers less seen.</p>
+<p>Zooming out to the very top, we can now see the group's head wasn't larger than a dot. Someone with probably lemon grass colored hair, a barrel-like backpack strapped to his upper shoulder, darker skin, looking downward.</p>
+<p>As he stood up for his next action, someone ping him on his iris, "<em>Hey, <strong>Valdi</strong>? Where are you?</em>"</p>
+<p>"Huh? Outside the colony."</p>
+<p>"<em>Well yeah, I know that! It's bad. The Consul's searching for you.</em>"</p>
+<p>"Gotcha! Just make up something." He had a gauntlet attached to his right hand, the gauntlet so huge it seems designed for someone twice his size. The central diamond and the left line plus its diamond was still red, his term symbol. He wore some microscopic goggles that people probably use for wielding on his forehead. He had a cylindrical object strapped to his right on his waist.</p>
+<p>"<em>Sorry? 'Make up'?!</em>" From behind, two levnises came up, perhaps under his control: one for the wheel model Kevesi levnis, another with the four-legged model Kevesi levnis.{{footnote: If you remember in Chapter 1, before Eunie and the others took off, there are 2 types of Kevesi levnis, and there are also 2 types of Agnian levnis that joined the battle; at least, one only spotted these 2 types so far.}}</p>
+<p>Back at the bottom, Noah signaled to the group, "Let's look for a place we can climb from. I'll take a look around here."</p>
+<p>Eunie: "OK. I'll check out over here." Individually, they spreaded out searching. As Eunie strodded slowly towards a cliff wall, <em>Thud</em>! The four-legged levnis landed in front of her, sending dirt blanketing her direction.</p>
+<p>"Oh, crap."{{footnote: Surprisingly, Eunie didn't jump backwards nor drawing her weapons unconsciously.}} She turned and ran after she complaint, her back facing the levnis. Manana felt the ground trembling, and noticed a wheeled levnis going after her, turned to her back and ran too!</p>
+<p>Noah, from the distance, saw the group in danger, shouted to the rest of the group, "Guys, get back!" They gathered and ran towards Eunie and Manana, then faced the two levnises together. Valdi stood on top of one of his levnis, shouted to the group, frivolously{{footnote: Google Translate doesn't translate "中二", which is what describes his behavior right now; basically, it means a person whom read too much Chinese novels and cannot distinguish between living inside a novel or living outside the novel, so whatever they read inside the novel they brought it outside of the novel; similarly, those whom watched anime like Naruto etc. will also move around and not just dressed up like a Naruto, but also behave like Naruto.}}, "Ouroboros! Fight me!" He drew out his weapon, a lance-like gun.</p>
+<p>Manana, now realizing out of danger, trodded in front of Valdi, complaining, "That was close call! Almost flattened like buttery pancake!"</p>
+<p>Valdi looked at the nopon for a while, "Ah, sorry."</p>
+<p>"Apology grudgingly accepted." The others in the group, in their defensive stance but without weapons drawn, was floundered, unsure of the situation.</p>
+<p>Valdi politely asked, "Hey... Are you Ouroboros too?"</p>
+<p>"Factually untrue. Manana is just Manana."</p>
+<p>"Ahh, that's a relief! I really didn't want to have to fight a Nopon. Oh... Valdi, by the way. If I may?"</p>
+<p>"Mmeh? Is pleasu-"</p>
+<p>Taion couldn't stand it anymore, his Mondo swooped past Manana towards Valdi while shouting at them, "What are you guys doing?!"</p>
+<p>Lanz bashed one of the levnis's leg. Valdi twisted to his back to dodge the Mondos, jumping to the ground, seeing it fun, "Woohoohoo! That was awesome!"</p>
+<p>Lanz: "We're the ones you've got beef with. Come on, bring it!" The others drew their blade.</p>
+<p>Valdi walked in front of his levnises as he unsheathed his weapon, laughed at them, "Hehe... You can't beat me. Here i come!"</p>
+<hr />
+<p>(After the battle)</p>
+<p>Valdi was assessing the damage done to his levnises, enthused, "Whoa. The joints are all burned out... And the state of this armor." Then, turning to the group, "Hey, show me that again!"</p>
+<p>Lanz, getting out of sync, "Show you what?"</p>
+<p>In the distance, we could see some deer-like animal. Further, trees, fan-like leaves with reddish tips, and green pine-like trees. There were also some relatively narrow slopes that curved their way around the mountain body.</p>
+<p>"Those moves you pulled! I've never seen anyone smash up a Levnis like that! I need to figure out how you guys managed to do it."</p>
+<p>Riku disagreed, "Nothing to observe. Frame was structurally poor. Evident that driving wheel could not withstand torque."</p>
+<p>"The driving wheel, you say..." Turning to assess the wheel and producing hypothesis, "I wonder if it's because it was upgraded from lightweight to a more heavy assault style? Did I mess up the handling? But the armor had to withstand a charge, I had to fudge the weight to keep a good turning circle..."</p>
+<p>Riku watched him talking to himself, speechless... Valdi turned to face him after a while, "Yes... You're absolutely right! I can't believe you could tell with just one look! Hey, would you teach me everything you know?"</p>
+<p>"Noah..." Riku couldn't handle it, seeking help.</p>
+<p>"Uh... Who exactly are you?"</p>
+<p>"Oh, I'm Valdi. Levnis builder from Colony 30! I heard that anyone who defeats you gets a whole buttload of supplies from the Castle as a reward... But err yeah{{footnote: This had been fitted to the voice than the wordings.}}, you won, so it's all good."</p>
+<p>Lanz, being hypersensitive, snapped at him, "Oh, yeah, everything's just hunky-dory! What the snuff are you playing at?!"</p>
+<p>To which he patiently replied, "Not playing anything!"</p>
+<p>Noah: "You're really a mechanic? From Colony 30? Who's the commander for that one again?"</p>
+<p>"Ohhh, yeah, that would be me."</p>
+<p>The group were surprised. Lanz: "Pull the other one!"</p>
+<p>"Woooo{{footnote: Blowing wind without making sound from your throat box out of your mouth}} wow, don't look so surprised!"</p>
+<p>Taion recalled, "I did hear that Colony 30's commander was the greatest mechanic in Keves..."</p>
+<p>"Not sure I would say <em>'greatest'</em>, but I am bonkers about Levnises!"</p>
+<p>As they spoke, <strong>Yuzet</strong> was ringing his iris, shouted to him, "<em>Valdi!</em>"</p>
+<p>He turned aside and answered, "Hey, Yuzet! What's up?"</p>
+<p>"<em>Surely that's my line?! The Levnis signal just cut out... What happened?!</em>"</p>
+<p>"Oh, it just got a bit bashed about. Everything's fine. I'll be back home soon." Then, he cut the line as he finished.</p>
+<p>Sena asked, curiously, "You're going back alone?"</p>
+<p>"Huh?"</p>
+<p>"I... I was just wondering how you expect to manage that."</p>
+<p>"Oh! Oh, it's fine. The Colony's not that far away. I'll just cannibalize these bits and pieces into a new Levnis, quick as you like."</p>
+<p>Mio: "That'd take so much salvaging..."</p>
+<p>"Oh, huh." After doing some estimation, shook his head, "...Ahahah, maybe I can't do it alone...?" The group just shrugged.</p>
+<p>Noah commented, sighed, "...How did I know it would come to this?"</p>
+<p>Lanz grudgingly propose to help, putting his hands by the back of his head, "Ehhh... Guess we'll do your grunt work. All right, hit us. What's the shopping list?"</p>
+<p>"You'd really help me?!"</p>
+<p>"Well, we're not gonna leave you alone to fend for yourself..."</p>
+<p>"Thank you so much, large man!"</p>
+<p>"Lanz, man... I mean, Lanz."</p>
+<p>"Then Lanz I shall call you! Let's get cracking! I'll send the likeliest sites for debris to your Iris."</p>
+<hr />
+<p>(Arriving at one of the site)</p>
+<p>The group was standing by a grassy location, below a tree. Valdi stood at a distance in front of them, inspecting, "Yeah... This is looking good." Then, unsatisfactorily, "But man, even so... Seeing all this Levnis wreckage..." There laid a broken pile of levnis on the grassy floor in front of him.</p>
+<p>Mio sympathized, "That's how battle always feels after. Just sad."</p>
+<p>"Yeah, pretty tragic. Makes me wanna fix 'em all right back up."</p>
+<p>Lanz can't stand it, "Look here, you..."</p>
+<p>Valdi turned to face them, continuing, "Listen... I had this injury once. It really did a number on me, physically and mentally. That's when my masterpon told me-"</p>
+<p>Lanz interrupted, "Wait, <em>'masterpon'</em>?"</p>
+<p>"Oh, it's Nopon for 'really great person'! So anyway, my masterpon told me this: <strong><em>'Be a friend to all, and an enemy of none.'</em></strong>{{footnote: Translator don't know if one agree with this or not without thinking it thoroughly. Edit: Probably, but we don't always have the choice, for we could only control oneself, but not others.}}"</p>
+<p>Sena, trying to take in, "Be a friend to all...?"</p>
+<p>"Yy-yeah. I guess after that... seeing wrecked Levnises got me thinking about stuff. A little elbow grease and I could just get them back on their feet. My pals here wouldn't want me to give up on them either."</p>
+<p>Mio commented, "You're very sweet."</p>
+<p>He shook his head, "Ahhh, don't get me wrong. It's just that, as a mechanic, you can't start getting moody just because something's broken. <strong><em>'Not all wars are fought on the battlefield'</em></strong>{{footnote: Logically speaking, that's correct. One can't deny.}}, right?"</p>
+<p>Riku changed the topic, "That gauntlet... Valdi built it by self?" He was referring to his right hand huge metal arm and fingers.</p>
+<p>"This? My masterpon gave this to me. To celebrate my recovery!" Then he continued, "Caught your eye, has it? You wanna see more?"</p>
+<p>Riku denied his offer, "No... No special interest."</p>
+<p>Tucking his hands on his waist, "C'mon, don't be shy now!"</p>
+<p>"Riku is not shy!"</p>
+<p>Lanz: "What I'm getting from all this is that you really like this 'masterpon' of yours, huh."</p>
+<p>"Yeah. He was really harsh on me sometimes, but he was ten times the mechanic I could ever be!"</p>
+<p>Manana wondered, "If compare masterpon and Riku, who is most excellent?"</p>
+<p>Valdi couldn't decide, "Hm, good question. I... I think that your friend here has a keen eye. You know, I would love to get to speak with him..."</p>
+<p>"Secrets of Riku are closely guarded."</p>
+<p>"You don't say! I can't wait!"</p>
+<p>"... Friend even listening to Riku?"</p>
+<hr />
+<p>===</p>
+<p>(At another location)</p>
+<p>Valdi: "Ah! There! I want the parts from that big guy!"</p>
+<p>In the distance, Keves and Agnus levnises plus a few soldiers were fighting each other. In the background, mist covered the tall cylindrical{{footnote: Actually square-ish}} rock that has a tree on top, maybe the same as what we've seen earlier but from an even further distance?</p>
+<p>Manana: "Which big guy?"</p>
+<p>"The Kevesi... Wait. The damage to the leg here... I fixed this, not long ago. It was from another colony..."</p>
+<p>Suddenly, the Kevesi levnis reversed and drove towards the Agnian levnis at high speed, and before it could react, smashed into it, breaking it literally.</p>
+<p>"Ahh!" Valdi couldn't believed his eyes, shouted out.</p>
+<p>Manana: "This horrible..."</p>
+<p>"Augh..." Valdi turned away, didn't want to look how care less the levnis driver was.</p>
+<p>"Valdi... OK?"</p>
+<p>The levnis was approaching them as Valdi was figuring out, "I get it... So this is how my Levnises have been treated..."</p>
+<p>Lanz alerted him calmly, "Sorry to rush you, mate, but we don't have time to be standing around."</p>
+<p>He turned to face him, "Huh? What's happening?" Towards the direction he was looking, all we could see were rocky cliff walls, pine-like trees, giant rocks, and grassy lands.</p>
+<p>Mio took the time explaining, "Well, we are outlaws, so..."</p>
+<p>Noah took over: "They've marked us all as a target."</p>
+<p>"What?!"</p>
+<p>Lanz: "Gotta do what you gotta do. Let's get this over with!" They drew their blades and prepared for battle.</p>
+<hr />
+<p>(After the finished the battle and traveled to yet another location.)</p>
+<p>The ground looked metallic, like those inside the ferronis from Colony 4. There were hexagonal prism-shaped chests/boxes placed around the edges. This looks like a barren valley to the translator, light had difficulty penetrating into this location, a narrow valley.</p>
+<p>Noah: "What is this place?"</p>
+<p>Valdi explained, "It's just where I stored some of the junk I've picked up. Can't keep it all at the colony. You know how it is."</p>
+<p>Taion prompted, "I see. So you're recycling the parts as you deem necessary."</p>
+<p>"Yeah! The supplies from the Castle just aren't gonna cut it. We have a lot of very particular mechanics, and a lot of requests from the pilots to boot. We even get commissioned to repair the Levnises from other colonies."</p>
+<p>Manana: "Seems like awful much effort for not much reward..."</p>
+<p>"Not true! We're having a blast with it! Our Nopon are all highly skilled, and our lieutenant has a good head on his shoulders. So, uh... remind me... What was it we were trying to do again?" Finally getting to the main topic.</p>
+<p>Lanz impatiently replied, "Picking up parts!"</p>
+<p>"Oh, yeah! Right! Well... for the body, I'd need..." He ran towards the boxes, probably containing the scraps, and scanned for something that fits, "Ah! Something like this! Yeah, that fits the bill."</p>
+<p>Eunie doubted, hands crossed "Is this guy really cut out to be a commander?"</p>
+<p>Mio, standing beside her, "He's a skilled mechanic for sure, but I imagine he gives his aides quite the headache..."</p>
+<hr />
+<p>(Returning to the original location where the group battled Valdi, after finished salvaging)</p>
+<p>"Thanks, guys. Looks like all the parts are accounted for. This is enough to build a Levnis."</p>
+<p>Manana noticed he had spoken in a low tone, "What wrong, Valdi? Spirits seem middling to low."</p>
+<p>"Hmm... I thought that with a Levnis, I'd be able to protect my friends; That no one would have to get hurt. But... just building them and fixing them up isn't going to make life rosy again. My pals just do as they're ordered. They go out, they fight... and they hurt people. And I'm the one responsible. If you're gonna blame someone for causing all those casualties... blame me."</p>
+<p>Riku tried assuring, "Valdi is doing perfectly normal job of mechanic. Issue of orders not your fault."</p>
+<p>"But..."</p>
+<p>Lanz proposed, "This doesn't sit right with you, does it? So make something new. Why d'you always have to make stuff for fighting? Why not try a different tack?"</p>
+<p>"A different tack...?" That strikes imaginative sparkles. "Like... a Levnis, but not equipped for combat...?"</p>
+<p>"Obviously, I dunno the nitty-gritty, but I'm sure it's not totally off the table, right? This ain't the time to give up! Right?"</p>
+<p>"Huh! Yeah! Lanz! You couldn't be more right! I shouldn't be led by the whims of others when I make my sweet little mecha. Thanks, Lanz, and all of you. I'll be back in a jiffy!"</p>
+<p>(After some time)</p>
+<p>"It's done!" A tiny levnis about the size of Valdi appeared, a mecha-robot, humanoid-like.</p>
+<p>Noah was surprised, "Wow. That fast, huh."</p>
+<p>Eunie commented, "It's looking a little on the small side, no? Is that... how you wanted it?"</p>
+<p>"Yeah! He wouldn't last long in a real battle, but he can follow simple commands. Right now, his only directive is to take care of me. But that's just fine. He's a good guy."</p>
+<p>Lanz, perhaps out of patience for progress stagnation{{footnote: Really, one want to call it 'stagnanity', even when that word didn't exist in the Cambridge Online Dictionary.}}, "Right then. Guess our job here's done, so..."</p>
+<p>Valdi: "Yeah. Don't worry. I can get back home just fine on my own."</p>
+<p>Suddenly Consul <strong>Q</strong>'s voice appeared, "Oh, damn and blast. And I came all this way."</p>
+<p>"Huh!" Valdi was shocked with the sloped-head helmet consul appearing. He wore a helmet that resembles probably a head armor like those in the old days, maybe Roman? To the translator, it looked like a KFC sign, for no reason.</p>
+<p>Mio: "A Consul!"</p>
+<p>"Pleased to make your acquaintance, Ouroboros." Before the group could speak, "Ahhhh, fear not. I have no interest in stirring the pot. I was simply curious as to why our dear Valdi hadn't returned. You promised us you would build the Ultimate Levnis, did you not? How much longer do you expect us to wait? Ahh, you Agnian dogs...{{footnote: It's unsure whether he's referring to Mio and the others, or he thought about Agnian in general.}} How I shall delight in crushing you beneath my boot!"</p>
+<p>"About that... Actually, I've decided to-"</p>
+<p>Q cut him off, "How many times must I say it? Games are for winning. That's what's matters! Consider. If we were to lose the initiative, <em>we</em> would be the ones trampled beneath <em>their</em> boots!"</p>
+<p>"Yes, but..."</p>
+<p>Q lost his patience with Valdi's defiance, "Ehhhh...{{footnote: Sucking in air hard, and breathing out hard, a.k.a. deep breath.}} Valdi, my boy... Who was it that said he'd be fine, so long as he could tinker away with Levnises?! Because I clearly remember those words!" As his tone got angrier, he snapped at him, "If you've got time to be flapping those lips, you've got time to be working those hands." The carrot was given, now for the stick, threatening, "Should you fail in your duty, I won't be held accountable for what happens to your <em>friends</em> in the colony..."</p>
+<p>Lanz felt insulted, "Snuff you, arsehole! The more that comes out of your gob, the more I wanna smack-"</p>
+<p>Valdi cut him off, "Understood. I'm heading back."</p>
+<p>"Valdi!"</p>
+<p>"Don't worry. I've made up my mind." Then, he followed Consul Q back.</p>
+<p>The group gathered together after they left. Sena was thinking, "Ultimate Levnis, he said... I'm a little worried now."</p>
+<p>Taion analyzed the situation, "It's unlikely to bode well for us. Ideally, we'd want to prevent it being deployed in battle."</p>
+<p>Sena viscerally replied, "Oh yeah, there's that too... But I was more worried about how Valdi feels."</p>
+<p>Lanz repeated, "He said he'd made up his mind. Doesn't sound like he's gonna be finishing his ultimate anything to me. More like..."</p>
+<p>Riku finished, "He want to destroy it."</p>
+<p>Suddenly, the small mecha-robot, whom Valdi left it with the group, ran off into the distance. Lanz was shocked, as well as the others, "Huh?!"</p>
+<p>Mio: "It's going off on its own?"</p>
+<p>Riku: "It following Valdi. Adhering to directive of 'protect'."</p>
+<p>Lanz, asking for instruction what to do next, "Noah..."</p>
+<p>"Yeah. We're following it."</p>
+<hr />
+<p>In the Colony. A large levnis, the Ultimate Levnis, placed with its back facing some cliff walls. There were some bridge/walkways on the "second floor". Valdi stood in front of the Ultimate levnis, inspecting it while Q watched.</p>
+<p>"You've wasted time. I'm afraid you'll have to pick up the pace. Because if you can't... Well, you know the stakes. The game will soon resume. We have precious little time."</p>
+<p>Behind Q, it was oddly barren, nothing more than floor and ladders and cliff walls. Q, as he finished speaking, turned and walked towards the entrance.</p>
+<p>Valdi, caressing one of the Levnis's leg, "If I do as I'm told... You'll... You'll end up hurting so many people. Don't worry." He put his forehead on the leg, "I refuse to put you through that."</p>
+<p>He stood back and scanned the surrounding, then gave the Ultimate Levnis one last look. "The next time we meet, I'll make you into the best Levnis there ever was." As he withdrew his weapon to destroy it, Q teleported in front of him.</p>
+<p>"So that's the game we're playing, is it now?" With his elbow, he knocked him back, his blade sheathed as he dropped onto the floor. Q walked by his side, kicked him hard in the belly while he was still groaning in pain, "You little upstart!!!"</p>
+<p>Then, with a very disappointing sigh, "This is a case of falling in with the wrong crowd, isn't it? I'm very disappointed." Then, he teleported into the control room of the Ultimate Levnis, it started and walked down the maintenance platform it was on.</p>
+<p>"Hm... It's about halfway through the projected schedule... But this will have to do." The Levnis had quite short legs and small torso, compared to the width of its shoulders and arms{{footnote: Like a buff guy whom trained only the upper torso but left out the lower ones.}}, equipped with grips. It walked towards Valdi slowly.</p>
+<p>Valdi, still laying flat on the ground, tilted his head up at the Levnis, "What are you gonna do?"</p>
+<p>"I will have it achieve its intended purpose. But, first of all... I believe you need a little... discipline." With the grip, he punched towards Valdi, he closed his eyes and prepared for his death.</p>
+<p>Upon hearing a metallic sound smashing against each other, feeling not hurt, Valdi looked up. The small mecha-robot raised a frequency shield in front of him.</p>
+<p>"Wait a sec..."</p>
+<p>Q was surprised too, "Excuse me? What is this junk? Move aside!" He  landed a dozens of punches as he spoke. As the shield got zeroed, the mecha robot flew aside, electric sparkles on its joints as it stood up slowly.</p>
+<p>Valdi shouted at it, "Stop it! Just stop."</p>
+<p>Unfortunately, he didn't program that feature. It ran towards Valdi, kicked him aside and blocked yet another punch from the Ultimate Levnis.</p>
+<p>"You've done enough. I never wanted this." Sorrow filled the climate as its joints dislocated suffering blows. "You weren't supposed to protect me like this..." Finally, its leg joints broke down, collapsing on the floor.</p>
+<p>"Ugh! Worthless drivel!" Q kicked it aside. Valdi was preparing to ran up to it when Lanz appeared from behind, lending him a helping hand.</p>
+<p>"Lanz?! But how?"</p>
+<p>The group had drawn their blades and stood between him and the Ultimate Levnis.</p>
+<p>"Thank your little pal here." Valdi looked at the mecha-robot, with only one hand and one leg attached.</p>
+<p>Sena: "Your buddy led us all the way to you!"</p>
+<p>As it still tried to reach towards its broken leg between it and the Ultimate Levnis, Q got angry, ignoring the group and focused on it, "Glorified tin opener! You dare attack me?!" He raised the Ultimate Levnis's leg on top of it.</p>
+<p>Valdi broke off Lanz's hand and ran towards the mecha robot, tears flying backwards, hands held out, "Don't do it! Please, stop!!!"{{footnote: Also, the direction he ran to had the ferronis, seemingly incorporated <em>into</em> the cliff body??? Maybe because of the angle.}}</p>
+<p>Too late! Q stepped on the mecha-robot, smoke enshrouded its legs. Raising it revealed dislocated parts on the sooty ground. Valdi collapsed onto the floor in vain hope.</p>
+<p>Q enjoyed his reaction with his annoyance destroyed, laughing hard, "Wahahahahhahaha! Any tool that defies the orders of its master is trash! Destined for the scrapyard!"</p>
+<p>Valdi rebutted in tears, "It's not trash! Levnises have always, <em>always</em> protected the things I care about. I'm so small and pathetic. But, they taught me that... that I'm worth something." As he climbed on his feet, "That's why I chose to be a mechanic. Not this..." Facing Q, "Not for something as sad as this!"</p>
+<p>"Why should you care about a hunk of metal? Hahahaha" The group ran beside him to face Q, as he continued, "If you oppose me, I'll do away with you -- full stop!"</p>
+<p>Lanz: "Quit your yapping and let's get scrapping!"</p>
+<hr />
+<p>(After destroying the Ultimate Levnis.)</p>
+<p>Q got out of the control room, puffing out smoke, "Nghh... Useless piece of junk! Forget it. A Consul needs no crutch to lean on! "</p>
+<p>As he spoke, the levnis exploded to his surprise, "Aaargh...!" He was nowhere to be seen, maybe dead, but probably teleported away since there weren't any corpses.</p>
+<p>Valdi looked back at the broken mecha-robot, without the Consul disturbing them, "Ahh, I'm sorry! I... I couldn't do anything..."</p>
+<p>Lanz rebutted, "I wouldn't say that. At the very least, this little guy got to live the way you wanted him to."</p>
+<p>"... Well, I sure hope so. Thanks. For rescuing me." By now, we could see two transporting levnis had been parked behind the group, don't know when it appeared. Turning back to the mecha-robot, "Next time, I'll be sure to give you a tougher body, Mechafriend."</p>
+<p>"Mechafriend?"</p>
+<p>"Gotta have a name, right? This little guy isn't meant for battle. He's a fellow companion... and a friend. So yeah. Thanks, guys! I'm not going to focus my efforts just on repairing Levnises any more. I'll be working hard to figure out the best way to protect us all - in the truest sense! Oh, but, uh... I guess that'd mean doing something about all our Flame Clocks, huh..."</p>
+<p>Noah took over, "About that... We could always smash Colony 30's Flame Clock? It'd mean that everyone in the colony wouldn't have to fight any more. The Levnises too." Behind him, there was some staircase leading to the second floor. Seemingly, this colony was built with 3 sides bordering the cliff wall.</p>
+<p>"You can do that?!"</p>
+<p>"We can. I can't guarantee that things will go smoothly for you after, though... "</p>
+<p>"I wouldn't say things are going particularly great as they stand anyway. If I can make a difference for people, and not just Levnises... Let's do it. Let's make this happen!"</p>
+<hr />
+<p>As Mio and Noah looked at the Ferronis that seemed to had its body behind some cliff wall, or atop it, one don't know; Noah shouted, "Here we go!" and they transformed into Ouroboros, dashing towards the Flame Clock, jumped, cancelled the Interlink mid-air, as Noah slashed the Flame Clock himself{{footnote: Mio was behind him, probably landed before him.}}. The half-filled gauge spilled out "lives" like a cut arteries, half of the Flame Clock dislodged,  dropped onto the ground below by the pull of gravity, emitting soot and smoke as it crashed.</p>
+<hr />
+<p>Valdi, looking at the Flame Clock, was amazed, "It really broke..."</p>
+<p>Eunie: "Hey, you OK there?"</p>
+<p>Suddenly getting into a defensive posture, "Wait, don't move a muscle! There might be some valuable materials lying around!"</p>
+<p>Eunie shook her head, "Nothing worth bothering about, believe me..."</p>
+<p>Lanz prompted, "How are you feeling? It's gotta sting, right? It was a big deal for you."</p>
+<p>"Lanz, you seem more stung than me."</p>
+<p>"Come on, man, no."</p>
+<p>"I'm fine. I mean, sure, it's a big change of perspective. But like I said before, I'd already made up my mind."</p>
+<p>"True that."</p>
+<p>"Heh! Hey, um... Could I help you guys with your mission, in return? It'd be the least I could do."</p>
+<p>Riku asked, "Valdi realize what Valdi saying?"</p>
+<p>"I've never been more sure!"</p>
+<p>Manana excitedly agreed, "For sure!"</p>
+<p>Noah: "Thank you. We appreciate it."</p>
+<p>Mio added, "Looking forward to it!"</p>
+<p>Valdi joined, "Haha, me too. Count me in!"</p>
+<h4 id="end-of-valdis-hero-quest"><a class="header" href="#end-of-valdis-hero-quest">(End of Valdi's Hero Quest)</a></h4>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="16_colony_4.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="18_saffronia.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="16_colony_4.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="18_saffronia.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

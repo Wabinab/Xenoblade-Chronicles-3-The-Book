@@ -1,0 +1,408 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Parting Ways - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html" class="active"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="parting-ways"><a class="header" href="#parting-ways">Parting Ways</a></h1>
+<p>Light blue sky sparingly filled with clouds, the group were standing on a piece of Elysium-like land{{footnote: Or perhaps, floating island?}}, paved with evergreen grass mixed with scattered maize-like grass, plus some bushes in the distance. On the sky ahead displayed two planets very close to each other. Behind them were some rocks and trees.</p>
+<p>Noah now understood, "Z and the other Moebius... They wanted to protect the world too."</p>
+<p>Taion: "That's why they created one they could control. I see where they were coming from."</p>
+<p>Lanz: "That's something that... we feel almost every day."</p>
+<p>Eunie: "Having to change... <strong><em>To continue to change, that's sparkin' scary.</em></strong>"</p>
+<p>Mio: "But... we can say this: <strong>Even</strong> if we are reborn later, right then, what we think and feel that moment is real. To sacrifice that is <em>never the right way.</em>"</p>
+<p>Sena: "<em>If you can't be true to yourself, then you're doing something wrong.</em>"</p>
+<p>"Are you content? With your decision?" Melia and Nia approached from behind, questioned.</p>
+<p>"<em>Haa...</em>"</p>
+<p>Nia added, "Very soon, the stilled flow of time will restart. You can change your mind, if you act now."</p>
+<p>Lanz immediately rebut, "Uh-uh-uh. You did <strong>not</strong> just tell us to become Moebius."</p>
+<p>Eunie, teasingly laugh at it, "<em>Yeah, can you even imagine...?</em>" Then, seeing the leader whom was seriously not speaking of anything, looking at the distant worlds himself, she called out, "Uhhh, Noah?" Taion and the others were also looking up on him, waiting for his decision.</p>
+<p>Melia: "Why are you wavering, Noah?"</p>
+<p>"Some want to go on, and some want to stay... In this world, there are so many, mingled desires." He clenched his fist, getting overwhelmed by the clashing wish of the people. "But do we... Does anyone have the right to choose?"</p>
+<p>"Oh, don't you start minding us now." Ghondor appeared from nowhere and disturbed his chain of thoughts. They turned around and saw her standing beside Monica. "Just having the chance to be born in that world you make, that'll be plenty. So, you know... ya just gotta do it your way."</p>
+<p>"Ghondor..."</p>
+<p>"<strong>Uhhh</strong>... Though if I can..." And she looked at her mom, teasingly asked, "I might want a better name, eh!"</p>
+<p>While they were busy 'quarreling' over a better name, Mio turned to him, "Noah, all of us here want the same thing. It's how the future should be."</p>
+<p>"Yeah... You're right." And he held up his right palm to look at the back of his palm. The term mark no longer imprints on his palm; he can now live longer than a decade.</p>
+<p>"The future is right there." He turned to look at Melia, whom continued, "Believe in the actions you've taken, in your friends, and above all, <strong><em>you should believe in yourselves.</em></strong>"</p>
+<p>And he clenched his fist hard as he brought it up to his belly. "Well then... The answer's simple." Melia and Nia already knew what choices he'd make, the main reason and hope and faith that brought them here all along. They nodded to each other before giving them the space.</p>
+<p>Noah and Mio turned to each other, agreed with each other, before having a last look at the stopped time in the horizon. He was no longer wavering, walked towards the edge as if trying to reach the two planets on the sky by himself while the others stood still and watched his actions.</p>
+<p>In the whiteout that claimed the environment, we're back at the evening gloomy cloudy sky, where Origin stood. The core of Origin, the 6 red lights that was previously activated by Z that turned on the Origin's defense system and transformed it, now turned green. The group (and other groups) watched the changing color.</p>
+<p>Something caught Mio's attention. She turned to her left; and others followed her glance. Agnus Castle just glided along. Turning to the other side, Kevesi Castle followed. They moved around the platform they stood; we're not sure of their final destination. They were happy at the final results, the world that they could return to the people.</p>
+<p>Suddenly, a piercing bright light shone from atop that pricked their eyes while they were enjoying the scenery. Mio closed one of her eyes and raised her palm to block. Getting used to the new luminosity, she turned to look at it: the sun rays had shone through the gloomy cloud, scattering it,{{footnote: 光，会越过黑暗，打破一切恐惧我能，找到答案。}}, and brought with it hope on the land below.</p>
+<hr />
+<p>Standing atop the Kevesi Castle, Noah was on the balcony looking attentively at his sword, reminiscing the moments to moments that they shared since he summoned it, and the chain between them that even rebirthing could not break. The Ouroboros symbol on the Ricasso shone brightly.</p>
+<p>"<strong>NOAH, C'MON! AIN'T GOT ALL DAY!</strong>" Lanz scratched his head as he appeared on the balcony, as the one to help him push through.</p>
+<p>Disturbed from deep thoughts, he acknowledged after turning around, "Yeah, I know. Right with you!" And he decided to give him a little bit more time, waved back a 'sure', and leave the space and time for himself. He brought up the sword, gently touched it on his forehead, before opening his eyes and clenched it unwaveringly, tossed the sword up 45° as it swirled and plunged into the deep ocean below.</p>
+<p>He stood for a few more moments, then turned around, not looking back.</p>
+<hr />
+<p>On the ground just a tad bit higher than the ocean, with the sun on the far edge of the horizon, and the clouds that painted its spots against the reddish-orange environment, there stood the group watching the final sun set before the separation.</p>
+<p>He turned to his left, mustered enough courage to say things that would leave him regret if he hadn't, "...I realized, <em>t-there's something I haven't said yet.</em>"</p>
+<p>Her curiosity was piqued, "Oh yeah?"</p>
+<p>"I haven't thanked you."</p>
+<p>"What's this now?"</p>
+<p>"Thank you. For... <em>sticking</em> with me. Without you by my side, I'd <strong>never</strong> have made it here."</p>
+<p>She brought her hand to cover her mouth from laughing out, to cover her gratefulness, her nervousness, and perhaps, her awkwardness. With a great smile, she exclaimed, "Oh, come on, you had to say that?"</p>
+<p>He retorted, "I'm serious here!"</p>
+<p>"I know you are."</p>
+<p>"Huh?"</p>
+<p>And their eyes met. "Listen, Noah... I feel just the same. Without you, I think... my wishes would never have come true."</p>
+<blockquote>
+<p>From here onwards, the <em>italics</em> will mean some elation, some reluctance to separation for the rest of the italics. Though, sometimes we retain the soft tone. So, just assumed the elation is in soft tone.</p>
+</blockquote>
+<p>He made some tiny nods, "I see... <em>I guess so!</em>"</p>
+<p>Elated, "<em>Mm. So I'll say it too... Thank you, Noah.</em> Truly."{{footnote: And the music starts.}}</p>
+<p>Hands by his side, looking up at the sun; accompanied by the shorter one looking at the ground, hands behind her. He commented "We weren't half bad as a team, were we?"</p>
+<p>In a snap, "<strong>Yeah</strong> uh... passable, for sure!" She was very sure of the grading.</p>
+<p>"<strong>Just 'passable'?! I'm sure you meant...</strong> 'unsurpassable', right?" He turned to look at her attentively, to pressure her. She didn't look at him while he was complaining.</p>
+<p>She turned to look at him, "Eheheheh! <em>Oh, I think I'll let you decide the passing grade, Lanzy.</em>"</p>
+<p>And he turned away, folded his arms, "Ahhh, come on, weirdo..." Till now, they'd assumed their time was forever... Naturally, it seemed forever...</p>
+<p>Continuing the conversation, looking down, the tone turned gloomier, "Guess... we won't be working out together any more."</p>
+<p>"Yeah... I'm not keeping tabs, but don't you slack off."</p>
+<p>"<strong>I'm not gonna slack off! I'll train every day,</strong> <em>thinking of you.</em>" Those happy days they spent together, 'Cause he was always beside me...</p>
+<p>"<em>Yeah! Same here.</em>" And they softly joined their fist without looking at each other. She wept quietly, realizing that these happy days won't ever last. That they met each other and not others, out of all souls they greeted, was a miracle.</p>
+<p>"Here." A book with a brown envelope-looking cover, he passed it to her. Taking it over, she questioned,</p>
+<p>"What's this?"</p>
+<p>While she flipped through the book, he explained, "Herbal tea recipe. You have to dry your own leaves... You should manage."</p>
+<p>"Isn't this kinda, pointless?"</p>
+<p>"Pointless?"</p>
+<p>"I mean, if the worlds are gonna drift apart again, this paper won't last..."</p>
+<p>"Eheh!"</p>
+<p>"<em>Hmm?</em>"</p>
+<p>With a wry smile on his lips, "I considered that, of course." Pointing at the book, "<em>The paper and the ink, it all comes from <strong>your</strong> world.</em>"</p>
+<p>"And the leaves for the tea? Even those, and all?"</p>
+<p>"What do you think?"</p>
+<p>And they got teasingly at each other, "<em>Ehehe, well, check you out!</em>"</p>
+<p>"Who am I if not scrupulous?" The pride that shot up high!</p>
+<p>Looking back at what he'd written while conversing, "Who? Well... You're my best bud! Fourth best, to be exact."</p>
+<blockquote>
+<p>I see you peacefully, you're in your dream. Everything, seems calm and free, I know.</p>
+</blockquote>
+<p>And that was a striking to his pride, "<strong>Only fourth?!</strong>" Then, he went into self-denial doing the counting privately, "Huh? Wait a minute... There's Noah... and Lanz... th... D-did she count, Joran?! <strong>Huh!</strong> Why am I only listing guys...? J-just chill out, Taion! Erm, uh..."</p>
+<p>She saw him turned to the other side panicking, wondering, asked teasingly, "<em>What's up? Is there a problem?</em>"</p>
+<blockquote>
+<p>If we want this warmth to last forever again, let's go back to that moment of day.</p>
+</blockquote>
+<p>"Wurr uh uh... <strong>A-at least put me... second, or even third!</strong> Fourth seems a little harsh..."</p>
+<p>"<strong>Urhuhuhuh!</strong>" She snapped the book close, teasingly continued, "<em>I'll think about it.</em>"</p>
+<p>The most bloodshed scene was perhaps the two that were hugging each other and shedding tears like endless fountains, "<strong>RIIIIIIIKKKKKUUUUUU!!!</strong>"</p>
+<p>"<strong>MAAAAANNNNAAAAANNNNNAAAAAAA!!!</strong>" The other people's chain of thought and conversation were thus disturbed, with their deep yearning for each other. {{footnote: 不舍}}.</p>
+<blockquote>
+<p>As time goes by, and we all change... And not just us, the world keeps changing...</p>
+</blockquote>
+<p>He held out Nimue's watch, snapped it close, announced, "It is time."</p>
+<p>On the Agnian side below the Castle, they saw the Agnians standing on one side of the ground, waiting for them. Alexandria, Teach, Miyabi, Isurd, Cammuravi, Juniper, Fiona, and other soldiers behind them. On the Kevesi side below the Castle, on the ground stood Segiri, Valdi, Ethel{{footnote: In her grown up form. <a href="./83_cammuravi_ethel.html">See more for how to grow her up</a>.}}, Bolearis, Zeon, Ashera, and other soldiers. On the middle final side were the City people: Ghondor in the middle, with her bodyguard Oggy and Aggy behind her; Gray{{footnote: Another hero, which we didn't speak about. He's not important to the main storyline anyways, in one's perspective, though he had his story to tell.}} to one side, Monica, Mr. Samon, and Travis on the other side, with other City folks behind.</p>
+<p>Sena and Lanz, Taion and Eunie, they had turned back looking at the Sun.</p>
+<blockquote>
+<p>But little did I know that this was coming, 'Cause you were there, always smiling... I wonder how you'll be in the future... I wouldn't know.... it's hard to figure...</p>
+</blockquote>
+<p>"Guess this is goodbye..." And she looked back at Noah.</p>
+<p>"Yeah... Still, even if we're worlds apart, <em>I swear</em> I won't..."</p>
+<p>"I won't let go. Not ever. I'll always be with you." She held out her left hand, fingers sticking out; Noah held out his right, and they joined, clenched strong, palms facing each other, "Our feelings... forever interlinked."</p>
+<p>"Wherever we are..." Mio took one step forward; Noah held out his other hand and placed it on that side of her face, her ears, feeling her hair and features.</p>
+<p>"Yeah. Wherever we are..." And they closed their eyes, she tilted her head upward to the right, and he came down from his right, and their lips met.</p>
+<blockquote>
+<p>But by accepting, this feeling inside, we'll eventually create a miracle. I see you smiling there, so peacefully, and cheerfully, I see you talk at me. These happy days must carry on...</p>
+</blockquote>
+<p>On top of the balcony of the Kevesi Castle, Melia stated, "Our worlds in their current states... are still young. If in passing, they do themselves harm. I suppose, <strong><em>even then they cannot but carry on.</em></strong>"</p>
+<p>Nia, on top of the Agnus Castle, "Still, <em>I have faith. Even if now</em>, we become separated for a time, one day we'll surely... <em>get to walk hand-in-hand again...</em>"</p>
+<blockquote>
+<p>So once again, let's go back to that day... to where we held, hand in hand.</p>
+</blockquote>
+<p>Melia was back inside her room, looking at the image that replaced the mirror on her dressing table. The drawer that held the image slid down to reveal the Monado{{footnote: Well, that's something from Xenoblade 1, if you want to know.}} that Shulk{{footnote: The guy she loved.}} used; a replica or a model of it probably, framed, reminiscing. "Everyone... Thank you..."</p>
+<p>Inside the Cloud Keep, the central blast furnace opened up with some smoke coming out, and out shot Poppi{{footnote: The robot that a nopon made that fought by her side in Xenoblade 2.}}, whom ran towards her, whom was standing by the edge of the Cloud Keep. They greeted and smiled at each other; she felt glad they could speak again. On the table where she stood stood the family photo with the large group she used to adventure with.{{footnote: So that Nopon one cannot remember the name and lazy to search, but he created Poppy, standing beside him. Then, seated were Mythra, Pyra, and Nia with their child, and a grown up Rex, with his hands on the chair. Dromarch was the tiger that was beside Nia; that's her partner before she met the others. Then there's Zeke the Zekenator and his blade, forgot the name. Morag and her blade Bridgid to Rex's right. As a <strong>spoiler to the children</strong>: Mio is Nia's child, Pyra's child is Glimmer, one of the founders of the new City which you can found in the memorial hall. One don't know who's Mythra's child.}} "<em>I will see you soon, then.</em>"</p>
+<p>The drifting land started, parting their lips. Looking into each others eyes, all they see from each other was yearning. The short time they had left, feeling each other's breathe hitting on each other's face. He put down his hand that held on to her face.</p>
+<blockquote>
+<p><em>I see you peacefully, you're in your dreams...</em></p>
+</blockquote>
+<p>As they drifted further and further, their heart to heart, held by their hands, ringed and ringed. Touching palms became crossing fingers; crossing fingers brushed against each other, and they could only felt the remnants of warmth from a moment ago. She was still yearningly looking to retaining him, before the ground filled her sight, with a rush of regret.</p>
+<blockquote>
+<p><em>Everything, seems calm and free, I know.</em></p>
+</blockquote>
+<p>She put down her arm slowly, naturally. How does he feel? She looked up; he was looking at her all the time, the calmness on his face that reveals none.</p>
+<blockquote>
+<p><em>If, we want, this warmth, to last...</em></p>
+</blockquote>
+<p>The land continued drifting apart, and they could only watch each other getting further and further. The others were looking at their respective partner, though they were farther behind the two.</p>
+<blockquote>
+<p><em>Forever again, let's go back to <strong>that</strong> moment of day.</em></p>
+</blockquote>
+<p>She grit her teeth; he grit his. And he made a dash for it. She immediately followed.</p>
+<blockquote>
+<p><em>I see you smiling now, so peacefully, and cheerfully, talking at me!</em></p>
+</blockquote>
+<p>Faster! <strong>Faster!</strong> <strong>FASTER!!!</strong> They swung their feet as fast as they could, as large as they could. They don't care if it breaks or kick a stone; they had to reach each other, the opposite that they yearned so much, to join and become whole. Yet, the ground does not agree. No matter how fast they go, the ground go with them, like on a treadmill that go nowhere.</p>
+<blockquote>
+<p><em>These happy days, must carry on... So once a-gain, let's go back, to the start. This goodbye is not the end, I know, <em>until we meet again</em>...</em></p>
+</blockquote>
+<p>She held out her hands, trying to reach his. He, after a few more steps, raised his, trying to reach for hers. Until he stumbled as the overlapping ground stopped overlapping and created an abyss in between.</p>
+<blockquote>
+<p><em>Our fee-lings will, remain the same, together as one, till we find ourselves, again.</em></p>
+</blockquote>
+<p>They stopped by one side of the abyss; and the other side did the same. After catching their breathe, looking at the unreachable from afar, he shouted to the figure that got farther, smaller, blurrier, that "<strong>ONE DAY!!!... I'll come see you! I promise!</strong>" And waved to her.</p>
+<p>Distance could not prevent their voice from traveling{{footnote: Despite dampened, one supposed.}}. "<strong>Me too!!!... One day...! I promise!</strong>" She waved her hands back strongly in the air, full of promises and emotions.</p>
+<p>And further and further, all put down their hands as the other side blurred into a silhouette in the distance, swallowed by the evening sun.</p>
+<blockquote>
+<p>Noah, narrating: "This, <strong>is the truth</strong>, of our world."</p>
+</blockquote>
+<p>The smile on their face did not sway even as they lose their loved ones{{footnote: All except the philosophical Noah.}}; for they had prepared for this day, though not fully at the last minute. But no longer could they revert their decisions after it'd been made.</p>
+<blockquote>
+<p>"Memories melt in the morning light, and then, a new day begins... <strong><em>Roads stretch out before us, so many paths. Which do you choose? That's up to you. Sometimes, you might run astray. You'll stop, maybe cry in frustration. But you know, that's all right. For the roads... They go on without end. So look up, face forward, toward your chosen horizon... And just... walk on.</em></strong>"</p>
+</blockquote>
+<p>And the world at the other end drifted into nothingness; they could no longer see. As the sun sets, the final light shimmered out of existence, marking an end for the unticking clocks.</p>
+<hr />
+<p>The long hand of the clock ticked 12, and the tower bell rang, waking up Noah the child.</p>
+<p>"Ohhh..." He blinked his eyes as his blurred vision came into focus, still looking up on the air. A flock of pigeons fluttered on top of him, soared into the evening sky. Relaxing, energetic, exhausted, people just mind their own businesses, taking to their destinations. Or, like the children in the small pool around the obelisk, playing with water.</p>
+<p>"<strong>Nooooah!</strong>" Lanz shouted from afar. "<strong>What're you doing, man? They'll start the fireworks without us!</strong>"</p>
+<p>He was with Eunie and Joran, waiting for him to catch up. Eunie urged, "<strong>Get a move on already, or all the good spots'll be taken!</strong>"</p>
+<p>Joran, waving his arms at him, jumping, "<strong>Exactly! So c'mon, move it!</strong>"</p>
+<p>"<strong>Sorry! I zoned out for a sec. I'm coming!</strong>" After waving back at them, and they took off waiting for him no longer, he heard the fireworks overtaking the air. Various explosions, various roars of laughters and cheers filled the air.</p>
+<p>As he was running after them, something triggered him. He slowed to a stop and looked to his left. No one he was looking for, or at least, he was hoping to look for, was there. Only the melody of Crys and Agnian ringed in his ears. Others seemed to either not hear it, or they were being desensitized with it. What is it that's missing from one? Awestruck for a second, he can't recall. Though, the music makes him happy; and with a smile, he walked on, not looking back, while the music continued.</p>
+<hr />
+<p>Closed, no longer opened.</p>
+<blockquote>
+<p><strong>Mio's Diary:</strong> As the morning sun rises, my lingering memories fade. I no longer see your silhouette. It's too far gone into the haze. But, <em>hey... It's all right. I won't forget you. Not until we can meet again... I swear it.</em></p>
+</blockquote>
+<hr />
+<h3 id="donations-and-support"><a class="header" href="#donations-and-support">Donations and Support:</a></h3>
+<p>One does not receive money for this work, and feel free to support one's work at the following addresses:</p>
+<!-- - [Buy me a coffee.](https://buymeacoffee.com/wabinab) -->
+<ul>
+<li><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" data-emoji=""  data-font="Cookie" data-text="Make a donation!" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+</li>
+<li>NEAR Protocol: wabinab.near</li>
+<li>ETH, OP, BNB: 0xa32e05D545FEc9cADb46BEB0839E3Ac0A9E39d9B</li>
+<li>BTC: 1Gp2bnMk73LUwTRo8bPUimeWbztAR9DViU</li>
+<li>BCH: qzv2w8f8nn3jzudnescpha0s46fvha6lpgrlfh2t67</li>
+<li>Polygon MATIC: 0xCD9a17ae05D4C985fA6C8603e8a5215650F9a584</li>
+</ul>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="48_final_battle.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="93_miyabi.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="48_final_battle.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="93_miyabi.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

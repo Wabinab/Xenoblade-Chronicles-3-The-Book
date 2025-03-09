@@ -1,0 +1,264 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Postscript - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html" class="active">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="postscript"><a class="header" href="#postscript">Postscript</a></h1>
+<p>Night after night, one walk with the protagonists of the story. In days one don't feel like it, one'll just do several minutes, usually pushing through (relatively) non-eventful part of the story. When the event is heartbreaking, emotional, it'll take a longer time for one to be immersed with them. And if one is emotional, one'll take a longer time to be with them too; perhaps because one's a coward that needs some cushion to face the calamities in one's own life. And having a fantasy character when no one else wants to be by one's side is what one can gathers.</p>
+<p>From time to time, one want to postpone the story from finishing. So one took some diversions and wrote the "More About" section. It's not complete, for some other stories are either not related to the main story, or one just don't like the story (like Triton's, the story one don't like the most). But a story has to end. A story that has a beginning must come to an end. And one end it on the last day of 2024. What must one say, <em>emptiness</em>? Perhaps, but one could always start translating another story again, which perhaps one'll do it soon enough, another Xenoblade, and that's another story.</p>
+<p>One was especially grateful for the emotional road it took me on, through one's ups and downs. One can't tough it up, but one can cry alongside them.</p>
+<p>As one said, the story was not easy to write. From <em>How to Know a Person</em> by David Brooks, he mentioned; the good novelists don't start with a character and build a story around it; nor do they start with an idea for a plot, then create characters who operate in that story. Instead, they <strong>start with a relationship.</strong> The alikeness and difference between them, arise some tension in between, and cause relationship to grow, falter, or flourish; and in the process, change each other. This story grows around the relationship between each character in the protagonist -- the relationship between Noah and Mio are especially vibrant, for, in their words, they're off-seers that touch the lives of many others, and in turn, many others touch them. Nevertheless, we cannot deny the interaction of other protagonists with each other: the occasional brain-daft of Lanz teasing Eunie; that Eunie now had a guy to think for her so she can choose not to think herself; that Noah can push some analysis to Taion rather than do all by himself, having someone to discuss with analytically; and the interactions with various non-protagonists in the story (soldiers, commander, City dwellers, Monica, Ghondor, Ethel, the Moebiuses, Z, etc.) shape the whole story. Forget about the drawings of the background, what land they stepped on, the beautiful naturalistic scene they were in, and focus in on the most important: the conversations. Words are what kept and change and form a relationship in the most vibrant form possible. Without words, relationship can only be limited at best, far less vibrant.</p>
+<p>Another book one read about while writing this, was <em>Excellent Sheep</em> by William Deresiewicz. As college now mostly abandon liberal arts and teach the science, we stopped learning how to live life. And worse, people like me didn't learn how to make friends properly in school. How? One used to ask my classmates, and they couldn't give one an answer, or even a direction, or just outright ignore one. Say, too emotional for them, or they couldn't face it themselves, or, they too don't know how; things just fall into place for them unconsciously, as if by magic. Alas, there's no magic for one. What can't be learned at college, we will have to learn ourselves in life. It's a sad truth, to require a fantasy story to take one on a relatively short journey through life, as a replacement of the missing liberal arts education in school that teach you how to be a person. Sure, it's flawed: the story itself has some perfection, and the director do make sure that everything get resolved; all these aren't true in real life. Taking the next step to facing crisis in real life is still vital. But still, a muted road is also a road to learn from, accompanied later with liberal arts books (<a href="https://en.wikipedia.org/wiki/Great_Books_of_the_Western_World">They called it the Great Books, by Mortimer Adler</a>), and the lifelong process of learning how to be a person begins. For example, Joran in the end felt convinced by them; but in real life, it might as well be, no matter what, he's not convinced. And second, it's too black and white. In real life, even if you're not convinced with the other parties, you can sit down and talk, and most importantly, you don't have to agree with them to understand their viewpoint! In the big, Democrats could understand the Republican (and/or Communists). Protestants could sit down and understand the viewpoint of the Catholics. In the small, you might decide that the most important things in nature are the rocks, but your friend decide it's the trees, and you can sit down and discuss about it without criticizing them, hearing why this guy loves the rocks and what makes them appeal, and why that guy adores the trees and what differences does it makes.</p>
+<p>There are a lot of unanswered questions. Like, if Z created the world, who created the off-seeing tunes? Who made it part of the world, part of the culture, in a monarchy-controlled world? If the Moebius were the ones that made it, why, then? Does Z, the voices of those that wanted to live in the endless now, also tainted with their wish to send those that had parted, therefore he created those? Or is it originally not, but was introduced latter by some unknown people (soldiers), and as Z saw some 'productivity gain', therefore incorporate it into the whole culture? These are just guesses. We don't know. Ultimately, a beautiful tune in a sad world may be a lucky impossibility, but it could also be a 100% thing, for sadness can't last without happiness. The Yin cannot live without the Yang.</p>
+<p>Another stuff to think about is the Flame Clock. The Flame Clock was no different to the 'railway clock' we use nowadays{{footnote: Yes, railway was deprecated half a century ago, with the advent of personal cars. You still see railways in huge countries like US, Britain, and China; and you still see railways in crowded countries like Singapore; but otherwise, those that don't go through industrial revolution probably just skip railway and prefer cars, at least that's in one's country. Even buses are rare, now that mediocre family can afford cars, and rich families have more cars than family members. }}, and let's skip the 'but'. In the old days, clock are local to each cities; but to ensure we have a universal time for the railway that travels, we standardized the clock, hence the railway clock. It was latter adopted by industrials such that, no matter whether you're hungry or not, you must eat between your allocated timeframe (say, 12-1), when in the past, you eat when you naturally feel hungry. The railway clocks make us unnatural today, being confined to it. And we become slaves to it, with all the "time management timetable" for the sake of "productivity". The slavery is no different from those confined by the Flame Clock -- to chase the Clock all the time, to do things <em>for</em> the clock, <em>because</em> of the clock. And there it is, high up there, overlooking us lowly worms. What differences does it make?</p>
+<p>And one had to add: writing emotions is hard. Very, very hard. To express emotions in words, is a pain in the arse. Partly because one never learned how (nor searched how); partly because one never practiced before; partly because fiction writing is so different to non-fiction; and partly because, one just don't know! Though one hopes, with improvements, one could bring you something closer to reality despite.</p>
+<p>When one was younger, one used to keep a diary; but because one don't know what to write back then, one only records down the content of the cartoon one watched almost everyday. That was for a few years. Latter when one no longer keeps a daily diary, one still have a random-entry diary where, when one feels like it, or when one have something stressed out, one will write an entry in it. The dates are random, depending on when one feels like it. Even later on, one stopped writing diary altogether, because one started writing blogs; that was in 2021 onwards. And because the content one wrote in a diary mostly equate those one wrote in blogs, one no longer write them. Though, one do make some censorship as blogs are public-facing, while diary is only read by one, if one even read back at it; or in the future, if anyone are to write any autobiography for whatever reason on one, that's a reference, if it survives till then. (It's paper, you know, and one isn't keying them into a computer by any method). Ultimately, at the end of chapter 1, when the Kevesis and the Agnians returned together and sat down by the campfire, and Noah walked to Mio whom were keeping entries in her diary while they started talking about philosophical-deep topics, and when she spoke about the shortness of life (10 terms/years = 520 weeks = 3652.5 days), every single day is a blessing. We who lives 8 times longer than them (80 terms = 4160 weeks) indeed, looked away from monday and looked forward to sunday, starting from when we're in school (if you hate school), and do that for about 4000 times, and you're gone. We're gone. Especially in adult life, all we see is, yes, time passed so fast because weeks goes by so fast; and if we predicted we have 6-digit weeks, you don't feel it; but 4-digit weeks? What if you're in your old age, when it became 3-digit? Every day is a blessing. So, make every day interesting by learning new things or doing something happy or anything that keeps life worth living.</p>
+<p>For we should not forget,</p>
+<blockquote>
+<p><strong><em>to live, and learn, a whole lot more.</em></strong></p>
+</blockquote>
+<p>Mio do really changed one in keeping a proper diary that no longer records about cartoon but to be gratitude of what one did the day, to remember and be aware of what one did the day (than to pass through in fogs, can't even recall). If one wasted a day, say, "One wasted today in being addictive to reading x hours of Chinese novels," for example. Even that's a record that says, yes, life is brief, and one wasted it. What a shame oneself is.</p>
+<hr />
+<h3 id="donations-and-support"><a class="header" href="#donations-and-support">Donations and Support:</a></h3>
+<p>One does not receive money for this work, and feel free to support one's work at the following addresses:</p>
+<!-- - [Buy me a coffee.](https://buymeacoffee.com/wabinab) -->
+<ul>
+<li><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" data-emoji=""  data-font="Cookie" data-text="Make a donation!" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+</li>
+<li>NEAR Protocol: wabinab.near</li>
+<li>ETH, OP, BNB: 0xa32e05D545FEc9cADb46BEB0839E3Ac0A9E39d9B</li>
+<li>BTC: 1Gp2bnMk73LUwTRo8bPUimeWbztAR9DViU</li>
+<li>BCH: qzv2w8f8nn3jzudnescpha0s46fvha6lpgrlfh2t67</li>
+<li>Polygon MATIC: 0xCD9a17ae05D4C985fA6C8603e8a5215650F9a584</li>
+</ul>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="92_nia.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="98_appendix.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="92_nia.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="98_appendix.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

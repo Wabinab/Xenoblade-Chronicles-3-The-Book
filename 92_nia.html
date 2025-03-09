@@ -1,0 +1,430 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Nia - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html" class="active"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="more-about-nia"><a class="header" href="#more-about-nia">More About Nia</a></h1>
+<p>One evening, the group arrived at the Cloudkeep{{footnote: The woman at the back, you should've known after starting of Chapter 7, is Melia.}} in search of Nia, but she was nowhere to be seen.</p>
+<p>Eunie: "Huh? Where's the Queen...?"</p>
+<p>Mio have no idea, "Maybe she isn't there... But... where is she then?"</p>
+<p>Just then, they heard someone humming some peaceful tune from another direction. Lanz: "Huh?" Here she came, Nia in her adventurous{{footnote: A.K.A. the costume in Xenoblade 2}} costume, entering the scene,</p>
+<p>"Ahh... Haven't worn this for a while. Still looks pretty natty, though, eh, Nia old fox? It's so tough to get around in those <strong>bloody</strong> formal duds. <strong>One false step, and you fall... flat on your face</strong>... Ahhh, I fiiinally feel like I can be myself. Really cut loose! I love it! <strong>OH!!!</strong>"</p>
+<p>Noah echoed back: "Oh..." There was an awkward silence encircling the atmosphere before Nia nervously and surprisingly made small jog towards the group.</p>
+<p>"Wh-wh-wh-wh-wh-what are you guys doing here...?"</p>
+<p>Scratching his head, he was too befuddled to reply, "W-we just... Uh... What are you...?"</p>
+<p>Mio took over, "Erm... Majesty... your... clothes..."</p>
+<p>That reminded her, "<strong>W-wait!</strong> Just hang on! Give me a second here, all right?" She turned around to calm herself down, "Whoo.... Ahem." Then, she turned around and present herself with her former Queen's 'manners': "Well met, all of you. Please accept my heartfelt welcome. I can offer you only a simple welcome today, but do please make yourself comfortable."</p>
+<p>Noah observed her difference for a while, "Hmm..."</p>
+<p>"Is something the matter?"</p>
+<p>"...Doesn't it wear on you, <em>acting like that?</em>"</p>
+<p>"Wh-what?" Now that's Nia.</p>
+<p>Mio: "Ah... Noah!"</p>
+<p>Nia: "<strong>No. It's... perfectly fine.</strong> <em>Dispense with such concerns!</em> Pray, let not my regal status prohibit you from presenting your enquiries. Please, speak your minds."</p>
+<p>Eunie bravely go forward at her permission, "All right, well, here's a question... What's that get-up all about?"</p>
+<p>"Ah... ah, yes. Perhaps you would find my clothes rather... <strong>curious</strong>."</p>
+<p>"I mean... if you don't want to talk about it, that's cool, no sweat."</p>
+<p>"Oh! N-no, it's nothing like that... Before, I told you how the world was once divided into two, <em>if you recall</em>?"</p>
+<p>"Yes, you told us when we first met. How could we forget that, your Majesty?{{footnote: Hah, one always forget things on first met, unless someone make it memorable.}}"</p>
+<p>"These clothes belong to that era. When the worlds were two, unmingled. These raiments were created specially for me in that older realm."</p>
+<p>Mio: "So... So they're from your old world, Majesty?"</p>
+<p>"Right. I suppose you could call it a keepsake of my motherland, if you like."</p>
+<p>Taion caught the word, "'Motherland'...? Can you explain that word, please?"</p>
+<p>"The place of my coming into existence in the world, of my infancy and upbringing... We call that our 'motherland'."</p>
+<p>Noah: "Your Majesty's motherland... What kind of place could it have been?"</p>
+<p>"Are you interested, Noah?"</p>
+<p>"I am... The subject seems so huge, I can scarcely begin to imagine it. If it please you, I'd love to hear more about your world, Your Majesty."</p>
+<p>"Certainly, I'd be happy to. Well, to begin with, I ought to explain..." She then crossed her arms together, and her eyes pinched together as if she had a playful joke to play on them. "...Actually, now that I think it over... if I were to tell you the whole of the story, a full day and night might not suffice, I fear. In fact, I'm certain of it."</p>
+<p>"Oh, I see! Then I'm sorry to have made such an unreasonable demand of you. Well, maybe another time then...?"</p>
+<p>Acting pitifully, "Even then... Surely you have important matters you ought to be taking care of. It won't do for me to detain you here."</p>
+<p>"Huh? Well, I suppose so, but..."</p>
+<p>Smilingly, "Therefore, let us go forth together!" Yeah, the adventurous Nia had came back online!</p>
+<p>Instantaneously reacting, "Yes, Your Majesty. As you wi-... Wait."</p>
+<p>Taion: "Ah, forgive me, Your Majesty. I don't think we quite heard right."</p>
+<p>"I mean to say, that I will accompany you on your{{footnote: Original video have typo, should be 'your' not 'you'.}} travels. That way, I'll be able to continue my tales. Night and day, every day, if needs be! Ah... I mean... that is not <strong>NOT</strong> to imply that being cooped up here the whole time is as lonesome as it is tedious... or that I'm well pleased with myself for inventing an elegant, way-sneaky excuse to get out...{{footnote: AHAHAHAHA. Well, you just told us your mind in inverse form, Nia!!!}} It's nothing like that at all... Please, do not misinterpret it thus."</p>
+<p>Lanz: "No one was saying that anyway..." Ahem ahem...</p>
+<p>"Uhm... I suppose it <em>may be a bit much, eh</em>...?"</p>
+<p>Noah: "Uh, we weren't saying that, either..."</p>
+<p>"All right then, it's decided! A 'deal', shall we say?" The smile on her face cannot anymore conceal.</p>
+<p>"Y-yes, Your Majesty..."</p>
+<p>Turning around, "... AWWWWW YISSSS!!!" Turning back to face them...</p>
+<p>Noah: "OK, then... uhm... We humbly beg your grace, Your Majesty... O-o-or was that 'respectfully'...?"</p>
+<p>"Oh, come now! No need for such formality. I ask only for your kind support, Noah. <em>Oh</em>... And from now on, I'd like you to address me simply as 'Nia'. From now on, <strong>I'll be just another one of your</strong> ordinary fellow traveling-folk!"</p>
+<hr />
+<p>At the Agnus Castle ground, the group, together with Nia, approached Ghondor one night, whom started whining, "<strong>Augh, what do you plonkers want now?</strong>"</p>
+<p>Sena: "Hey, c'mon. Don't be like that. We're just here to say hi!"</p>
+<p>"Uh? What's that? You got time on your hands, have you? ...Huh?" She just noticed the new fella in the group. "Why, if it isn't..."</p>
+<p>Nia: "I believe this is the first time we speak directly, isn't it, Ghondor?"</p>
+<p>"Can someone tell me what the hell's going on? What's the Queen of Agnus doin' here?... Oh, uh, <em>hang on</em>. I suppose we <em>are</em> in Agnus Castle right now, so uhum... maybe it's not so weird to see you here... But, what I don't get is, why's the Queen of Agnus seem to know about me?"</p>
+<p>"That's... Well, it's a long story. The Vandham name, and those that bear it, have a deep meaning for me."</p>
+<p>"You mean my family?"</p>
+<p>"In the past, I... we... were saved, by a man called Vandham. He taught us a lot about life, and what it was we were called to do. It's not exaggeration to say that, without him, there would be no me."</p>
+<p>Lanz was surprised, "Huh? A real deep connection between Nia and Ghondor's fam? <em>Spooky</em>."</p>
+<p>"The memories of it are all but lost now... <em>These were events of the distant past.</em>"</p>
+<p>Ghondor: "<em>O-ho...</em> Uhhh, more to the point, seems you dags have gotten pretty used to chumming up with royalty. <em>Like it's no big thing</em>!"</p>
+<p>Sena: "Well, Nia asked us to treat her that way. Like another one of the gang."</p>
+<p>Lanz: "C'mon, Ghondor. Surely you more than anyone wouldn't expect us to mince our words around Nia."</p>
+<p>"Wind your neck in, will ya? Nothin' wrong with how I talk!"</p>
+<p>Nia: "Heheh... Oh, you're so bold and unabashed. I simply adore it!"</p>
+<p>"Uh... oh...? I... suppose I am..." That was blushing!</p>
+<p>"I mean, you've passed through the conflict with the false Queen, maintained order in the Castle... There are a lot of things that came about because of your blood, sweat, and tears, Ghondor."</p>
+<p>"Huh? Well, that's <em>a real heckuva compliment</em>... Too much for the likes of me maybe, your Madge. All I reckon we really did was, <strong>set a few boundaries</strong> to stop things going daft. I don't have a clue about your Agnian folks though."</p>
+<p>"You're just being humble, Ghondor. Please, there's no need for it. <em>It's not easy to earn people's trust</em>, to maintain the balance. And you do all that, while still remaining natural, unadulterated Ghondor."</p>
+<p>"<strong>OIII, I'm basically an adult!</strong> I'm almost -- <em>Ah, forget it</em>..." Bro how old are you even?</p>
+<p>Sena: "<em>Ghondor... You really soften up when you get a few kind words, don't you?</em>"</p>
+<p>"<strong>HUH...!!! WHO'RE YOU CALLIN' SOFT...?!</strong>"</p>
+<p>Nia changed the subject, "I hope Agnus <em>can count on your continued support</em>."</p>
+<p>"I mean, what I'd really like to be saying right now... is 'bite me'. <em>But</em>... since I' got a real-deal Queen going to <strong>all the trouble</strong> of asking me, <em>I guess I've gotta at least consider the request a bit</em>."{{footnote: OK, she's just don't like that. She wants adventure, not on the throne.}}</p>
+<p>"From the bottom of my heart, thank you, Ghondor. As the nominal lady of Agnus Castle, I bestow upon you my sincere admiration for fulfilling the-"</p>
+<p>"<strong>HEY! WHOA! ENOUGH ALREADY...! It's like you <em>wanna</em> make me squirm?!!!</strong>"</p>
+<p>Sena: "Ah, there's our Ghondor..."</p>
+<p>"<strong>Just shut up, will you?! We're done talking about me, all right?! You Ouroboros arseholes, mind your own beeswax, all right?</strong> <em>I better no hear you've been holding the Queen back! You're a real goofy bunch, arentcha?</em> <strong>Just bein' around ya counts as a hazard!</strong>"</p>
+<p>Eunie wasn't happy hearing that, "Pffff... Pot calling the kettle black much, there, Ghondor, love?"</p>
+<hr />
+<p>Inside the City's memorial hall, Nia herself was looking at the Ouroboros Stone, reminiscing about the past perhaps, when Mio walked in, "Your Majesty! There you are."</p>
+<p>She turned to face her, "Please, it's 'Nia'! You aren't used to it yet, are you?"</p>
+<p>"Uh... I'm sorry, your... Please, forgive me... It's{{footnote: Another typo error here.}} just..."</p>
+<p>"Eheh, it's fine. I may have taken my teasing <em>a step too far there</em>."</p>
+<p>"Uhum... I hope what I'm about to say doesn't come out the wrong way, but..."</p>
+<p>"Yes?"</p>
+<p>"It's just, <strong>you're our Queen! We believed you were</strong> the one that gave us all life... And that we'd return to you in the end. You were like this awesome being high above... None of us could even dream of talking to you."</p>
+<p>"Ngh..."</p>
+<p>"And now you're just traveling along with us and chatting like it's an everyday thing. It's just really bizarre to me somehow. Like things have been switched around. It still feels a little strange..."</p>
+<p>"Could it be... that it just hasn't sunk in yet?"</p>
+<p>"Ngpfff..."</p>
+<p>"... <em>I see</em>... Heheh... Well, it's the same for me."</p>
+<p>Surprised, "Wh-what?"</p>
+<p>"I'm sure I've told you this before, but please indulge me. While I was asleep in the Cloudkeep, I was getting information about what was happening in the world.{{footnote: Presumably, only specific information, or our brain would explode by information overload.}} So I knew, long before, that you were not M, but an independent being called 'Mio'. But... <em>it was nothing more than information. I wanted to truly know you, <strong>more than</strong> anyone else, but I couldn't touch you, couldn't make contact. I felt so close to you... But you were still this <strong>distant</strong> far-off thing... It was so frustrating</em>."</p>
+<p>"Uhrrrr..."</p>
+<p>"<em>But right now, you're so close I can reach out and touch you... Speak with you, even.</em> I never thought the day would come. <em>It's a <strong>truly</strong> strange feeling</em>."</p>
+<p>"I-It's the same for me..."</p>
+<p>"<em>Indeed.</em> It's amazing really, the way things worked out, don't you think?"</p>
+<p>"Uhuh... For sure. If I hadn't become Ouroboros, I'd never have had the chance to meet you, Nia. Sometimes, <strong><em>a small pebble starts the avalanche which changes your whole future</em></strong>, <em>don't you think</em>?"</p>
+<p>"...N-no, I don't think you can put it all down to chance."</p>
+<p>"...Uh-huh? What do you mean?"</p>
+<p>"I think we met because we were supposed to, Mio. It was meant to be. <em>Because, to me, you're...</em>"</p>
+<p>She didn't managed to finish her sentence when Eunie interrupted from the entrance, "<strong>Hey! Mio! Nia!</strong>" The group were waiting outside for them. "<strong>We're heading out soon, guys! Get a move on, or you'll get left behind!</strong>"</p>
+<p>Mio: "<strong>OK! We're coming!</strong>" Then, turning to Nia, "Shall we go join the others?"</p>
+<p>That cut the previous conversation short. She rapidly answered, "Sure. Let's do that." She held her arms by her chest as if to hold something dear close to her heart. Mio, whom had already turned and leaving, turned back when she called out, "Mio!"</p>
+<p>"Yes?"</p>
+<p>"I'm really glad we got to <em>talk like this</em>."</p>
+<p>"Yeah, me too... Nia."</p>
+<hr />
+<p>One morning. By the forest where you could see the dilapidated modern buildings, the group were standing by a ledge overlooking the giant trees and all that, enjoying the sounds of waterfall in the distance, the ever falling leaves from the Yggdrasil-size tree, and the clouds that shrouded the height forever. The brought Nia back in memories, "Ohhhhhhh...."</p>
+<p>Noah prompted, "Nia...? Everything all right?"</p>
+<p>She turned around and explained, "This place you call Maktha Wildwood... Do you know anything about all the ruins and things scattered around here?"</p>
+<p>Shaking his head, "No, to tell the truth."</p>
+<p>Eunie: "I never paid them any mind, I guess. But now you mention 'em, they do seem pretty weird."</p>
+<p>Sena: "...<em>Oh! Hey</em>, is this also related to stuff from your old world, Nia?"</p>
+<p>"<strong>That's a good guess, Sena Not quite right</strong>, but you aren't far off."</p>
+<p>Taion: "Please, explain."</p>
+<p>She thought about it for a moment, gathered her storyline, before continuing, "All right, I will. This is... <em>probably</em> something you ought to know about." Turning around to look at the ruins, "I told you before about Aionios's creation, right? Well, what I'm about to talk about goes back much further into the past than that."</p>
+<p>Mio: "You mean... when the worlds were one?"</p>
+<p>"The people of that time had access to absolute power, using it to create and enjoy a flourishing civilization. But, in the end, they started to fight each other for control over that very power... And because of that, the power became a calamity and ripped the world in two." She turned back to face them, "What we're looking at now, is the remnants of the destruction that humanity has wrought... So the true meaning of all this ruin... is to stand as a monument to the history that created this world."</p>
+<p>Taion philosophically added, "If you really think about it, we human beings are the cause of all of it..."</p>
+<p>Eunie: "<em>I don't get it... Why fight till everything burns?</em>"</p>
+<p>"<em>The answer is... because they were afraid</em>."</p>
+<p>Sena: "Afraid... of what?"</p>
+<p>"Afraid of 'ending'..."</p>
+<p>Mio: "Hrrr...."</p>
+<p>"All life... All civilizations and cultures... Everything comes to an end, in time. Of course, humans are part of the world, too. We can't escape that rule either. But people never stop looking for a way, <strong>even if it means going beyond the rules</strong>. <em>'Eternity'... That's what they were searching for</em>."</p>
+<p>"<em>Eternity...</em>"</p>
+<p>"<em>If the present moment carries on forever, then the end will never come. That's eternity</em>. With that, the miserable decay that you're looking at now would never come to pass."</p>
+<p>Noah: "Hngh..."</p>
+<p>"I think you probably all know the rest of the story already. Why this world that we're in now is called 'Aionios'... the realm of eternity."</p>
+<p>Mio: "Z also wanted eternity... Just as the people did back then."</p>
+<p>Noah: "But... I mean... Even though they were longing for eternity... to sacrifice so many lives to achieve it, it's not... It can't be right!"</p>
+<p>"I agree. We might get hurt... and someday, we'll be gone. But <strong><em>we have to keep moving forward, in spite of all that.</em></strong> That's what it means to live. Right, Nia?"</p>
+<p>Her eyebrow raised, "...Yes. Exactly right. That must be clear to you all now. You should hold on to that vision of life, cherish it as you go forward." Taking one last look at the ruins, "Keep that in your heart so that you never repeat the mistakes of the past."</p>
+<hr />
+<p>One evening, when the red sky enhances the redness of the Saffronia's leaves, "Ahh... The scent of Saffronia... This takes me back..."</p>
+<p>Noah: "Takes you back...? You mean, you know what this is?"</p>
+<p>"Yes, of course! Saffronia trees used to grow in the world that I came from, you see."</p>
+<p>Sena: "Huh? For real?"</p>
+<p>Mio: "So <em>that's</em> where Saffronia trees come from... <strong>Who'd have guessed?</strong>"</p>
+<p>"That's not all... What you call the Urayan Mountains came from my world, too..."</p>
+<p>Eunie: "Whoa... Seriously? I always thought they were funny-shaped mountains..."</p>
+<p>Looking away, "I mean, now they're mountains... Back then, they weren't so picturesque."</p>
+<p>Sena was curious, "Are there more places like this? Stuff that we don't know the true origin of...?"</p>
+<p>"Actually, yes! In fact, I daresay, pretty much everywhere you've seen till now!"</p>
+<p>Lanz: "Makes sense. If you hadn't been here, we'd have just walked right past like it was no big thing!" Yeah, speak of taking things for granted...</p>
+<p>"I suppose it's good for you to know about how things were in the old world. Well now you've all got this new perspective, why not have a look back at the path you've already traced?"</p>
+<p>Noah: "Looking back at where we came from... That could be a really valuable experience."</p>
+<p>"Yes! Please, give it some thought. The path that you're on now will lead you to <em>the future that you've dreamed of</em>.{{footnote: Or, one daresay, never dreamt of. Not even one that one could imagine.}}"</p>
+<hr />
+<p>Such many places they've visited. It's time to take a rest at Valdi's colony! Plus, it's another night. Sitting by the tables, Eunie asked, "OK... So what we got next?"</p>
+<p>Noah: "Good question! Nia! Anywhere you still want to go?"</p>
+<p>"Mmm... Well, if you're asking me to choose, then I may have to ask your advice first."</p>
+<p>Mio: "Sure. I hope we can give you a decent answer!"</p>
+<p>"In all the places you guys have been so far... was there ever a place where you could... look at the sky up close? Almost touch it..."</p>
+<p>Taion immediately rebutted, "But... What do you mean, close to the sky...?"{{footnote: OK, it's not exactly rebutting, but the word 'but' means a lot. If you use 'and' it would mean another meaning.}}</p>
+<p>Eunie: "Uh, I guess she means, like, have we ever been to the highest place in the world, right?"</p>
+<p>That kept Sena thinking, "The highest place...? Uhm... Have we? Maybe? Maybe not..."</p>
+<p>Noah: "Is that where you'd like to go now, Nia?"</p>
+<p>"Yes... I mean... I don't have any really major reason for it, but... Just... when you asked where I wanted to go, that was the first thing that popped into my head."</p>
+<p>Mio: "What, the sky, you mean?"</p>
+<p>"Maybe, when I look up at the sky, I just... long to go back there. A sort of nostalgia.{{footnote: Yeah, Elysium.}}"</p>
+<p>"Hmmm..."</p>
+<p>Noah: "Well, if that's what you want, then why don't we try and find a high place for you?"</p>
+<p>"Oh! Really? You're good with that?"</p>
+<p>Eunie: "I'm cool with it. Anyway, it was me who brought up this whole 'where do you want to go' chat in the first place."</p>
+<p>Sena was excited, "If there's a way-up-there, sky-scraping place like that, I'd love to check it out myself!"</p>
+<p>"You guys... Thank you so much. I guess I'm counting on you all over again. Let's find it together then! The place where we'll be close enough to touch the sky!"</p>
+<hr />
+<blockquote>
+<p><strong>Translator's note on environment:</strong> The frosty snow covered the hilt of the sword; snow eagles and some huge-wingspan-birds roamed the sky at this height. The blizzard never stops, and the wind continually guzzled. This, is <strong>The Cavity</strong>, the remnants after Shania annihilated where the City originally was.</p>
+</blockquote>
+<hr />
+<p>Standing atop one morning, Nia could view the Agnus Castle floating on the far distance. The Castle ground aren't even as tall as the current location, though its 'tip'{{footnote: The jaws of the castle that pointed upward like beams, but aren't hollow within, probably.}} lurks to approximately the same height, probably higher?</p>
+<p>"Ahh! Such a blue sky... Though the world changes, no matter what form it may take, the sky up there... it stays the same." Blue and cloudy.</p>
+<p>Mio: "Ungh..."</p>
+<p>Nia turned to the group, appreciating, "Thank you... I'm grateful to all of you. It's kind of you to indulge me like this."</p>
+<p>Noah: "No. It's fine. Don't forget... Asking you along was our idea."</p>
+<p>"I'm pleased you all became Ouroboros. I'm glad that you did."</p>
+<p>Sena: "N-Nia, what's gotten into you? Why are you saying this now?" As she was speaking, Nia was closing her eyes, perhaps to reminisce, perhaps to appreciate the feelings of gratefulness? After she opened back her eyes, she explained,</p>
+<p>"When this battle is over, the stationary worlds will move once again. When the worlds were divided, they knew nothing of each other.{{footnote: A.K.A. all memories will be wiped out.}} In the end, they'll be strangers once again... Perfectly ignorant, as will we."</p>
+<p>"Huh..." Mio was startled.</p>
+<p>"Even so... I wanted... to make a memory. The day when we part for good... It's coming. But still... I wanted us to share this moment. I wanted to feel that special connection, those ties that bind us together. Not just as your Queen; but also as your friend."</p>
+<p>In her appreciation stance, she felt it in her heart, "Nia..."</p>
+<p>"So just... thank you." Looking at Mio as she spoke, especially for her. "In the end, it's up to you. My hope, is invested in your future. You must defeat Z, and make a better world, with your own hands!"</p>
+<p>Shaking her head, she opposed, "Hey... That's not quite right."</p>
+<p>That took her by surprise, "Huh?"</p>
+<p>"That better world... You'll be building it together with us, Nia."</p>
+<p>"Y-you mean...?"</p>
+<p>"I mean, even if we do get separated, someday, we'll see each other again. We want you with us, Nia, in that future. How could we not? We need you. Rather... please stay." And she walked forward and took Nia's right hand, hamburgered it in her own palms. "Because... The connection we share... Nia... That's something... that can never be broken."</p>
+<p>"Mio..." She turned to look at the other Ouroboros (and Nopons); they weren't shaking their heads or anything. "Ah... <em>I mean, if that's... the future that you want...</em> <strong>N-No...</strong> Let me try that again." Putting her other hand on Mio's top ones, "That future, I'll share it with you! It's not just yours... It's <em>our</em> future we'll invest in. For that, we need this world to end. Until that time..."</p>
+<p>Mio understood, "Yeah... We'll be by your side until then... Nia."</p>
+<hr />
+<blockquote>
+<p><strong>Translator's note:</strong> If you hadn't already realized, many of us suspected, Nia was Mio's mom.</p>
+</blockquote>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="91_melia.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="97_postscript.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="91_melia.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="97_postscript.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

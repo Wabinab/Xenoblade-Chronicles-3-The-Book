@@ -1,0 +1,561 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>The Day of Escape - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html" class="active"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="the-day-of-escape"><a class="header" href="#the-day-of-escape">The Day of Escape</a></h1>
+<p>The next morning. Sena excitedly announced to the group, "So, today's the day we break out here, huh."</p>
+<p>Mio: "Is everyone ready?"</p>
+<p>"Manana take many-many rest so that can run flashy-dashy!" The rest agreed with Mio.</p>
+<p>Taion: "The time that Ghondor specified is after the beginning of outdoor work."</p>
+<p>Noah: "We should keep our heads down and work until she gives the signal."</p>
+<p>Eunie, the 3rd day feels like vomiting, "Ughhh, we'll have to listen to that shitehawk again at the morning assembly."</p>
+<p>Lanz ushered patience, "Last time, though."</p>
+<p>Riku: "Friends stay concentrated."</p>
+<p>Noah: "Right. Time to get everything together for the escape. When we're all sorted, let's go to the central cell block."</p>
+<hr />
+<p>By the central cell block, prisoners had already gathered to hear the shitehawk speaking. As usual, standing beside the warden, "Here is your duty for today: you are to gather Beautiful Shoots and Fluffy Cloud Ears. Furthermore, the following is an assignment for the prisoners who defeated the Feris yesterday. You are tasked with culling the Garaffas grazing near the Perimeter Outlet."</p>
+<p>Noah: "Wait, just us...?"{{footnote: Maybe they meant only them who killed Ferises yesterday? One don't know. No info on what accomplishments the other prisoners have.}}</p>
+<p>"Once the Garraffas are culled, you are to also cull the Quadwings. Finally, tidy up the Food Storage area." Well, that's the drawback of showing a Giant Feris Horn -- revenged is expected! "Once you're done with that, you're on the usual duties with the rest of the prisoners. That's all. You're dismissed. Now get to work." The other Lost Numbers immediately set out to the alleyway without waiting a second, while the Ouroboros lingered behind.</p>
+<p>Eunie, with especially glum face, complaint, "Ugh. That pillock expects us to deal with all that ourselves...?"</p>
+<p>Lanz was impressed, "We've been such model prisoners. Bet he's taken a shine to us." OK, that was another angle to look at the situation! Eunie just shook her head, unable to agree.</p>
+<p>Mio, speaking to Noah, "We should go too." The others had already leave the room. They're gonna look quirky alone here.</p>
+<p>"Yeah."</p>
+<hr />
+<p>Outside in the battling sun, on the grassy land casted with tree shadows, the group gathered in a circle. Sena was still as excited as ever{{footnote: Well, OK, whenever she was going for muscle jobs, at the very least.}}, "M'kay, that's one job done."</p>
+<p>Lanz looked around, "Still no signal, eh..."</p>
+<p>Noah seek for Taion, "I wonder if something's gone wrong..."</p>
+<p>"We can't afford to arouse suspicion before we receive our orders. We'll just have to endure the work, loathsome as it is."</p>
+<p>Lanz threw his arms in the air, Eunie heads down shaking, "Blahh, for real now...?"</p>
+<p>As Sena tried to cheer her up, Mio was deep in thought... "Hmm...?" Some noise in the distance seemed to catch her attention.</p>
+<hr />
+<p>The top of the prison exploded, followed by the ground, and everywhere else. Emergency alarm began blaring. Noah, currently knelt down under a tree{{footnote: Perhaps collecting stuffs.}}, looked up and saw dark smoke polluting the clear blue sky. He reacted a few seconds later, announcing to the group, "That's up! OK guys, take out the guards!"</p>
+<p>Seeing such messy situation, Taion spit out, "Ah yes, the illustrious 'plan'..."</p>
+<p>Mio: "You're still whinging about that?"</p>
+<p>"<strong>Yes, I am!</strong> It's all so messy."</p>
+<p>Eunie can't understand his cautiousness, "You would say that. Hey, if it gets the job done, what's the problem?"</p>
+<p>"<em>Assuming</em> it works."</p>
+<p>She tightened her eyes; her hopes as optimistic as the speculators in internet stock before the dot-com bubble, in real-estate before the housing bubble, "It will! We're gonna make it work! C'mon!" She dashed off thereafter the urge.</p>
+<p>It's not like he could change anything now, could he? "Whatever you say."</p>
+<p>As the others walked pass him, Mio's eyes met with his. It took them a while to nod at each other before catching up with the group.</p>
+<hr />
+<p>After finished the guards, they whom had put their eyepatches back on, gathered below the watchtower as agreed upon. Standing in between a floor of corpses were Ghondor, her two bodyguards, and some distance away, Shania. Noah called out as they arrived, "Ghondor!"</p>
+<p>"Took your time, didn't ya?" Seeing their arrival, the other 3 gathered behind Ghondor. The exchanging gunshots and blaring siren continued in the background.</p>
+<p>Sena scanned the corpses, "Wow, you sure didn't waste any...!"{{footnote: Probably 'waste any time', their speed and 'efficiency' better than theirs.}}</p>
+<p>"No time for chitchat. My friends are gonna cause a distraction, and we're gonna make a run for the west gate."</p>
+<p>Mio heard something from afar, turned around and remarked, "It looks like quite a few people are fighting already."</p>
+<p>"Good, then they can have another brawl later. I'll take the lead, all right?" Turning around, "Let's dance, bitches!"</p>
+<hr />
+<p>A gate they pass through raised; soldiers entered the Perimeter with their blades.{{footnote: Sound silly to me, raising the gates: it just made them easier to escape.}}</p>
+<p>Noah: "Reinforcements?!"</p>
+<p>Ghondor: "Eyes on the prize! Boot these arseholes out of the way and the west gate is in our sights!" Just another stepping stone before arriving at their destination.</p>
+<hr />
+<p>The group could now see a metal solid double door{{footnote: Gate have holes in between so you can look past it; a door, however, is a plank of opaque wood/metal/whatever material. That's how one distinguish them.}} in the distance.</p>
+<p>Mio called out for the strongest among them to handle it, "Sena! You're up!"</p>
+<p>"I'm on it! Lanz?"</p>
+<p>"Right here!"</p>
+<p>Interlinked with Sena at the helm, they glide forward with the 'wings' opened up, picking up speed, jumping high up; the wings transformed into a hammer. "Rrrraaaaagh...!" The hammer slung like a catapult and slammed itself against the door. The door swung on its hinges, slammed against the wall on both side, sending dusty dirt in the direction of the force.</p>
+<p>As if an opened dam, the feeling of freedom washed over Ghondor; Stopping on the track as she exclaimed with excitement, "Well, shiiit! Hahah! So much for us giving you backup! Haha... What a joke! All right! All o'ya! Let's bust this joint!" She picked up velocity again, and the other Lost Numbers, including the Ouroboros, followed.</p>
+<p>"Ma'am!"</p>
+<p>"Aye!"</p>
+<p>From beside, Sena and Lanz rejoined the group as they dashed past the door together. In the lead, Noah heard some sound from above, raised his head, and stopped just before something shot on the ground before them. They raised their hands to cover their face from the incoming dust storm ("Ugggh!"). Upon clearance, three giant Levnis/Ferronis floated in front of them. These three giant structure have cone-shaped torso, a circular object floating behind their torso, and their wings put in front of them as if holding a staff with your fingertips touching each other, palm facing inwards. Their front and both their flanks have been cut.</p>
+<p>Mio recognized something, "That design... They're the Castle Guard!" There's a 'M' symbol, with some recursive triangles above that 'M', imprinted on their head.</p>
+<p>Eunie was confused, "What the spark?! I thought they were supposed to be away doing their bloody training?!"</p>
+<p>Noah: "An ambush?! <strong>Ghondor!</strong>"</p>
+<p>"This ain't an accident... Means one of you bastards... snitched."</p>
+<p>As the Castle Guard floated low above the ground, more soldiers and levnises appeared from behind them. In a semicircle, some Lost Numbers' had joined the Agnians against the escaping crowd. The betrayed Lost Numbers' and Agnian soldiers marched slowly towards the group, forcing them back. The stopped at a distance, and the head of the betrayals, <em>Shania</em>, stood out as the representative, and the head.</p>
+<p>Sena took a run forward, shocked to see who's causing their oblivion, "Shania...? <strong>No</strong>... How could you...?!"</p>
+<p>Ghondor: "<strong>You bitch! Answer her!</strong>"</p>
+<p>"Ahah!"</p>
+<p>While they were dealing with that, "Hrgh-...!" Noah felt the thundering headache he last felt in the Keves Castle.</p>
+<p>Mio, standing beside him, noticed his abnormality, "What is it?!"</p>
+<p>"Head's... pounding...!"</p>
+<p>"...Such foul-mouthed creatures... She was right to sell you out." Standing atop the central Castle Guard was N and M, their mask intact.</p>
+<p>"Ug-Agh!" Mio now understood what Noah felt. <em>M was looking straight at her.</em></p>
+<p>The others were too absorbed in the situation to care for their head. Lanz recalled, "Wait... We've seen him before!"</p>
+<p>Noah immediately answered him, "He's back... again..."</p>
+<p>N continued speaking after they teleported onto the ground in front of the Castle guard, taking steps towards the group in the meantime, "She made a choice. Which will result... in one of the best outcomes one could've hoped for." Shania was clearly satisfied at his words.</p>
+<p>Taion: "I don't see how..."</p>
+<p>"Of course. It's quite unfavorable... for your little band of heroes." He pushed his sword down such that its handle point towards the group.</p>
+<p>Lanz was up for it, inciting N's impatience, "You throwing the levs at us? Bring it. Been wanting to smash something up!"</p>
+<p>"Hah. Not so fast, boy." To which Lanz growled back at him. "Your luck well and truly..." He touched his fingertip at his iris and unmasked himself, "...came to an end." The moebius symbol therefore glowed  bright red!</p>
+<p>Noah can't believe what he just saw -- an older version of himself! N continued: "On the day you chose to stand against M and N!" M followed and revealed herself, with her moebius symbol. The horror washed over Mio; she gasped at her reflection.</p>
+<p>Lanz: "Noah, and..."</p>
+<p>Taion: "Mio...?! But how?"</p>
+<p>Eunie: "Those Moebius were... Noah and Mio? Wh-what's goin' on?"</p>
+<p>Sena: "How's this..."</p>
+<p>His head still throbbing, yet had lots of questions unanswered, "Who is... this guy? It's not just that he looks like me, but... huh... He's Moebius...! And then there's..."</p>
+<p>Mio: "We have... the same face."</p>
+<p>As Ghondor and the others tried to figure out what'd happened, "Hahahahaha." Shania was laughing from the bottom of her stomach, "<strong>AHAHAHAHAHAHAH!!!!</strong>"</p>
+<p>Ghondor had to spit out the words, "Shania..."</p>
+<p>In an elated tone, "<em>Now there's the look I've wanted to see! The look of a woman buried under the weight of her misguided expectations!</em>"</p>
+<p>"Urgh... Urgh..."</p>
+<p>Sena: "How could you, Shania? Why are you siding with them? You're with the City! The people here, they're <em>your</em> people!"</p>
+<p>As if hearing something very funny, "<em>My</em> people? <strong>These paws? AHAH!</strong> People that rush towards an early grave without any consideration for the lives of others... are no bloody kin of mine!"</p>
+<p>Ghondor took steps forward, still swearing, "<strong>Piece of</strong>... This what you want?"</p>
+<p>"<em>Oh, you've had it easy, my friend</em>. The great Guernica was your grandad, and your <em>mediocre mother, the City Elder</em>. Oh, and let's not forget your <em>stellar Ouroboros results</em>? Hahaha... <strong>Of course you would have to ask that... You never did care about what I wanted!</strong>" That left Ghondor speechless.</p>
+<p>Something that shadowed Sena for long, that she don't dare to speak, finally found its dam opened. Quiveringly, she answered a question long asked, "<strong>We're not the same at all.</strong>"</p>
+<p>Mio was dumbfounded by her suddenness, "<em>Sorry?</em>"</p>
+<p>She continued without replying to her, "You said... You said, that we were the same. <strong>But we're nothing like each other!</strong>"</p>
+<p>"Ugh... You sure changed your tune. I'm seeing some newfound determination. <em>You get a little pep talk from your friends, huh?</em>"</p>
+<p>"Nobody <em>gave</em> me anything. It's because <strong>I'm part of the team.</strong> I'm only just starting to figure it out, now." Shania's eyes squinted at that, their diversion in thoughts, but Sena's tone was assertive, "<strong>But I'm gonna change.</strong> Both me, and this world!"</p>
+<p>"<strong><em>I won't let you!</em></strong>" Oh, the quickness with which words flowed out before processing it through her unconscious mind. Sena could only gasped at her determination cut short, "<strong>I'll never let that happen!</strong>"</p>
+<p>"If you stop us, everything's just going to stay the same!"</p>
+<p>"<strong>IT WON'T STAY THE SAME!!!</strong>"</p>
+<p>"<strong>Shania!</strong>"</p>
+<p>"<strong>What's so natural about the life you want? A life you only get one shot at? At any point, someone could come along and tell you, 'OK, that's it, time to go!'</strong>"</p>
+<p>"And who are you to say that life's worse?!"</p>
+<p>"<strong>I know more than you!</strong> <em>It's madness wanting a world like that!</em>" She couldn't believed what she'd heard. Someone going in opposite direction, being jealous at the lives of each other, and taking their path on the opposite direction, could not convince each other on their clashing philosophy. "The best world for us... <em>is a world</em> that at least <strong>gives us another go!</strong>"</p>
+<p>Ghondor had the time to stop her foul mouth and listened to her shouts after all the time; first time in her life to use her ears than her mouth.</p>
+<p>"We fail, we try again!" Then, pointing at Ghondor, "<strong>We might do even better next time round!</strong>"</p>
+<p>"Shania... Enough now..."</p>
+<p>Sena clenched her fist, mustering confidence in her tone, "We're made to fight! <strong>To kill each other!</strong> <em>Every single day!</em> Just hoping to see another dawn!"</p>
+<p>"Either way, we're still fighting for survival, aren't we?!" No more words can get to her. She had justified herself. No amount of proof, no amount of logic, no amount of emotion can convince one whom had made up one's choice. Words that Sena thought was their anchor to be released from the shackles was distorted as it entered her mind and became justifications. "Am I crazy? Am I saying something strange? <strong>'Cause I don't think so!{{footnote: OOOHHHHHHH YEAH!}} I genuinely don't!</strong>"</p>
+<p>As they were dealing with their emotions and debate, Noah assessed their situation, counting in his mind, "<em>Twenty to the right... Twenty on the left... Ten in the middle... The Moebius, too... Patulia Bay...? It's that way.</em>" "Ghondor!" He moved in front of her, his hand stuck out from behind, handling her the Cloud Keep key. All the while, he face forward to not attract the attention of their enemy. As she looked down,</p>
+<p>"Huh? What? What are you...?"</p>
+<p>"Head for the exfiltration point."</p>
+<p>Taion: "Noah... Wait..."</p>
+<p>"It's us they want to capture. <em>I'm gonna engage the Levnises on the left-hand side. You can use that as a diversion.</em>"</p>
+<p>"Shut the hell up! We'll make the diversion!"</p>
+<p>"<strong>You're too slow!</strong>"</p>
+<p>"Huh!"</p>
+<p>"<em>We can't all make it out.</em> However... A single unit should stand a chance." Lanz agreed with his decision, Eunie too. Taion could only shake his head. But Mio and Sena also supported him. They had prepared to die.</p>
+<p>"What are you guys gonna do?"</p>
+<p>"We fight, and worst case, we surrender. <em>Let them hear us roar.</em> Remember?"</p>
+<p>That's not how you use my advice! "N-now, hold on..."</p>
+<p>"Now's the time! Ouroboros doesn't end with us." He paused for a second before turning to her over his shoulder, "Right, candidate?"</p>
+<p>"Noah... Damn you..."</p>
+<p>"You'll do great. I know it." As her eyes scanned the other Ouroboros, Lost Numbers, Oggy and Aggy all watching her, she closed her watery eyes and snatched the key from him. Phew, that's something put down. Now, they could face their enemy. "All right! We're breaking through. <strong>Distract them... however you can!</strong>"</p>
+<p>Lanz: "<strong>Gotcha!</strong>" The rest of them ran to their left, attacking the left flank. The giant Castle Guard opened up its wings like a door keeper waiting for the ball to come his/her direction.</p>
+<hr />
+<p>The Castle Guard exploded and fell to the ground. Eunie created a ring that healed the others while they faced other levnises and soldiers in all directions. Lanz and Mio each brought down a Levnis, Sena two soldiers, Noah one. Noah shouted, "<strong>Now's your chance! Move it, Ghondor!!!</strong>"</p>
+<p>Ghondor, Oggy, Aggy, and several other Lost Numbers trailed behind. Three Agnian soldiers brought up their muskets and shot at Ghondor; Lanz arrived in time to block the bullets. They continued running without looking back. Taion knocked the three soldiers down.</p>
+<p>As she continued, more soldiers with more muskets arrived; the last layer before she could move towards Patulia Bay. She was prepared for a fight, but Oggy and Aggy moved in front, urging her, "Ma'am! We'll handle this!" "Get through here and you're free! Quick!"</p>
+<p>She couldn't accept that, "What?! <strong>Yeah, screw that</strong>! Now I'm supposed to leave you behind as well?!"</p>
+<p>"The Ouroboros candidates are our future!" "Come now... You must move!"</p>
+<p>"But, why...?"</p>
+<p>Both walked forward slowly towards the soldiers. They were ready to die for the greater cause, happily replying, "Heheh. It's the prison food. Gone and developed a taste for it." "And the beds are actually halfway decent. It's fine, don't you worry about us." The two dashed towards the gunning soldiers, swirling their flaming sticks in front to deflect the bullets. Ghondor looked at them sadly for a moment,</p>
+<p>With a sad tone, "Aggy... Oggy..." Then, strengthening her tone, she called out to the rest of the Lost Numbers, "Move it! Don't look back!"</p>
+<p>"<strong>GHONDOR!!!</strong>" Shania had her eyes on her all the time. She stopped and looked back at her, whom was standing on a ledge alone.</p>
+<p>"Shania... Urgh...!" Now's not the time to stop. She continued her escape. Shania couldn't do anything else to stop her.</p>
+<p>"This isn't over... You'll see soon enough!"</p>
+<p>Back at central scene, the Ouroboros fell another Castle Guard. Panting furiously, they sheathed their weapons.</p>
+<p>Eunie: "Ugh... Thought we'd never make it, but this looks hopeful?"</p>
+<p>Taion wasn't as bright, "I wonder."</p>
+<p>Noah: "There's still a few left."</p>
+<p>Sena: "Oh, yeah, and two Moebius!" Now that N and M prepared to get their hands dirty themselves.</p>
+<p>Lanz: "And all this without killing... Doubt we'll have such an easy time with these..."</p>
+<p>Mio: "Yeah... but we helped Ghondor escape!"</p>
+<p>Noah: "Right. And that was priority number one."</p>
+<p>Manana rebutted, "But-but... Other people all got left behind! This not huge mess?" Oggy and Aggy, together with several Lost Numbers, stood against the remaining Agnian soldiers. Corpses lie around them.</p>
+<p>Taion shared his logic, "They'll be fine. Unlike us fugitives, they're useful assets. They can still surrender... and be put to work again."</p>
+<p>Noah: "Still... The more that can escape, the better."</p>
+<p>Mio: "So... one last stand?"</p>
+<p>Lanz: "Aw, yeah!"</p>
+<p>Eunie: "Bring it!" They turned their attention to the approaching N and M.</p>
+<p>N: "Hmph... Hm hm hm hm hm hm hm.... Such nonsense. Your idiocy knows no bounds."</p>
+<p>Noah: "What's so funny?"</p>
+<p>"This suits me just fine! You will make an adequate feast. Moebius will savor <em>every one of you, <strong>rest assured!</strong></em>"</p>
+<p>Lanz: "Talking about us like we're food? Well, <em>sorry mate</em>, <strong>but we bite back!</strong>"</p>
+<p>Noah: "Right! You'll be going hungry today! We fought so hard for this. We're not giving it up, <strong>not ever!</strong>"</p>
+<p>"Oh? You still intend to resist? Against these odds?" They stopped after the group withdrew their weapons.</p>
+<p>"Yeah."</p>
+<p>"You think you can defeat me?"</p>
+<p>"We will. <strong>For us to move forward, we must!</strong>"</p>
+<p>"Very well. I will demonstrate beyond all doubt. There is no possible future for you in this world." He was prepared to withdraw his 'Lucky Seven' from its shackles, but M walked forward.</p>
+<p>M: "Let me handle this."</p>
+<p>N: "You want to...? That's a surprise."</p>
+<p>"I need to show them." N turned his attention to the group while M continued, "Make them realize just how powerless they truly are. Just as <em>we</em>, were once <em>'persuaded'</em>."</p>
+<p>Noah heard their words, had more questions, "Who are they?"</p>
+<p>N gave up withdrawing his weapons, agreed with M, "Hm... All right. Do as you will." He turned around and make space for the battlefield.</p>
+<p>"Thank you... N. Huh.{{footnote: A relieved breath.}}" She slowly eyed through the members of the group, one by one.</p>
+<p>Mio: "My other... self."</p>
+<p>A purple shockwave originated from M pushed its boundaries and shook the group. As if losing everyone in sight, Mio was now alone with M, the latter had her eyes closed. Mio was gazing deeply at her statically for a few moments before gasping, as if some shocking information reached her mind. She stood up slowly, looked at M, whom eyes was still closed. Slowly, M raised her head, the momentary darkness that blinds while she opened her eyes; the surrounding buildings blurry in the background -- only Mio was in focus. Their eyes met as if tacit information were exchanged. Tears start aggregating and overflowing on M's eyes. Mio quietly gasped as she noticed the tears that slid down M's cheek, made a thud as it hit the dirt below. Mio squinted, her will unwavering.</p>
+<p>"Tch h h h..." Noah appearing out of nowhere, shielded Mio behind him, voicing to M, "I need to know...!" Mio looked away; she evade looking at Noah's back.</p>
+<p>M: "Go on?" Mio's head dropped even lower, looking on the ground, as if she don't want anybody to look into her eyes.</p>
+<p>"Why...? Why do you look exactly like we do? <strong>Who are you people?!</strong>" All the while, N kept quiet, watching the scene unfolding{{footnote: Oh, what a view if he'd popcorn.}}</p>
+<p>"Well now. If... If, you can defeat us in combat, you will see for yourselves." She called her weapons, exactly like Mio's twin rings, except the ring color isn't bright yellow but purple dark, like Moebius's flames. "The truth! Why is it we stoke... the flames of war!" Her vision glided through the rest of the group, whom had joined in on Noah and Mio.</p>
+<p>Taion remarked, "I don't know that I can bear to hurt her."</p>
+<p>Eunie reprimanded, "I can, she's Moebius!"</p>
+<p>Noah: "We have to win. Even if she does look... <strong>like Mio!</strong>" All the time her head was looking on the ground. He didn't look back, probably he can't, given his enemy was stronger and he'd to be scrupulous.</p>
+<p>Sena: "So then..."</p>
+<p>Lanz: "Gloves off..." Noah approved of his remark. They prepared for battle. Mio finally raised her head, prepared for battle.</p>
+<hr />
+<p>After M slid backwards, she launched a purple shockwave directed at Noah. Taion don't see what's with the wave, was concentrated on getting a hit at her, dashed past Noah. His attention suddenly turned to Taion. Just as he was about to launch his Mondo, Noah slashed his sword at him. "Gahhh" He dodged just in time, but the group wasn't sure what had happened. As he dodged, "N-Noah?! Wh-what are you attacking me for? Why would you-" Seeing that dodging doesn't help, he used his Mondo to knock Noah back.</p>
+<p>The purple flow disappeared as Noah regained consciousness with a gasp. Lanz hadn't realized his state changed, shouted at him, "<strong>Noah! What are you doing?!</strong>"</p>
+<p>"What do you- Huh?"</p>
+<p>"<strong>You just took a swipe at Taion! The snuff were you thinking?!</strong>"</p>
+<p>With a quivering voice, he was equally shocked, "<em>I went... for Taion?!</em>"</p>
+<p>While they were figuring out what had happened, M launched another shockwave, this time targeting Mio. "Urrggggggaaaaa!!!" Her blade slashed at Noah; he was alerted, seeing her launching at him.</p>
+<p>"M-Mio!" Now, the group was more confused. While Noah and Mio were exchanging hits, the group watched in awe, trying to figure out what had happened. "S-stop this! Mio!" She wasn't listening.</p>
+<p>With a final repel, she was dazzled, questioned, "What just... What...?"</p>
+<p>Eunie: "I don't understand..."</p>
+<p>Since they're not the ones doing this themselves, and since it's not just Noah himself being crazy, Noah figured out who was the source. "Oh no..." He turned his head to M, "So this is her power?"</p>
+<p>M: "Congratulations. You figured it out quickly."</p>
+<p>"Of course." Recalling to previous Moebius's fight, "In every fight we've had, you've always used some special power against us." Fingernails in D{{footnote: Unclear what's his special power...}}, Flame Clock healing with K, mud puppet with Joran, not to speak the Interlinking of the ugliest.</p>
+<p>"Exactly. I have... the power to override your pitiful consciousness."</p>
+<p>Eunie, in a pitiful tone, "She's using us like bloody puppets?! Ugh. So that's her game!"</p>
+<p>"Once I've taken over your mind, you are absolutely helpless. A blind passenger." As she finished her words, she took control of Eunie. She made a dash for Lanz.</p>
+<p>"Ugh..." Sena was frozen from helping out.</p>
+<p>"Rrrrgaaaah!!!" After a few exchanges, she prepared her rifle and aimed it at Lanz, launching a shot that blasted his shield. "Aaaaahhhh!!" She gasped after that, regaining her mind.</p>
+<p>Noah, seeing that Lanz was unhurt, turned his attention at M, questioned, "How can we stop her?"</p>
+<p>"Ahahahahah.... Well, aren't you putting up a strong front." Looking at Sena, she asked, "What are you doing?" Sena had her eyes closed.</p>
+<p>"Huh!"</p>
+<p>"It's futile." She was now under control, slammed her hammer at Eunie, her strength so strong it broke Eunie's defense.</p>
+<p>"S-stop it, Sena!" Luckily, Lanz could block her smashes.</p>
+<p>As she regained control, "Uh... D-did I...?"</p>
+<p>Now that Noah was under control, even his mouth was under control -- the same words coming from both their mouths slightly out of sync, "I was hoping you would have figured it out by now, but I'm afraid simply closing your eyes... is not enough to escape my power." She held the handle of her hammer in front of her face, trembling.</p>
+<p>Lanz gritted his teeth as if he noticed something, commented, "Just had another brilliant idea." He pointed his broadsword at Noah.</p>
+<p>M was curious, "Oh?"</p>
+<p>"The whole time you're hijacking our bodies, <strong>you ain't moving!</strong>"</p>
+<p>"Hmm?" So what?</p>
+<p>Pointing the sword at her, "Which means... We've just gotta go after you <strong>instead</strong>!" She made a dash towards M, but Eunie blasted a hit from behind and sent him on to the floor. Too slow, Lanz! "Eu-Eunie... What the-"</p>
+<p>"Huh? No, it wasn't me!"</p>
+<p>M: "Too bad. I was over here." That was her voice with Taion's.</p>
+<p>Lanz: "What?" The mondo launched at him as he shielded it. Noah sliced through the Mondo flow as he tried to get Taion back,</p>
+<p>"Sorry, Taion! I need you to stop now."</p>
+<p>As if he had regained consciousness, "N-Noah, it's me!"</p>
+<p>"<strong>Taion</strong>!?" He stopped his sword in its track, seeing his innocent facial expression.</p>
+<p>That innocence turned into a grim, "I lied." He, or rather, she, blasted the Mondo at Noah, sending him high into the air and landed on Lanz's chest.</p>
+<p>Lanz: "Well, spark. This isn't going very bloody well, is it?" Taion gasped as he regained control.</p>
+<p>M: "Hahaha." Now, it's Mio's turn.</p>
+<p>Eunie: "You've gotta be..."</p>
+<p>"She's got Mimi!" Mio sheathed her weapon and slowly walked towards the group, opening her arms as if to embrace, while M (and Mio) continued speaking,</p>
+<p>"Come. Cut her down."</p>
+<p>"What?!"</p>
+<p>"It's an easy win. You need only take her life." Noah gritted at such words, lowering his sword slowly. N watched as if he'd been reminded with his own past, the lost of hope. M continued, "You see the irony? Funny how you've slain so many... to extend your own short lifespans, yet your friends' lives now chain you down, dulling your blades' edges. You can't do it, can you? Pathetic. Then your death will be slow and painful. Your dear friend here shall slice you to pieces, until you perish!"</p>
+<p>Weapons back in hand, she started fighting Noah and Lanz. Eunie launched a shot from behind Lanz, making him lost his balance. Sena then smashed at Eunie. The mondo cut through Sena's hammer, while Lanz slashed at Taion. Mio brought out the big gun -- in the Interlinked form, Mio's Ouroboros came at Lanz.</p>
+<p>"Sena!" Only Ouroboros power could match Ouroboros. They immediately interlinked to defend. Eunie and Taion also interlinked. A match so complicated guessing who's who is going on, as different people took control of their Ouroboros form, different people under mind control, and no one to trust. As the dust faded, all interlink canceled, they were already panting heavily. They not only had to watch out for their real enemy, but watching each other as well, no longer trusting their back.</p>
+<p>Taion remarked, "We don't know when she'll take over, or whose body she'll hijack... Despite that, by the time we detect her attack it's already..." As if something clicked in his head, "<strong>Detect...?That's it! Detection!</strong>" He launched his Mondo  into the air, surrounding them in a dome shape.</p>
+<p>Sena: "Taion? What are you-?"</p>
+<p>Pushing his glasses up and put on a show, "The Moebius..." He closed his eyes, trying to connect with his Mondo (which was swirling around) as if to detect something, and suddenly he shouted, "<strong>is you!</strong>" He sent his Mondo at Noah. He was correct. Noah and M's voice gasped at the same time as Noah knelt on the ground.</p>
+<p>"Wh-what's... Ergh!" He held his hand over his injured shoulders.</p>
+<p>Taion calmly continued, "Sorry, Noah."</p>
+<p>"Taion? What's..."</p>
+<p>Turning his attention at M, he saw M also grabbing her own shoulder, commented, "Our attacks... They seem to affect her real body as well."</p>
+<p>"Was she controlling me?" To which he nodded.</p>
+<p>"Indeed, <em>but now I know her secret.</em>" Shouting to the rest of the group, "Listen up! My Mondo will mark the target for you!"</p>
+<p>Lanz was impressed, "Oh yeah?" Hope was back!</p>
+<p>"Yes. The only option right now is for us to attack! Trust me... I can guarantee that it will deal damage to her!"</p>
+<p>Noah: "I hear you. <strong>Eunie!</strong>"</p>
+<p>"Yeah?"</p>
+<p>"You're... Eunie, right?" Just how much it takes to lose trust!</p>
+<p>"Better believe it! Can't you tell by my smile?!"</p>
+<p>"Good then. We need you to heal us up, after we take damage. <strong>Stay strong</strong>!"</p>
+<p>"Yeah, I got ye! Healing's on me."</p>
+<p>"<strong>Let's go!</strong>" Second round!</p>
+<hr />
+<p>M heavily panted as the fight was no longer in her favor. The Ouroboros wasn't easy either, keeping their attention from slacking off. Mio looked at M for a while; their eyes met secretly, before she looked down on the ground, wasn't sure what she was thinking of.</p>
+<p>Suddenly, Noah felt the throbbing headache. He immediately turned his attention to where the Golden Consul was standing. A purple slash cut through the ground, drawing a line between M and the Ouroboros, temporarily disarmed the Mondo's array, while sending dust that enshrouded its vicinity.</p>
+<p>M, seeing that N had her back, fell down to the ground on one knee, another in a twisted position. She had enough strength to peer over her shoulder; "N..." He walked into the scene calmly, stood beside her and ordered,</p>
+<p>"That's enough. Get back." His eyes squeezed in a look that accepted no negotiations.</p>
+<p>"As you say." As she stood up, she brought her mask back online and walked out of the scene. N slightly pulled his sword out of the scabbard a few inches, immediately releasing an energy so strong it cleared the dust, revealing their new enemy, before tucking it back.</p>
+<p>Eunie: "Now it's Noah we're dealing with?"</p>
+<p>"<strong>That's not me.</strong>"</p>
+<p>"I know that! Just sayin'."</p>
+<p>Lanz: "You know, this is getting ridiculous. <strong>I don't get any of this nonsense!</strong>"</p>
+<p>Taion warned, "M's only stepping back. She could <em>still</em> use her powers. Just keep an eye on how the Mondo act."</p>
+<p>Sena: "Yeah, will do!"</p>
+<p>Words in his thoughts: "<em>A Moebius with my face... Is it something to do with how Moebius and Ouroboros have fought... over the ages?</em>" Something seemed to strike his mind; he saw a dark glow and purple smoke that enshrouded N, and his eyes in Moebius's red. As his vision blurred, he shook his head to clear it up, "<em>Need to stay focused. One little mistake, and it's over.</em>"</p>
+<p>Third round!</p>
+<hr />
+<p>Without even pulling his sword, the momentum that his sword gathered is so strong it's enough to distort the environment{{footnote: Just like the water vapor in a heating sun after a heavy rain.}}. Eunie's Ouroboros was shooting at him; he closed his eyes, jumped up and unleashed his sword. "Aw, come on... Urggggaaaaahhhh!!!!" Immediately, she shattered into pieces, each falling back to the ground. N sheathed his sword back into the scabbard.</p>
+<p>"Eunie!!! Urggaaaaaahhhh!!!" Lanz, being worried, took control from Sena while dashing towards N, still in mid-air. His punch made not a scratch on his scabbard, nor does N obeys the Newton's third law: he doesn't move an inch with applied force mid-air, where friction is nil! "Yaaaaaarggghhhh!!!" Several blows exchanged mid-air and his shield broke down. N grabbed Lanz's Ouroboros by its neck and threw it on to the ground below.</p>
+<p>"Try some of this!" Taion took control from Eunie and swirled his Mondo around N, whom made it back on to the ground, gathered into a ball encircling him, and bringing him up slightly above the ground. "Eat it!" The explosion sent burnt Mondo and dust that enshrouded their view on N's status. "Did it work?"</p>
+<p>As the dust cleared, N was unscathed. "Can't be... Not a scratch?!" Taion hadn't had time to perform subsequent measures when he was sliced; he disintegrated once more upon N returning his sword into the scabbard.</p>
+<p>"Taion! Eunie!" Sena and Noah were running towards N. With the back of his sword, he easily blocked Sena's hammer and disintegrate it into pieces. After Sena rolled out of the scene, Noah tried slashing, but was too slow. Those that N don't think he wanted to dodge{{footnote: Or maybe that he can't without maintaining his posture.}} he blocked with his sword by moving the minimal distance required. As Mio took control towards the sliding-back N, he slashed off her feet "Ahhh urrrrggg ahhhh uhhhhh..." She rolled and fell.</p>
+<p>N turned his attention to Mio's Ouroboros after sheathing his sword. She was struggling to get up; Noah took control in the moment. "After all that, he hasn't even had to transform... That's insane...!"</p>
+<p>HIs body started to glow red hot, steam emanating from the Ouroboros Core as he finished his sentence. He looked at his own body, realizing his time was almost up. The beeping sound started warning him to cancel the Interlink. N had the patience to explain what was happening, "Ouroboros and Moebius both... manifest outwards from their core. So long as the core is intact... you can slice off as many limbs as you like. They will keep growing back...{{footnote: Taion's leg and all of Sena's limbs hadn't yet grow back, but they were already glowing red hot.}} Yet, at the cost of vast energy consumption. Of course, this cuts down the time you can stay in that form. <em>You're at your limit.</em>"</p>
+<p>As he finished his sentence, he dashed so quickly at Noah's Ouroboros, still attending to his own body, and performed a slice so fast we don't see the sword. "YAAAAAAAAHHHH!!!" Noah's Ouroboros detached as it launched itself high into the air like a rocket, disintegrating (its interlink) mid-air. M closed her eyes to keep away from the inhumane scene. "Urrrrrgghhhh" "Ahhhhhhh" Both dropped to the ground some distance apart.</p>
+<p>Noah was struggling to get up on his feet, still questioning, "<em>H-how...? Our power... There's really nothing we can do to beat him?! Mio... Everybody's hopes and dreams... They die here? Uhuh...</em>" He struggled on his feet, but it seems he lost his hope simultaneously.</p>
+<p>N gripped the sword's handle, turned around at him and remarked, "Your hope is a fool's hope. And I will end your dreams... now!" He pulled his sword and launched a purple slash at Noah. No others could shield for him; for they were struggling to get up themselves. The slash sent him into the air, and we could see some motes floating where he was injured.</p>
+<p>Still in (Taion's) Ouroboros form, Eunie called out, "N-Noah!!!" They watched as he fell onto the ground. N didn't kill him. Slowly walking towards him, he commented,</p>
+<p>"Power is for those who face reality. And I, having <strong>witnessed countless realities, preside in a world beyond your ken!</strong>"</p>
+<p>"Reality, you say?"</p>
+<p>"Huuuuuuuahhhhhh!!!!" Meanwhile, Mio had gotten up on her feet, dashing towards N; her anger at what he had done to Noah is her strength. "Urggghhh" With eyes wide opened, Noah could only see her brutally being knocked back, gliding across the air, losing her grip on the ring.</p>
+<p>"<strong>MIO!!!</strong>" He got hold of her shoulder and waist as he tried to help her up, "<strong>Mio!! You OK?! Mio?!</strong>"</p>
+<p>"I... I'll live..." As they looked up, N was standing a few feet{{footnote: One isn't US resident, so one isn't sure how 'feet' measures, but one assumed the length of our real 'feet', and the vague 'a few' signifies error rate between a small foot or a big foot you have.}} in front of them. His attention was on such protection Noah offered to Mio; perhaps it had brought unwanted memories that he had long buried. The group watched the sadistic look in his eyes, unsure what he would do to them next.</p>
+<p>At the other side, Sena's Ouroboros were crazily beeping with their limbs still detached. "Mimi..." She recalled how they accompanied each other, their bits and pieces together. "Lanz..."</p>
+<p>"Mm?"</p>
+<p>"Sorry. Could I ask for some help here?"</p>
+<p>"Yeah. No problem. <strong><em>This is the time, huh? For us to really shine.</em></strong>"</p>
+<p>"<strong>Yeah. Right.</strong>" They overclocked to force their limbs grow back.</p>
+<p>"Let's go!" Lanz first took control finishing his words, "Yeeerrrrraaaggghhh!!!!" Even while he was thinking, he had time to notice his incoming. He dodged his slow punches; he kept changing direction just to re-aim at N. "Fire and sparks! Quit it with the bleeping!"</p>
+<p>Noah and Mio watched in awe what they were doing, "<strong>Lanz! Sena! Cancel the interlink!!! You're at your limit!</strong>"</p>
+<p>"Oh, believe us."</p>
+<p>Sena took over, hammering N: "<strong>We knew that from the start!</strong>"</p>
+<p>"Hmph." While N was flying backwards from the shockwave that Sena sent onto the ground, Lanz took control and got behind him in the direction he was flying, opening his arms and embraced him within his arms.</p>
+<p>"<strong>Got you now, scum!!!</strong>"</p>
+<p>"Urgh!!!" Lanz put one hand around N's neck, gripped him hard like hugging him, and put another hand onto that arm to lock it tight. N tried to pulled his hands away, but it was too tight. Lanz then jumped into the air like a rocket launching high up onto the air.</p>
+<p>"<strong>Lanz!!!</strong>"</p>
+<p>"Sorry. This sorta stuff... It's about all I'm good for really."</p>
+<p>"<strong>What are you talking about? What are you going to-?!</strong>" He took his hands off Mio and stood up, Mio slowly standing beside him.</p>
+<p>"<strong>Sena!!!</strong>"</p>
+<p>"Mimi, remember what you said? You always told me to never stop being myself. I finally get it. What you meant by that. <strong><em>This is me.</em></strong> So don't give up yet. This'll buy you some extra time... Use it!"{{footnote: Taion could do nothing, given him at his limit too. Riku and Manana could only took one step forward, gasped at the situation they're facing, about to lose two companions. M couldn't look up at the scene.}}</p>
+<p>"<strong>Stop this! I don't want any of your time!!! Just come back, Sena!!!</strong>"</p>
+<p>Lanz examined the situation and reminded Sena, "We're too close. <strong>Take us outta here!</strong>"</p>
+<p>She nodded, "<strong>OK!</strong>"</p>
+<p>"<strong>AAAAAAAAAAAAAAGGGGGHHHHHHHHHHHH!!!!!!</strong>" They kicked mid-air and launched themselves higher into mid-air.</p>
+<p>N: "What are they-"</p>
+<p>More and more black fog got absorbed into Lanz's Ouroboros. "<strong>YYYYYAAAAAAAAAAGGGGGGGGHHHHHHHHHHH!!!!!!!</strong>" They zipped past the highest point of the Castle, not looking back.</p>
+<p>As tears aggregate in her eyes, she spoke her last words, "<em>Thank you, Mimi...</em>"</p>
+<p>The explosion never happened. Some bright light flooded the screen and they were forced to cancel their interlink mid-air. Both were shocked at what just happened, "Urgghhh..."</p>
+<p>"Aww, too baaaad. You were so close." In between them, another moebius holding on to a staff with a gyroscope at its tip, having a ball of purple energy encased in between the gyroscope rings, appeared.{{footnote: If you'd read Eunie's side story, you'd know this girl was X.}} Both dropped on to the ground below.</p>
+<p>"AAAAAAAAHHHHHHHH!!!!" Taion used the remaining time to force grow his limbs back, sent his Mondo as a layer of cushion just a few meters above ground where they were dropping before finally cancelling their interlink. Effetely, both drop face down onto the ground, totally out of energy. The Mondo ball disappeared not long later.</p>
+<p>Seeing that they're fine, Mio dropped to the ground. Noah got hold of her shoulders and watch together with her.</p>
+<p>N, now back on the ground, the other female Moebius walking towards him. He was clearly annoyed, questioned her, "X... What are you doing?"</p>
+<p>What had been done had not been appreciated. Pointing the staff at N, she complaint, "<strong>Hey, I just saved your life!</strong> Could I get just a little gratitude here?"</p>
+<p>Focusing on the ball of energy in the middle of the gyroscope staff, he asked, "Z's orders?"</p>
+<p>"Pretty much. Heheh." Meanwhile, Z was sitting in the theatre, watching in remote, emotionless.</p>
+<p>Taion finally got strength to stood up, "<strong>Another Moebius?!</strong>"</p>
+<p>Eunie: "X, is it? The Interlink... So this is her doing?"</p>
+<p>Meanwhile, Noah and Mio was dashing forward, shouting, "<strong>Lanz!</strong>" "<strong>Sena!</strong>" "<strong>Are you OK?!</strong>" Arriving at where Lanz had stood up, he was angry he had not been able to buy time for them.</p>
+<p>"Sparks' sake..."</p>
+<p>Mio turned towards Sena and hugged her, glad to had her back alive, "Sena..."</p>
+<p>"Sorry, Mimi... I couldn't... pull it off."</p>
+<p>"It's OK... Forget about that..."</p>
+<p>While they were welcoming the two back, N step forward and interfered. Sena noticed his approaching. With X backing him up, he spoke, "Well now. I apologize for that little disturbance. It won't happen again." Noah wasn't sure what that means. He continued, "You'll notice your powers have now been fully sealed. Give it up. Your chances of victory <em>are nil</em>." He recalled his sword and ready to grab the handle if they were to rebut.</p>
+<p>Noah: "Ngh..." He (and the others) tried to summon his blades, only to had empty hands. In the screen on the Iris, the sword dissipate whenever he tried to summon it. Shockingly, he now understood what it meant by 'being sealed'. "Wha... My Blade... It's gone!"</p>
+<p>Eunie: "Wh-what? How?!"</p>
+<p>Sena: "Impossible... Never heard of a Blade failing!"</p>
+<p>N slashed towards them; they were undamaged. Then, they heard a shout from behind; turning and saw a Lost Number injured.</p>
+<p>"Anton!" The others quickly got to his feet.</p>
+<p>Eunie: "Piece of sh-!"</p>
+<p>"Hahahahah.... Ah, it seems you were hoping they would escape. Sadly, things didn't quite pan out your way, did they?"</p>
+<p>Lanz, with gritted teeth, "Because you cut him down!" M, watching their exchanges, slightly looked down. Mio's eyes were unfluttered{{footnote: Not a word in the dictionary, just "not fluttered" is the meaning.}}.</p>
+<p>Aggy: "Sorry, Noah. Guess we were dead weight after all!"{{footnote: Actually, one searched online for who's Aggy, who's Oggy, given that one still don't know until one searched. So, the one with dark hair (the most noticeable difference) is Aggy, and the one green hair Oggy.}}</p>
+<p>N prepared for another slash, "Did I not tell you? There's no hope. Now witness the result." The group prepared for him to slash at them, executing them therefore. Moments of concerns passed as they concentrated in silence. He thought for a really long time, with a really long pause in between, until he gave it up, announcing instead, "<em>A sideshow...!</em>"</p>
+<p>Noah: "What...?"</p>
+<p>"I've just thought of the most wonderful little amusement." He turned his attention to Mio.</p>
+<p>"Huh..." Perhaps she had read his mind? We don't know... Her eyes contained sorrow.</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="35_prison.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="37_eclipse.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="35_prison.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="37_eclipse.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

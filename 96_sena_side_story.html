@@ -1,0 +1,507 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Sena and Shania (Side Story) - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html" class="active"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="sena-and-shania-side-story"><a class="header" href="#sena-and-shania-side-story">Sena and Shania (Side Story)</a></h1>
+<blockquote>
+<p><strong>Note from Translator</strong>: This is a digression from the main story. Feel free to skip it to the next if you would like it be more 'smooth' a story. Feeling the heaviness of losing Shania, one thought, perhaps you'd want to know her ends.</p>
+</blockquote>
+<p>Sitting around a table{{footnote: Any table for discussion at any location would do.}}, Ghondor complaint, "Tch. Pain in the arse."</p>
+<p>Noah: "Sorry? Something wrong?"</p>
+<p>"...Eh, I guess I could tell you lot. There's been negotiations about who from the Lost Numbers should be left stationed at the Castle."</p>
+<p>Mio: "Negotiations with the City?"</p>
+<p>"Yep. So they've said it should be someone who can stay on good terms with Agnus. If there was anyone like that, we wouldn't be in this whole damn mess in the first place!"</p>
+<p>Sena: "You sound really worked up..."</p>
+<p>"And here's the kicker -- we've gotta keep it to one unit. Can you believe it?! The Bitchqueen strikes again..."</p>
+<p>Mio: "Well, let's just slow down for a moment."</p>
+<p>"Hey, I know. Why don't you help us out? You've got nothing better to do, right?"</p>
+<p>Taion: "I would like you to rethink what you just said." As if <em>we</em> are couch potatoes sitting around!</p>
+<p>Just then, Noah's iris was ringing, "Hm? Monica's calling us."</p>
+<p>"Ugh, speak of the Bitchqueen... You... You don't reckon she was listening, do ya...?"</p>
+<p>Noah didn't answer her, instead accepted the (group) call, "Monica? What's up?"</p>
+<p>"Hey, sorry to bother you. Something's come up, and we'd need your help rather urgently. We wanted to retrieve the contents of the material storage warehouse, but there's been a difficulty..."</p>
+<p>Mio: "Huh, material storage warehouse...? The one that the conservatives held...?"</p>
+<p>"Well deduced. The very same. According to Garrett, he'd not had the time to fetch it ever since the City shifted location... But I can't bear just leaving it all there... There's a lot of good stuff, after all. I wanted to send an Armory down that way, but there's a bunch of monsters around. I was hoping you could take out some of the ones in that area."</p>
+<p>Noah: "Understood."</p>
+<p>"Thanks in advance."</p>
+<p>After they hung the call, Ghondor continued her complaints, "She sure is good at dishing out orders. Come on then, let's get it over with."</p>
+<p>Lanz: "You coming with us, Ghondor? We'll be fine by ourselves."</p>
+<p>"I need something to take my anger out on. You're gonna have to put up with me."</p>
+<p>Eunie teased, "...Just keep track of what you're punching, eh?"</p>
+<hr />
+<p>Outside the material warehouse.</p>
+<p>After they killed the flying monsters, Ghondor announced, "Yep, job's a good 'un!"</p>
+<p>Taion: "Seems a bit slapdash if you ask me..." He turned around to analyze the surrounding empty, barren environment. "But it'll do. Enough to keep it secure, at least. Noah, you can tell the City."</p>
+<p>"Will do." While Noah called the City, the others turned their attention to the warehouse.</p>
+<hr />
+<p>A central hole at the very top allows anyone inside the cavern a clear view of the sky. Water dripped from the rocks bordering the hole and the walls onto the shallow turquoise-clear water below. On the surface floated Shania, slowly drifting with the stagnant flow, unconscious.</p>
+<h4 id="start-of-her-memories"><a class="header" href="#start-of-her-memories">Start of Her Memories</a></h4>
+<p>With great smile on her face, she ran home, was eager on sharing the news. "<strong>Mummy! I did it! I'm a candidate!</strong>"</p>
+<p>She kept her heads down on the sewing of patterns on a piece of cloth, ignorant of her emotions, coldly asked, "What rank?"</p>
+<p>"Huh? Rank?"</p>
+<p>"What place were you? They must have said." She had a glowing green iris; her face represent the depression amongst the depression, strictest of the strictest, where you'd expected no smile from her whatever emotions and atmosphere the surrounding emanates. She put the sewing down.</p>
+<p>Being forced guilty by her mom, she quietly answered, "<em>I... I ranked eighth place...</em>"</p>
+<p>"A reserve, then."</p>
+<p>"Bbbb--but! In the third test, there were a hundred people!"</p>
+<p>A hundred people? That's none of her concern. She only focus on one number: "<strong>'Only six of us can become Ouroboros.'</strong>"</p>
+<p>"Ugh..."</p>
+<p>"If you aren't one of those six, you may as well be dead last. We are one of the Six Houses. <strong>The Reid family honor is at stake!</strong>"</p>
+<p>All her happiness evaporated into mist; she started crying.</p>
+<p>And like many stereotypical Asian parents (and probably non-Asian too) that like to do one thing to their children: to apply pressure that forces them to the edge of committing suicide, "And Vandham?"{{footnote: For God's sake, just do better than yourself, why the comparison to other people when they're none of your business?}}</p>
+<p>"Huh?"</p>
+<p>"<strong>The Vandham girl. Ghondor.</strong>"</p>
+<p>"Ghondor was... first place."</p>
+<p>"Urgh! <strong>Those bloody upstarts, at it again... How could we lose to those nobodies?</strong>" She turned to look at her husband, now living only inside a frame, "<strong>Every generation up until your father, bless his soul, made the main team...</strong>" A.K.A. You're such a shame!</p>
+<p>Her tears started aggregating deeper and deeper, stronger and stronger, heavier and heavier. Turning to a young woman with short hair beside his dad's photo frame, Shania's mom continued living in her memories, "If only dear Titania were still alive..."{{footnote: Yeah, another thing parents do: they said you're worse than any other siblings you have, whether from your family or your cousins. As if you're a God that performs first place in every aspect of life?}}</p>
+<p>Shania gasped at what she said...</p>
+<p>"<em>Some legacy this is.</em>" Yeah, she was the nobody. Only Titania and her dad lived in her heart, in her mind; she was the nobody, the one that could never please her mom. As she glanced through their photos, she clenched her fist, telling herself that she will one day, one day, become like her dad, become like Titania! She'll be her mom's girl!</p>
+<hr />
+<p>By her own in her room, Shania could finally cry out to herself. She looked at a painted drawing: her dad holding to a sword with Guernica Vandham crossing his muscular arms, looking at him. Beside laid a brush.</p>
+<p>With defying anger, she banged hard at the table, teared the drawing to scrapes, and broke the brush into shards. She successfully turned her desolation into defiance anger.</p>
+<h4 id="end-of-her-memories"><a class="header" href="#end-of-her-memories">End of Her Memories</a></h4>
+<p>Waters continued dripping down the line and Shania opened her eyes, revealing the Moebius symbol in one of her iris.</p>
+<p>X immediately called, "Congrats, lamb! As of today, you're officially a fully-fledged Moebius comrade."</p>
+<p>"I became... Moebius?"</p>
+<p>She elatedly replied, "<strong>You can play to your heart's content!</strong> The fun starts here. Eh? You get a fresh start. Forget about your old self."</p>
+<p>Shania slowly sit up from the water and stood beside her. She wasn't looking very happy even though the news reached her. "So I get to do... whatever I want?"</p>
+<p>X perhaps saw her memories, saw her desires, "You wanna be 'someone', right? Not some kinda phony. <strong>The real deal.</strong>"</p>
+<p>The secrets that buried deep in her hearts revealed; her breath quivering and shaky! How did she knew that! She recalled what Ghondor shouted at her,</p>
+<blockquote>
+<p>"<strong>Don't you have</strong> any originality?"</p>
+</blockquote>
+<p>She looked at herself on the reflecting water surface. As if with the power of her heart, her old self faded into the distance, and she <em>is</em> now Ghondor. The real her (not the reflection) didn't transform, though. With shivering breathe, she found it hard to step forward.</p>
+<p>X nudged, "<em>You can be. You've just gotta destroy the faker. See?</em>"</p>
+<p>"The faker..."</p>
+<p>"<em>C'mon now... Be true to yourself...</em>"</p>
+<p>She was nudged, "I know who it is... <strong>The faker...!</strong>" Ghondor's image disappeared from the reflection and her new self, in her Moebius suit, replaced it. She had been granted her Moebius suit, with its core glowing bright purple. As she looked up in the sky, her iris glowed moebius, she found what she wanted, her future's goal -- revenge it is.</p>
+<hr />
+<p>Outside of the warehouse, the Ouroboros had moved the items outside, piling them amidst the blizzard sky. They were chatting in sub-groups as they waited for the Lost Numbers to arrive. Hearing the sound of the approaching ship, Sena announced, "Guess that's our ride." They looked up and saw one ship approaching.</p>
+<p>Ghondor wasn't satisfied at their speed, complaint, "They're late as hell. Coulda got here in half the time. Let's go meet 'em." The group followed her to the ship's parking location.</p>
+<hr />
+<p>A door that leads to unknown location; there were some rusty-colored building structures with green fluorescent lamp attached to the walls. Shania teleported into that location. As she walked to the fenced ledge, she looked down and saw the City. From the tallest point of view, she could see a zoomed-out view of the activities below. Her minds, dwindled in the remnants of her old memories,</p>
+<blockquote>
+<p>"<strong>Would you quit copying me?! You're not even good with those things!</strong>"  She knocked the punching gloves off her hands. Still crying, Ghondor continued, "Too heavy for ya? Your sister's gun?"{{footnote: So Titania is her sister.}}</p>
+<p>With trembling hands, she summoned her blade, a short pistol that doesn't look like it had very strong strengths compared to muscles. Ghondor looked at her raising it slowly, still trembling, gave her another advice less aggressively,</p>
+<p>"You don't need that. Ditch it." Before she turned and walked away, she continued, "<em>That's not where your talents lie.</em>" She always know, she always know.{{footnote: She wasn't born to fight, but born to draw!}}</p>
+<p>Self-absorbed and unable to accept her advice, "I tried ditching it. (gasp) I would have it if I could, long ago..."</p>
+</blockquote>
+<p>"Ghondor..."</p>
+<hr />
+<p>There were still a few supply boxes to be onboarded. While working, Ghondor received a call and sounded serious after listening, "<strong>And you verified that?</strong>"</p>
+<p>Hearing her heightened tone, the Lost Numbers and Noah turned and asked, "What's wrong?"</p>
+<p>The group eavesdropped on the consecutive conversations, "<strong>Moebius</strong>?! But how would they know where... <em>Wha-</em>?!" After she ended the call, she was silenced for a moment.</p>
+<p>Noah prompted, "What's happened?"</p>
+<p>She didn't reply, stuck in her thought and gritted her teeth, "Urggggh!"</p>
+<p>"<strong>Ghondor!</strong>"</p>
+<p>Turning to him, "It's Moebius... <strong>They attacked the City.</strong>"</p>
+<p>"Huuuurgghhh!!!"</p>
+<p>Lanz: "<strong>Moebius did?!!! For real?</strong>"</p>
+<p>"The perpetrator..." <em>Perpetrator</em> the word reminded Sena of someone as she gasped, and Ghondor continued, "<strong>was Shania.</strong>"</p>
+<blockquote>
+<p>Amidst the war-torn city, flames burning everywhere, Shania stood in the middle of flaming rubble, just like N did ages ago. She felt not the slightest happiness even after revenging.</p>
+</blockquote>
+<p>Taion: "Huh?"</p>
+<p>Eunie: "How's that possible?! I mean, we saw her die...!"</p>
+<p>Lanz wasn't surprised, reminded them, "Well, it happened before with Joran... <strong>Spark it.</strong> So she's joined their ranks."</p>
+<p>Sena: "<em>Shania...</em>" The more she thought about her, the more regretful she felt.</p>
+<p>Mio saw her anomaly, called for her attention, "Sena..." That didn't break her out of her self-deprecating loop, unfortunately.</p>
+<p>"<em>I knew it. I saw this coming.</em>{{footnote: Of course, hindsight bias is at play here.}} And still, I couldn't..."</p>
+<p>Mio reciprocated her feelings, "Sena... You want to see this through, don't you?"</p>
+<p>"<em>Oh, Mimi...</em>"</p>
+<p>"We've got your back, OK? Come on. Let's go."</p>
+<p>Seeing her encouragement, she nodded, "Mm... <strong>I have to do this. I swear,</strong> I'll settle this. On my life, <strong>it will be done.</strong>"{{footnote: Shania died too fast last time; now that she'd the chance to reverse her regret, she'll try her best to.}}</p>
+<p>As Ghondor finished listening to their conversations, she turned her attention to the Lost Numbers and shouted commands, "<strong>Forget the cargo. Get us to the City!</strong>"</p>
+<p>"<strong>Ma'am!</strong>" Then, they dashed off to get the ship started.</p>
+<p>With unwavering voice, she called out, "<strong>Ghondor! Take us with you!</strong>"</p>
+<p>"<em>Sena? You sure?</em>"</p>
+<p>"She's Moebius, right? Then <strong>we've gotta go with you!</strong>"</p>
+<p>"<strong>This is Shania.</strong> You up to it?"</p>
+<p>Eunie explained, "<em>A friend of ours became Moebius too.</em>"</p>
+<p>Lanz continued, "<em>But still, we came to terms with that.</em>"</p>
+<p>"Never knew... <strong>Real tough cookies, aintcha?</strong>"</p>
+<p>"Speak for yourself, <em>Ms. Hard-as-nails.</em>"</p>
+<p>She closed her eyes and thought for a while, voiced out, "You can still back out. <em>Last chance</em>."</p>
+<p>With unwavering voice, to not be regret forever, Sena firmly stated, "No. It's fine. I'll do this."</p>
+<p>Seeing her unmoved, she gave in, "<em>All right then</em>. <strong>Move it! Get yer arses on board and let's hustle!</strong>"</p>
+<hr />
+<p>The ship helicoptered into mid-air, retrieved its stands, before zooming into the distance.</p>
+<hr />
+<p>Fighting manned levnises/ships parked at the square, firing guns at the invading Moebius. City folks gathered themselves inside the Founder's hall. More and more of the Levnises exploded as they held their last stand. Amidst the fallen burning levnises, Shania walked through the flames, unscathed, towards Monica and the other soldiers.</p>
+<p>"Shania, eh?" Monica summoned her blades, a shield and a flat throng, clashed them together, as if saying, 'come, come'! The Moebius symbol in Shania's iris glowed.</p>
+<hr />
+<p>While the ship zoomed through Erythia Sea, Sena chatted to Ghondor, whom sat next to her, "<em>I didn't know. She had a rough time of it.</em>"</p>
+<p>"<em>That kid...</em> She was always trying to please her mum. No... Trying to live up to her mum's expectations. <strong>Thing is...</strong> sometimes life deals ya a shitty hand. <em>We were all desperate.</em> Shoulda seen the crap I went through." As if realizing something, she turned to Sena, explained, "<strong>This ain't a sympathy vote, though.</strong>"</p>
+<p>"You're so strong. More than me."</p>
+<p>"<em>That doesn't even factor.</em> <strong><em>It's your attitude that matters.</em></strong>" Now that's something to idolize.</p>
+<p>"Hate to break it to you but... that's... being strong."</p>
+<p>She wasn't willing to immersed herself in her praise, "I was born with a gift, and I'm using it, is all."</p>
+<p>"And... if you hadn't been born with it?"</p>
+<p>"You see the problem now?"</p>
+<hr />
+<p>The ship arrived at the City, which situated itself below some rocks inside a huge cavern. We could see water falling in the distance.</p>
+<p>Ghondor was communicating with the driver over her iris, "Anything?"{{footnote: Either too lazy to open the door to the front, or it was dislocated, like if you're in a container and they're in the lorry, it's not connected from the inside.}}</p>
+<p>"Sorry, ma'am. Nothing for the past half hour."</p>
+<p>"Tch. <em>So we were overwhelmed</em>."</p>
+<p>One of the Lost Numbers sitting with the group questioned, "Don't you think it's strange, though?"</p>
+<p>"Hm?"</p>
+<p>"We've already covered so much ground, but it's been dead silent."</p>
+<p>Taion acknowledged, "<em>That's a point.</em> If they've already overthrown the City, <em>why haven't we met any resistance</em>?"</p>
+<p>Ghondor: "No..." She knows more than they do about her childhood friend.</p>
+<p>"Huh?"</p>
+<p>"This is what she wants. She's biding her time, waiting. Ready to give us a piece of her mind, I'll bet." Sena got what she meant; her desire to share what she felt, and hoped for reciprocation.</p>
+<hr />
+<p>The ship arrived at a door; the door opened and the ship entered the City. Looking around, the City folks were still alive, but they were frozen -- red smoke sizzled from their body that forced their body and mind to froze in time, as if time had stopped. Her mom clung to one of the memorial statue, frozen as she watched Shania stopping some distance away from her. Shania looked at her attentively at the person that never praised her when she wanted it. Even frozen, she could not fathom why she hadn't welcomed her child home, whatever she'd became; instead, only showed fear, to fear her own child. Shania opened her mouth as if wanted to speak something, but gave up. She teleported away instead. Even amidst the flames, her mom never forgot the glory of the Reid family, to clung onto the Reid family statue.{{footnote: As per appendix, it's Shulk, the founder's mentor.}}</p>
+<hr />
+<p>The ship parked itself at its usual parking location, the 'helipad'. Exiting the ship, the group scanned their environment for clues. Descending the stairs, they saw the frozen folks and few dispersed motes slowly dissipating from their body. The Ouroboros Candidates still held out their weapons in their frozen position. Others just stood still.</p>
+<p>Sena tried to fathom what was going on, "What's with... No one's moving."</p>
+<p>Noah asked the only person whom knew more about moebius, "Mio, is this...?"</p>
+<p>"Mm. It has to be. Though I've never seen this power before."</p>
+<p>Drawing out Lucky Seven, he questioned, "You think it's... Shania?" He pointed the sword at different directions, trying to sense for Moebius power concentration.{{footnote: The Sword of Origin had the ability to reverberate faster when it point towards a source of stronger Moebius power.}}</p>
+<p>"You know where to go?"</p>
+<p>He didn't answer her, turning around to search for the strongest reverberation. After he found it, he replied, "Over there." It leads them towards the memorial hall.</p>
+<hr />
+<p>Eunie put her hands on one of the body of the female Ouroboros candidate, "Still warm..." Turning to the others, she shouted, "<strong>Hey, guys! They're still alive!</strong>"</p>
+<p>Taion: "Are you certain?"{{footnote: So much for viewing a situation from a different perspective; so much for our default thoughts that prevented us from thinking otherwise, from questioning our assumptions.}} He tried feeling the boy in front of him.</p>
+<p>Lanz was with another 'grandmother', "Looks like she's right."</p>
+<p>"Indeed. Their vitals seem to be fine."</p>
+<p>Sena: "I can see them breathing, very faintly."</p>
+<p>Noah and Ghondor turned to each other, with him hypothesizing, "Perhaps there's still time. <strong>Hurry!</strong>" They dashed off into the distance.</p>
+<hr />
+<p>As they group approached the square outside the memorial hall, they could hear firing shots and see those parked Levnises still shielding the location. "It's right down this way. Hurry!"</p>
+<hr />
+<p>"<strong>Mother!</strong>" First time she didn't call her Bitchqueen, eh! Alas, Monica and the other Lost Numbers were already frozen by Shania's Moebius special move. "You got to her too! <em>Shania.</em>"</p>
+<p>She was, as she thought, eavesdropping. "<strong>What do you think, Ghondor?</strong>" They turned and saw her teleported into the scene. "<strong>Isn't it a work of art?</strong>"</p>
+<p>"Huuuhhh... <strong>Shania.</strong>"</p>
+<p>Sena: "Did you do this?"</p>
+<p>"Ha..."</p>
+<p>"<strong>TELL ME!!!</strong>"</p>
+<p>In an elated tone that Joran had displayed before, "<em>Being Moebius... It's just incredible.</em>"</p>
+<p>Ghondor: "'Scuse me?"</p>
+<p>"<em>I have control</em>. <strong>Just look! I can freeze everything in its place!</strong> <em>Humans, and objects</em>... <strong>Exactly like a painting on a canvas!</strong>"</p>
+<p>Lanz: "That's it? That's why you made everyone stop?"</p>
+<p>"Ahah! I even have the power... to stop the very flow of air itself." After the group gasped at that possibility, she elatedly questioned, "What do you think might happen if I do that?"</p>
+<p>Ghondor: "You dare..."</p>
+<p>"<strong>Ahahahah!</strong> It's a real sight to behold, eh, Ghondor? I could almost paint it right now."</p>
+<p>"<strong>What the hell are you doing this for? What are you after?</strong>"</p>
+<p>"You're asking that now? <em>You know why, Ghondor.</em> <strong>I wanna tear it all down! The City, and you lot too! And then I'll repaint it all, in my own hue.</strong> <em>A nice red will do.</em>{{footnote: Oh, how it rhymes!}} <strong>A VIVID, BLOOD RED!</strong>"</p>
+<p>Sena: "<em>Shania...</em>"</p>
+<p>"That's right, you just keep on glaring. <strong>Enjoy cursing your own helplessness!</strong>" As she activated her Moebius Iris, she launched her special move like Mio's shockwave, caressed through the group's body and froze them in place. They could still speak, though, unlike the other City Folks that'd been frozen for too long.</p>
+<p>Taion: "Gah! C-can't move! Ugh!"</p>
+<p>As the group was struggling, Mio called out, "Noah!"</p>
+<p>Strained, he replied, "Yeah." His hands slowly reached for Lucky Seven, struggling against her freezing power. As it reached the handle, he pulled the sword, which sent a strong shockwave that broke the curse (like N's shockwave), stopping her power in its track, releasing them from deep freeze. "You can't beat us. We've been through far worse than this. You've got to set these people free! <strong>Shania!</strong>"</p>
+<p>"Just like what you did at the Castle, huh...  Ohh, you Ouroboros really are infuriating little weevils!"</p>
+<p>Ghondor rebutted, "And yet, you spent how long trying to be one? What happened to your dream?"</p>
+<p>"<strong>Like hell!</strong> I said I want it gone! <strong>It all belongs in the garbage! Your lives! THIS WORLD!!!</strong>"</p>
+<p>Sena spoke to her heart, to the truth she'd been rejecting so far, "If you hate it so much..."</p>
+<p>She gasped as Sena continued, felt something she doesn't want to hear is coming.</p>
+<p>"If you really hate this world... <strong>Why aren't you trying to tear it down yourself? Change it with your own hands!</strong>"</p>
+<p>"<strong>I told you, I'll wreck every last thing-</strong>"</p>
+<p>"<em>You can do it differently! There's still a way you can change!</em> And that way, the world will fall away by itself. <strong>It'll all change!</strong>"</p>
+<p>The possibility already lingered in her mind, but she can't think about it, she can't face it, she can't fathom it. She had already gone too far. Instead, she rejected and criticized, "<strong>You got it easy, Sena. Bet life's been cushy for you. Get off your high horse!</strong>"</p>
+<p>Shaking her head, "<strong>You've got it all wrong! All I'm trying to say is-</strong>"</p>
+<p>She doesn't want to listen to more, lest she get convinced, "<strong>I'M NOT THE SAME AS YOU!!! WE'RE NOTHING ALIKE!!!</strong>" Yep, she's now a Moebius, and her Ouroboros.</p>
+<p>Ghondor: "And that's why you became Moebius? 'Fraid it was a waste of effort. You're still <strong>nowhere near</strong> our equal."</p>
+<p>"<strong>WHAT?!!!</strong>"</p>
+<p>"<strong>Couldn't live up to House Vandham, could ya?</strong> Yeah, we were gifted. House Reid couldn't hold a candle to us!"</p>
+<p>"<strong>SO, YOU ADMIT IT THEN!!!</strong>"</p>
+<p>She get into a boxing move and continued, "<strong>If that's what you wanna think, then bring it!</strong> I'll show you what's different, once you get a taste of my fists! <strong>Or are you gonna wimp out? Lose this one, AND YOU WON'T HAVE ANYWHERE LEFT TO CALL HOME!!!</strong>" Words can't get to her, punching should do.</p>
+<p>Sena was shocked, "<em>Ghondor!</em>"</p>
+<p>Shania couldn't take it anymore, transformed into her moebius form. "<strong>UUURGGGGGHHHH ARRRRRRRRGGGGGGHHHHHH!!!!!</strong>" It had short flimsy legs, slightly larger arms; but what's most distinguishing is the four claws on her twin braid of her enlarged pony tail braided hair.</p>
+<p>"Huh!"</p>
+<hr />
+<p>"Hurrrrghhhh..." She lost to the Ouroboros, forced transformed back to her human form, hands and feets on the ground, panting heavily. Ghondor and the others wasn't less exhausted than her.</p>
+<p>"<strong>I can't lose this.</strong>" She struggled to stand on her feet, "<strong>If I screw this one up, THERE'S NO PLACE FOR ME LEFT IN THIS WORLD!!!</strong>" Energy emanates out from her core; she can't transform now, but she's gonna continued fighting in her human form.</p>
+<p>Ghondor: "<strong>How do you still not get the message?!</strong>" The others didn't joined in the fight between the two rivals. Ghondor, sacrificing her blades, punched hard into her core and shattered it before Shania could land her hit on her. The moebius power escaped her core and she dropped effetely forward thereafter. Ghondor sheathed her blade and held her down, hugging her.</p>
+<p>"<em>Wha... How...? How did... I...? I'm Moebius. Ghondor... I did it... I really became... Moebius.</em>"</p>
+<p>With tears in her eyes, "<em>Thought I told you... Your calling, it isn't this stuff.</em>" She recalled and reminded her,</p>
+<blockquote>
+<p>Shania was painting happily on a canvas, the canvas that she tore later about her dad and Guernica, at the square when Ghondor approached her, with a surprised voiced, smiling at her, "<strong>Ohhh! Didn't know you could paint like that.</strong>"</p>
+<p>Shania looked up in awed that someone had noticed what she'd been trying to hide for long, trying to reject it, "Ah, no! This isn't-"</p>
+<p>"C'mon, show me some more!" She took her canvas away to look at it attentively. "<em>Ooooohhh</em>! <strong>Hey, this is your dad, right?</strong> Heh, and this one's my stinky old man, eh? It looks just like him. You're bloody good!" All the while Shania was feeling embarrassed that she noticed. "But why them?"</p>
+<p>"'Cause... <strong>I wanna be like them, someday.</strong>" She looked aside, not very confident in her hope. "Protecting the City... Everyone looking up to me..."</p>
+<p>"That your dream?" She nodded, and Ghondor continued, "Not sure you need to be worrying about something like that."</p>
+<p>"Huh?"</p>
+<p>"They're just a bunch of old fogies. Just be true to yourself." Then, she held up the art she painted in front of her, "Bet none of those farts could make art like this. <strong>This should be your calling!</strong>" There was a thin smile on Shania's lips.</p>
+</blockquote>
+<p>The group sheathed their blades, seeing that the violence was over.</p>
+<p>Lanz whom heard their story, "Same as... with Joran." The knitting and carving of the wooden puppets, eh! The atmosphere was heavy as she was dying. As blue motes started rising from her body,</p>
+<p>"You're saying that now? No one... not even once... has ever expected that from me..."</p>
+<p>"You sure about that? <em>'Cause I know someone. You were wanted.</em>"</p>
+<blockquote>
+<p>Shootings at a target; not a miss, but ranged at the outer rings. Shania can't make perfect shots.</p>
+<p>"Is that Titania's gun, Shania?" A male with old voice approached and asked.</p>
+<p>"Yeah." She replied without even turning her head to look at him, continued practicing, continued shooting. "She's not around any more. I have to do what I can."</p>
+<p>"<em>Shania... Put it down</em>."</p>
+<p>"Huh?"</p>
+<p>Seriously, he repeated, "Put... the gun... down."</p>
+<p>"O-OK." She couldn't reject her dad's request, but felt sad perhaps of disapproval? She obeyed anyways and put it on the chest beside softly.</p>
+<p>As he walked towards her, he asked, "Wouldn't you... prefer something a little more like this?" He took her hand from behind and handed her a painting brush.</p>
+<p>Her eyes widened, "Huh? But..."</p>
+<p>"Daddy just... wants to see his daughter enjoying doing the things she loves the most."</p>
+<p>"Papa..." A thin smile on her face.</p>
+<p>He urged, "Go on."</p>
+<p>Smilingly, she took the brush from his hands and treated it with care.</p>
+</blockquote>
+<p>She had finally recalled the long forgotten memories, closed her eyes as tears aggregated at the tip of her eyes. Softly, she spoke, "<em>Hey...</em>"</p>
+<p>"Mm?"</p>
+<p>"<em>You... you hate it, right? Your name. Why... Why not ditch it?</em>"</p>
+<p>"Like that's an option. Much as I whine about it, it makes me feel connected, wherever I am. It's special. Because it's the name she gave me." Shania's eyes widened as she heard her approval of Monica even though she always called her Bitchqueen. "<em>Kinda the same as your talent.</em>"</p>
+<p>But it's too late, and Ghondor had sensed it too. "<em>Sounds nice...Hurgggh... I like it.</em>" And with relieved, she finally reached the end of her life; motes evaporated and filled the vicinity. Sena walked forward sadly towards Ghondor, felt the motes brushed over her and rose to the sky.</p>
+<p>"Shania..."</p>
+<p>Ghondor looked at her hands whom had sent her on just now. Clenching it, she stood up, toughened her heart. Looking at Sena, she gave her a nod, and she nodded in return. Then, looking up at her floating motes, Ghondor promised, "<em>We'll make that world. Ourselves.</em> We'll make it real." The spiraling signaled her relieved ending.</p>
+<hr />
+<p>Gently caressing on a memorial stone, Sena took her hands off. The Ouroboros group and Ghondor were reminiscing her loss. Monica stood some distance behind and waited for the group.</p>
+<p>Just then, Shania's mum appeared; her emotionless and shameless voice called from the distance, "Oh, do stop. You're wasting your time with that."</p>
+<p>Sena was curious, "Huh?"</p>
+<p>Stopping a distance away, she continued, "How much longer will you drag our family's name through the mud? So she met her end as a Moebius? Please... <strong>What a pathetic child</strong>."</p>
+<p>Ghondor was upset, shouted at her, "<strong>SAY THAT AGAIN!!!</strong>"</p>
+<p>Her mom was more straightforward, walked towards her and took her shoulder. Ghondor was surprised at her mom's action. Feeling scared, "<strong>URRRGGGHHH... M-M-Monica? Wh... What now?</strong>"</p>
+<p>"<strong>URRRRGGHHHHH!!</strong>" She felt like punching her in her face but calmed herself, thrusted her back thereafter.</p>
+<p>"Arrrrrggghhhh..." As she was freed from her grip, she quickly ran away, like a prey running away from a predator.</p>
+<p>After she'd left, Sena: "I thought maybe... parents would be closer to their kids somehow. Like that warmth we felt would go on throughout their lives. I thought... that might have been the answer we were looking for..."</p>
+<p>Monica, being a mother herself, answered her, "It's an illusion." Sena turned to what she had to say, "It's a fact of life that the child is born of the parent, but that's all it is."</p>
+<p>"So everything that we're trying to achieve, is that an illusion too? <strong>It's all... just a big lie?</strong>" Her hopes were dwindling, her anchors were disappearing, her tone teary.</p>
+<p>Ghondor: "Sena..."</p>
+<p>"Whether it ends in a lie or not is up to you. We all have to crawl face down in the mud, believing... we'll come out smiling."</p>
+<p>"Mother..."</p>
+<p>"<strong>Table's set</strong>, by the way."</p>
+<p>"Huh?" Such a change of tone, change of topic.</p>
+<p>"Let's fill up that tum." It wasn't what she's used for -- emotions, as a City Elder. She turned and walked towards the venue; and Ghondor watched her mom turned away, but never was the same again.</p>
+<p>Sena turned to look at the memorial stone once again, reminiscing Shania's final words...</p>
+<blockquote>
+<p>"Sounds nice... <em>I like it.</em>"</p>
+</blockquote>
+<p>"You think Shania... was able to smile?"</p>
+<p>Ghondor turned to the stone, paused to think for a bit before calling out, "Next time round... <em>she'll be fine.</em>" And they nodded at each other, wishing her a better rebirth.</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="39_sword_of_the_end.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="40_hope_rest.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="39_sword_of_the_end.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="40_hope_rest.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

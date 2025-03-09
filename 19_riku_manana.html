@@ -1,0 +1,450 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Riku and Manana - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html" class="active"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="riku-and-manana"><a class="header" href="#riku-and-manana">Riku and Manana</a></h1>
+<blockquote>
+<p><strong>Translator's note on environment:</strong> Tunnel ceilings supported by metal beams from collapsing. Caterpillars{{footnote: One knew this later.}} with glowing green spikes on its back, roamed the ground; while copper winged bats roamed the air. Another scene. An island platform with grass, tress growing on the bottom side of it, had an entrance/exit. Krabbles crawled on the platform. In the distance, stingray-like Laia romaed the "cloud sea". A beam shoned from above illuminates the undulating misty clouds. Some crystals, like frozen ice, hung from the ceiling. Yet another scene. Spider webs filled the area, sticking themselves to stone pillars and walls. There were some metal fence in the distance. Finally, an unending tunnel with metal support every fixed distance; the walls had glowing specks of blue. This, is <strong>Urayan Tunnels</strong>, in the Pentelas Region.</p>
+</blockquote>
+<hr />
+<h4 id="start-of-riku-and-mananas-hero-questfootnote-youll-know-why-its-riku-and-manana-as-you-progress-on-with-the-story"><a class="header" href="#start-of-riku-and-mananas-hero-questfootnote-youll-know-why-its-riku-and-manana-as-you-progress-on-with-the-story">(Start of Riku and Manana's Hero Quest){{footnote: You'll know why it's Riku <em>and</em> Manana as you progress on with the story.}}</a></h4>
+<p>Entering the tunnel. The slopes lead to a lift in the distance, which took the central stage. Two green-spikes caterpillars lurked in front of the lift. Standing on the top of the slope, Noah turned to the group and warned, "We don't know what lies ahead, so let's go carefully."</p>
+<p>Taion agreed, "Indeed. I want to be out of here as fast as possible, but haste can only spell trouble."</p>
+<p>Riku step ahead and scanned the area, commented, "This place rich in ore and gemstone! Speed is of essence! All treasure will belong to Riku!"</p>
+<p>Manana: "Oho? Riku seem mighty excitey."</p>
+<p>Riku changed into a serious looking face before he turned towards Manana and the others, explained, "... Gemstone have many use. They probably useful later to us."</p>
+<p>"Riku sound unusually enthused. Took to be cool and brooding type."</p>
+<p>Riku, scratching his head (or rather, hairs), "... It something of a hobby."</p>
+<p>"Ohhhh... hobby of Manana is cooking!"</p>
+<p>"Riku well aware..."</p>
+<p>Noah asked, "Riku, if we find any nice gemstones, should we bring them to you?"</p>
+<p>"If friends get chance, then please. Gemstone with good potential will be good investment for future."</p>
+<p>Lanz wasn't too optimistic, "I don't think we're just gonna happen across priceless gemstones, but OK."{{footnote: If you look behind the scene with the first video, you could see a character that was never introduced. That person actually could be anybody, because in game, there's a 7th slot for a hero like Ethel or Cammuravi to join in and appear in scene, but they never spoke or do anything out of the common, so we'll omit them in the future unless they participated. And by the way, that hero was actually <a href="https://xenoblade.fandom.com/wiki/Teach" target="_blank">Teach</a>.}}</p>
+<p>"Nopon very pacifistic and don't fight, but would hate not to lend support."</p>
+<p>"If Manana fight, that mean Manana not become burden?"</p>
+<p>Eunie disrupted her from classifying herself as burdening, "Don't you worry about things like that. Everyone has their bit to do."</p>
+<p>"If Manana could Interlink, Manana surely to be of good use."</p>
+<p>Riku: "If we could do such thing, would have done ages ago..."</p>
+<p>Noah cut the conversation short, "Right. Anyway, getting out of these tunnels is the main priority. But let's keep an eye out for any ore along the way. We can't afford to overlook anything that might help us later."</p>
+<p>Riku agreed, "Understood. That good enough."</p>
+<p>Lanz grudgingly, lazily replied, putting his hands behind his head, "Yeaaaah, go on. I'll give you a hand."</p>
+<p>Riku was surprised. "Even Lanz? That turn up for the books..."</p>
+<p>"Always good to have a few favors to call in, yeah?"</p>
+<p>"...Riku knew it."</p>
+<hr />
+<p>(As they approached the lift)</p>
+<p>Sena clicked on the button that calls the elevator. The light on the panel turned red. "Hmm, doesn't look like it's working, guys."</p>
+<p>Riku approached the panel and inspected for its cause, commented,  "It need electricity. But if no ether cylinder, no electricity."</p>
+<p>Mio suggested, "Let's have a look around, shall we?"</p>
+<p>Taion agreed, "That sounds like a plan."</p>
+<hr />
+<p>Inside the lift control room. A grid window panes filled the side of the wall facing the cave. Control panels were installed on all sides of the room. Noah installed an ether cylinder into the accepting slot. Then, Taion switch power on on another panel. As power returns, (cave) lights at the lower area of the cave immediately illuminates.</p>
+<p>With the lights, we could now see metallic tiles installed on rocky floors, and some ladders leading up to an elevated platform hosting some chests. There seemed to be wires hanging above, but translator couldn't make up what it is. The surrounding area is mostly barren: metal pillars, rocks, platforms, lights, floors, that accounted for most.</p>
+<p>The lift call button also turned green as a result.</p>
+<p>Back in the control room, as they saw the elevator moving, Manana danced gleefully, "Ohoho! It move!"</p>
+<p>Riku announced to the team, "Now elevator behave self."</p>
+<p>Eunie praised him, "Nice job, Riku. Always good to have a grease-Nopon that knows their way around techy things."</p>
+<p>His 'nose' stood high, enjoyed the flattery, "This? Piece of pollen orb{{footnote: Pollen orb was something that originated in the Nopon village. First introduced in Xenoblade Chronicles 1, it was said to have some addictive effect, like the addictive drugs we abused today.}} for Riku."</p>
+<p>Noah: "OK, let's go."</p>
+<hr />
+<p>(Upon arrival at the lift)</p>
+<p>Some spiders, brown torso, and yellow abdomen with patches of irregularly shaped brown, dropped to the floor. The team got defensive as Lanz complained, "Gah, 'course there's monsters!"</p>
+<p>Taion couldn't see a way around "Oh well, then. Nothing else for it, it seems."</p>
+<p>Eunie agreed: "We don't have time to burn here. Let's ash 'em up, yeah?" They drew their blades as she finished.</p>
+<p>Manana, her eyes shining, seemed to have made up her mind. She withdrew her wok hung behind her, a silvery with two loop handles, its diameter slightly smaller than her torso, and a fork and a knife made a 'cross' symbol at the wok's bottom, a circle containing 3 diamond-shaped stars, like those of Manana's blinking eyes, on top of where the 'cross' intercepted. "Manana help with fighting!"</p>
+<p>"...Huh?" That caught Mio's attention as she looked towards Manana, just in time to see her spinning with the wok held over her head, generally in the direction of the spiders. As the team followed their glaze, "Meeeeeeeeeh-eh-eh!" The spiders were toppled, probably killed, where she landed blows.</p>
+<p>Sena raised her voice by an octave of two, shouted out, "Manana?!"</p>
+<p>Taion was shocked as well, "Don't be so rash-!"</p>
+<p>"Manana did it!" After all the spiders went down, she congratulated herself while continued spinning. Riku closed his eyes in advance, foreboded something.</p>
+<p>Mio realized an instant later, shouted to her, "Oh no! Manana, stop!"</p>
+<p>"Manana cannot stop pot in mid-spiiin!"</p>
+<p>Sena called out, "Watch out!" Then, she closed her eyes just before hearing the wok smashed against the rocky walls where she headed. Manana laid on the floor with the wok by her side.</p>
+<p>With Mio on the lead, they ran up to her, "Um, Manana? Are you OK?!"</p>
+<p>Sena, seemingly about to cry (in a worried voice), "Manana, please be OK!"</p>
+<p>As she finished, Manana's eyes popped open, swooped her way up on her feet, concurrently got hold of her wok and stuffed it to her back as she stood, serenely spoke, "Manana is fine! Only heart go pitter-patter."</p>
+<p>Noah, scratching his head, "Just watching you made my heart go pitter-patter."</p>
+<p>Lanz shook his head, "Seriously, Manana, that was wild."</p>
+<p>Mio, in her appreciation stance: "Phew... I'm glad you're safe, anyway."</p>
+<p>As if she proved herself worthwhile, "See, Manana is good for many-much things beside cooking!"</p>
+<p>Riku ruffled, with his wings wide opened, "Manana rush in like <em>crazypon</em> just to prove that?!"</p>
+<p>Manana nodded frivolously, "Is important to demonstrate through action!"</p>
+<p>Riku rebutted stodgily, "Manana did not just throw pot. Threw whole self along with it."</p>
+<p>Manana turned to her back to show her pot, explaining, "Is special heavy-duty pot, also for self-defense. Exclusive Nopon brand!"</p>
+<p>"Th-that not a thing..." Riku was speechless...</p>
+<p>Mio stood in for him, "Manana, you have to understand that poor Riku was worried about you!"</p>
+<p>Manana turned to look at Riku, trying to ascertain, "Is truth?!"</p>
+<p>Riku, perhaps shy, or perhaps to save face, turned away from looking at her, "Not so much truth..."</p>
+<p>"That very considerate! But Manana is really fine."</p>
+<p>Lanz looked at Riku, "Yeah, that's right. Worrying too much isn't good for you either."</p>
+<p>"Exactly. That why Riku not worry."</p>
+<p>Eunie teased him, "Your blushy little cheeks aren't fooling anyone. Don't be ashamed!"</p>
+<p>"No shame here! Noah, please come to defense of Riku."</p>
+<p>Noah laughed at his reaction, "Hehehehe, you just didn't want your friend to be hurt. Shall we leave it at that?"</p>
+<p>"Meh." Riku dropped his head as that's not the reply he wanted to hear, but seemingly there wasn't anyone to back him up, could only accept grudgingly.</p>
+<p>That did cheer up the group. Noah cheerily turned to Manana, warned, "But Riku's right. No more crazy antics in the name of helping each other out, OK?"</p>
+<p>"Manana understand! Not to do crazy antic in future."</p>
+<p>Noah nodded, as Taion concluded, "Then it's settled. Let us descend." The group took for the lift.</p>
+<hr />
+<p>Upon arriving at the bottom, the group walked down the ladder connecting the elevator's platform to the rocky ground. There was a route to the right, but something behind the huge rock that defined the route's boundary caught Sena's eyes. It was some "liquid lime colored"{{footnote: RGB hex = <a href="https://icolorpalette.com/color/liquid-lime" target="_blank"><code>#cdf80c</code></a>}} open-air crystal. She shouted out, "Huh? Is it just me or is that rock sparkling?"</p>
+<p>"Hoho! Maybe is-" That alerted Riku, running off towards the direction. We could see a tunnel leading to an open space on the left of the crystal.</p>
+<p>The group followed behind as he assiduously inspected it, the excitement died down, "No. Just ordinary rock."</p>
+<p>Mio: "What about this? I can't tell them apart..."</p>
+<p>Riku assured, "That OK! That what Riku here for!"</p>
+<p>"It's a good thing you're with us, Riku."</p>
+<p>"Leave to Riku! First, Riku and friends search area!"</p>
+<hr />
+<p>Sena: "Hey, I found one!" They stopped by another "liquid lime" crystal stuck between a rock cavity. These had darker greens compared to the former, and some undulating liquid seemed incorporated in it.</p>
+<p>Riku walked towards it, inspected it, and rejected it, "No, this not right. But is useful, so Riku take it." He scrapped a piece from the ore/crystal and stuffed it in his pocket.</p>
+<hr />
+<p>By yet another site, Eunie asked, "Isn't this one?" Still lime-colored, but seemingly glowed even dimmer than the one before.</p>
+<p>"It look like, but is not. Observe here precisely. Intensity of luster grow dim."</p>
+<p>Eunie squatted down to look where he pointed, but unsuccessfully observe any difference, lazily replied, "OK, I believe you."</p>
+<p>"But it not useless! Keep hold for now." Another piece into his pocket.</p>
+<hr />
+<p>By yet another site, we could see some supporting metal beams to the left of the crystal. Taion squatted beside Riku, probability-wise bet it's not, "This is... not one."</p>
+<p>Riku, surprised and not surprised that Taion could differentiate, "Oho? This might be valuable at later time, so we should keep." This one glows brighter than the others earlier. Yet another piece into his pocket!</p>
+<p>"OK, got it."</p>
+<hr />
+<p>The group exited the tunnel into the area surrounded by cloud sky. They tramped down the green-algae-looking floor as Manana called out to Riku, whom was in front of her, "Riku seem to find great joy in rocks. He pick up so many!"</p>
+<p>He stopped and turned to glance at her, "Gemstone and ore are different from normal rock scattered around. And ore we pick up from before have great utility." The others stopped to eavesdrop on their conversations.</p>
+<p>In a disappointed tone, "Manana not rock scientist..."</p>
+<p>Sena, stoked, joined the conversation "You can identify them all, Riku! You sure know a lot about rocks."</p>
+<p>"Riku know thing or two."</p>
+<p>Lanz didn't agree with his self-deprecation, "Don't be modest. You've got skills, mate. You should be an appraiser."</p>
+<p>"Cease with flattering."</p>
+<p>Sena debated against, "It's not flattery! It's good to have a hobby!"</p>
+<p>"Manana in agreement!" Riku turned and faced another direction.</p>
+<p>Lanz teasingly called out to him: "It's pretty good that we were able to come out rock-collecting, huh, Riku?"</p>
+<p>Riku felt seriously offended, replied sternly, "Ore and gemstone! Not rock! From supply material to maintenance work, that Riku's job. It solemn responsibility to keep important equipment in tip-top order so everyone can come back alive." Then, looking sideways, picking on him, "Just doing own job. Not like Lanz."</p>
+<p>"You what? I'm pretty much... <em>almost</em>... sort of doing it!"</p>
+<p>Sena was impressed with his attitude, "Wow... You really give yourself a lot of responsibility, Riku."</p>
+<p>Riku, scratching his head, trying to put a halt to the conversation that focused on him, "Too much talking. Out of Riku's character."</p>
+<p>Noah disagreed, "Not at all. Understanding each other better isn't a bad thing, is it?"</p>
+<p>Manana agreed. She walked a few steps and stood beside Riku, looking at his eyes, "That right. Become better friends is important."</p>
+<p>Mio added, "We need to learn more about each other to become better friends, right?"</p>
+<p>"That exactly truth. Learning about each other very important deal!" Manana backed her up. As if a light bulb shone above her head, "Ah, Manana has idea! Next, Manana will show faaaavorite thing!"</p>
+<p>Riku was confused, "Next? It not about taking turns..."</p>
+<p>Manana fluttered herself and her wings, discounted Riku's sternness nor his rebute, "Bate breath in readiness! Manana show you her specialty! You learn soon!"</p>
+<p>"Over there is good place. Time for break!"</p>
+<p>It looked like the remnants, a corner of a building. Where bricks had been demolished, plants climbed the surface. Stone pillars with platform remnants told us there used to be multiple storey. A bonfire was lit at the center of the structure. To its right, there was another remnant, this time circular and about one and a half storey high. On another remnants across the "cloud sea"{{footnote: Actually, there wasn't much clouds seen on this direction, but empty space.}}, another island with a structure that looked like a top stood itself, seemingly connected to the island the group was on via a rope. Trees grew in the distant, inaccessible small platforms.</p>
+<hr />
+<p>Sat around the bonfire, Lanz appreciated Manana's cooking: "Mmm, so tasty! Nothing like a hearty meal to keep you going for the long haul!"</p>
+<p>Noah nodded, "It even wakes you up somehow."</p>
+<p>Sena: "Endless rations{{footnote: These were the foods given to the colony, in 'rations', especially when the colony were lower rankings, if you heard the nurse hat guy speaking from before, in Ethel's colony before the assault.}} are so boring. You need to spice it up like this!"</p>
+<p>"Manana couldn't agree more!" Then, she 'logically' targeted someone, "Taion only cook tragedies, so Manana work hard to learn cooking!"</p>
+<p>Eunie was aroused, curious to learn more about his cooking, bent forward to keep her attention on her, "Ha! First I've heard of it. Is he <em>that</em> bad?"</p>
+<p>That brings back memories, as she replied in a very low tone, "It very horrible."</p>
+<p>Sitting beside Eunie, his hands crossed and explained himself, "Actually, my cooking just focuses more on efficient absorption of nutrients, and convenient portability. And I've actually optimized it."</p>
+<p>Eunie jokingly asked: "...You mean it used to be even worse?"</p>
+<p>"H-hey, now, I like Taion's cooking! It's... <em>unique</em>!" Mio disagreed, backed Taion up, in a chuffed intonation.</p>
+<p>Noah offered a recourse, "It's OK. Swallow it down quickly and you'll probably be fine."</p>
+<p>Sena, astonished, speaking to herself. "Do you... Do you really think you're helping...?"</p>
+<p>"Is there second helping?" Riku looked to Manana, hoping for another portion.</p>
+<p>"Oh yeah?" Lanz was alerted.</p>
+<p>"...What?"</p>
+<p>"What's this, Riku? Your favorite food or something?" He noticed something new about Riku, curiously prompted.</p>
+<p>Rejecting his hypothesis to save his face with plenty of explanations, as usual, "Is not favorite. Is taste of Manana hard work, and is rude not to clean plate."</p>
+<p>"Actually, Manana season with frazzlefish to bring out hidden flavor. Manana pleased Riku notice!" She was touching the ends of her feathers together, like how a human would used his/her index finger, gently touching the tip of each other as one speaks.</p>
+<p>With an 'urmmmm' tone, tremblingly, he confessed, "Meeeehhh... Riku not know that actually."</p>
+<p>Manana was confounded to her wrong hypothesis. "You not know? Well, Manana only happy you know now! And... Manana bring Riku whole mountain of seconds!" She trodded off into the distance, away from the bonfire.</p>
+<p>Lanz, unsure who he's targeting the question to, prompted, "You think he minds?"</p>
+<p>Mio answered, "It was so good he had seconds. And Manana knows how much he liked her cooking. I don't see the problem."</p>
+<p>Sena added, "She was so happy."</p>
+<p>Noah praised, "I think her ability to accept people's words upfront is one of her best points."</p>
+<p>Mio: "Haha, maybe she's a little <em>too</em> upfront."</p>
+<p>Taion added, "And her air of innocence is... characteristic of Nopon." Behind, we could see some brick-red walls covered with cement-colored, cement? Short patches of grass decorated the algae-ish surface. To the right of Taion, there was a path that made a perpendicular turn to its right{{footnote: So, if you drew an line that joined Taion and the brick wall, the route would be parallel to that line}}.</p>
+<p>Eunie: "Upfront and innocent, huh..." She turned to look at Riku, referring to something.</p>
+<p>He seemed to get what she meant with the descriptions, rebutted, "Riku is also good honest Nopon."</p>
+<p>"Let's not get into that..." Eunie seemed unconvinced.</p>
+<p>Sena brought the topic back to the 'rocks' of his, adored, "You were so serious when you were looking for the ore and gems. It's really good to be able to throw yourself into stuff like that so passionately. Like, into the things you love!"</p>
+<p>To which he replied, "Sena is good person. Is shame Lanz lacking this quality..."</p>
+<p>"Why are you always picking on me?!" Ouch! There was a description for this situation: 'Sitting at home doing nothing, a wok smashed on you unexpectedly'{{footnote: "人在家中坐，锅从天上来"}}.</p>
+<p>Noah provided a respite on the pugnacious atmosphere, "Just up ahead might be Riku's treasure."</p>
+<p>Sena, stoked, "Then let's go treasure-hunting!"</p>
+<p>"Yes! Riku get mighty whiff of treasure here!"</p>
+<p>Noah, putting an end on the conversation, "OK, let's have a quick breather and then start the search."{{footnote: Manana still hadn't come back, though...}}</p>
+<p>"As Noah wish! We definitely find it!"</p>
+<hr />
+<p>As they entered a cave with some grass growing in a semicircle on the dry soil, Mio looked to her right. Some reddish ore revealed itself in open space. Spiderwebs seemingly blocked the way between them and the ore. "Huh? Hey isn't that...?"</p>
+<p>Spiderwebs grew also on the group, and some of them stood on it{{footnote: Without getting stuck on it, to one's amazement.}}. "Ohoho! Now <em>that</em> what Riku call a gemstone!"{{footnote: Manana is now back online!}}</p>
+<p>"Manana will bring back!" She immediately dashed towards the stone.</p>
+<p>"Gemstone need careful handling. Riku will also go." He dashed after Manana after explaining his excitement away with reasoning. The group strodded slowly behind them, as Noah casually looked upwards, immediately alarmed and shouted, "Wait! Riku! Manana!"</p>
+<p>Too late. They already arrived at the reddish ore. As they heard him, they turned and saw a spider with buff muscles on its cursive legs, two pair of fangs that in front of a face that looked like a bat, and two bat-like ears that had lime-green liquid flowing in its veins, stretching from where the "ears" of the bat's face, and patches of glowing turquoise on its abdomen. The spider approached Riku and Manana.</p>
+<p>Manana: "Meh-meh-meh?!"</p>
+<p>Riku: "This blight on personal record..."</p>
+<p>Lanz shouted to them, "Wait there, we're coming!" Yet, smaller arachnids appeared behind the giant spider, facing the group and preventing them from disturbing their "mother" about to enjoy her feast.</p>
+<p>Taion: "No good, they're coming this way too!"</p>
+<p>Mio warned, "Drop the gem! The monsters seem to be after them!"</p>
+<p>Riku wasn't willing, "Meeeeeeehhhh...!"</p>
+<p>Manana pugnaciously rebutted, "That is precious thing! Cannot be thrown away!"</p>
+<p>Riku, with a sorry and regret look, apologized to Manana, "Sorry to bundle Manana up in recklessness of Riku. Manana must throw gemstone over that way."</p>
+<p>"But it your treasure, Riku!" She was surprised Riku willingly gave up his hobby for her life.</p>
+<p>With a shaking voice, perhaps trying to suppress the difficulty in choosing, or maybe time wasn't on their side, "True... But if Manana throw, then monsters go also."</p>
+<p>Manana refused, "Riku giving up too easy!"</p>
+<p>"Meh-meh?!"</p>
+<p>As if everything was under her control, "This nothing-trouble! And also... Riku say he get every treasure!"</p>
+<p>"But Nopon not fight!" He looked down, finding excuses for both of them.{{footnote: Bro! The spider is really patient watching them quarrel, huh?!}}</p>
+<p>"That irrelevant! Should become like Mio and Noah! If Riku and Manana work together, this piece of pollen orb! Riku not agree?"</p>
+<p>"Manana..." His eyes met hers, encouraged his, "Riku agree. Riku not give up in this place!" Then, walked up to face the giant spider, "Riku here to get treasures and beat monsters!"</p>
+<p>Manana joined in, "Manana can be behind that!"</p>
+<p>"Is not yet time..." He drew out the weapon attached to his back, held it with  his wings. It shaped like a gun.</p>
+<p>"... for give up!" Manana finished his sentence, drew out the wok and joined him.</p>
+<p>"One, two..." They dashed past so quickly that the queen arachnid was sent into the air as they swooshed below her belly. She dropped to the ground while RIku and Manana arrived in front of Noah and the others.</p>
+<p>Manana, fluttering her wings, "Magnificent success!"</p>
+<p>Lanz was amazed, "Nice job, you two! What a team!"</p>
+<p>Sena, with a worried voice, "I'm so glad you made it back!"</p>
+<p>"Manana sorry for causing worry." She answered in a lower tone.</p>
+<p>As Riku and Manana turned to face the queen arachnid, now got on its feet and turned its attention towards the group, Riku commented, "Now we see real Nopon potential!"</p>
+<p>"That right! Maybe it impossible for one Nopon..."</p>
+<p>"But not for two!"</p>
+<p>"Together-fighting is better!" The group drew their blades and face the arachnids.</p>
+<hr />
+<p>(After the fight.)</p>
+<p>The group stood to face Riku and Manana. Lanz was relieved, "Phew. I didn't know how that was going to end."</p>
+<p>Noah added, "Right? I was so surprised to see that from Riku and Manana!" We could see a tree growing in the background, by the way. More were growing on top of a taller platform filled with spiderwebs, behind Lanz, if Riku looked up at his face (from that angle).</p>
+<p>Mio too, "I didn't know they could fight like that."</p>
+<p>Riku clarified with sternness, "Riku is superior Nopon! Everyone know still Nopon run deep."</p>
+<p>Lanz couldn't stand it, "Come off it, you aren't running anywhere."</p>
+<p>Sena, "But now we know you can fight with us. How reassuring is that?!"</p>
+<p>Manana, twinkles in her eyes, "We sorry for worry. But we learn that combine power together mean we can fight!" As she drew out the extracted magenta-ish crystal, "And that not all! We fetch back nice stash of gemstone!"</p>
+<p>"Thanks for doing that, guys!"</p>
+<p>Riku accepted it, "Yes! Getting best treasure is thanks to Riku."</p>
+<p>Lanz, shaking his head, "Someone sounds chuffed with himself."</p>
+<p>Taion suggested an end to the conversation, "Looks like the danger's passed for now. Let's keep going."</p>
+<p>Noah agreed, "Right. We're still not out of these tunnels. Keep your guards up, everyone."</p>
+<p>"Manana do Manana's best!"</p>
+<p>Mio was enthused, "Haha, you're an asset to the team, you two!"</p>
+<p>Riku looked away, explained away humbly, "... Riku just doing job." Manana looked at him, silently knew he was enjoying the flattery, and perhaps relieved they had got closer.</p>
+<h4 id="end-of-riku-and-mananas-hero-quest"><a class="header" href="#end-of-riku-and-mananas-hero-quest">(End of Riku and Manana's Hero Quest)</a></h4>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="18_saffronia.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="20_ambushed.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="18_saffronia.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="20_ambushed.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

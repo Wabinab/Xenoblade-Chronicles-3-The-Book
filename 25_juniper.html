@@ -1,0 +1,453 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>The World Is Evil, Juniper - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html" class="active"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="the-world-is-evil-juniper"><a class="header" href="#the-world-is-evil-juniper">The World Is Evil, Juniper</a></h1>
+<blockquote>
+<p><strong>Translator's note on environment:</strong> Tall modern looking buildings, glass shattered, some toppled, clearly unmaintained for eons. Balcony stretches to the side of the building, infested by ferns, giant flowers, trees, and goats! Some trunks are so huge it engulfed parts of the building within it.  Tiles covered some part of the floor where animals like cobra, rattlesnake, and more goats roamed. Cavities due to collapsed floor were filled with waters, turning it into a shallow pond. Vines dangled along two ends where they grew. This, is <strong>High Maktha Wildwood</strong>, of Pentelas Region.</p>
+</blockquote>
+<hr />
+<p>The entrance to the forest overlooked the various tightly packed modern buildings, dilapidated yet seems unnatural as nature usually overgrows all parts of the building in a decade or so -- just look at the moss if you hadn't cleaned a part of your building! Though tree spring tall, taller than the tall platform where they stood, and clouds about the same height, the overlooked the distance and enjoyed the scenery for a moment.</p>
+<p>Eunie broke the silence as she folded her arms and expressed repugnance, "Man, those Moebius mooks... They make my feathers stand on end. Ending peoples' lives like it doesn't matter. Urgh. What a sick joke."</p>
+<p>Riku: "There word for people like that. Know what Nopon say?"</p>
+<p>Sena tilted her head, "No idea. Tell us?"</p>
+<p>He looked at the sky, held his wings out, as if whatever he said next is worth the rituals, "'<strong>Supervillainpon</strong>'."</p>
+<p>Noah asked for explanation to the group, "Riku, what does that mean, then?"</p>
+<p>"It mean extreme bad guy."</p>
+<p>"Ahh, I think I get it." Say it like never said.</p>
+<p>"Meh-meh...?" Even Manana was confused; or perhaps, she had a questions for them?</p>
+<p>"Wassup, Manana?" Eunie prompted.</p>
+<p>She turned to face them, questioned, "Then, are Noah and Mio and friends... supervillainpon?"</p>
+<p>Lanz: "You're labeling us?"</p>
+<p>"<strong>Labeling</strong>. Because friends used to end lives also!"</p>
+<p>"Urgh!" Eunie gasped in realization, never seen from that point of view.</p>
+<p>"That not make them supervillainpon?"</p>
+<p>Eunie tried to explain herself, "I mean... It's not like we ever had a choice or anything. It was them or us."</p>
+<p>"So when no choice, not fall under definition then?"</p>
+<p>Lanz added in a low tone, "None of us ever fought 'cause we wanted to. It's just how it worked. How people worked, and the world."</p>
+<p>"So... World is supervillainpon!"</p>
+<p>"Whuh?!" Manana changed idea so quickly he couldn't synchronize with her.</p>
+<p>"Since it make everyone do nasty things! <strong>World is bad guy</strong>!" The is a paradigm shift, from thinking of bad individuals, to a bad world.</p>
+<p>Noah considered the statement, "The world is... <em>bad</em>? Huh! I never thought of it like that!"</p>
+<p>Lanz, in a sorrowful tone, "Now that you mention it, what in the world, are we even here for?" That makes the rest of the group galled, deep in sorrow, as they thought of the life questions posed to them, what it meant to them, and how they relate to it.</p>
+<p>Taion, in his thinking mode, cut the resentment short, "I wouldn't strain your brain too much."</p>
+<p>Lanz snapped back unconsciously, "Sounds like <em>you</em> have."</p>
+<p>"What gave you that idea?"</p>
+<p>"Cut the snark, just tell me!"</p>
+<p>"The end-point of it is... suicide."</p>
+<p>"Say what?" Lanz quietly asked him to explain.</p>
+<p>"If you don't want to hurt others, you'll end up denying your own right to survive. Eventually, you come to the conclusion that, the world may well be better off without your presence. The only resolution then, is to erase the self. To die." Then, looking at Lanz, "See? Pointless."</p>
+<p>"Isn't that taking it too far?"</p>
+<p>"The world doesn't just vanish because you've closed your eyes." Noah sounded from beside, seemingly disagreed with his statement. He was still looking down, considering, as the group turned to him,</p>
+<p>Taion prompted deeper, "What...?"</p>
+<p>"The moon..." The group turned to face the sky. High above the the building on a clear evening sky, a full moon illuminates.{{footnote: Hey, the moon wasn't there before!}} "Think about it. Why is it that the moon shines? Just because we're watching?{{footnote: Well, think about it. If Earth were to split into half, did the moon also split into half? If the two halves of the Earth, eons later, were to come together and formed Aionios, were the two halves of the moon come together 'perfectly' joined, and formed a circular moon? When they split, do each half of Earth gets each half of the Moon? Do they crush under gravity and changed back to a spherical shape? Now think about it...}} {{footnote: Could be seen in first video clearly, but second video, due to clouds, not really, until the clouds blew away.}} Of course not. Even if humans were gone, it would shine on, illuminating the land beneath. And yet... <strong>We're the ones, that give meaning to it</strong>. We say '<em>bit dim tonight</em>,' or.. '<em>Looks brighter than usual, eh?</em>' Similarly, we can now imbue the world with meaning, or change it. It's a privilege we were lucky to obtain."</p>
+<p>Mio wished to ascertain some answers from him, turning to look in his eyes,  "And that's... the power of Ouroboros?" The others followed their glance. He returned glance and nodded.</p>
+<p>"We're obliged to use it. We can make a difference."</p>
+<p>"So we don't become supervillains?"</p>
+<p>"That's one thing to aim for, at least. Right?" He turned to face Manana and the group, Mio followed his glance. Manana was fluttering her wings, the others kept silence.</p>
+<hr />
+<p>As the group descended some staircase, Lanz foreboded, stopping on his path, questioning, "Hey... You sure we're going the right way, guys?" The group stopped and turned to face him.</p>
+<p>Sena assessed the direction they're walking. Tiles and buildings with occasional plants sticking out, can't see a path at the end.{{footnote: Actually, you have to slide on the rope, seeing from retrospect.}}, commented, "Mmm... Well, it's a path, at least..."</p>
+<p>Noah: "Looks like it's going to be real pain getting through here."</p>
+<p>Taion agreed, "True. But we don't have the luxury of loitering."</p>
+<p>Eunie: "Well, I don't see any other road to take. So, let's just get this over with." She took the lead, the others watched her walked a few steps before catching up behind.</p>
+<p>As they continued, someone slid from a tight rope, both ends attached to higher ups of the building where they were walking, jumped, and shot three green arrows at the group. Mio's ears wiggled as she heard the screeching of air particles dragging past the arrowheads, shouted,  "...?! Eunie, look out!" She made a dash towards her, hugged, her, and they went on the ground together. Eunie still hadn't figured the situation, but as her head faced up, she saw the arrows landed where she originally stood. The arrow exploded after the rolled on the floor and stopped.</p>
+<p>The explosion shocked her more, "Waaugh?!" and she waddle like a frog backwards, away from the center of explosion. She tilt her head up, and saw a female, green hair, turquoise iris, pointing her bow at her. She was standing above a beam of the building. Eunie quickly got on her feet, concurrently withdrewing her blades, and took a shot at her. She jumped to evade the attacks, landed in front of the group. More Agnian soldiers slide from the rope and landed beside and behind her.</p>
+<p>Lanz, flabbergasted, was slow to react, loudly questioning, "Wha-What the?! An ambush?!"</p>
+<p>Seeing the girl raised her bow pointing at them, Noah instantaneously reacted as he shouted to the group, "Ah?! Weapons, quick!"</p>
+<hr />
+<p>(After the fight.)</p>
+<p><strong>Juniper</strong> sighed as she saw the group sheathed their blades.</p>
+<p>Noah shouted to the group, "We just want to pass through! We're not looking for trouble!"</p>
+<p>Sena added, "C'mon guys, what's your problem?"</p>
+<p>One of her teammates, male, brown skin, buff, shouted, "Juniper! Imogen's at her limit! She can't keep going!" His name's Carson.</p>
+<p>Noah: "Huh?"</p>
+<p>Another neck-long hair, pale skin, yellow iris, pointed chin, disappointingly gruntled, "Spark... And we could've had their life, too... <em>So close</em>!"</p>
+<p>Noah shockingly gasped, "...Ah!"</p>
+<p>Juniper, sheathing her blades, called out, "That's very unfortunate. We'll have to retreat, then." Then, they turned and ran off in the distance.</p>
+<p>Lanz was still confused since the start, "What was all that about? Weirdos."</p>
+<p>Seeing that Noah was thinking about the situation, Taion asked for more information, "Noah? What's wrong?"</p>
+<p>He turned to face him, shook his head, "I was just thinking..."</p>
+<p>Getting to his thinking stance, he answered for him, "About the archer? They seemed quite the formidable opponent, to be sure..."</p>
+<p>Folding his arms, "That's true, but there was something else about them..." They still seemed to be high enough to have clouds around them, but certainly lower than the viewpoint from before. {{footnote: Before, they were too high to see clouds below them, just like you usually see clouds below you when you boarded an airplane; and those clouds that were taller than where your plane flies were relatively rarer than the cloud sea below, provided you were flying past cloudy zones.}}</p>
+<p>Mio connected the dots, prompted for more, "Say, you don't think...?"</p>
+<p>"Those soldiers' Flame Clocks, they might be getting low..."</p>
+<p>Taion wasn't enthused, folding his arms, "Oh, come on, Noah. You'd better not be thinking of offering your assistance..."</p>
+<p>"It's... hard to put into words, but... something's off."</p>
+<p>He aggressively rebutted, "And you think we have time to be traipsing around on this whim of yours?"</p>
+<p>Sena lightly added, "It really bothers you?"</p>
+<p>He nodded, "Yeah."</p>
+<p>Eunie knows more how he acts, teased, "Give it up, Taion. Once Noah's like this, there's no stopping him." That's him in the battlefield causing the group always missing the transporting levnises, eh!</p>
+<p>"Whuh why do I bother?"</p>
+<p>Lanz added, "Besides, Noah's intuition's usually pretty on the mark."</p>
+<p>Sena suggested softly, "We could just take a look... A-a tiny little peek?"</p>
+<p>"Pfft... Fine. I can see no amount of reasoning is going to dissuade you. However, if it turns out to be nothing, we head straight back and move on. Acceptable?"</p>
+<p>He agreed and shouted to the group, "That's fine. OK, let's move. We should be able to catch up to them if we follow their tracks."</p>
+<hr />
+<p>The group was looking at a rope-slicing device that can take them to the other parts of the platform. Along their 3 o'clock, there was a long path that leads to the distance, down the slope. Trees grew on the platform on the other side, even if it seems very tall from the ground floor of the building.</p>
+<p>Taion: "Judging by how the tracks stop here, it seems that this is where those soldiers passed through."</p>
+<p>"Through here? But... how?" Sena didn't consider the possibility of sliding down ropes, despite seeing the Agnians did it earlier.</p>
+<p>Noah nodded, "Hmm. Doesn't look easily traversable, does it?"</p>
+<p>Lanz agreed, "Yeah, I can't see us getting across there any time soon..."</p>
+<p>Taion suggested, "We could always took a detour. Look, this way." Unsure where he's pointing to, perhaps the path on the right?</p>
+<p>Noah: "Yeah. Thanks, Taion."</p>
+<p>"Like I said, we can't afford to be hanging around here. Come on, we haven't got all day."</p>
+<hr />
+<p>The group finally arrived at the platform overlooking the Ferronis if they'd climb the staircase that led up to where it's parked. Walls around the colony means they only had to defend the front door if anything happened, unless they could "air drop" soldiers into the colony, be it by flying machines, or jumping from above just like they did when they slid on the ropes.</p>
+<p>Sena was awed, "...This is crazy. There-there was a colony, here?!"</p>
+<p>As she finished, Juniper walked down the staircase, or perhaps the slope, calmly and docile, replying to her, "That's right. This is an abandoned colony."</p>
+<p>Noah shouted back, still trying to persuade that he came for peace, "Please listen to us! We didn't come here to fight you!"</p>
+<p>"Mmm..."</p>
+<p>"We can free you from your Flame Clock."</p>
+<p>"...Free us?" That caught her attention.</p>
+<p>Folding his arms, "You don't have much time left on yours, do you? We can help you with that, so if you'd just-"</p>
+<p>She finished his sentence, "Stop attacking you?"</p>
+<p>"Yeah..."</p>
+<p>"Mmm..." She thought of the situation for a second, before nodding in agreement, considering their situation couldn't be much worse than they're now, "All right. I'll hear you out."</p>
+<p>"...Ah... thank you!" Noah was shocked the persuasion was effortless, could only appreciated and muster some thanks.</p>
+<p>"Please, come in."</p>
+<p>As Juniper turned and lead the group, Taion quietly whispered and warned, "They're still wary of us. We can't let our guard down."</p>
+<hr />
+<p>They were standing in front of the Ferronis, and Taion was surprised as he exclaimed, "I've seen a few colonies with dwindling Flame Clocks before, but this one is especially bizarre..."</p>
+<p>Noah added, "It's like they're not trying to survive here at all... Do you get that impression?"</p>
+<p>Inside the walls lies the colony. Some of the walls were totally overgrown. They built their tents, or perhaps, huts, sparsely around both side of the main road. There were some boxes, tables, perhaps a bath (a dark olive green{{footnote: Color code: #588352 }} building). A taller hut the shape of a crown was perhaps the commander's chamber. The Ferronis was positioned above a stage, and below the stage were all the buildings as stated. Just in front of the stage was a tent with one or two tables, and something that resembles a fabricator.</p>
+<p>Taion continued, "Back when I was stationed at Lambda, I'd heard rumors about Colony Tau."</p>
+<p>Mio was curious, "What did they say?"</p>
+<p>"That deep in the forest, there's a colony with some very peculiar customs and traditions. This is my first time seeing it in reality, but I never expected it to be so run-down..."</p>
+<p>Sena: "Did you have any dealings with it?"</p>
+<p>"None at all. This is just hearsay from Commander Isurd."</p>
+<p>Noah: "Anyway, we should hurry. Let's smash the Flame Clock and free everyone."</p>
+<p>Juniper, accompanied by a companion with crystals grown around the earlobes, darker skin, and lines representing those of Isurd from his temple down, and seen also on the back of his palm, approached the group as they turned to face each other.</p>
+<p>Juniper started with their current situation, "It being an abandoned colony, we are continually starved of sufficient life sources."</p>
+<p>Noah: "Wait... Are you the commander?"</p>
+<p>"That's right. Sorry I failed to tell you before. I am Juniper, and it's my job to lead Colony Tau."</p>
+<p>"If that's so, then surely you must know who we are."</p>
+<p>She shook her head, "I'm afraid I know nothing."</p>
+<p>Noah was surprised, or perhaps it explained why they attacked them in search of life forces. "...Huh."</p>
+<p>She affirmed. "We have no need of such information."</p>
+<p>The guy behind, Raine, added, "Juniper told us we'd welcome you in, whoever you might turn out to be. So, that's the rule! We don't ask questions."</p>
+<p>Eunie snapped back, "But you attacked us back there!"</p>
+<p>He tried to reason, "Our scouts told us about some monsters in the forest they'd never seen before, so, we sent them out on a hunt. But then they bumped into you en route. They must've figured it'd be more efficient to get you out of the way first."</p>
+<p>Juniper nodded and accepted failures, "Though, contrary to our plan, we were made to retreat."</p>
+<p>Lanz was curious, "Oh yeah, what about your Consul? Where are they hiding?"</p>
+<p>"I told you, this is an abandoned colony. Our Consul rarely visits us."</p>
+<p>Mio: "You're in such a strange situation..."</p>
+<p>Noah was determined, "All the more reason to get you out of this predicament!"</p>
+<p>Raine see that they had different paradigms, stood on different grounds, "I think you guys are getting the wrong end of the stick here." While the group sees they were worth the pity, the people whom got pitied were happily living their lives, unaffected by comparison with the outer world.</p>
+<p>Juniper breathe out forcefully, "It's true. We aren't afraid of Colony Tau's Flame Clock running out. All it means is the end of our days gazing at our ever-diminishing supply."</p>
+<p>Noah debated: "But you could die!"</p>
+<p>Raine agreed with his statement, added, "Uh-huh. As if we'd just let you waltz in and break our Flame Clock."</p>
+<p>Juniper added, closing her eyes as she imagined the situation into the future, "We all have to perish someday. If our lives should expire, then we'll sink into silence, darkness... oblivion." With her eyes open, she continued, "We'll return to the earth..."</p>
+<p>"Huh..." Mio shook her head in disagreement.</p>
+<p>Noah still tried to convince them from taking their lives too easily, too frivolously, "Yes, but...! Y-you can't just...!"</p>
+<p>Juniper cut him short, "The land will take us, and we will simply 'be'. That's how it is at Colony Tau. No one will ever think of us, and yet here we are. Slowly, but surely, we are withering. We don't always find the nutrition that we need to live. If Colony Tau cannot accumulate the vital flames it needs, then it proves only that we were too weak. And in nature, the weak are destined to perish."</p>
+<p>Taion, folding his arms, rebutted, "Though logic would dictate that nature is pushing you to become stronger."</p>
+<p>Lanz added, "If we set you free, you won't have to worry about all this crap."</p>
+<p>Juniper: "We neither worry nor fear for what may come to pass." They still couldn't synchronize with each other on how they looked at death.</p>
+<p>Raine added, "We've already lost so many of our friends and allies. " To 8 o'clock of Raine was their canteen, blanketed by the stars and clouds, lined with tables arranged in two rows. There were some 'drums'-like object arranged, unsure for what{{footnote: In retrospect, they're for Nopon dancing on it. For some reason...}}. The cafeteria that served the rations was behind the tables, under a tent.</p>
+<p>Juniper: "And every time, we returned their bodies to the earth. Such will be our fate."</p>
+<p>Raine: "What's the point of fearing the inevitable? We know we're gonna die. What's wrong with us living the way we always have?"</p>
+<p>Noah couldn't understand, "But how do you live without hope?"</p>
+<p>Juniper calmly answered, "It will spell the end of the story that our predecessors weaved for generations... A tale cut short. I won't argue, that it feels a little <em>melancholy</em>... In that sense, if we were to be freed from the Flame Clock, then..."</p>
+<p>As she was speaking, an Agnian soldier ran up and approached them. The guy, Selin, shouted while they turned to face him,  "<strong>JUNIPER! BAD NEWS!</strong>"</p>
+<p>"...Tell me."</p>
+<p>"The monsters're coming straight for the colony! And they already took one of us down!"</p>
+<p>"No... They came all the way here?!" Abandoning Noah's group, they ran off into the distance, with Selin leading the way to their entrance.</p>
+<p>From behind, Noah shouted, "We'll join you!"</p>
+<hr />
+<p>(Just outside the colony, below the slope where the group stood overlooking the colony)</p>
+<p>Juniper, Raine, and Seine arrived in front, shielding two other guys behind them, another guy between the two seriously injured, laying on the floor. There were grass and some short coconut-like trees that pierced their roots and stems through the tiles into the mud/soil below. There were three rhinos-like blue monsters, with armor plates attached behind their backs, and some protruding from their heads that shaped like a dimetrodon's fin.</p>
+<p>Juniper: "Ngh...!"</p>
+<p>Raine shouted in emergency, "Juniper, we need orders!"</p>
+<p>Juniper quickly sniped his words, "... This is perfectly fine. We'll defeat them, right here."</p>
+<p>Noah and his groups ran and joined them from behind, Noah calling out, "Juniper!"</p>
+<p>"What are you...?"</p>
+<p>Lanz: "Ask us later."</p>
+<p>Noah nodded, "We'll back you up!"</p>
+<p>"Thank you. I'll fight to the best of my abilities as well."</p>
+<p>Noah shouted to the group, "Here we go!" Then, all withdrew their blades.</p>
+<hr />
+<p>(After the battle.)</p>
+<p>Raine was inspecting the seriously injured guy, relieved, exclaimed, "Geum's OK! He's still alive! Thank the flames..."</p>
+<p>Juniper appreciated, "I'm so glad we made it in time... I'm so glad..." Then, turning to the group with her team, she directed to the group, "Again, accept my thanks. We couldn't have done this without you."</p>
+<p>Noah, shaking his head, "Don't worry about it."</p>
+<p>"Hah" Juniper breathed out seeing herself contradicting herself, "I suppose it's strange of me to talk about the laws of nature when I fear losing my friends."</p>
+<p>"Not at all. Honestly, that seems like the most natural thing of all."</p>
+<p>"When you told me that you would release us from the Flame Clock... I thought that... if you really were telling the truth, it would make life easier. But... at the same time, I began to hate the fact that I was looking for a way out. Looking up at our Clock, seeing the life ebbing away... I'd already accepted my fate. And letting go of that status quo, wretched though it was... After so long, I was scared of what might happen if we did."</p>
+<p>Raine could synchronize with the stone pressing on her heart, "Juniper..."</p>
+<p>Juniper had a combination of exciting voice plus on-the-verge-of-tears tone, a combination of happiness and sadness, mixing seamlessly, "Noah, your words at the time seemed so appealing to me. I could not destroy the collective efforts that became the colony, and everything it represents, with my own two hands. But then <em>you</em> said you would destroy it for us. <strong>We'd be guilt-free</strong>! If that isn't appealing... then what is?"</p>
+<p>"You must've been aware of how tragic it is to simply await death. That's why you invited us, isn't it?"</p>
+<p>Juniper shook her head, "Even now, I'm not afraid of dying." Pausing and turning slightly to the left, gestured to the guys beside and behind her, "But I hated the idea of losing those I hold dear... When I saw my friend lying there... I remembered what you told me, and, for a brief moment, <em>felt the grip of fear</em>." Then, closing her eyes to be immersed in her feelings, "I felt so weak, and helpless... yet at the same time, I didn't want to let go of my dear friend. So I must have closed myself off. I stopped thinking. Closed my eyes and covered my ears..." Opening her eyes back, "Perhaps I was simply... waiting for the inevitable release."</p>
+<p>"Even so, we have to keep thinking."</p>
+<p>Mio seconded him, "That's right -- <em><strong>even if there are things we'd rather not see, we still need to look</strong></em>.{{footnote: Better face forward than stay in the location, because the latter would cause you to regret, the former, even if it failed, you won't regret for not even dare to try, at the very least.}}"</p>
+<p>Noah continued, "And breaking out of your shell, scrambling in desperation for a way to escape despair? That's not what I call being weak. You've defended this place for so long. Why? Because you're strong. And once you're no longer shackled by the rules of the Flame Clock, you can accept a different reality... You can become stronger still. I know it."</p>
+<p>Juniper: "We can?"</p>
+<p>He nodded in affirmation, "You can."</p>
+<p>Mio added, "It won't be easy -- far from it. But we'll help you."</p>
+<p>Raine called out from behind, and she turned to face him, "Juniper... It's your call."</p>
+<p>Selin nodded in agreement, "We've made it this far thanks to you."</p>
+<p>Juniper nodded, "Yes... I suppose so..." Signaling to the group, "<em>If</em>... there is a possibility that you can release us from the Clock, then... please."</p>
+<p>Raine, in a joking tone, shrugged off to not let hope stayed too high, in case they felt disappointment after, "And if not, it's not like anything's changed."</p>
+<p>That raised Juniper's mood, and she laughed in return, "Haha! Very true. If you can't break it, I can live with that too." Then, looking down, perhaps the idea seemed disappointing after giving them so much hope, "Nothing changes without a reason, without a cause." Looking back at the group, "Perhaps this event will teach me to see things in a new light..."</p>
+<hr />
+<p>Noah and Mio facing the Colony Tau's Flame Clock, Noah shouted "Here we go!" as blue lights emblazoned their body, The Ouroboros symbol enlivened their iris. They jumped and canceled their Interlink thereafter, Noah sliced the Flame Clock from down to up himself, Mio falling back down behind him. 'Lives' escaped it for a moment before dissipating, the 'left' part of the Flame Clock crashed onto the ground below as it dislocated itself.</p>
+<hr />
+<p>Juniper looked at the destroyed Flame Clock, shook her head, in a grateful tone, "I see acceptance is actually surprisingly easy, when it comes down to it."</p>
+<p>Sena agreed with her, "I think it probably is, yeah."</p>
+<p>Then, Juniper turned to the group, "Uhh... I'm sorry if this seems rude, but, could I ask another favor of you?"</p>
+<p>Noah nodded in return, "Sure!"</p>
+<p>"I'd like to learn much more of the world. Become a stronger individual. To that end, is there any chance I could accompany you?"</p>
+<p>Lanz: "Whatdaya say, guys?"</p>
+<p>Taion logically analyzed, "We could certainly do with someone of Juniper's caliber..."</p>
+<p>Noah: "It'd be reassuring to have you on board. You're very welcome to join."</p>
+<p>Eunie asked, "Is your colony gonna be OK, though? Can they get on without you?"</p>
+<p>"Colony Tau needs to undergo change too. We need to extend our knowledge and grow." Then, she turned to his fellow Agnian colleagues and friends, while signaling back at Noah's group, "So I'd like you to take me on a trip. Somewhere far away... And show me something new."</p>
+<p>Selin answered in excitement, "A... journey of discovery, huh? I guess that's another thing we need in order to grow."</p>
+<p>Raine agreed too, suggested with an upbeat tone, hands on his waist, "Might be an idea to send some of our younger recruits out too. Could be a good lesson."</p>
+<p>Juniper: "It's time to breathe new life into our colony. Let us break free from the chains that once bound us."</p>
+<p>Raine shook his head, in a joking tone, "I guess I'm still hanging about, though. Can't have us all gallivanting about the place."</p>
+<p>Lanz was still bothered with: "Your Consul really doesn't bother to show up, huh..."</p>
+<p>Mio nodded in agreement, "Even after we broke the Flame Clock... You'd think they'd know."</p>
+<p>Eunie enjoyed being trouble-free: "Better this way, if you ask me."</p>
+<p>Taion shook his head from the optimism, "Still, we shouldn't rule out the possibility that they'll make trouble for you."</p>
+<p>Noah, looking to Raine and the other Agnians, "If something happens, you tell us immediately, OK?"</p>
+<p>The group look back, wavered, "Sure! Can do! We'll be counting on you."</p>
+<p>Taion signaled the group for departure, hands crossed, "Well, we don't have all day. I think it's about time we made tracks, no?"</p>
+<p>Noah agreed, "You're right. Time to move, then."</p>
+<p>Juniper: "Well then, everyone..."</p>
+<p>Before she could say anything, Raine jokingly assured her, "Ahhh, don't worry about us. You know we can handle ourselves."</p>
+<p>Selin added from behind him, "We'll prove that Colony Tau... can be so. much. more!"</p>
+<p>Juniper nodded, "Yes... I'm sure it will be."</p>
+<p>Raine nudged, "Off you go then, skedaddle! The colony's staying right here, waiting for your return..."</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="24_annihilator.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="26_maktha.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="24_annihilator.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="26_maktha.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

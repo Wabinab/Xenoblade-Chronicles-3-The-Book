@@ -1,0 +1,699 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Melia - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html" class="active"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="more-about-melia"><a class="header" href="#more-about-melia">More About Melia</a></h1>
+<blockquote>
+<p>Before reading this, it's encouraged that <a href="./86_zeon.html">you read about Zeon first, because this story assumes you were already introduced to Zeon.</a> He doesn't appear in the main story, but we included an introduction story for him for you to be introduced to him.</p>
+</blockquote>
+<p>The group was exiting the blood-red-lit factory of Keves Castle towards the alleyway when they were met with someone whom tried to keep a low profile. Stopping in her track, she asked to "Excuse me." and quickly walked in between them, hoping them not to take notice of her, but Mio recognized,</p>
+<p>"That voice..."</p>
+<p>Noah: "Wait... I know who you are!" That halted her in her position.</p>
+<p>Before they could speak more, Aizel, one whom were searching for and catching after her, nervously called out from where she had came from, "Your Majesty!" He therefore surrounded the group in a semicircle with the accompanying soldiers.</p>
+<p>Melia shook her head and sighed, "Hngh... Did it fail?"</p>
+<p>She walked past the group and approached Aizel, "I understand... how you feel, but... you must think of your own well-being! <em>Please... have patience, I beg you!</em>"</p>
+<p>She frustratingly replied, "Surely I've been patient enough. Stuck there in Origin, it's enough to send one insane."</p>
+<p>Mio cut into their conversation, "Um... Can we help you?"</p>
+<p>Aizel explained, "Her Majesty is insistent that she explore the outside world undercover..."</p>
+<p>"I wanted to see for myself what the beings of this world thought, what they needed. Until now, all I could do was perceive data... But no longer."</p>
+<p>"I know, yes, but... if you simply gave us the order, we could perform all the legwork for you..."</p>
+<p>"There are things you can't understand unless you experience them for yourself."</p>
+<p>Another Castle soldier persuaded, "Then, at least allow us to accompany you!"</p>
+<p>"If I go with you, <em>won't that draw attention?</em>"</p>
+<p>Noah suggested thereafter, "How about if we went with you? We're quite well-traveled around Aionios now. There are plenty of places we could show you around, I'm sure."</p>
+<p>Mio added, "And of course, we share a common goal. There are people out there living in the harshest conditions, yet still they struggle on. We want to help them all too, just like you."</p>
+<p>"You want to help?"</p>
+<p>Manana: "More people makes for more merries! Would be mega merries with more Melia!"</p>
+<p>Taion lectured, "Manana, you must refer to Her Highness in the proper manner."</p>
+<p>"<em>Manana speak improper?</em> Oh, that right. Many sorries, Melly!"</p>
+<p>That alerted Aizel, "<strong>M-MELLY?!</strong>" The growth of such improperness after given a second chance to rephrase herself.</p>
+<p>Taion begged for pardon therefore, "Please, Your Highness, forgive our insolence!"</p>
+<p>Manana still couldn't understand the situation, "<em>Oh, Taion did a boo-boo?</em>"</p>
+<p>"<em><strong>I</strong> didn't</em>."</p>
+<p>Melia was reminded long ago when some Nopon "Ahah... It's been a long time since anyone called me that. Then I have a proposal. They will be my only guards."</p>
+<p>Aizel still tried to convince her to change her thoughts, "<em>Your Majesty, why must you do this? What necessitates it? You have only just returned! You are the hope of all Keves! Should the unthinkable happen, then-</em>"</p>
+<p>"You're such a fusspot, Aizel. But I want you to understand. The future is not shouldered by me alone. It's something that's created by each and every person in the world. I never wanted to sit there in my ivory tower and gaze down from on high. That's not the kind of ruler I am."</p>
+<p>"<em>I apologize. I spoke out of turn.</em>"</p>
+<p>"I'm not criticizing you. You are what I wanted. You are my hope." Then, turning to Noah and his group, "I have a request... Or rather, something to discuss. Could I ask you to take a fellow traveler under your wing? Her name is Melia."</p>
+<p>Taion: "If that's... truly what you wish for."</p>
+<p>Noah: "I don't see why not. Glad to have you with us, Melia."</p>
+<p>Lanz: "Talking to the Queen on equal footing... That's crazy, mate!"{{footnote: Well, the more crazy you had Queen Nia standing behind you!}}</p>
+<p>Sena: "<em>Yeah, I'm gonna feel so awkward...</em>"</p>
+<p>Riku: "No need for stress. Just act natural." Well, she's your Shifu, of course you don't stress...</p>
+<p>"Ohhh, stomach of Manana getting rumbly!" That's not even related, Manana.</p>
+<p>"...Maybe some stress for Manana."</p>
+<p>Melia: "Ahahah!" Eunie tilted her head to her side looking at Melia, and noticing her actions, she would like to know "What's wrong?"</p>
+<p>"Our wings..." She prick the tip of her wings to show, "Your High-... Sorry, I still can't believe you have them too, Melia. Makes me feel special. Like we're the same."</p>
+<p>"Right. We are the same."{{footnote: Half-homs half High Entia, yes.}}</p>
+<p>Aizel: "Your Majesty..." He did the Kevesi welcoming stance, "I urge you, <strong>please</strong> take care..."</p>
+<p>"I'll be relying on you in my absence, Aizel." Turning back to the group, "I'm sorry to saddle you all with me, everyone. But I'm looking forward to it too."</p>
+<hr />
+<p>Inside the Queen's chamber where the birth pods were, one Queen's Aide (whom had no name) was debating with Aizel, "You're having a laugh. You think this is going to make it all better, do you?"</p>
+<p>"I will bear full responsibility! Otherwise... Well, there is no 'otherwise'!"</p>
+<p>Melia, accompanied by the Ouroboros, had returned from their journey and overheard their debate. She therefore sternly questioned, "What <em>are</em> you two bickering about?"</p>
+<p>Despite the sternness, it doesn't prevent Aizel from showing his delight, "Your Majesty... What a welcome sight, to see you return!"</p>
+<p>"Has a problem arisen in my absence?" She kept her sternness, skipped the flattering and redirected the conversation back to her main concern.</p>
+<p>In denial or just don't want her to worry about it, he shook his head and lightly denied, "Ah, no no... Just a trifling matter, really..."</p>
+<p>The Aide insisted instead that Melia be informed about it than dealing with it themselves, "Actually, we do have a bit of a problem on our hands, Your Majesty."</p>
+<p>Aizel quietly tried to convince him from taking his words back, "<em>Hey! Mind your-</em>"</p>
+<p>"We have to report the facts as they are. How much longer are you going to leave this hanging, eh?"</p>
+<p>"...Tch."</p>
+<p>Noah prompted, "What's the problem?"</p>
+<p>Aide: "Couple of days ago, we had a small run-in with our Agnian opposites. Aizel took care of them, but things got out of hand a little bit..."</p>
+<p>He nervously refuted, "<em>'Out of hand', nothing! They insulted Her Majesty's honor! I'm spitting feathers!</em>"</p>
+<p>"But we'd no reason to fight. <strong>You were the one who earned their ire!</strong>"</p>
+<p>Melia: "Did they come to any harm? You hurt them?"</p>
+<p>"<em>I'd only intended to, er, scare them. But, then they resisted...</em>"</p>
+<p>"So you sought to defeat them."</p>
+<p>"<strong>NO! Nothing of the sort! They had no Flame Clocks, so I would never-</strong>"</p>
+<p>"The presence of a Flame Clock is not what instigates a battle. The glimmerings of war are always there, within us. I imagine discovering that fact must have come as quite a shock to you."</p>
+<p>"Huh..." He still shook his head in denial.</p>
+<p>Taion: "Circumstances aside, if you've incited their wrath, <em>then I assume we haven't heard the end of this.</em>"</p>
+<p>The Aide confirmed his hypothesis, "As you say, they have since begun to rally together in opposition."</p>
+<p>Aizel dropped his head, "I am ashamed... <em>Truly... ashamed.</em> Now that this has come to a head, I cannot but take full responsibility... I will thwart their objective, even if it should cost me my life!"</p>
+<p>Melia sternly refuted, "<strong>You shall not! Do not speak of throwing your life away so lightly!</strong> I've already lost so many of my friends. I could not bear to lose another..."</p>
+<p>"<em>Your Majesty...</em>"</p>
+<p>"I told you, did I not? You are my hope. I will speak to the Agnian chief retainer personally about the matter. <strong>In the meantime, cool your head.</strong>"</p>
+<p>"Haish..."</p>
+<p>"Any more unfinished business that I should know about?"</p>
+<p>The Aide added, "Couple of house calls to make, Your Majesty. They want you at Colony 9 and the City."</p>
+<p>Noah: "Colony 9? So Zeon, then?"</p>
+<p>Aizel assured him, "Indeed. They've asked for some urgent backup following the recent Origin attack."</p>
+<p>Aide: "And the other request is from Monica. Wants you to give her people a pep talk."</p>
+<p>Melia: "The descendants of Ouroboros... <em>I've caused such grief for them, and for an unfathomably long time.</em>"</p>
+<p>Noah assured, "But now they get to speak to their real Queen. I'm sure they'll be overjoyed."</p>
+<p>"Yes, perhaps... Speaking face to face with another... <em>There's nothing</em> quite like it."</p>
+<p>"Um, Melia...?"</p>
+<p>"I'm sorry. I'm afraid I'm going to be taking up some more of your time..."</p>
+<p>Mio: "Mhm... Now, you can cut that out. Agnus or Keves, soldier or Queen... <strong>What difference does it make?</strong>"</p>
+<p>Eunie added, "The future is to be created by each and every person in the world. I think you were the one who taught us that."</p>
+<p>"True enough. Your unyielding spirit... <em>gives me the strength to go on</em>."</p>
+<blockquote>
+<p>Noah, thinking in his head, "<em>Sometimes when Melia smiles... I see sadness in her eyes. As if she's all alone in the world...</em>"</p>
+</blockquote>
+<p>Lanz pushed the agenda forward when everyone finished speaking, "Well, better start making the rounds. We've gotta stop by Colony 9, the City, and..."</p>
+<p>Sena added, "Agnus Castle, right?"</p>
+<p>Aizel and the aide did the welcoming stance, the former speaking, "Safe journey to you all."</p>
+<hr />
+<p>Inside the war room, Monica was surprised at Melia's arrival, "<strong>Your Majesty...?!</strong>"</p>
+<p>"Sorry to bother you... I'm sure you're rushed enough as it is. I'm here to discuss the speech you mentioned... Did I... come at a bad time?"</p>
+<p>"<strong>No, not at all!</strong> We've been stretching our necks every day waiting to see if you'd turn up."</p>
+<p>"I too have been... anxious to meet you. I'm sorry, to have been a source of anguish for you this long."</p>
+<p>"It's all been for today. I don't consider any of it a waste." And Melia nodded with thanks. "Now, onto the matter at hand: rallying the troops. With the final battle with Moebius looming before us, we're doing our best to prepare, but we need more than just supplies. A battle to determine the fate of the world is hardly a light topic. Everyone's beside themselves with worry... Some poor souls have completely snapped. <strong>We're never going to</strong> last in actual combat at this rate."</p>
+<p>"I don't blame them. No matter how noble our cause, the fighting <em>will</em> cost us lives. We're caught between the future we desire, and the present, which is ours to lose. It's a place beset on all sides by fear."</p>
+<p>Eunie empathized with that, "<em>You got that right. Especially when there's no guarantee you're gonna be coming home.</em>"</p>
+<p>Monica: "Even a brief address would do. Just as long as you speak to them somehow."</p>
+<p>"I understand. I don't know if I'll be able to get through to them, but I will try."</p>
+<p>Noah offered himself, "We'll be your guides while in the City, make sure you don't lose your bearings."</p>
+<p>"That would be most appreciated. While we're here, would it bother you if I took a look around the City itself?"</p>
+<p>"Please, be my guest. <em>I think we'd all like that.</em>"</p>
+<p>Noah suggested, "Maybe we could take her to Centrilo Parade? There's plenty of people around there."</p>
+<p>"No objections from me, but... there are some rather... shall we say, ardent followers of the Queen up that way. If they get too insistent, you might need to give them a friendly nudge." So a surprise then!</p>
+<p>"<em>Oh yeah? All right, we'll keep a lookout.</em>"</p>
+<hr />
+<p>At Centrilo Parade, one or two people, and one Nopon walked past them. Michiba Canteen cornered at the turn of the alleyway. Containers, tables, chairs, barrels, lie on one side, while one-storey shop on the other side. The alleyway was roofed with some clothing. Orange lights mounted on the horizontal beams that made up the roofs provided lighting for the alleyway.</p>
+<p>Melia shared her thoughts, "Now this is a far cry from the colonies and the Castles. Here is a place where people can truly live... make a home."</p>
+<p>Eunie shared hers too, "I couldn't believe my eyes when I first saw this place. All these different people I'd never seen before. Things of all shapes and sizes..."</p>
+<p>"I wish I had been there to see your reaction. A shame."</p>
+<p>That gets her excited, "And see my mouth hanging open like a lummox? Not worth it!"</p>
+<p>Noah noticed, "You seem to take it all in your stride. None of this surprises you?"</p>
+<p>"It's more that I'm assailed by old memories. Technologies of old are put into practice here. I feel the industry of those times." Suddenly, people came out of nowhere and dashed and surrounded the group, shocking her, "<strong>Huh?</strong>"</p>
+<p>An elderly man (labeled 'A') excitedly questioned, "Is that... really you? Queen... Melia?"</p>
+<p>"Err... Yes, I do go by that name..."</p>
+<p>"<strong>IIIIIIIIII KNEW IT!!!! I knew it from the moment I laid eyes on you.</strong> You were something special!" Now that's the 'ardent followers' Monica said.</p>
+<p>As he completed, two Ouroboros candidates huffed and puffed as they caught up with the old man, stopped slightly behind him, and Jansen commented, "Huff... Finally caught up..."</p>
+<p>Nissick: "Hey old man, you're gonna give yourself a heart attack."</p>
+<p>"<strong>Wahaha thanks for your concern</strong>, but I'll decide when and how I'm going to pop my clogs! I've lived my whole life for this day... <strong>HECK, you all have, haven't you?</strong>" And they turned to see the people at the back.</p>
+<p>Another Middle Aged Guy A spoke, "Huh, of course we have!"</p>
+<p>Middle Aged Lady A: "You've returned to us at last, my Queen! You <strong>really</strong> are as <strong>radiant</strong> as they say..."</p>
+<p>Even Michiba joined in, inviting, "Heeeeeey, fancy a bite? You should come by my restaurant, sample a few of the local dishes!"</p>
+<p>Middle Aged Guy B refuted, "Hey, nobody wants to see your seedy little bistro! She wants something memorable!"</p>
+<p>"<strong>Oh!</strong> Say that again, I dare you! If you hate my establishment so much, I'll be more than happy to <strong>bar you from it, permanently!</strong>"</p>
+<p>Kryto walked between the two and shouted commands, "<strong>All right, people, don't shove!</strong> And stop arguing! We don't wanna scare the Queen now."</p>
+<p>Kryto Groupie A (his fan, one guesses): "<strong>OH!!!</strong>"</p>
+<p>Kryto Groupie B: "<strong>MY!!!</strong>"</p>
+<p>Kryto Groupie C: "<strong>DAYS!!!</strong>"</p>
+<p>Kryto Groupie A, in the sharpest and highest tone one can possibly made, "<strong>KRYTO!!!</strong>" These three were waving their hands like fans ever since the group arrived. Thought they were waving at the Queen, but seemingly not...</p>
+<p>Taion was getting scared at these reactions, "<em>Come on now, this is getting excessive...</em>"</p>
+<p>Cyma (another one of the Ouroboros candidate, probably) proposed not, "Ah, leave 'em. Everyone's been living for this moment."</p>
+<p>Olive added, "It's always been my dream to see the true Queen come back to us... A lot of us die before we get the chance."</p>
+<p>Kryto: "Yeah, but now it's actually happening! Before our very eyes! How can we possibly keep calm when a miracle is unfolding?"</p>
+<p>Melia: "I am so grateful to you all, my people. I would like to express a few words of gratitude, if I may. It is a joy to see real human activity once again, after all these years. I see that you continue to remain strong."</p>
+<p>Michiba: "'Course we do! Gotta protect what we love, right?"</p>
+<p>Elderly Man A: "That's right. I'm not resting these old bones so long as there's life in 'em!"</p>
+<p>Nissick: "<strong>We'll hold out for decades more if we have to!</strong>"</p>
+<p>Middle Aged Guy A: "We have our Queen, and even Ouroboros stand by her side!"</p>
+<p>Jansen: "With their strength behind us, Moebius won't stand a chance!"</p>
+<p>Noah, seeing the spirit high, quietly told Melia, "Looks like that takes care of that."</p>
+<p>"Indeed." She agreed.</p>
+<p>Eunie was impressed, "Wow... 'Decades' plural... And here we are, happy enough if we can reach one."</p>
+<p>Middle Aged Guy B shared his view, "The way I see it, you lot are far more incredible. You've achieved so much in so little time."</p>
+<p>Eunie seemed to take it for granted, "Huh? That's only natural, ain't it? Gotta get stuff done in the time you have. No way I could imagine having to fight for 40 or 50 years... Feels so snuffin' far away..."</p>
+<p>Melia: "Eunie..."</p>
+<p>Middle Aged Guy C suddenly changed topic, "By the by, I'm not seeing the Storyspinner anywhere."</p>
+<p>Who is this "Storyspinner?" Melia would like to know more.</p>
+<p>Olive explained it, "He's this old guy who knows more about the City's history than anyone. He's like a walking encyclopedia!" Really?</p>
+<p>Cyma added, "Real curious bloke. Normally he'd jump at an opportunity like this..."</p>
+<p>Middle Aged Guy C: "He's no spring Tirkin, though. If he hears he's missed his chance to meet Her Majesty, he might drop dead from the shock..."</p>
+<p>Melia was shocked, "Heavens..." Couldn't indirectly causing someone's death, isn't it? "Where might we find this person? I think we should pay him a visit."</p>
+<p>Eunie was surprised, "What, really?"</p>
+<p>Middle Aged Guy C: "I'll bet it'd make his day, <strong>but are you sure?</strong>"</p>
+<p>"I would like to try to meet him, if at all possible."</p>
+<p>Noah: "As you wish. It's your call."</p>
+<p>Cyma suggested, "You'll probably find him at Mitia Lookout. I hear it's one of his favorite spots."</p>
+<hr />
+<p>At Mitia Lookout, a huge empty balcony that viewed out into the emptiness. Only three stalactite-looking pillars dangling at one side, and all else is misty, foggy, and shrouded. The group found Taleb overlooking afar, "Oi! What's all the fuss? Whose funeral is it this time?" The white-haired brown-shirt guy turned around and looked at the group.</p>
+<p>Melia replied to him, "Nobody's, I should hope. We were just wondering if-..."</p>
+<p>She didn't managed to finish her sentence when Taleb shockingly gasped, "<strong>Hgwah?!!! Old Melly?!!!</strong> Oh... This- this can't be real, Somebody pinch me! What if... it's actually <strong>my funeral</strong>? Then that would mean... <em>Wh-where the blazes</em> have I ended up?!"</p>
+<p>Eunie looked at him like seeing a fool, answering unconvincingly, "Yeah, uh, <em>this is Mitia Lookout? Innnnn the City?</em>"</p>
+<p>Melia apologized, "I'm sorry, I didn't mean to startle you. I'm told you have quite the wisdom. I was hoping to ask you a few things, if it doesn't bother you."</p>
+<p>"Ahhhhh, I get ya. The Queen herself is asking me personally to tell her a story! Huh, now I know I'm dreaming... <strong>Hey, Ouroboros kids! Gimme a good wallop. Here, right on the kisser!</strong>"</p>
+<p>Lanz was prepared for the job, "Sure thing." And he got forward and slapped him down to the ground.</p>
+<p>Seeing him unconscious, the group gathered around the old man, while Melia shockingly questioned, "<strong>Have you gone quite mad?!</strong>" And everyone turned their head looking at him, unbelievable at what he'd just did.</p>
+<p>Taion: "<em>Lanz...</em>"</p>
+<p>"I-I didn't throw my weight into it!"</p>
+<p>Mio couldn't take this nonsense anymore, "Let's all calm down for a second and just talk sensibly. Please."</p>
+<hr />
+<p>After he woke up, the group explained the situation to him. Taleb: "Ahh, I see... A rousing speech for the City, eh? What a stroke of luck! Even after that battering, I'll know I'll be content in the afterlife!"</p>
+<p>Lanz complaint, "Oh, don't start! <strong>You were the one who asked us to!</strong>"</p>
+<p>Excitedly, "Well, it seems life's worth living a little while longer. Don't want to disappoint old Queenie now, do I? Go on then. Ask away."</p>
+<p>{{footnote: Here, you can choose what question to ask first. The video gamer chose "Has it been tough fighting on for decades?" first.}}Melia: "I hear you have accumulated a wealth of knowledge over the years. If you don't mind my asking... Is it not painful to know so much more than people around you, and be so much older?"</p>
+<p>"Why, Melly, do you mean to say... you're worried about my ailments?!"</p>
+<p>"...Pardon?" She got confused.</p>
+<p>He probably got it wrong, thinking it physical than emotional/mental, "I've got arthritis, dermatitis, constipation... <strong>Bones are as brittle as all hell, and I can never get a wink of sleep!</strong> When I do sleep in, the doc's gotta come and check my breathing... Can't do what I used to. If it's not one thing, it's another!"</p>
+<p>Eunie: "Yeah, that's not what she was talking about."</p>
+<p>"Oh, aye? What was it, then?"</p>
+<p>She rephrased Melia's sentence, "When you get to the age you are, after living for so many decades..." That conversation finished here.</p>
+<p>{{footnote: Now the next: "How do you know of Melia?" selected.}}Sena: "I've been wondering... When you first saw Melia, I kinda got the impression you knew more about her than you let on...?"</p>
+<p>"'Course I do! Have you seen the stacks of literature they've got here in the City? <strong>Packed to the rafters</strong>! There's passages on the true Queen, too. And you betcha these eyes have read 'em all back to front, twenty times over!"</p>
+<p>"<em>So you know all about her?</em>"</p>
+<p>And he nodded, "Naturally, naturally!{{footnote: No, of course you don't! How could you when Melia herself don't know all about herself?}} Here, I'll give you an example... It is a lesser-known fact that Her Majesty is <em>squeamish around</em> shiny bugs!"</p>
+<p>Melia was shocked herself, "Wha... How can you possibly know that?!"</p>
+<p>"There was also a little morsel about how she found Rainbow Bugs particularly revolting. They're extinct now, but uh, I reckon they're beasties about the <strong>size of your fist</strong>, whose bodily excretions make 'em glow, and-"</p>
+<p>Melia cut him short, "<strong>All right, enough!</strong> You don't need to go into such detail! <em>The mere memory gives me <strong>goosebumps</strong>...</em>"</p>
+<p>"Ohoho don't you worry, I've got plenty more tidbits like that up my sleeve!"</p>
+<p>Eunie explained, "We don't want to hear it!... <em>Look, I'll tell you what I want to know.</em>"</p>
+<p>"Oh yeah? I'm all ears."</p>
+<p>"When you get to the age you are, after living for so many decades... you must've had to say goodbye to so many of your friends, and stuff. <em>Must be a lot of crap to deal with. So, uh... How do you cope?</em>"</p>
+<p>"<strong>A ha ha ha</strong>, the pits is what it is! There are times when I wonder why I <strong>don't just curl up and die</strong>! But see... <strong><em>Life ain't all sunshine and roses.</em></strong> <em>I think that's part and parcel of it.</em>"</p>
+<p>"<em>So... what? You just have to go on living in misery?</em> <strong>You've gotta be joking</strong>..."</p>
+<p>Taion: "Eunie, are you all right?"</p>
+<p>She turned to him and explained, "<strong>I just wanna know what it's all about. Growing old</strong>. There's folk out there who get to live <em>so much longer</em> than us. And they still choose to fight. It just feels like I'm always taking a back seat. Like I'm getting left behind... But I wanna be there with you guys. Even if it's just <em>in</em> spirit..."</p>
+<p>Noah: "Eunie... I had no idea that was how you felt."{{footnote: Well, you never asked, so she never told you before.}}</p>
+<p>"<em>Yeah, sorry... Hard to... put it into words, really</em>."</p>
+<p>Melia turned and shared to her, having live longer than almost everyone except Nia, age frozen when the time stopped, "Even if those you once loved are no longer a part of this world... Lonely as it is, and painful though the memories be, it's not wholly a tragic tale. <strong><em>For you can keep close to your heart your memories of those dear to you.</em></strong> <em>And that is something to take pride in.</em> <strong><em>That is what will give you strength.</em></strong> Admittedly, my life took a very different path to the likes of my companions here... <em>But such are my thoughts.</em>"</p>
+<p>Taleb was hearing all along, "<strong>Ahh...! Never a truer word was spoken...</strong> That's one for the ages! Where's my notepad?"</p>
+<p>While he searched for his notepad, Mio assured her, "The fact that you're worrying about us, here and now, Eunie... I don't think we'll ever forget that. Your feelings will transcend time..."</p>
+<p>Noah: "<em>I'd have to agree.</em> So don't feel like you need to be doing anything special for us, Eunie. It's reassuring enough just being the way you are."</p>
+<p>"<em>Hah... Don't suppose you've got any tissues on you?</em> Spark... Why'd you have to go and make it all soppy?" Well, you can cry, Eunie, if you'd like to. We won't mind.</p>
+<p>Melia: "Nobody is leaving you behind, Eunie. <em>If you ever feel distance between you</em>, you need only speak out."</p>
+<p>"Wait... Was this <strong>all</strong> just to tell me that...?"</p>
+<p>Yeah, "That's about the size of it. Good luck out there, young'uns."</p>
+<p>Lanz couldn't have disagreed more, "<strong>Don't just pass it off as your own speech!</strong>"</p>
+<p>He didn't care about the grumbling, asked for a favor instead, "Say, Melly... Would you mind <em>if we shook hands?</em>"</p>
+<p>"<strong>HE'S STRAIGHT-UP IGNORING ME!!!</strong>"</p>
+<p>Melia: "I don't see why not...?"{{footnote: AHAHAH even Melly ignore you...}}</p>
+<p>"Oh, you angel! Now I can shuffle off this mortal coil without regrets!"</p>
+<p>Taion: "Ngh..." Don't just go die yet, bro!</p>
+<p>Eunie: "Knowledgeable my arse..." What thing did we learn from him, except his disease, and knowing what Melly is scared of?</p>
+<p>Taleb: "<strong><em>Life's a cruel journey from one end to the other. You only get one chance to walk it. But if there's one thing, that gives it all meaning, it's love.</em></strong>"</p>
+<p>Mio: "That's very sweet..."</p>
+<p>"That ain't something I have to teach you young folk, though. <em>Your friends are lucky fellows.</em>"</p>
+<p>Eunie recalled, "<em>Monica said something like that, too. Still doesn't make much sense to me, though...</em>"</p>
+<p>"Ho ho ho... Well, <strong><em>love takes many forms. There are as many ways to show it as there are people.</em></strong>"</p>
+<p>"<em>I'll remember that... Thanks.</em>"</p>
+<p>Melia: "I hate to be the bearer of bad news, <em>but we should probably be getting on.</em> Till we meet again, Storyspinner."</p>
+<p>"Indeed, indeed. Safe travels to you, Your Majesty."</p>
+<hr />
+<p>At Colony 9. Zeon was overlooking the many soldiers lying inside the medical tent. One of the soldier whom Zeon stood beside his bed, Kurt,scorned, "Oof, that'll leave a bruise... <strong>Be more gentle, Commander!</strong>"</p>
+<p>"Urg... Don't expect miracles. I'm trying my best to heal you here."</p>
+<p>"Here, let me." Melia and the others arrived just in time to take over the healing.</p>
+<p>He turned to apologize, "Thank you, miss. That would be gr-... Wha...?! You're..."</p>
+<hr />
+<p>After Melia used her healing skills, Kurt was already sitting on his bed, and Melia: "That should suffice. Can you walk?"</p>
+<p>"Y-yeah, I think so."</p>
+<p>Zeon: "Queen Melia...! <strong>Ung, To what do we owe the honor?</strong>"</p>
+<p>"What good is a ruler if they cannot send aid to their people in times of need? I'm sorry to have kept you waiting, Zeon. Please, let me have your report."</p>
+<p>It was daytime, and some female soldier A were entering the med camp when she noticed Melia, "Hey... <strong>Hey, look. Isn't that the Queen?</strong>"</p>
+<p>The male soldier B beside her was surprised too, "<strong>What? Like the real deal?</strong>"</p>
+<p>Zeon, seeing the unneeded attention she'd attracted, agreed, "Right... Back to my post."</p>
+<hr />
+<p>After he'd dealt with the busybody soldiers, he went back to speak with Melia, "Excuse me. Origin's attack unfortunately caused a landslide near Alfeto Valley entrance. We've been treating the wounded, and also dispatched a survey team to scan the area. The thing is, we've lost contact with the survey team. <em>The line just went dead...</em>"</p>
+<p>Kurt added, "There was a really loud sound earlier on! Could be more rocks!"</p>
+<p>Melia: "I see. Then we'll take it from here." Then, she turned to "<strong>Eunie, how're you doing over there?</strong>" She was treating the other patients while she had Zeon's report.</p>
+<p>"I've healed up the worst of 'em. Now they just need a little R&amp;R."</p>
+<p>The soldier she just finished treating, male C, was surprised, "<strong>Aw, really? I've gotta lie down?</strong>"</p>
+<p>Then she teased, "C'mon. If you've got the energy to flap yer trap already, you'll be back on your feet in no time."</p>
+<p>Melia was delighted at the spirit, "I see I had no cause to worry."</p>
+<p>Noah prompted for more information from Zeon, "How many were on the survey team?"</p>
+<p>To which he replied, "Three. One was piloting the Levnis." After touching on his Iris, "OK. I've sent the landslide's location to your Iris. You can confirm it for yourself."</p>
+<p>"Got it."</p>
+<p>Kurt suddenly spoke for a personal request, "Uh, if you happen to see Anita from the survey team... could you..., er... <strong>T-tell her to give back what she owes!</strong> 'Cause I'll be waiting here until she does!"</p>
+<p>Melia: "I'll be sure to deliver the message." Then, turning to Eunie and the other injured soldiers, "I'm so sorry to have let this come to pass, everyone. <strong>This ordeal will be over, ere long</strong>."</p>
+<p>Soldier A from earlier: "<strong>You watch yourself too, Your Majesty! Don't wanna see you get hurt neither!</strong>"</p>
+<p>Soldier B: "<strong>I hope you find our friends!</strong>"</p>
+<hr />
+<p>On the muddy road leading toward where the landslide was, the group noticed something on fire. Sena alerted the group, "Hey, look at that!"</p>
+<p>Eunie: "A survey branch Levnis?!"</p>
+<p>Melia: "Quickly! We must rescue them at once!" They therefore dashed to the point of interest.</p>
+<hr />
+<p>"<em>Hello...? Who's... A-argh... there...?</em>" Anita lower torso was being sealed under a giant rock.</p>
+<p>Melia and the others had already found her, "It's all right. We're here to help. Stay still. I'll get that heavy thing off you right this instant!"</p>
+<p>After removing{{footnote: a.k.a. destroying}} the rock, Eunie helped Anita to sit up properly. "Right, that's her injuries about treated."</p>
+<p>Melia: "You're a survivor by nature. Good fortune that we made it in time."</p>
+<p>"Oh, I can't thank you enough! I thought I was a goner..."{{footnote: Bro, she sounded like Ghondor.}}</p>
+<p>Eunie hadn't forgot Kurt's request, "Say, you wouldn't happen to be Anita, by any chance?"</p>
+<p>"Yeah, I'm Anita."</p>
+<p>Sena passed the news, "Oh, that's great news! There was a guy in the rescue tent who was really worried about you! He said he wanted you to, pay him back, or something?"</p>
+<p>Melia: "I suspect that was merely an excuse. He seemed really rather worried. <em>Very insistent that you make it back</em>."</p>
+<p>"Ahh, it's... got to be Kurt. We've been in the same unit since first term. He can be a little faint-hearted at times. I'd better go and try to calm him down..."</p>
+<p>"Ahh... So you've been joined at the hip since childhood."</p>
+<p>"Joined at the... Sorry?" Never heard of that phrase before, eh.{{footnote: Neither do one.}}</p>
+<p>"I mean that you were... inseparable. <em>You've had a special connection throughout your lives</em>. You understand each other's feelings, and you lift each other up in times of need, <em>is what I'm trying to say</em>."</p>
+<p>Noah sensed something, "<em>Hm?</em>" He probably wondered if she had one friend at the very least like that in her own childhood.</p>
+<p>Melia continued, "<strong><em>Your friends are irreplaceable. Be sure to treasure them.</em></strong>"</p>
+<p>"Y-yes, ma'am! Thank you, <strong>thank you!</strong>"</p>
+<blockquote>
+<p>Noah, thinking in his mind: "<em>Did she have someone in mind herself? There's someone out there special to her?{{footnote: Don't ask one, one can't remember. Her sister? Or maybe Shulk?}} But then, she was imprisoned in Origin for so long... So maybe they're already...</em>"</p>
+</blockquote>
+<hr />
+<p>By another site near the waterfall and broken levnis, "Urggg..." Mio discovered a soldier being crushed under the levnis, unable to escape himself.</p>
+<p>After examining his situation, she turned around and told the group, "His foot's trapped. We'll need to move the rubble very carefully..."</p>
+<p>Melia: "Using Arts would be far too dangerous. In which case..."</p>
+<p>Lanz, hearing the chance, turned to Sena, "Someone call for heavy lifters?"</p>
+<p>"Awwwww, yeah! We'll clear this out in no time!" And the two got to work.</p>
+<p>After removing it, Melia told the soldier, "You're in safe hands now."</p>
+<p>"Y-yes, thank you!"</p>
+<p>Mio asked for patience, "Hang in there just a little longer. We don't want to overlook anything..."</p>
+<hr />
+<p>At the final site by some gravel along a slope, Noah found the last soldier lying on the stony surface, assured, "Hold on! It's going to be OK!"</p>
+<p>The soldier reported, "There was a... second landslide... Don't mind me... Look for the others..."</p>
+<p>Melia: "We're well aware. But firstly..." She drew her staff and swiftly healed him.</p>
+<p>"Ah! Feels warm..."</p>
+<p>After the soldier got up on his foot, Melia instructed, "Do not move from this spot. We're going to check the immediate area."</p>
+<p>He subconsciously did the Kevesi welcoming stance, assumed order received, "A-ah, yes... Of course!"</p>
+<hr />
+<p>By a dirt slope near the waterfall, the group gathered around for discussion, with Eunie announcing, "Right... I think that's the lot of 'em accounted for!"</p>
+<p>Taion: "I wouldn't relax just yet." He turned around and looked up at the jaw-shaped slope, sharing his observation, "The landslide have formed a sharp incline, in turn increasing the risk of loose rocks. <em>I hardly need to state this, but the possibility of further landslides remains high.</em>"</p>
+<p>Melia: "Getting caught in another landslide would be undesirable. We must make some distance, and quickly. <strong>Back to Colony 9.</strong>"</p>
+<hr />
+<p>In Colony 9, the group were met at the medical tent by Zeon and the other soldiers whom had already returned themselves, plus those lying on the bad just now could already stand up, with Soldier B from earlier announced, "<strong>The Queen has returned!</strong>"</p>
+<p>Soldier A: "<strong>Hurgggg, Welcome back! We're glad to see you safe, Your Majesty.</strong>"</p>
+<p>She got to the topic immediately, "We were at the site of the landslide, but the situation remains precarious. It is vital, that we remove the remaining rocks upon the slope in the coming days. You shall have the Castle's aid, of course... But your own assistance in this matter would also be most appreciated."</p>
+<p>"Oh, we'd be glad to help! Never want to have to go through this again..."</p>
+<p>Anita: "But, if we hadn't, we'd never have got to meet Queen Melia... I don't regret it. Because I learned today, that we weren't forsaken..."</p>
+<p>Melia: "Forsaken?"</p>
+<p>Soldier B explained, "The only time we normally ever get to meet Your Majesty is at the Homecoming. <em>We've been through so many bitter times, but we've never known you to help us.</em> Not so directly."</p>
+<p>"You make a valid point. From this moment on, I'll endeavor to the best of my ability to allay your fears."</p>
+<p>Kurt did the welcoming stance, "Ah... You're too kind, Your Majesty!"</p>
+<p>Zeon, seeing the situation right, had something to say, "Then, in the interest of allaying fears, there may be another matter I would like to discuss with you..."</p>
+<p>"Oh yes? Speak up, then."</p>
+<p>"I would like, from this moment on, to let the colony elect their commander, of their own volition. And I don't mean just for... appointing a successor after death or for the purposes of reform. If they make their voices known, then I think I would gladly relinquish my position as commander this second." Democracy, or meritocracy, eh?</p>
+<p>Anita: "<strong>WHAT?!!!</strong>"</p>
+<p>Kurt: "What brought this on...?" They clearly hadn't heard of him discussing with them before then.</p>
+<p>Melia tried rephrasing, "Then... you wish to formally step down?"</p>
+<p>"Well... I was always the Consul's <em>favorite... plaything</em>. I was a mere pawn, dancing to his whims, enacting his orders... But in coming to terms with our <em>new life</em>, I began to realize, the qualities needed in a commander are... very... different nowadays."</p>
+<p>Noah: "Please don't belittle yourself, Zeon. You've worked so hard to get where you are."</p>
+<p>"Believe me, I've thought about this long and hard. <strong>About who really fits the role of a commander. It must be someone we all look up to. Someone with whom, we can share our path.</strong>"</p>
+<p>"<em>Zeon...</em>"</p>
+<p>Melia: "While I do not object to your logic, Zeon, I hope you realize that our role is in the essence naught but a figurehead. What that figurehead represents, however, <strong><em>is something only you can decide.</em></strong>"</p>
+<p>"It's down to me...?"</p>
+<p>"<strong><em>A person is not shaped solely by their birthright or innate qualities.</em></strong> As long as you remain <strong>critical</strong> of who you are, whether you deserve the position or not has little relevance."</p>
+<p>"This... crisis of conscience... <em>You once experienced it as well, Your Majesty?</em>"</p>
+<p>"<strong>Of course.</strong> Everyone has their battles with self doubt. How else does one grow as a person? If you remain true to yourself, then you have <strong>nothing</strong> to fear. In this <strong>rich</strong> tapestry of life, you must find the path that <strong>you</strong> are willing to weave."</p>
+<p>"<em>I will give it more thought, then.</em>"</p>
+<p>"Very good. I look forward to hearing your answer."</p>
+<blockquote>
+<p>Noah, more thinking in his head, "<em>Melia must have had her share of hardship, to talk about these things in such depth... If she's ever stuck in a rut, I wonder if we'll be able to console her in the same way? Would she even want that?</em>"</p>
+</blockquote>
+<p>Perhaps feeling his eyes on hers, she turned to him, "Penny for your thoughts, Noah?"</p>
+<p>"No, it's nothing. We should get going. We've got some traveling ahead of us." And she agreed.</p>
+<hr />
+<p>One evening, at the edge of the empty stage (and open ground) in Agnus Castle, the group met "Nia... This is a surprise."</p>
+<p>She turned around and replied without a second thought, "Don't worry, I know the whole story... <strong>OH, BLOODY HELL-</strong>" She clearly doesn't expect Melia to be the one speaking, regain her composure as a "behaving" Queen first, before softly and stutteringly spoke, "Ahem. <em>I- see- you are- in- good- company</em>."</p>
+<p>"They're kindly serving as my bodyguard. They're assisting me with a number of other matters, too."</p>
+<p>Mio clarified, "The assistance goes both ways, actually."</p>
+<p>Manana: "We all <strong>one big happy family!</strong>"</p>
+<p>"Yes, that's right. <em>Family.</em>"</p>
+<p>Nia: "Indubitably. I have a... rough- grasp of our <strong>present</strong> predicament. You've come to hear <strong>their</strong> side of the story, <em>have you not?</em>"</p>
+<p>Taion: "You make it sound, as if these are no ordinary <em>Agnians.</em>"</p>
+<p>"With Queen Melia's assistance, we have been closely monitoring them on <strong>both</strong> sides. <strong>I'll</strong> get to the point: these people belong... neither to Keves... nor Agnus."</p>
+<p>Melia explained to the uninformed group, "To be precise, they were formerly Agnian soldiers, but... Now they claim to have lost their faith even in Agnus. This intense distrust of the future has driven them to wanton destruction." So, she seemed to have been informed without the group's knowledge.</p>
+<p>Mio rephrased, "So they stopped believing in anything, and now they just want to ruin things for everyone?"</p>
+<p>Sena shook her head in dismay: "<em>That's awful...</em>"</p>
+<p>Nia: "The Keves and Agnus of today are founded upon mutual trust and respect. At least, that is the mood we try to foster. But the reality is that not all of us can readily accept these <em>changes</em>."</p>
+<p>Melia: "The recent outburst was just an act of passion, but if like-minded people were to <strong>congregate</strong>..."</p>
+<p>Taion continued down the logic line, "They may gain enough momentum to pose a legitimate threat, is that it? So they're the ones who have incited the latest uproar, <em>I take it?</em>"</p>
+<p>Noah: "We might have to prepare for the worst-case scenario..."</p>
+<p>"Manana bite{{footnote: i.e. 'don't understand'.}}. What make worst case so bad?"</p>
+<p>Eunie explained to her, "<em>He means, there could be an attack on the Queen's life.</em>"</p>
+<p>"<strong>MEH-MEH?! That worse than worst case!</strong>"</p>
+<p>Melia: "That's one of the reasons, but we simply can't afford to leave this be. I don't believe they truly want to oppose us. Rather, they feel they are at an impasse. <strong><em>One cannot so easily change their way of life, or how they view the world.</em></strong>"</p>
+<p>Nia assumed, "Perhaps I ought to assert my authority as Queen after all, and-"</p>
+<p>Melia rejected her assumption, "No, if you lock horns with them now, it's very possible they will shut you out completely. I would rather have you prepare to welcome them in with open arms."</p>
+<p>"<em>That's incredibly kind of you...</em>"</p>
+<p>Eunie: "So? Where do we find these troublemakers?"</p>
+<p>"It seems, they're lying low at Hovering Reef 6."</p>
+<p>"<strong>Seriously? That's right next to the Castle!{{footnote: Keves Castle.}}</strong>"</p>
+<p>Taion: "Presumably they approached under the guise of their fellow Agnian soldiers. The Castle isn't on particularly high alert, so it makes sense that they wouldn't arouse too much suspicion."</p>
+<p>Nia: "Yes, <em>as sad as it is...</em> I- hear they're pooling their forces. You'd best be on your guard."</p>
+<p>Melia: "Fear not. I am no stranger to battle. <strong>And besides</strong>, look at my entourage."</p>
+<p>"You shouldn't have to get used to this. <strong><em>Experience can make a person stronger, it's true, but it can't take away one's pain.</em></strong> <em>That goes for Queens, too, you know.</em>" Lots of story for each of them too, huh!</p>
+<blockquote>
+<p>Mio, in her thought, "<em>The mood's turned dark all of a sudden...</em>"{{footnote: Translator suggested the mood being reflective and reminiscing, particularly of their past, rather than the weak adjective 'dark'.}}</p>
+</blockquote>
+<p>"I'm aware of that. Thank you, Nia."</p>
+<p>"<em>Take care, you guys...</em>"</p>
+<hr />
+<p>One night, a cruising Agnian levnis guarding one of the lower island of the  Hovering Reef. Hiding behind a rock, the group's arrival went unnoticed. Sena noted, "Agnian Auto-Levs..."</p>
+<p>Eunie: "They've hauled those things out here? Can't catch a break, can we?"</p>
+<p>Melia: "As Lady Nia informed us, we should expect them to be hiding in an ambush somewhere on this island. I must remind you that we are only here to negotiate. If possible, I would like to avoid combat..."</p>
+<p>Lanz voiced his concerns, "Sure, but what if they're the ones to come at us first?"</p>
+<p>"Then suppress them at once. We could even disable their Levnises, so that they have nothing with which to fight back."</p>
+<p>"Hey, I've been meaning to ask for a while now... You really know how to handle yourself in a scrap, don't you?"</p>
+<p>"Yes, I'm no stranger to the field of battle. Nor is this the first attempt on my life."</p>
+<p>Sena was surprised, "Whuh? Even though you're the Queen?"</p>
+<p>"Precisely <strong>because</strong> I am the Queen. <em>Is it really so strange for nobles to be acquainted with violence?</em> There was even an assassin within my family once."</p>
+<p>"<strong>HUH?!</strong> I'm sorry, I hope we didn't bring back painful memories for you..."</p>
+<p>"Please, it's perfectly fine. Many are the things that have shaped me into who I am today. <strong><em>Learning to accept my weaknesses, understanding each other's differences... Opening one's heart to others...</em></strong>"</p>
+<p>Lanz did a whistle at Melia, "Whiu... You must've been in some real good company to learn all that."</p>
+<p>"Ahaha! Perhaps, yes. Back when I was young and naïve, my companions taught me some invaluable lessons."</p>
+<p>Mio: "And you took those lessons to heart. That's how you came to be such a magnificent Queen."</p>
+<p>"Though times may change, their teachings will never fade. <em>Which is why I still believe...</em> I believe that our last breaths should not be those of despair..."</p>
+<hr />
+<p>The group approached the center of the island, with Sena calling out softly, "Hello? Nobody at home?"</p>
+<p>As she finished her sentence, they were immediately surrounded by Agnian soldiers, blocking both entrances along the valley. One Annihilationist Soldier shouted, "<strong>DON'T! MOVE!</strong>" while the group withdrew their blades.</p>
+<p>Mio: "Melia..."</p>
+<p>"I'll handle this... <strong>My name is Melia Antiqua. I wish only to speak with you.</strong>"</p>
+<p>The Annihilationist Leader replied with sniping tone and poisonous tongue, "Speak with us? Rip us to shreds, more like, Queen of Keves."</p>
+<p>"You are the ringleader, are you? <strong>State your name.</strong>"</p>
+<p>"And why should I tell you?" This was a slightly buffed guy with a slide-like huge eyebrow, pointed chin, and wear a 'head armor' that looked more like one wore by nurses. "The world I once knew is gone! They told us, defeating Keves was the only way for us to be saved! It was the right thing to do. The <em>just</em>... thing to do! And I believed it!"</p>
+<p>Melia just shook her head and sighed.</p>
+<p>"Do you realize, how many of my friends <strong>died</strong> in <strong>pursuit</strong> of that <strong>dream</strong>? You think I can just tell them, 'Yeah, <strong>sorry guys, you died for nothing'?!</strong>"</p>
+<blockquote>
+<p>Mio, noticing the enraging tone, thinking in her mind, "<em>He's lost his cool. Maybe we should step in and deal with him... But... Melia told us she'd handle this.</em>"</p>
+</blockquote>
+<p>Meanwhile, the leader continued, "You <strong>ruined</strong> it. You joined forces with the Agnian Queen, <strong>and you drilled these... NOTIONS... into our heads!</strong> You take away our friends, then sully our reason to <strong>live</strong>... My friends, died, that day... but you've killed them <strong>ALL</strong> over again!"</p>
+<p>Mio can't resist interfering, "<strong>And that's why you've decided to destroy</strong> everything?"</p>
+<p>"That's right. We don't need a shitty world like this anyway."</p>
+<p>Melia kept her calm, "Is that all?"</p>
+<p>"<strong>I told you to stay where you are!</strong>" But she sheathed her blades and walked forward.</p>
+<p>Mio: "<strong>Melia?!</strong>"</p>
+<p>The leader was immediately alerted, "<strong>HEY! WHAT ARE YOU TRYING TO PULL?</strong>"</p>
+<p>"I could ask you the same thing." The calmness in her voice was unwavering, despite the heated situation. "<em>Why do you hesitate?</em> You could attack me right now."</p>
+<p>"Pf-pf-pf-s-s-<strong>SHUT UP!</strong>"</p>
+<p>"You have no desire to destroy anything. You are simply trying to get by in a world where nothing makes sense any more. <em>And that's why I'm here.</em>"</p>
+<p>"Shut up, <strong>shut up, SHUT UP!!!</strong>" No, that's not true, I'm unwavering, I must be unwavering, I will be unwavering! He therefore called his spear blade to prepare to fight, unwilling to listen to the encouraging statement in case he changed his mind about it.</p>
+<hr />
+<p>After a bashing and all lay down on the ground, with only the leader still standing, he was still angry, despairing, "<strong>Fire and ash!</strong> So that's how it is? <strong>That's how you look down at us?</strong>"</p>
+<p>Melia don't understand, "Sorry?"</p>
+<p>"<strong>I know all about you.</strong> You Queens live longer than any of us could ever dream. You aren't like us, are you?! <strong>That's how you can just SIT on your thrones, TOYING WITH OUR LIVES LIKE-</strong>"</p>
+<p>Mio couldn't hear his false statement, rebutting before he finished his sentence, "She <em>is</em> like us! <strong>If you hurt her, she feels pain...</strong> She bleeds all the same..."</p>
+<p>"Mio..." Shaking her head, Melia tried to discourage her from speaking more, but Mio was insistent,</p>
+<p>"That's why she's came all this way, to hear your story! She wants to know more about you... She wants to share her time, with <em>you</em>!"</p>
+<p>"Wh-h-h-huh... <strong>Yeah, right. OUR LIVES are like the BLINK of an EYE to her ilk!</strong>"</p>
+<p>"Just because she lives longer, it doesn't mean she's any different from you! <strong>We're all here, aren't we?</strong> We're all alive..."</p>
+<p>"...That's enough, Mio. I see now how you feel about all this."</p>
+<p>Lanz cannot hold back his thoughts, "Mate, have you been making that speech to the Kevesi officers too? Telling everyone that Melia's different to everyone else?"</p>
+<p>"<em>You bet I did.</em> <strong>She's</strong> so far up herself it makes me <strong>sick</strong>."</p>
+<p>Shaking his head, "If anyone's warped... distorted <em>here... it's you</em>."</p>
+<p>"<strong>Then what am I supposed to do? WHO ELSE, AM I SUPPOSED TO TAKE MY RAGE OUT ON?!!! Tell me the truth.</strong> Right now. <strong>The pure, UNADULTERATED truth!!!</strong>"</p>
+<p>Melia shook her head, "<em>That, I cannot tell you. <strong>The answer lies in you, and you alone</strong>. You must have realized by now.</em> <strong><em>There is no weight to the 'truth' of another, if you cannot judge it for yourself.</em></strong>"</p>
+<p>And he just gasped facing reality.</p>
+<p>"If you must have an object of hatred in order to live your life, then let it be me. But promise me, that someday, you'll live for the things that truly have worth. Just as you and your comrades-in-arms <em>once did</em>..." Her eyes stern.</p>
+<p>"It's already too late... I can't go back. Not after what I've done..."</p>
+<p>"<em>I highly doubt that.</em> You are still breathing, are you not?"</p>
+<p>Noah asked Melia, "Are you all right?"</p>
+<p>"I told you, I am no stranger to battle. Besides, I could not tolerate simply watching from the sidelines..."</p>
+<p>"<em>Melia...</em>"</p>
+<p>"Their sadness, frustration, anger... I shall never forget these feelings. <strong>Come! Let us</strong> proceed to the next location." And that's the end we heard of the leader and his group.</p>
+<hr />
+<p>Back inside the Castle throne room{{footnote: i.e. the room with the pods.}}, "Your Majesty!" Aizel immediately dashed as he saw her, did the Kevesi welcoming stance, and announced, "You've returned!"</p>
+<p>"I trust it's been... <strong>quiet</strong> in my absence?"</p>
+<p>"Yes."</p>
+<p>Then turned to him, "I see that you have calmed down."</p>
+<p>"Yes, I have realized. However <strong>fervent</strong> my loyalty, <strong>if</strong> <em>I am ever the source of Her Highness's anguish</em>, it does no good."</p>
+<p>"You think too deeply, Aizel. 'Tis your mind's fiction."</p>
+<p>"Tah! <em>I will rectify that!</em>"</p>
+<p>Smilingly, "Mmm hmm hmm... I am sure you will."</p>
+<p>Then, the Queen's guard approached, asking "How was your trip? And what of the world?"</p>
+<p>"Mankind's follies... <strong><em>People never learn. Whatever the passage of fate may bring, we must never lose the spirit of defiance.</em></strong> Lest we submit to injustice. As we once did..."</p>
+<blockquote>
+<p>Noah, now voicing out softly his thought, "<em>Again... Why does she look so sad...?</em>"</p>
+</blockquote>
+<p>As she walked towards her throne, she continued speaking, "My friends and I, we... We fought hard for all this. We staked our lives on this future. And if there's a chance to keep it that way... I too will be happy... <em>to sacrifice myself for this world</em>."</p>
+<p>"Snuff that for a laugh." Melia turned around and saw Eunie walked up to her, where she continued speaking, "I hate that. You're the important one here."</p>
+<p>"Pardon?"</p>
+<p>And the group walked forward and joined, with Noah agreeing with Eunie, "<em>It's true. It's something I noticed before.</em> As befits a Queen, you're always thinking about your subjects. <em>But who thinks about what's best for you?</em>"</p>
+<p>Mio added, "Seeing you suffer alone like this... None of us like it. It's too sad to think about. Losing you, that is. You're one of us."</p>
+<p>Eunie: "<strong>Yeah, think about</strong> how much you always think of us. It's only fair... if you let us do the same <em>for you.</em>" And Lanz and Sena nodded. Even Riku and Manana.</p>
+<p>"I am speechless..."</p>
+<p>Noah: "Melia, you <em>are</em> needed in this world. But, <em>you weren't born solely for the world's sake.</em>"</p>
+<p>"That may be so... However, I..." And she looked down on her feet as she reminisced her sad memories, or maybe, trying to find a way to rebut.</p>
+<p>Noah walked closer to face her, attracting her attention, "If you'd permit me, I'll gladly lend you my strength. Not because you are our Queen... But because we're travelers, in the here and now. So we should live. Together."</p>
+<p>And she looked at him attentively while her mind wandered into the past,</p>
+<blockquote>
+<p>A blonde short hair man with large eyes{{footnote: Shulk}}, "I'm glad you're with us, Melia!"</p>
+<p>And her mind wandered past a buff guy with brown skin{{footnote: Reyn}}, a slightly-brown skinned black hair brown iris woman with a mole on her chin{{footnote: Sharla}}, a orange-brown Nopon{{footnote: Riki, maybe Riku's ancestor?}}, A black hair brown skin guy with beard{{footnote: Dunban}},</p>
+<p>A green nopon with an unriped flower on top of his/her head, holding a staff forward, spoke, "Fighting alongside you all  is the best!", another pink Nopon{{footnote: These two nopons are in Future Connected, but unfortunately, one didn't play that sequel, only watched the first 20 minutes or so of gameplay from YouTube, so one don't remember the names and didn't search it up.}}, and finally, a blonde hair girl with huge green iris, pale skin, always smiling{{footnote: Fiora.}}</p>
+</blockquote>
+<p>And her sadness turned into a smile as the happy memories never fades. "Yes... You are right. How funny..." She closed her eyes to remember more happy moments she had with her friends. "<strong><em>Though wisdom is said to come with age... still you all seem to teach me so much...</em></strong> If some things elude my grasp... your words... show me that <em>there is more. More to life...</em> They guide me when I run astray. Again... <em>and again...</em> How fortunate I am... to have you."</p>
+<p>And she walked past Noah to the middle, be surrounded by the group. And Eunie can tease, "Ehuhuh! Now that's more like it, girl." And everyone just feel more relax; with Riku looked up at her, relieved that she'd opened up.</p>
+<p>Noah approached to her side from behind, "Melia... Thank you. Thank you... for always having believed in us."</p>
+<p>"That's one thing I would never doubt. Now, we embark on our quests. To create... the future."</p>
+<p>"Yes... It's ours!"</p>
+<blockquote>
+<p>After this encounter, we can now access Melia's bedroom from the "proper" way.{{footnote: The improper way is to go to the garden on the top and jump down, via a few protruding area, and finally drop on the balcony.}}</p>
+</blockquote>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="84_isurd.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="92_nia.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="84_isurd.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="92_nia.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

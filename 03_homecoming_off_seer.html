@@ -1,0 +1,329 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Homecoming, Off Seers, Shower - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html" class="active"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="homecoming-off-seers-shower"><a class="header" href="#homecoming-off-seers-shower">Homecoming, Off Seers, Shower</a></h1>
+<p>A winged man knelt before a humanoid wearing a red suit, with a purple glowing core attached to his/her chest (like Iron Man's core), similar to the one we seen from afar standing on the shoulder of the flame clock levnis during the battle. The suit covered all his/her features, including his/her face, and the only exposed features is the yellow-orange sharp eyes, as if (s)he had the eyes of a jaguar, locking on to a prey. The winged man raised his head to look at him.</p>
+<p>Behind the winged man, we saw soldiers lined up, including Noah and his team.</p>
+<p>The red-suit humanoid turned from looking at the winged man, to the other direction. There were also soldiers lined facing him, the winged man, and Noah and the other soldiers. They stand on both sides, with a middle alleyway, which he walked till near its end, then turn left and give way to a winged woman. It's the woman we saw inside the castle whom gave embryo fertilizers! She wore a silver-white mask, silver hair spreaded around, with the hair in front of her chest curled forward.</p>
+<p>Lanz: "Whoa! Even the <strong>Queen</strong>'s come out!"</p>
+<p>"So that's Her Majesty, huh?" Eunie was awestruck.</p>
+<p>"Wow... I've never seen her before..." Behind them stood Joran and Noah, where Joran expressed his excitement.</p>
+<p>Noah was thinking of something else, he just agreed like an automatic responder: "Hmm..."</p>
+<p>The Queen step forward and walk the central alleyway, and stop before the winged man. The winged man was still knelt, one leg on the floor, another bent; one hand on his bent leg, another fist on the floor. The soldiers beside the alleyway hold up their flutes, bring it to their lips, and the homecoming melody filled the air in unison.</p>
+<p>Noah had lots of questions. We can't know what he thought, but he was focusing on a guy in particular. The guys had yellow long hair, tied to a loose ponytail behind. He is one of the choir team, currently holding his black flute and playing it. We saw logo that represent how much terms they had back of his palm. The logo composed of 5 diamonds, each diamond had a smaller diamond within; so a double-decked diamond. One of the diamond lay in the central, while the other four lay north, east, south, and west of the central. The diamond on the east and west had an extra line cutting through the diamonds, parallel to the north-south diamonds. The western diamond and line, plus the central diamond, was still red; while the other 3 diamonds and lines already greyed out. He hadn't got much time left. We haven't saw Eunie's or Noah's, but on young Lanz, it's located on his chin, which is mostly red, signifying he was still young then.</p>
+<p>While Noah was thinking, the Queen held both her hands up into the air, as if to embrace the winged guy. Yellow specks of particles suddenly appeared from his body, to which he looked at them; perhaps realizing it's time, held his hands up into the sky and looked up, to see the last of the world before his time. As we focused our attention on the red-suit humanoid, (s)he probably is thinking something else, though behind the mask, we can't know for sure.</p>
+<p>"So cool!" gasped Joran.</p>
+<p>Lanz held both of his palms into fists, "I heard the stories, but this is just wild!" Then, in a lighter tone, "That's gonna be me someday! Just you try and stop me! You guys, too. You're totally making it with me!" Pointing towards Joran and the others.</p>
+<p>"Of course!" Eunie replied.</p>
+<p>"Uhm..." Joran was hesitating.</p>
+<p>"And you, Noah! Right?!" Lanz looked towards Noah. Noah was still in his world, responded without acknowledging, "Huh? Sure..." Perhaps coming back from his world, he realized his tone wasn't firm enough: "Yeah, you bet." One could see some seeds planted in him, waiting to germinate.</p>
+<blockquote>
+<p>Our lives came from the Queen, and we all lived for a chance to take part in the Homecoming. The chance... to return to the Queen's embrace. Carrying out 10 years of service, fighting. That was our whole world. Nobody ever thought to question it. Until that day...</p>
+</blockquote>
+<p>Probably referring the guy whom Noah looked up to.</p>
+<hr />
+<p>Back in the battlefield. Noah was playing the flute, similar melody to those of homecoming. Previously red particles floating in the sky turned blue. Husks, Agnes or Keves, glowed blue, emanating more blue particles as the melody hummed. Kevesi levnises drove over Agnus' soldiers husks. Kevesi soldiers stepped on their torso, careful not on step on their hands and legs or they would lose balance easily. Most were yawning, looking down, exhausted. Flying levnises, after loaded the soldiers, changed to flying form, retracted their ground support, and blasted off into the air. The flame clock levnises had already gone, not seen anywhere. All except Noah's team, whom waited for Noah as he played the melody.</p>
+<p>Lanz sat where he was, Eunie, the other guy, and the green nopon stood. As he completed and stuffed his flute into his back pocket, he looked down from his vantage point, reminisced for all soldiers. Some Kevesi were so badly injured their colleagues had their arms over their shoulder, helping them walk.</p>
+<p>"Do you have to?" Lanz sounded, <em>not</em> looking at Noah.</p>
+<p>Noah: "Huh?"</p>
+<p>"You shouldn't be sending those guys off like that."</p>
+<p>"What? Why not?"</p>
+<p>"Why are you like this, Noah? It's Agnus! Our enemy?"</p>
+<p>"Well, yeah... They don't have an off-seer, though. To send them."</p>
+<p>Eunie sniped back, "Yep. They all bit the dust, thanks to us."</p>
+<p>"So what?" Lanz shrugged.</p>
+<p>"Look, there's no rule not to." Noah tried to explain. Lanz wasn't about to hear his explanation anyways.</p>
+<p>"Then, what, you're just gonna... keep going? I don't get you, Noah."</p>
+<p>"I know we're putting our lives on the line. But still..."</p>
+<p>Eunie had enough of his explanation, "Yeah, yeah, we get it already.<em>'Friend or foe, someone has to lay them to rest.'</em>" She speak words Noah had spoken before, in a deeper voice to imitate, while trod-ing up towards him, stopping to stand by his side. "<em>'For that is my role as an off-seer.'</em> Right?!" With the last word, she knocked his chest with her elbow.</p>
+<p>Noah turned and looked at her: "Uh... Is my voice that deep?" More concerned about the imitation than the content, huh?</p>
+<p>Eunie wasn't impressed, hands on her waist, looking up at him. "Shut it, you. I wasn't trying to be anyone specific." Then, changed the topic, "Right, I've had about enough of all this depressing crap. Let's head back and hit the showers. I'm all gunked up with blood and sweat."</p>
+<p>She walked off, eyeing her elbows where blood and sweat stained. Lanz stood up. The last of the levnises had already roll off or flew off. Lanz, looking them off, complained, "Uhh... Bye, transport. Guess we'd missed it again..."</p>
+<p>Eunie eyes wide opened as she took two steps forward, as if trying to retain the levnises, complaining, "Oh... bollocks! Ugh, Noah always does this! How many times is it we've had to walk home now?!" Then, they walked off.</p>
+<p>Noah took a final look at the battlefield by himself, still had many questions in his head, before turning and joined the team.</p>
+<hr />
+<blockquote>
+<p><strong>Translator's note on the environment:</strong> Between this battlefield region and where their colony was, was called Everblight Plain. It was located in the Aetia Region. The roads between the two locations was filled with relatively weak monsters, like "bunnits," rabbits white, brown, or black, with a mace attached to the tip of their tails; or "wisp," which are wasp-like creatures, where the "night wisp" glow in the dark while the morning ones don't, and other insectoids and animals.</p>
+</blockquote>
+<hr />
+<p>(Upon arrival at the colony)</p>
+<p>The flame clock levnis parked in the middle of the colony. Around it, rectangular bunker camps made of metal roofs were set up; they are the barracks. Below it from a distance, we saw a cloth tent covering many tables, probably the canteen. There were also some barrels of unknown use, to the right of the canteen. To its right, another metal bunker structure, the shower. It was evening, street-lights holding with very long fluorescent filament stood, itself emanating yellow-orange hue against the yellow-orange light from the setting sun.</p>
+<p>"Ah, made it back at last. What a hike!" Good old Lanz.</p>
+<p>The green nopon speak, and we finally know his name: "Such long walkings tough on legs of <strong>Riku</strong>... Riku totally popped."</p>
+<p>Noah turned to look at the flame clock levnis: "It was a massive battle, but we don't seem to have taken too many injuries, fortunately."</p>
+<p>To which Lanz replied, "Yeah, well, I guess that's the upside of going against a low-rank, no-mark colony like that."</p>
+<p>Eunie: "On the flipside, we didn't manage to fill up the Flame Clock all that much..."</p>
+<p>The last guy whom shot when Noah first blocked and signaled to Lanz, slightly dark skin, with his hair stripped with rolls, named <strong>Mwamba.</strong> "Ah, it's all for the best. At least we've all come back in one piece."</p>
+<p>Noah: "I agree. And anyway, we should be all right on that front, for the time being."</p>
+<p>Riku: "Noah, talking out here just waste time. How about friends move chatter into bath."</p>
+<p>"Good thinking! Let's do that." Slow response, Eunie...</p>
+<blockquote>
+<p><strong>Translator's note on environment:</strong> Each colony had their names. Kevesi colonies used the numbering system, so Noah's colony is <strong>Colony 9</strong> (which they're currently at). On the other hand, Agnian colonies used the alphabetical system, e.g. Colony Alpha (A).</p>
+</blockquote>
+<hr />
+<p>Inside the shower.</p>
+<p>Men and women shared the same shower room, without cover. Nopon too! All stripped themselves naked, of course. Mist from hot water greatly reduced the proximity of our vision, reaching Noah's chest. Noah turned off the knob to the shower, water stopped splashing out the shower head.</p>
+<p>Noah turned and walked towards a shared spa, putting one feet before the other. To his front left, Eunie was already in the spa, leaning her back onto the walls, her hands on the wall{{footnote: or floor}}. "Ahhh" Noah sighed. Feels refreshing. We could also see nopons in the pool; floating and swimming around.</p>
+<p>"Say... You know how you became an <strong>off-seer</strong>... after what happened...?" Eunie began the conversation, slightly bending forward towards Noah, concentrating her attention.</p>
+<p>"Hm?" Noah took a more relaxing stance, curved his back more until his shoulders were immersed in the waters. "Uh... I guess, yeah..."</p>
+<blockquote>
+<p><strong>Memories:</strong> Flames rolled all around, Joran standing in the middle. Rocks came tumbling down around him. One can't read his facial emotions, which they seem neutral; no desperation, no smiles either. As more boulders came smashing down, he was buried alive.</p>
+</blockquote>
+<p>"Does it... still hurt?" Eunie prompt.</p>
+<p>Noah turned his head and looked at her, then looked up, changing his posture while he speak: "No... I can't say I'm totally over it... but I'm getting there. I've sent... so many of our comrades. A lot's happened." {{footnote: Riku was swimming in the distance on the spa. (Didn't want to put this in as it disturbs the flow)}}</p>
+<p>"Both for me... and those sent on." He recalled the first homecoming they've seen, the focus was the yellow-haired guy.</p>
+<p>"Mmm." Eunie dipped her body lower, her chin touching the water surface. Noah turned to face another direction, changing the subject, "Anyway, worry about him."</p>
+<p>Lanz was showering next to Mwamba. Something on his right shoulder seemed to pissed him off, while Mwamba was offering his help. He smiled back and rejected as if nothing happened, and they chatted a bit.</p>
+<p>Noah: "Poor guy. Pushes himself too hard."</p>
+<p>Eunie: "What can we do. He's been like this for ages."</p>
+<blockquote>
+<p><strong>Memories:</strong> Flames surrounded, young Lanz running towards Joran, Noah held his left arms with both hands, tugged him out of the flames. Lanz stretches his right arm, eyes wide opened, trying to reach Joran, mumbling "No! No!" all the time. Pebbles fell in front of him.</p>
+</blockquote>
+<p>Eunie, putting her arms behind her head, shut her eyes: "He never got to apologize. So... You know..."</p>
+<p>Lanz seemed to be done with showering, showing up behind Noah: "Hm? You guys talking about the battle?" Then, putting his feet and lower himself into the water beside Noah, "Don't worry about the bonus points... 'cause I'll have nabbed 'em all!"</p>
+<p>That rigid change of subject must've interruped Eunie's reminiscing moments. She stood up and look, her body slightly leaned forward, at Lanz, "Er... the snuff you on about? I'll have you know I clocked up a fair bit more!"</p>
+<p>Lanz didn't agree, and was probably emotionally hijacked, also stood up and face Eunie, her hands waving and pointing at himself, "Oh, yeah, sure. I'm the one who took the heavy off its hinges. They give you loads of points."</p>
+<p>"Ooh, big deal!" Eunie walked up to him slowly, cutting him. "If that heal had come a few seconds later, you'd be sleeping in the dirt!"</p>
+<p>Lanz: "Uh, yeah, no, uh-uh... That was part of the plan. You couldn't tell? I just felt like giving you the credit. But don't worry, you can thank me later."</p>
+<p>Noah watched the drama for a while and wasn't interested in getting involved, sliding slightly away from the center point of conflict, and look up through the small window at the top of the shower bunker. Through it, stars of varying brightness paste themselves against the dark sky, illuminated dimly by the remaining sunlight. Seen from outside, two waterfalls fall from a ledge to the right of the colony, the ledge protruding, making a horn shape, while other protrudes irregularly. Few clouds covered a small portion of the stars.</p>
+<p>Eunie: "Huh? You're a right muppet, Lanz..."</p>
+<hr />
+<p>Finishing their shower (and quarrel), Noah walked up to the team, the last to finish dressing up. Lanz, with his hands behind his heads, yawned. "All right then! Off to bed with me."</p>
+<p>Eunie agreed, turning to face Noah, "Yeah... All that walking's really done a number on me!"</p>
+<p>Noah felt awkward, scratching the back of his neck, "I'm sorry..."</p>
+<p>Eunie already forgave him, knowing he wouldn't have changed his mind anyways, "Hehe! Come on, let's go!"</p>
+<p>"Yeah!"</p>
+<p>"Meh meh!" And they walked off to bed.</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="02_born_for_war.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="04_emergency.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="02_born_for_war.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="04_emergency.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

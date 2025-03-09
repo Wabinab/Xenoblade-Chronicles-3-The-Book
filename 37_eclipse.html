@@ -1,0 +1,443 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>The Eclipse - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html" class="active"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="the-eclipse"><a class="header" href="#the-eclipse">The Eclipse</a></h1>
+<blockquote>
+<p><strong>Translator's Note on Environment:</strong> Soldiers traversing up and down a dark central alleyway that have occasional lights mounted on to the beams. Another scene: more soldiers walking around a booth that looks like a reception, though no one sit behind the desk. There were doors 'behind' the reception, with some soldiers sitting by a table and speaking to each other. Yet another scene: on an empty tiled ground, buildings surrounded the empty space. Fire torches lined both side of the central alleyway leading to an elevated stage at the front. More pillars grown behind the elevated stage. We could see this is a zoom in version of <strong>Agnus Castle Region.</strong></p>
+</blockquote>
+<hr />
+<p>A soldier shoved Noah into the cell. Eunie, Taion, Riku and Manana, Lanz, and Sena were already inside. The gate closed in front of his eyes. In another cell, Mio faced the other side of the door, locked up by herself. The soldier leave thereafter finishing their business.{{footnote: In hindsight, this is where the first scene on one's note on environment came: to both side of the alleyway lined the heavily-guarded prisons that locked the group.}}</p>
+<hr />
+<p>Seconds by seconds, minutes by minutes, Noah forcefully shook and punch the metal grate, to no avail.</p>
+<hr />
+<p>He desperately punched and punched and shoved himself on the jail door, "<strong>Sparks! It's just a metal grate. Why can't I break it?!</strong>"{{footnote: At least in this page, bold means strongly expressed, loud, heightened voice/tone; while italics meant soft, desperate, desolate, crying, loss of hope; or if used by the enemy, italics meant softly spoken. It if was both italicized and boldened, it was just one highlighting the phrase worth writing down in your diary!}}</p>
+<p>As the wrestling continued, Taion had had enough, got up and asked, "<strong>Cool it, Noah!</strong> They've stripped us of our powers. There's no way for us to break it! Just give it a rest."</p>
+<p>"How can I 'give it a <strong>rest</strong>'?!" He continued etching out every strength he had battling the door as he replied, "We have to get through! <strong>We have to get Mio out...!</strong>"</p>
+<hr />
+<p>Another afternoon.</p>
+<p>Beams from the evening sun entered the alleyway, casting it a foggy presence . Noah heard footsteps, looked up and saw N stopping outside, looking down on him like a master looking at a slave, "Surprisingly well-behaved. I half-expected you to have blown a hole in the wall by this point. Or what? <em>Have you resigned yourself wholly to your plight, knowing the extent of my power?</em>"</p>
+<p>"Did you come to gloat? Where's Mio?" Noah angrily looked at him as his breathed shallowly and heavily.</p>
+<p>"The girl, you'll find... is in the cell beside you."</p>
+<p>"Huh?" He was surprised. Despite all the punching and kicking, she didn't made a sound.</p>
+<p>"Call out her name, why don't you? Your voice, at least, should reach." His teeth gritted at such cruelty he put him and her in. N continued, ignoring his anger, "Oh, I see. You still cling to a sliver of hope.{{footnote: He turned to face the window, back facing Noah.}} <strong>You recall</strong>... I wanted to stage a little sideshow. You expecting applause? <em>It's the Homecoming.</em>"</p>
+<p>"Huh?" Everyone in the cell was shocked hearing what he'd decided to do.</p>
+<p>"Hrmph... I'm glad you catch on quick. With the eclipse... one month from now. <em>The girl will meet her long-awaited end.</em> <strong>Why don't we honor it at the Castle?</strong>{{footnote: The 3rd scene being shown from translator's note earlier. What we can see now that we can't just now, is Swordmarch in the distance.}} Make it a day <em>to remember</em>?" N turned to face Noah with a grim{{footnote: His hands like a V-shape and shaking them to show strength and elation.}}, "<strong>Well?! Does that not</strong> <em>please you?</em> <strong>What a magnificent sideshow it will be! HUHHAHAHAHAHA!!!</strong>"</p>
+<p>Noah lost his composure and jumped on his feet, hands against the metal grate, shaking it. As he walked closer to Noah, he continued,</p>
+<p>"Oh, yes... I almost forgot to tell you something. You are now aware of the cycle of rebirth, yes? There is an exception."</p>
+<p>"Huh...?" N put his mouth near his ears and whispered loudly.</p>
+<p>"<em>Those whose flame is snuffed out during a Homecoming... will not return.</em>" His iris trembling as it grew to its max strain. The others were so shocked they jumped on their feet. On the other cell, Mio was still standing, back facing the cell door, looking upwards as she reminisced something we don't know.</p>
+<p>Noah's eyes flickered as he tried to digest the news. Gathering his anger, "<strong>You monster!!!</strong>" He punched N on the shoulder, but immediately  "Urrrrgggaaahhhh..." as N jabbed him in his thigh with the back of his sword.</p>
+<p>"<em>Hehehehe.... So weak.</em> Amusingly so... Right now, all of you put together... <em>don't have the strength of a single soldier.</em>" Putting his hands and caressing it, "Not even these flimsy iron bars... <em>yield to your efforts. Try all you like, but you cannot escape. No amount of toil will help you there.</em>"</p>
+<p>Still groaning in pain, he gave N a stern look.</p>
+<p>"You feel the anguish? <em>Crippling despair?</em> That is the hubris. <em>Of fools who cling blindly to their hopes... only to find them dashed on the rocks. Of dreamers, crushed under the sheer weight of reality. Of abject failures.</em>"</p>
+<hr />
+<p>Another night.</p>
+<p>Repeated punches at the door. "<strong>Come on! Come on! COME ON!!!</strong>" His knuckles tainted with blood, but he won't stop.</p>
+<p>"<strong>That's enough!</strong> You're just gonna break your hands!" Lanz had grabbed his wrist.</p>
+<p>Desperately, he forcefully pulled his hands out of the grip, "<strong>I don't care! I'll shatter every bone in my body... if that's what it takes!</strong>"</p>
+<p>"<strong>Just stop! Please!</strong>"</p>
+<p>That voice is more useful than his. Noah immediately dashed towards the cell door, grabbed on the metal grate, pushed his head against it looking right, trying to see the shadow of the beauty he'd tried to reach all along. With a desolating tone, he softly asked, "<em>Mio? A-are you OK?</em>"</p>
+<p>A moment of silence awaited as the group had their ears opened up, listening.{{footnote: Just for your info, the distance between the two adjacent cells were several meters apart: the sheer thickness of the wall between, though!}} She was sitting on the ground, legs pulled back onto her chest, arms wrapped around it, and softly replied, "<em>Don't worry about me. I'm... totally fine.</em> I've made... my peace. Even if I can never leave here, I'm content. I'll live on in others. Knowing that is enough for me... Please... don't worry." She slowly lowered her head into her laps, to silence her tears that, if he heard it, would be agitated.</p>
+<p>Tears were aggregating in the eyes of those on the other cells. Taion sat back down besides Eunie. Noah felt his heart ripped apart, "<em>Mio...</em>" If you were never given the freedom to choose, the only thing you can do is to smile and walk the path contently.</p>
+<hr />
+<p>Sliding into the cell was some red (tomato/carrot/whatever) soup, a dome-shaped bread, and a spoon on a tray. Manana, seeing that food arrived, brought it and put it in front of Noah, whom was looking down, his back against the wall in a meditative state. Hearing the delivery, he looked up and saw her starry eyes. He had no appetite, shook his head and immersed himself back in meditative state. Manana felt slightly down at his rejection; but she left it anyways and walked back to where she sat beside Riku. No one else were eating.</p>
+<p>Lanz voiced out softly, "Hey... Why d'you think it is, that they look like Noah and Mio...?"</p>
+<p>Eunie: "Like I know! Why don't you ask 'em yourself?"</p>
+<p>Sena: "When we kick the bucket, we're reborn in those cradles, right? Maybe it's... somehow connected to that?"</p>
+<p>Lanz: "You think they're the same people? Is that <em>even</em> possible?"</p>
+<p>Taion: "It's strange. Regardless, why would they do this? What possible purpose <strong>could all this serve</strong>? It's almost... like they're <strong>toying with us</strong> just for kicks."</p>
+<p>Eunie remarked, recalled from her availability biases, "You know, they've all been like that. When they took away lives... it was like they were enjoying it."</p>
+<p>Riku challenged that thought "That{{footnote: Oh my, Riku, you shouldn't say "That's"!!! Nopon had no "'s" in their dictionaries!}} really true?"</p>
+<p>"Huh?" The group was confused. Even Noah.</p>
+<p>"It seem natural <strong>to laugh</strong> when happy. And yet... N had sadness in eyes... <em>it seemed</em>.{{footnote: Remember, Riku is really skilled at looking into other people's eyes, or he wouldn't have knew Noah being able to call his blade while he visited him ages ago.}}"</p>
+<p>"Huh..." Noah tried to recall what he saw.</p>
+<p>Lanz didn't agreed with him, stood up with anger, "Like spark he did. He's Moebius. Our sworn... <em>enemy</em>."</p>
+<hr />
+<p>After Eunie slid the emptied tray out of their cell, she sighed, "Hmph... We really are hopeless. Can't believe we're stuck in here, behind these snuffin' bars." Even her hope started to wade.</p>
+<p>Taion logically argued, "It wouldn't be much of a prison if they didn't perform that function."</p>
+<p>Lanz: "Come on..."</p>
+<p>"Hmph..."</p>
+<p>Sena desolately questioned, "Was there even any point in all this? In everything we've done?" The group philosophically thought about her questioning; one of the ultimate question that struck their purpose. Would they keep on walking, or would they change course? There was a long pause in between until Noah stood up, affirming her,</p>
+<p>"Course there was."</p>
+<p>"Huh?" She watched him walked towards a wall. They wanted to know.</p>
+<p>"At least... We gave them hope." Above where he was facing was a giant barred window that gave view of the starry night sky. The confidence in his tone lost its composure as he felt the pain growing within him, "Urgh..." He gave several punches at the wall.</p>
+<p>Lanz didn't stop him, shared his thought, "At first... even when Guernica said... he was six times older, it didn't click. <strong><em>Past ten years was pure greed</em></strong>, I thought. <strong>But now...</strong> <em>I'm scraping... for whatever I can get.</em>" The group looked down silently, as if to agree, to want to hold on to their lives as long as possible, to live in the now.</p>
+<p>With wavering breath, Noah shook his head{{footnote: Unsure what he was thinking. Maybe fighting between thought?}}.</p>
+<hr />
+<p>Inside the City, by a flying ship.</p>
+<p>Soldiers assembled in front of Ghondor. The Ouroboros candidates nodded at her after she finished her speech. Then, they dashed off in several directions, leaving her alone. Monica approached her, questioned her sternly, "<strong><em>What</em> are you doing?</strong>"</p>
+<p>"Huh?" She looked at to see whom was approaching, only to tilt her head back down, "<em>Oh, the Bitchqueen herself</em>."</p>
+<p>She don't care about that label, "<strong>Where do you think you're going?</strong>"</p>
+<p>"<strong>Where d'you think I'm going?</strong>"</p>
+<p>"<strong>You know I can't allow this.</strong>"</p>
+<p>"<strong>'Scuse me?!</strong>"</p>
+<p>"<strong>That's a direct order. Don't be stupid!</strong>"</p>
+<p>"<strong>Whatever...</strong> <em>Up yours.</em>"</p>
+<p>"<strong>Look, the Castle is on maximum alert now. Are you in that much of a hurry to get back behind bars?!</strong>"</p>
+<p>"Tch..."</p>
+<p>"This ain't like the time we ambushed Keves, when we <strong>had the element of surprise.</strong>"</p>
+<p>"<strong>After all they did for me, I can't just leave 'em! We don't have time for this!</strong>"</p>
+<p>"<strong>And I'm telling you its suicide!</strong>" She gave her a shocking breath. "<strong>Noah entrusted everything to us. Hope... The future...</strong>" Looking at the Cloud Keep key which she wore back around her neck, Monica continued, "<strong>Get that through your skull!</strong>"</p>
+<p>"Ugh..."</p>
+<p>Some purple particles gathered, and someone teleported inside the City, probably a Moebius. Monica was shocked to see his/her arrival. "<strong>You...?!</strong>" Ghondor turned to look who (s)he was.</p>
+<hr />
+<p>The moonlight shone into Mio's cell. She stood up, walked under the light, and looked out the window. The half-moon (left side dark) that hung brightly on the sky kept her time, kept her companion.</p>
+<blockquote>
+<p>Here I am, staring at my own palms... I feel the warmth of your hand...</p>
+</blockquote>
+<hr />
+<p>Not Noah alone, but the whole group helping to bang at the metal grate, trying their hardest to free themselves. More than half the moon shone.</p>
+<hr />
+<p>Trying to pull the grate apart; they even managed to get Sena on to the window high above, where she tried to pull it apart, or maybe squeezing through, to no avail. She dropped down thereafter; Lanz caught on to her. Three-quarter of the moon brightly lit.</p>
+<blockquote>
+<p>I thought I'd be, forever by your side, protecting you, assuming that's what you wanted too...</p>
+</blockquote>
+<hr />
+<p>Tired, some gripped onto the metal grate, while the rest sat down, too tired to try. Taion paced left and right, thinking of another solution. The full moon brightly hung on the sky.</p>
+<hr />
+<p>Lanz was the only one still punching the grate. The moon was nearly-full (right side dark).</p>
+<hr />
+<p>Noah and Lanz used their elbow to bang against the grate. Lanz fell on his back and slept on the ground, hopeless of their effort. Noah tried harder. The moon was slightly more than half.</p>
+<blockquote>
+<p>I had no clue, that we had nothing between us, perhaps, I was so scared to know the truth...</p>
+</blockquote>
+<hr />
+<p>Even with both his knuckles bleeding, he continued banging against the grate unwaveringly. His eyes getting watery, he caught hold on the grate and dropped to the ground in a knelt position desolately, his hands lose force and dropped down, hanging.</p>
+<blockquote>
+<p>Now that you're gone, and yet your love is still, embracing me, I'm at a loss, I need you with me... It's like I'm drowning... as if I've lost the way... But you always appear... as if you guide my way...</p>
+</blockquote>
+<hr />
+<p>One evening. The group sat down in their thoughts. Eunie looked deeply on her past's dog tag. Taion was standing up, perhaps still thinking of what unthought ways there were to escape. Manana distributed food when the time arrived. Not even a nod, not even a look, not even a reaction from any one of them. She put the tray down anyways before wading her way back to her place.</p>
+<p>Riku looked at their lost of hope; his eyes gleaned brightly, never losing hope. He was waiting, waiting, waiting... Noah hadn't yet understood.</p>
+<blockquote>
+<p>I thought I could do it all, I had my confidence, but now I'm left alone, with no one by my end... I knew my faults... but I pretended I didn't know... I fear, I'm not the kind of man, you know...</p>
+</blockquote>
+<hr />
+<p>Sena looked up and saw her approaching, softly called out, "Shania..."</p>
+<p>Lanz unfriendlily asked, "What are you doing here?"</p>
+<p>"Got a little update for you."</p>
+<p>Eunie calmly remarked, "This will be good."</p>
+<p>"The day your friend departs this world... What did you call it? Homecoming...? That's the day... I've decided to have myself killed too." She pointed at her iris; the thin flame clock glowed on her eyes. Her smile pretended everything was all right, but it only made Sena felt more in misery. She had lost her except the memories.</p>
+<p>{{footnote: As she stood up.}}"Shania... Your Iris...!"</p>
+<p>"Yep! This right here is proof that I've joined their ranks." As she turned and walked away, she finished her sentence, "And your little friend will vanish from this world forever. But... <em>I</em>... will be born once again! <strong>Just the way I should be!</strong>"</p>
+<p>"Hurgh!!!" Noah dashed at her and caught hold of the cell door, gritting his teeth at such attacks on his philosophy, or maybe her attacks on Mio.</p>
+<p>"AHAHAHAHA!!!" She was elated at his reaction. "<strong>That's just the reaction I was hoping for. Ahh, it's beautiful.</strong> I hope I can make that face too... when I meet my enemies <strong>on the battlefield.</strong>"</p>
+<p>Even Taion can't hear more, "Piss off, eyesore." Eunie stood up with him.</p>
+<p>"Oh, don't you worry. I'll be gone soon. <em>Pretty much as soon as your friend will</em>. <strong>HAHAHAHAH!!!</strong>" This time, she's really leaving them alone.</p>
+<p>Sena felt regretful, "It was so obvious, looking back. I knew that something was off about her. I knew deep down. I just... I didn't want to believe that we were the same..."{{footnote: Philosophically, in the real world outside fiction, you can't trust your memory. One could say, one knew deep down that Covid would spread to the whole world, after the last global epidemic hadn't spread for so long, to wipe out any risk we have, just like the stock market crashes every few decades at the very least to wipe out risk. But hey, one's memory had been playing trick on one -- it's called hindsight bias.}}</p>
+<p>"You're not the same."</p>
+<p>She rushed to the bars and asked, "Is that Mimi...?"</p>
+<p>Sitting down in the arms-around-her-legs position, she looked up and recalled her memories with her, replying, "I was watching you. Trying so hard. You saved us so many times... never giving up. You helped us get here. Sometimes... you can be really hard on yourself. I think... <em>that's why you've always been so hungry, always striving for more.</em>"</p>
+<p>Her tears started swelling up as she was getting recognized, what she'd hoped for long, "<em>Yeah...</em>"</p>
+<p>"Come now... I know you've touched so many lives. I think... we've all seen that."</p>
+<p>"<em>Yeah... Hrngh... Yeah. I know. I see it now... I'm sorry...</em>"</p>
+<p>"Come on. You really need to stop saying that you're sorry."</p>
+<p>"<em>Yeah... Sorry!</em>" Her tears slid down her cheeks and drop to the ground.</p>
+<p>"It's all right. Don't give up." Looking out at the windows, the glimpse of light from the brightest star even outshone the moon, she softly announced, "<strong><em>Because time... is still on our side.</em></strong>" Half moon shone through the giant window (right side dark), slowly engulfing it.</p>
+<blockquote>
+<p>I now have the courage to, show you there is a way... You taught me silently, I know what you will say... And when I search for you, I see a guiding light, It's now so clear to me but you're still far away... A step away...</p>
+</blockquote>
+<hr />
+<p>Everyone sat quietly by a corner, except Noah by himself. Taion had one of his fingers caressing his Mondo, which laid on the floor.{{footnote: How did he hid it from the enemy's sight, or summon it? Probably it's not summoned but, like the Nimue's clock, it doesn't depend on the Iris. As on how he hid it, we don't know.}} Eunie tugged her legs up, elbow on her knees, making a diamond shape in between, her head on the back of her palm. Taion voiced out calmly, "<em>So then... Tomorrow</em>." That was a heavy topic. There was a moment of silence.</p>
+<p>"Do you think an off-seer... can ever reach others? You know... I thought... our lives were like our music... Always in our hands, under our control{{footnote: He look at his palm in the process.}}... I wasn't facing the truth." Looking out at the starry night sky, tone getting desolate, "<em>Even if I could reach people, I wouldn't be able to save them. I should've known that.</em> Pffff" He clenched his fist, gritted his teeth, tears aggregating at the tip of his eyes, "<em>It's unbearable... seeing lives slip away from you...</em> <strong>Even though they're right there... What am I even doing...</strong>" The others looked away as he weep.</p>
+<p>"It's dark out, huh...? No moon." Mio's calm voice called a halt to the desolating moment.</p>
+<p>"<em>Huh?</em>" He turned and looked outside the window.</p>
+<p>"But... the starlight... It's so nice and warm..."</p>
+<p>"<em>Mio...</em>"</p>
+<p>"Hey... When the two of us first met... You asked me if I wanted to survive."</p>
+<p>He took a moment to recall, softly answered, "<em>Yeah.</em>"</p>
+<p>"I replied... I didn't mind either way."</p>
+<p>He slowly raised his heads in steps, as if his muscles twitched again and again, "<em>Yeah...</em>"</p>
+<p>Mio took a few moments to muster her courage to voice her words, in contentment, "I'll correct that. Now I... want to live. <strong>To live, and learn... a whole lot more...</strong> <em>Noah...</em> There's so much for us to see..."</p>
+<p>"Huh..." His eyes widened, "Finally... <strong><em>You called me by my name.</em></strong>"</p>
+<p>"Oh, yeah... sorry..." she continued amidst his mixture of tears of relief and desolation, "I guess I felt that... <strong><em>if I did... my heart would downright break. Because... I'd be admitting the truth.</em></strong>"</p>
+<p>"<em>Mio...</em>"</p>
+<p>"But you know, these feelings that grew within me... They're thanks to you." All the while he kept weeping on her words. She slowly rested her head on the wall and closed her eyes; the dim starlight caressed illumination on her silhouette, "That's why... <strong><em>you're not allowed to say... it's been for nothing. You've enriched my life, Noah.</em></strong> That's clear now."</p>
+<p>"<em>Mio...</em>"</p>
+<p>Eunie cried out hearing their conversations, "Urgh!" Taion took repeated punch on the floor, feeling effete he can't do anything to release their situation. Sena was deep in tears. Even Lanz can't hold back. Manana hugged Riku from behind, both teary-eyed.</p>
+<p>"You know... I don't want this to be it. <em>If I were given the chance...</em> <strong>If this road I have walked... were to keep on going...</strong> <strong><em>I'd like to spend that time... with my Noah.</em></strong>" She looked up, full of dreams, put up a thin smile before facing her inevitable.{{footnote: Like every other ones whom made it to their homecoming before her; they could do nothing but to embrace.}}</p>
+<p>No longer holding it back, Noah put his palm on his forehead as tears slid down the side of his cheek. As he weep in the background, full of repentance, she looked out of the window, the stars that had accompanied her for so long.</p>
+<hr />
+<p>The morning light rose from the horizon{{footnote: The stars dimmed out from view.}}; the beam brightened the interior of the cell. Mio had her diary on her laps, filling in the last page of her life. As she sliced out the final diamond with her fountain pen, she gently caressed the final page of her calendar, looking attentively on the currently opened pages, and signified the end of her chapter by closing it.</p>
+<hr />
+<p>The moon almost entirely covering the sun. There's still some moment before their center meets. On the 2nd level of the elevated stage, there stood a new building, seemingly the Queen's throne. On both sides stood a row of Agnian soldiers, probably off-seers to sing the Homecoming melody. In front, in the direction facing the throne, on the left was X (with the staff) and Shania, on the right, N and M. Lined on the ground below were Agnian soldiers coming to watch the grand event. Several Levnises were at the side of the soldiers.</p>
+<p>On the 1st level of the elevated stage, Noah and the others were escorted each by one Agnian soldiers to kneel before the 2nd level. His eyes like dead waters. Only Lanz and Eunie struggled a bit as they were forced to their position. Even Riku and Manana had electrical chains encircling them{{footnote: Dang, doesn't even restrict their hands nor wings nor feet, only use is for fashion.}}. No one spoke a word. Noah saw the smile{{footnote: Sorry, one can't find an adjective to describe it.}} on Shania's face, the calm sadness in N's eyes, and the unknown feelings hidden behind M's mask. His eyes still emanates anger at those who jailed him.</p>
+<p>Roaring cheers and applauses brought him back to reality. "My Queen!"</p>
+<p>"Your Majesty!"</p>
+<p>They watched the Queen appeared on a platform on the throne, whom wore a mask, hands slightly opened as if to embrace her fellow citizens. The lot started chanting, "Queen Nia! Queen Nia! Queen Nia!"</p>
+<p>Three chants and she raised her hands to silenced the soldiers, therefore begun her majestic speech: "Trace our ancestry back a thousand years, and you will find an off-seer, carrying out the first Homecoming. Now, in Agnus, no fewer than nine hundred and ninety-nine lives{{footnote: What the sparks... Just so you know, these are fake numbers used to make something look big.}}... have returned themselves to me... It is an auspicious day. I believe such is your view. Yet, for me, it is a day that brings heartache.{{footnote: Shania look grimly, M looked slightly sad.}} I wish... nothing more than the safe return of all life born of me. Such is my eternal hope. To come home is to find comfort."</p>
+<p>As the speech continued in the background, Taion, listening to the speech, remarked, "Quite the elaborate production."</p>
+<p>Lanz effetely replied, "Fancy. Another <em>puppet</em> on display."</p>
+<p>Eunie added, "Assuming Monica's intel was true."</p>
+<p>Sena, with her teary tone, "It's all been so pointless... Fighting for that thing."</p>
+<p>"She's a phony, that's what she is. Even if it's her in the flesh up there, <strong>I'll rip her off her high horse!</strong>" She slowly loosen the grip on her hands, asked, "You think, uh... <em>They're gonna execute us too after this?</em>"</p>
+<p>Lanz: "<em>Guess so.</em>"</p>
+<p>As she got teary, "So it's... back into the cycle. Back into the same old crap <em>again</em>... <em>Wish we could've gone a little further.</em>"</p>
+<p>"<em>Same here.</em>"</p>
+<p>Taion: "The key's in Ghondor's hands now. I think we've done enough."</p>
+<p>Sena tried to convince herself, "Yeah, we've passed the torch. Now, it's up to the City."</p>
+<p>The soldiers standing behind them had had enough, sniped at them, "<strong>Shut up! Keep it quiet!</strong>"</p>
+<p>Eunie: "Tch."</p>
+<p>The Queen's speech is coming to an end: "...That returns to me. And perpetual raiment{{footnote: The heck, this is how it sounds, not the actual words, nor do we have the subtitles for this.}} warriors."</p>
+<p>The Eclipse had not yet reached its perfectness, but it's time to start lest it ends. The soldiers to the side of the throne brought their flutes to their lips, chimed the Homecoming melody with full strength, body swaying with the melody. Noah sighed as he predicted her future.</p>
+<p>"Noah giving up? Now of all time?"</p>
+<p>Surprised, he peered over his shoulder at Riku, his eyes still bright with hope, yet he rebutted, "<em>I don't want to give up</em>. But we're... trapped here. Our Blades... Tchhhhh... I hope at least... <em>she can... go in peace...</em>"</p>
+<p>Riku sighed at such tone he gave. One month of waiting and he hadn't saw him realize himself. Now that it's near the end, he had no more time to wait. He decided to nudge, "<strong>Of course Noah trapped. Noah still not tried to draw Lucky Seven!</strong>"</p>
+<p>"Huh?"</p>
+<p>"Remember? Back when Riku give wisdom? When need of true power, sword will appear."</p>
+<p>"<em>Yeah... I remember.</em>"</p>
+<p>"Today is day of need. <strong><em>Even at edge, facing sheer drop, must never give up.</em></strong>"</p>
+<p>"Riku..." His attention was immediately disturbed by the sound of heavy doors creaking from his left. The group turned their attention where they saw Mio appeared behind the gap, escorted by 2 soldiers.</p>
+<p>"<strong>Mimi...</strong>" Sena knelt higher, followed by Taion.</p>
+<p>"Ahuh..." The calmness that he displayed, the desolation that he emanated, all dissipated as they turned into quivering fear of losing her. They watched her taking step after step, passing in front of them.</p>
+<p>"<strong>Mio!</strong>"</p>
+<p>She did not look at them. As she reached the center aisle, she turned and walked up the stairs leading to the 2nd level. One step after another, no looking back.</p>
+<p>"<strong>MIO!!! MIOOOOOOOO!!!</strong>"  He got up on his feet and ran after her. The two soldiers behind immediately pushed forward and thrusted him on to the ground, hard.</p>
+<p>Perhaps hearing his shouts, perhaps she reached where she needed to go, she stopped without looking back. The soldiers helped her by pushing down on both her shoulders aggressively, knelt her onto the ground.{{footnote: Well, technically speaking, you can 'knelt someone', just like a broken French saying -- je t'assieds -- I sit you down.}} She looked up at the throne.</p>
+<p>Noah brought up his head and saw N legs approaching him.{{footnote: Well, his head is on the ground, and he could only see slightly above his ankle.}} He tried to raise his head a bit to see his face, but the soldiers had him down on the floor. N gave a wave at the soldiers, instructed them to release him, and he broke Noah's chains, releasing his hands. He put them on the ground, crawling forward while trying to get up. N threw the black (Kevesi) flute{{footnote: His old one before exchanging with Mio.}} on the ground before him as it rolled into his vicinity. He looked at it and heard N's stern voice, "Pick it up."</p>
+<p>"Huuuuuhhhhhhh...."{{footnote: Quivering breathe.}}</p>
+<p>"You're an off-seer. <em>So send her</em>."</p>
+<p>His iris diminished into a dot, but he didn't act. N continued nudging, "What's wrong? Go on, send her. Isn't that your role? <strong>Isn't she <em>your</em> Mio?!</strong>"</p>
+<p>He climbed up into a knelt position, reached for the flute with quivering hands, grabbed it with both slowly and effetely. He looked deeply at it, and when he looked up, Mio was already emanating yellow motes. "Huhuh...." He had lost all the strength in his hands and body. The flute dropped to the ground and rolled forward. The group watched such cruelty exposed before their eyes. Taion was so heart-hurt at Mio's departure he couldn't open his eyes to watch.</p>
+<p>As the moon climbed to a total Eclipse, the sun making a ring around the central dark moon, Noah straightened his body and watched, with diminishing iris, Mio turning around slowly, more and more of her motes rose into the air as peered over her shoulder and her eyes met his. Tears began accumulating at the bottom tip of his eyes{{footnote: Sorry, one don't know what you call the bottom of an eye. Seemingly not in anatomy, or one just don't search correctly?}}</p>
+<p>"<strong><em>It's been fun... Noah.</em></strong>"</p>
+<p>"<em>Mio...</em>"</p>
+<p>She left him with a smile, the final impression she wanted him to remember was not her cry but her smile; and she was therefore engulfed and turned into motes.</p>
+<p>"<strong>MIOOOOOOOOOOOOOOO!!!!</strong>"</p>
+<p>The heartbreaking cry he led out even hit M's heart. She closed her eyes, unable to watch. The queen opened her arms wide, head slightly tilted into the sky, as if to embrace one's return to her.</p>
+<p>The remaining motes emanate from the remnants she left behind: a white (Agnian) flute and her shirt. Together{{footnote: the intangibles}} attached to them were her hopes, her dreams, her feelings, her wishes, her conviction, and her legacy.</p>
+<p>As the Sun regained its dominance, the darkness shied away. N, full of desolation in his eyes, watched Noah openly shedding tears, both hands and head on the ground. The sideshow hadn't made him happier, nor felt more entertaining. Rewalking the road of hope that leads to despair, again and again, again and again. He had had enough. It's time to end.</p>
+<p>Two soldiers walked forward and grabbed both his hands, pulled him up. N walked to the left of him, pulled out his sword, prepared to execute him. He raised his sword over his head, then forcefully slashed downwards. The sound of metal clashing against metal was the last we heard of.</p>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="36_trying_to_escape.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="38_memory_shards.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="36_trying_to_escape.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="38_memory_shards.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

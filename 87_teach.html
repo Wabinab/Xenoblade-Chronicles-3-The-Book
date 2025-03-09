@@ -1,0 +1,509 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Colony Gamma (Teach) - Xenoblade Chronicles 3</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Xenoblade Chronicles 3 the movie put into words.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="00_preface.html">Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 1: Ouroboros</li><li class="chapter-item expanded "><a href="01_prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li><li class="chapter-item expanded "><a href="02_born_for_war.html"><strong aria-hidden="true">2.</strong> Memories: Born for War</a></li><li class="chapter-item expanded "><a href="03_homecoming_off_seer.html"><strong aria-hidden="true">3.</strong> Homecoming, Off Seers, Shower</a></li><li class="chapter-item expanded "><a href="04_emergency.html"><strong aria-hidden="true">4.</strong> Emergency, A New Battle</a></li><li class="chapter-item expanded "><a href="05_battle.html"><strong aria-hidden="true">5.</strong> The Operation, Ouroboros, and Moebius</a></li><li class="chapter-item expanded "><a href="06_vandham.html"><strong aria-hidden="true">6.</strong> The Death of Guernica Vandham</a></li><li class="chapter-item expanded "><a href="07_reunion.html"><strong aria-hidden="true">7.</strong> Hunted Down, Reunion</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 2: Moebius</li><li class="chapter-item expanded "><a href="08_ethel.html"><strong aria-hidden="true">8.</strong> Memories: Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="09_new_journey.html"><strong aria-hidden="true">9.</strong> The Journey</a></li><li class="chapter-item expanded "><a href="10_k.html"><strong aria-hidden="true">10.</strong> Consul K and Silvercoat Ethel</a></li><li class="chapter-item expanded "><a href="11_adventure.html"><strong aria-hidden="true">11.</strong> Adventures Crossing the Desert</a></li><li class="chapter-item expanded "><a href="12_lucky_seven.html"><strong aria-hidden="true">12.</strong> Memories: Lucky Seven</a></li><li class="chapter-item expanded "><a href="13_fighting_ethel.html"><strong aria-hidden="true">13.</strong> Confrontation: Ethel, K, and the Flame Clock</a></li><li class="chapter-item expanded "><a href="14_after_the_battle.html"><strong aria-hidden="true">14.</strong> Colony 4, the Queens, and Consuls</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 3: Saffronias</li><li class="chapter-item expanded "><a href="15_taion.html"><strong aria-hidden="true">15.</strong> Memories: Lambda, Taion, and Nimue</a></li><li class="chapter-item expanded "><a href="16_colony_4.html"><strong aria-hidden="true">16.</strong> Cammuravi, Life, Helping Ethel, Goodbye Colony 4</a></li><li class="chapter-item expanded "><a href="17_valdi.html"><strong aria-hidden="true">17.</strong> Ribbi Flats and Valdi</a></li><li class="chapter-item expanded "><a href="18_saffronia.html"><strong aria-hidden="true">18.</strong> Getting Old, Saffronia, Eunie's Recall</a></li><li class="chapter-item expanded "><a href="19_riku_manana.html"><strong aria-hidden="true">19.</strong> Riku and Manana</a></li><li class="chapter-item expanded "><a href="20_ambushed.html"><strong aria-hidden="true">20.</strong> Ambushed, Colony Lambda, Consul J</a></li><li class="chapter-item expanded "><a href="21_lambda.html"><strong aria-hidden="true">21.</strong> Isurd, Off-Seer Purpose, Emotional Recourse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 4: Life</li><li class="chapter-item expanded "><a href="22_cammuravi.html"><strong aria-hidden="true">22.</strong> N and Cammuravi</a></li><li class="chapter-item expanded "><a href="23_journey.html"><strong aria-hidden="true">23.</strong> A Dragon Against Their Journey</a></li><li class="chapter-item expanded "><a href="24_annihilator.html"><strong aria-hidden="true">24.</strong> The Annihilator, Thoughts On Moebius</a></li><li class="chapter-item expanded "><a href="25_juniper.html"><strong aria-hidden="true">25.</strong> The World Is Evil, Juniper</a></li><li class="chapter-item expanded "><a href="26_maktha.html"><strong aria-hidden="true">26.</strong> Food Crisis In The Forest</a></li><li class="chapter-item expanded "><a href="27_bolearis.html"><strong aria-hidden="true">27.</strong> Bolearis's Tale, Ethel and Cammuravi</a></li><li class="chapter-item expanded "><a href="28_exchanging_flutes.html"><strong aria-hidden="true">28.</strong> The Time Is Nigh</a></li><li class="chapter-item expanded "><a href="29_ethel_cammuravi.html"><strong aria-hidden="true">29.</strong> Ethel and Cammuravi, O and P</a></li><li class="chapter-item expanded "><a href="30_castle.html"><strong aria-hidden="true">30.</strong> Hovering Reefs, Castle Infiltration</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 5: Eclipse</li><li class="chapter-item expanded "><a href="31_theta.html"><strong aria-hidden="true">31.</strong> Colony Theta in Memories</a></li><li class="chapter-item expanded "><a href="32_city.html"><strong aria-hidden="true">32.</strong> The City, Purpose, Baby, Ancestor</a></li><li class="chapter-item expanded "><a href="33_city_day2.html"><strong aria-hidden="true">33.</strong> Day 2 at the City</a></li><li class="chapter-item expanded "><a href="95_eunie_side_story.html"><strong aria-hidden="true">34.</strong> Eunie and the Golden Colony (Side Story)</a></li><li class="chapter-item expanded "><a href="34_joran.html"><strong aria-hidden="true">35.</strong> Joran, Off to the Sea</a></li><li class="chapter-item expanded "><a href="94_lanz_side_story.html"><strong aria-hidden="true">36.</strong> Lanz and Garvel (Side Story)</a></li><li class="chapter-item expanded "><a href="35_prison.html"><strong aria-hidden="true">37.</strong> Life in Prison</a></li><li class="chapter-item expanded "><a href="36_trying_to_escape.html"><strong aria-hidden="true">38.</strong> The Day of Escape</a></li><li class="chapter-item expanded "><a href="37_eclipse.html"><strong aria-hidden="true">39.</strong> The Eclipse</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 6: Choices</li><li class="chapter-item expanded "><a href="38_memory_shards.html"><strong aria-hidden="true">40.</strong> Fragments of the Past</a></li><li class="chapter-item expanded "><a href="39_sword_of_the_end.html"><strong aria-hidden="true">41.</strong> The Sword of the End</a></li><li class="chapter-item expanded "><a href="96_sena_side_story.html"><strong aria-hidden="true">42.</strong> Sena and Shania (Side Story)</a></li><li class="chapter-item expanded "><a href="40_hope_rest.html"><strong aria-hidden="true">43.</strong> Hope's Rest</a></li><li class="chapter-item expanded "><a href="41_mio_side_story.html"><strong aria-hidden="true">44.</strong> Mio and Miyabi (Side Story)</a></li><li class="chapter-item expanded "><a href="90_cammuravi.html"><strong aria-hidden="true">45.</strong> Cammuravi And Ethel's Rebirth</a></li><li class="chapter-item expanded "><a href="42_cloudkeep.html"><strong aria-hidden="true">46.</strong> Cloudkeep, D and J returned</a></li><li class="chapter-item expanded affix "><li class="part-title">Chapter 7: Time Moves Again</li><li class="chapter-item expanded "><a href="43_nia.html"><strong aria-hidden="true">47.</strong> Queen Nia's Story</a></li><li class="chapter-item expanded "><a href="44_ship.html"><strong aria-hidden="true">48.</strong> Building the Ship</a></li><li class="chapter-item expanded "><a href="45_noah_side_story.html"><strong aria-hidden="true">49.</strong> Noah and Crys (Side Story)</a></li><li class="chapter-item expanded "><a href="89_taion_side_story.html"><strong aria-hidden="true">50.</strong> Taion and Nimue (Side Story)</a></li><li class="chapter-item expanded "><a href="46_going_to_origin.html"><strong aria-hidden="true">51.</strong> Ship Repaired, Penetrating Origin</a></li><li class="chapter-item expanded "><a href="47_inside_origin.html"><strong aria-hidden="true">52.</strong> Inside Origin, N, Rescue Melia</a></li><li class="chapter-item expanded "><a href="48_final_battle.html"><strong aria-hidden="true">53.</strong> X, Y, and Z: The Final Battle</a></li><li class="chapter-item expanded "><a href="49_final_chapter.html"><strong aria-hidden="true">54.</strong> Parting Ways</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">More About</li><li class="chapter-item expanded "><a href="93_miyabi.html"><strong aria-hidden="true">55.</strong> Miyabi</a></li><li class="chapter-item expanded "><a href="88_guernica.html"><strong aria-hidden="true">56.</strong> Guernica</a></li><li class="chapter-item expanded "><a href="87_teach.html" class="active"><strong aria-hidden="true">57.</strong> Colony Gamma (Teach)</a></li><li class="chapter-item expanded "><a href="86_zeon.html"><strong aria-hidden="true">58.</strong> Zeon</a></li><li class="chapter-item expanded "><a href="85_segiri.html"><strong aria-hidden="true">59.</strong> Segiri</a></li><li class="chapter-item expanded "><a href="83_cammuravi_ethel.html"><strong aria-hidden="true">60.</strong> Cammuravi and Ethel</a></li><li class="chapter-item expanded "><a href="84_isurd.html"><strong aria-hidden="true">61.</strong> Isurd</a></li><li class="chapter-item expanded "><a href="91_melia.html"><strong aria-hidden="true">62.</strong> Melia</a></li><li class="chapter-item expanded "><a href="92_nia.html"><strong aria-hidden="true">63.</strong> Nia</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="97_postscript.html">Postscript</a></li><li class="chapter-item expanded affix "><a href="98_appendix.html">Appendices</a></li><li class="chapter-item expanded affix "><a href="99_terms.html">Index</a></li><li class="chapter-item expanded affix "><a href="82_references.html">References</a></li><li class="spacer"></li></ol>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" data-slug="wabinab" data-color="#FAFAFA" 
+                data-emoji=""  data-font="Cookie" 
+                data-text="Make a donation!" 
+                data-outline-color="#000000" data-font-color="#000000" 
+                data-coffee-color="#ffffff" ></script>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Xenoblade Chronicles 3</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="more-about-colony-gamma-teach"><a class="header" href="#more-about-colony-gamma-teach">More About Colony Gamma (Teach)</a></h1>
+<blockquote>
+<p>Unlike the others, 'Teach' is not a character that comes online. But because he's 'Teach', he 'teaches'. He's the commander of one of the two colonies that co-joined forces when taking down Guernica. It was Mio, Taion, and Sena's colony before they became Ouroboros. Taking him in lets you understand their original colony more. We have two videos associated with Teach, but we'll only write about the first. The second is more about Teach in depth, while for this, we'll introduce you to the Agnian's original colony.</p>
+</blockquote>
+<p>The group were walking on the field covered with red grass {{footnote: Where they first became Ouroboros.}} when they saw fighting in the distance between Kevesi and Agnians. Noah alerted the group, "Look!"</p>
+<p>Sena looked closer and got nervous, "<strong>Oh! Mimi! That's Kyrie from Colony Gamma!</strong>"</p>
+<p>"<strong>What?!!</strong>"</p>
+<p>Eunie: "Friend of yours?"</p>
+<p>"<strong>Yes... But the story will have to wait.</strong>"</p>
+<p>Noah agreed with her, "OK! Let's give her a hand!"</p>
+<hr />
+<p>After defeating the Kevesi, Mio questioned Kyrie, "<strong>You OK? You're not hurt?</strong>"</p>
+<p>"<strong>MI-...</strong>"</p>
+<p>"Kyrie?"</p>
+<p>"<strong>MIOOOOOO!!! You're in one piece?! Thank you so much for saving me! I'm so glad you're alive!</strong>"</p>
+<p>Taion calmly spoke, "Yes, yes, no need to get so excited."</p>
+<p>"<strong>AHHHH, I'm so sorry! I'll calm down! Deep breaths...</strong>"</p>
+<p>Mio: "What are you doing here, Kyrie? Colony Gamma is-"</p>
+<p>"Oh! Well, actually..." And she looked down the bottom left.</p>
+<p>She folded her arm, "... You got separated from your unit <em>again</em>?" Oops, looks like that's not the first time!</p>
+<p>Shamefully, "I'm so sorry! I just have no sense of direction at all!"</p>
+<p>Sena: "Never change, Kyrie!"</p>
+<p>At the back whom let the Agnian reunite, Noah: "She's... <em>interesting, isn't she?</em>"</p>
+<p>Lanz thought the word not good description, "Interesting, a pain in the neck... <em>Same difference</em>, I s'pose."</p>
+<p>Meanwhile, Kyrie noticed these Kevesi speaking, "Sooooo, Mio, those other people...?"</p>
+<p>"Don't worry about them. They're my friends. And they helped save you."</p>
+<p>"Ah, so they did! Thanks again, Mio." Such big hearts, or maybe, she just trusted Mio unconditionally.</p>
+<p>Eunie: "Why 'thanks Mio'?! What are the rest of us, Armu steak?!"</p>
+<p>Sena and Mio turned to her, while Sena explained, "Leave it, that's just Kyrie." And she just shook her head.</p>
+<p>Meanwhile, Kyrie was whispering, "<em>Mio, let's hurry back to the colony! I bet the commander will be pleased to see you too!</em>"</p>
+<p>"Yeah, about that... Can I have a quick word?"</p>
+<p>"Of course! What about?!"</p>
+<p>"This is an odd question, but... Well. How do we look to you?"</p>
+<p>Taion remembered, "Ah...!"</p>
+<p>"How do you... look? Well, let me see..." She turned his head and scanned Taion, then Sena, then Manana, then back at Mio, whom had hoped for the best. "Ah-HA!"</p>
+<p>"Hm?"</p>
+<p>"Yep, no good at all! You can't just change your clothes as you please! That's against regulations! Hmm, but they suit you so perfectly! I mean, your off-seer outfit suited you to a T as well, but I mean..."</p>
+<p>With her machine gun speed speaking, Mio cut her off, "<em>Thanks, Kyrie, that's all I needed.</em>"</p>
+<p>"Happy to help!"</p>
+<p>"I just need to discuss <em>something</em> with everyone. Mind waiting?"</p>
+<p>"No problem!"</p>
+<p>And they turned around and joined the Kevesi waiting behind. Mio announced, "She seems in her right mind, anyway. No glowing Iris."</p>
+<p>Sena: "Just classic Kyrie."</p>
+<p>Taion thought more, "But does this mean we don't look like hostiles <em>to everyone...?</em>"</p>
+<p>Noah: "Let's not worry about that for now. <em>What should we do with her?</em>"</p>
+<p>Mio: "<em>That's the question.</em> I want to take her back to the colony if we can... But can we?"</p>
+<p>Sena: "<em>We can't send her out on her own. It's dangerous, and she'd definitely get lost again...</em>"</p>
+<p>Lanz: "Fine with me, but would she be OK hanging out with us Kevesi?"</p>
+<p>Mio thought for a while, "It's possible that the commander of Colony Gamma <em>would</em> hear us out. At least, he isn't the type to turn around and capture people without warning."</p>
+<p>Eunie: "Can we trust him?"</p>
+<p>Even Taion upvoted, "<em>Better than the Consul.</em> Trust me on that."</p>
+<p>Noah: "If both of you are willing to go that far, then he seems worth meeting."</p>
+<p>Mio: "Thank you. If anything happens, I'll do <em>everything</em> I can to keep you all safe, I promise." And she turned around and approached her after the decision's made, "Thanks for waiting. Let's go, Kyrie."</p>
+<p>"Ready, Mio!"</p>
+<hr />
+<p>A giant Ferronis lurched between two cliff, its hands curved in a way like embracing its 'kids' within itself, and it had a facial feature of eyes and mouth on its belly, making it look as if it was perching from the ground. Not all buildings fits inside its coverings, though. They had finally arrived at the empty-looking colony.</p>
+<p>Kyrie turned to Mio, "Wait here! <strong>I'll go ahead and tell everyone!</strong>" And before Mio could reply, she was too excitedly dashing off into the colony.</p>
+<p>"<strong>No, Kyrie! Just wait-!</strong>"</p>
+<p>Taion already put his hand on his forehead, knowing the tragedy will happen. And it did.</p>
+<p>"<strong>Hey, guys! Mio's come back! Taion and Sena, too!</strong>" And Mio, seeing it too late, just shook her head. Nothing they could do except entering the base slowly.</p>
+<p>"Welcome back!"</p>
+<p>"We were so worried about you guys!" Agnians can be seen running towards the great news bringer. And so the Agnians (including Manana) greeted each other.</p>
+<p>"Good job sticking it out, Sena. We were pretty sure you were dead." Said someone with a crystal horn.</p>
+<p>"Foots... Why do you have to be so snarky about everything?" Complaint someone with a dog paw on her face and biceps. And Sena? She just scratched her head.</p>
+<p>"All of you... I'm so glad you're OK." A thick gray-green hair guy wearing glasses met Taion.</p>
+<p>"Mio... It's been so long." A light turquoise iris girl held Mio's hands appreciatively.</p>
+<p>And behind were the Kevesi's. Noah was smiling. "Urg hmph..." Eunie snuffed her nose to quiet herself.</p>
+<p>Lanz, hearing the sound she made, looked to her in question teasingly, "Hm? Wait, are those actual tears? Eunie?"</p>
+<p>"Hngh... Snuff it, you big dummy."</p>
+<p>Just then, someone walked in from behind. Kyrie, standing behind Mio, saw his approach, "<strong>Oh, there you are, Teach!</strong>" And the rest of the Agnian formerly greeting them ran back, while Sena and Taion did the Agnian welcoming stance. Mio followed thereafter. The other soldiers stood on both sides doing it too, giving a central alleyway for him to walk through and approached Mio and the others.</p>
+<p>Dark jacket with pointed edge at the bottom side, white boots, wearing dark blue armor, pale gray-green skin, pointed ears, beige (relatively) short hair, and small emerald iris, and something like an emerald crystal covered by a strand of hair on his right, whom welcomed Mio back. "Mio, Sena, Taion. You're... It's- wonderful to see you again."</p>
+<p>Mio: "I'm truly sorry, Commander Teach. We never meant to-"</p>
+<p>And he held out his palm to stop her. "<em>The details</em> can wait till later. I'm sure you'd appreciate a rest, no? I imagine getting here was... <em>by no means a simple task.</em> Am I right?"</p>
+<p>"...Yes. We appreciate your concern."</p>
+<p>Then, peering behind her shoulder, "And as for our visitors here... We can make our introductions later."</p>
+<p>"<em>Mm</em>." Noah agreed facelessly. Mio peered behind to look at the Kevesi, and turn to look at Teach, haven't sensed anything not right yet.</p>
+<p>"Well then." And he turned around to return to his post, probably, showing no sign of being an enemy to the group.</p>
+<hr />
+<p>Still outside, the same location as before, after Teach and the overly-excited soldiers left. Noah: "He was kind of strange. Quiet, <em>but I could feel something threatening in him...</em>"</p>
+<p>Eunie: "Yeah, are you sure about this? He didn't even question us."</p>
+<p>Taion: "Perhaps he's already worked it out. Decided, we're not hostile."</p>
+<p>Lanz saw the results, "Well, no one's attacked us. Which is more than we can say for... pretty much <strong>every</strong> other time."</p>
+<p>Sena had a plan, "Mimi, once we're rested up, how about we tour the colony?"</p>
+<p>"Good idea. I wanna see how everyone's doing."</p>
+<p>Excitedly, "And we can show the Kevesi folks around while we're at it." Being a host, eh!</p>
+<p>Eunie agreed with that, "Much obliged. We are just visitors, after all."</p>
+<p>Taion announced, "I want to have a chat with the soldiers too. There are a couple of things I'm curious to know."</p>
+<p>Noah: "So this is your old colony, Mio... Let's see what kind of place it is."</p>
+<hr />
+<p>Seated at the canteen, one of the facilities not 'shielded' by the arms of the Ferronis, Sena commented, "Looks like our friends are doing just fine, Mimi."</p>
+<p>"Seems so..." Her tone was low and down.</p>
+<p>Eunie: "Still, there's a lot fewer soldiers here than I expected."</p>
+<p>"Hmm..."</p>
+<p>Taion: "A lot of the soldiers employed on that mission <em>haven't come back yet</em>. No one knows what became of them."</p>
+<p>Lanz: "<em>The mission where we became Ouroboros, yeah?</em>"</p>
+<p>"<em>I daresay that's the one...</em>"</p>
+<p>The group were looking down as the mood turned darker, and a long pause ensued, until Eunie apologized suddenly, "...<em>Sorry. Should've kept my mouth shut.</em>"</p>
+<p>Mio: "No, you didn't do anything wrong, Eunie."</p>
+<p>Taion noticed that "<em>All the soldiers left in the colony are newbies, with no combat experience.</em> Right now, they've been ordered to stand by as a reserve force. Far from the front lines."</p>
+<p>"A good thing, too. That's what saved Kyrie and others' lives. Plus, they didn't get to learn the truth about us, and the world... But..."</p>
+<p>Lanz: "Ugh... It doesn't sit well with me to pretend like everything's fine, though..."</p>
+<p>Noah thought for a while before asking, "...Mio, would you mind talking to this commander of yours, Teach?"</p>
+<p>"About what?"</p>
+<p>"Everything. Tell him thanks for taking us in no questions asked."</p>
+<p>Taion: "Now look. I know I sad he was trustworthy, but-"</p>
+<p>"No, Noah's right." Mio didn't need the 'but' to make decisions. "I was planning on telling him everything anyway, and if we're gonna talk, we may as well lay it all out sooner than later. We can't just expect people to trust us while we hide the truth like this."</p>
+<p>Lanz: "Yeah. Makes more sense than staying and hiding."</p>
+<p>"<em>Hngh</em>, Right."</p>
+<p>Sena had her hopes high, "<em>The commander will understand, I know it.</em> He's crazy harsh, but crazy fair, too."</p>
+<p>Eunie: "Harsh? He didn't look it."</p>
+<p>Taion: "... Sometimes ignorance <em>is bliss</em>."</p>
+<p>"Pfft..."</p>
+<hr />
+<p>Inside Commander Teach's tent. He had been waiting for them. "Ah, how is everything? If you still need to rest, then-"</p>
+<p>Mio, with a heavy lung, "Commander... there's something else, I'd like to discuss with you."</p>
+<p>"Of course! You don't look like you've come to <em>just deliver a report.</em>" Standing, up, he asked, "Then, shall we relocate? <em>That should be more convenient for you.</em>"</p>
+<p>"Yes, that would be helpful, thank you."</p>
+<p>And he thought for a while what place would be nice. "Ah, yes. I know a good place nearby. Let's talk there."</p>
+<p>And she took a step back, had a feeling that something <strong>not</strong> right is about to happen, "<strong>What?!</strong>"</p>
+<p>Taion, whom had experienced such history too, started feeling agitated, "C-C-Commander, please! We don't need to go th-"</p>
+<p>"It has a beautiful view, and a particular... <strong>peacefulness</strong> <em>about it.</em>" Finish, finish!</p>
+<p>Sena was still losing her mind, "<strong>How lovely! I'd love to see it!</strong>" And Mio and Taion turned to her and gave her a wide eyes look at her innocence.</p>
+<p>Taion put his hand on his head, "...<em>This is bad.</em> This is all going south."</p>
+<p>Noah and the others hadn't yet know what was about to happen to them, "It's just a change of place. I don't get what the problem is."</p>
+<p>Mio, seeing change is no longer possible, "<em>Urgh... We'll regret this.</em>"</p>
+<p>Teach shook his head, "I'd rather not delay, but unfortunately I have some work left to do here. Wait for me next to the training ground. I'll meet you as soon as I can."</p>
+<p>"Urgh... Very well. We'll see you there." And she did the welcoming stance, and they turned to leave.</p>
+<p>After they leave, he quietly spoke to the wall, "<em>They were outstanding soldiers.</em> I'd go so far as to say they were the pride of Agnus. <em>So,... now they're traitors.</em> People are mysteries. You can never really understand them. Don't you agree?"</p>
+<p>There stood the before-not-seen Consul where he faced. (S)He didn't reply.</p>
+<p>Teach therefore continued, "<em>But... I'm the commander</em>. I can't let my personal feelings get in the way of my duty. <strong>I will deal with them</strong>. You can leave the matter with me." And he turned away, <em>his eyes insistent</em>, "We can't afford to ignore anything that might do our very world harm."</p>
+<hr />
+<p>After Teach finished his work, he found the chatting group by the rendezvous point. "Sorry, to have kept you waiting. So, shall we head out?"</p>
+<p>Lanz: "Yeah! So is this 'good place' of yours far?"</p>
+<p>"Hmmm... I'd say reasonably near. But, the road is poorly maintained and slopes a lot. It might not be an easy journey."</p>
+<p>Shaking her head, Eunie can sense, "Oh great, now I'm totally sold."</p>
+<p>"It all depends on how you walk it. <strong>Once you get the hang of it</strong>, it's just like strolling through a field of flowers. <strong>If you don't mind</strong>, I can explain on the way."</p>
+<p>Noah: "Well, in that case..."</p>
+<p>Sena: "<strong>Sounds great!</strong>"</p>
+<p>Taion just shook his head. And Mio repeating the important phrase the others didn't catch: "...if it's reasonably close by."</p>
+<p>Taion: "We'd better get ready."</p>
+<hr />
+<p>After some traveling, they reached a slope where quicksand rolled down the slope. Teach: "Right. <strong>This</strong>, is where it gets real. First, imagine a stake." That kept the group thinking as he continued, "The stake is hammered into the ground. <strong>So deep</strong>, that it becomes one, with the earth. Now take that feeling, and <strong>that's</strong> how you're going to take each step. Your feet, are the stakes, in this case."</p>
+<p>Noah: "Ummmm... I guess... I...? No, I d-don't get it."</p>
+<p>"That's all you need to know for now. You'll pick the rest up as you go."</p>
+<hr />
+<p>Looks like they'd successfully understood his teachings! Sena still had the strength to walk beside Teach, with Lanz following some distance behind, closely followed by Mio, then Eunie and Noah some distance away, with Riku and Manana just behind. Taion dropped far behind. Riku and Manana stopped and turned around, make sure that he'd catch up. There was a waterfall beside a campfire to be seen.</p>
+<p>Lanz was already panting quite badly, "Hah... Hah... Are we... Hah Are we there yet...?"</p>
+<p>Teach, hearing his question, stopped to answer, "About halfway now. <strong>Not long</strong> to go."{{footnote: LOL}}</p>
+<p>Eunie, too tired to speak without stuttering, "We have... very different ideas... of what <em>'not long' means</em>..." And she dropped her head down.</p>
+<p>Sena was still energetic, "<strong>COME ON, PEOPLE!!! This is why you need to lift more weights!</strong>"</p>
+<p>Teach: "<strong>Sena, you know you can't</strong> hone your endurance just by lifting weights."</p>
+<p>"<em>Oh, are you sure?</em>"</p>
+<p>"<strong><em>The key to training is working the whole body, rather than focusing too much on any one exercise.</em></strong> I'm sure it's not a problem now, but keep it up and you'll wear yourself out."</p>
+<p>"Ohhhh, wow, I see!"</p>
+<p>"<em>Hmm...</em>, not good though. <strong>I believe I already taught you this</strong> in the past."</p>
+<p>"<strong>Gah!!!</strong> I'm... sorry..."</p>
+<p>Lanz, teasingly teased, "Look at you, all calm and cool..."</p>
+<p>"Indeed. Because I train properly." In the background, looks like there's another quicksand to get up.</p>
+<p>Noah: "<em>Hah...</em> This is harder than I <strong>expected</strong>."</p>
+<p>Mio turned around, "<em>I said</em> we'd regret this." And he could just look up at the sky and shook his head, thinking why the heck had they gone through this torture, now that it's too late.</p>
+<p>Taion, from behind, already knees on the ground, "The commander is also the colony's instructor, after all. He seems mild-mannered enough at first glance. But new recruits are... <strong>terrified</strong> of him. They'd rather face a battle than his wrath."</p>
+<p>Noah then walked to him, "Huh... Hm? Taion, are you OK?"</p>
+<p>Teach: "You shouldn't slack off on your training <em>just because you've seen real battle. <strong>Whether you live or die on the battlefield is determined by how you face it</strong>. That's where it ends... Excuse me. I didn't mean to lecture.</em>"</p>
+<p>Mio walked nearer to him to speak, "You never changed, Commander."</p>
+<p>"<em>Ahhhhh, don't embarrass me.</em>"</p>
+<p>Noah: "You really do come across as an instructor." Taion had already stood back up after recuperating.</p>
+<p>"Hmhmhm, I'll take that as a compliment."</p>
+<p>"It's pretty unusual for a commander to be an instructor as well, though."</p>
+<p>"Probably... <strong>In my case</strong>... Well, there's... a lot going on."</p>
+<p>Mio: "What'd you mean by that?"</p>
+<p>"<em>Just what I said.</em> Anyway, break time's over. Let's crack on." Not something he's willing to speak out yet.</p>
+<p>Lanz just threw his hands into the air, "<em>Don't say</em> <strong>thaaaaatttt...</strong>" Only Sena can catch up with him.</p>
+<hr />
+<p>The group reached the top of the jaw-shaped peak that stretches out into the clear blue sky. Surprisingly, at such height, grass still grows lush green.{{footnote: Alexander von Humboldt had drawn a picture with a name one forgot that shows, at different height, different plants grow; and at very tall height, due to temperature and oxygen lacking, almost no plants grow}}.</p>
+<p>Mio, her eyes wide opened with awe, "This is..."</p>
+<p>Such beautiful scenery they had seldom seen. In the near distance, we saw other jaw-shaped peak and thorn-shape peaked, perhaps slightly higher than their current location. Very far away was the mountain they visited the queen, much taller than their current location. Birds flew past not far away.</p>
+<p>Teach: "<strong>What do you think?</strong> A good place, isn't it? It's peaceful, invigorating. A place to quiet your mind. Even the war between Agnus and Keves feels a world away from here, <em>doesn't it?</em>"</p>
+<p>"Yes... it does."</p>
+<p>He wasn't facing Mio but the scenery. "I assume you know about the state of Colony Gamma."</p>
+<p>"Y-yes. That's actually what I wanted to-..."</p>
+<p>"Then I can tell you that <em>you don't have to, Mio</em>."</p>
+<p>"What do you-...?"</p>
+<p>"<em>Don't you get it yet?</em>" And he turned around, "<strong>I mean</strong> that I'm going to deal with you <strong>here</strong> and <em>now</em>."</p>
+<p>And Noah and Eunie and Taion immediately get defensive, with Noah shocked, "<strong>Wha...? But you...!</strong>"</p>
+<p>"Purging the traitor Ouroboros from our ranks is a matter of the <strong>highest</strong> priority. <strong>I am the commander of Colony Gamma</strong>, I cannot shirk this duty. <strong>Do you understand?</strong>"</p>
+<p>Eunie's voiced like biting her tongue, "What, that you lured us out here to do us in? Yeah, I'm up to speed, thanks."</p>
+<p>"No one in the colony will learn <em>what you are.</em> <strong>Understand that the fact I'm not doing this in public</strong> is a sign of my respect <em>for you.</em>"</p>
+<p>Mio still tried to persuade, "But, Commander, wait! <strong>Please, just listen-!</strong>"</p>
+<p>"<strong>What would be the point</strong>? Words blur truth and <em>lies so easily</em>."</p>
+<p>Taion: "Commander...!"</p>
+<p>Noah: "Ugh, we've got no choice...!" And the Kevesi already summoned their blades.</p>
+<p>"Are you prepared? Face your deaths with honor." And he called his weapon, a stick with burning torches on both ends.</p>
+<p>Mio, closing her eyes, perhaps felt regret that she didn't manage to convince one whom she thought would had least listen to her, finally summoned her blades, followed by Sena and Taion.</p>
+<p>"The time has come."</p>
+<hr />
+<p>After some battling, Lanz complaint, "Spark's sake! We can't take him down and he's just- one- guy?"</p>
+<p>Taion: "I knew he had stamina, but <strong>this is</strong>...!"</p>
+<p>"<strong>You too display impressive power. But it's that power which is the cause of everything that's gone wrong</strong>, threatening the lives of others <em>as well as yourselves.</em>"</p>
+<p>Mio sheathed her blade as she tried to continued her convincing, "N-no, you've got it wrong! We-!"</p>
+<p>"<strong>No. This isn't just something that only concerns you.</strong>" And he also sheathed his blade. Is the fight going to continue? And he turned around to look at the world, the direction of the great sword, "<strong>This power is a</strong> maelstrom that surrounds the world. <strong>A maelstrom, eventually becomes a raging torrent that swallows lives with-out mer-cy.</strong>" Turning back to them, "<strong>If you really know what's going on in Colony Gamma</strong>, then you <em>must</em> understand <em>this</em>."</p>
+<p>"<strong>That's...</strong>"</p>
+<p>"<strong>So, tell me,</strong> Mio. Was it the power of becoming an Ouroboros that drove you to the other side? <strong>Were you reduced to merely one part of a maelstrom?</strong>"</p>
+<p>"<strong>No, you're wrong!</strong>"</p>
+<p>"<strong>And what precisely am I wrong a-bout?</strong>"</p>
+<p>"<strong>We became Ouroboros by</strong> pure chance. <strong>But we thought that with such power we'd be able to do more.</strong>"</p>
+<p>"<strong>Hah!</strong> Do what?"</p>
+<p>"<strong>Keep the world alive. Find new ways to use our lives for-... I don't know. I can't</strong> put it into words. <strong>But that's what we want to use it for. That's all I'm sure of.</strong>"{{footnote: As of "How to Read a Book" by Mortimer Adler, if you can't put it into words, you don't understand what you're talking/writing about. If something is so clear you know what you're speaking/doing/writing, putting it into words is as easy as drinking water in your 'mother tongue' (which isn't the tongue of your parents, but one mean the <em>first</em> language you learn as a baby to communicate, and expand it with sufficient basic vocabulary. E.g. if you're a Chinese, but your family first taught you English as a baby, then English is your mother tongue, despite you're a Chinese. [This is very common in Southeast Asia, btw. Nowadays, Chinese parents don't necessarily teach their children Chinese to begin with, nor even sending them to a school that teach one.]) }}</p>
+<p>And he shook his head. You don't even know what you're talking about except "<strong>Very pretty words.</strong>"</p>
+<p>"<strong>We can only... we can only go forward. We want to find a way that doesn't involve</strong> sacrificing lives." Now, seeing the fight isn't continuing, the others finally sheathed their blades.</p>
+<p>"..."</p>
+<p>"<em>Hurrr....</em>"</p>
+<p>"Hrr... <strong>Looks</strong> like I've misjudged."</p>
+<p>"What?"</p>
+<p>"<strong>Well</strong>, you've heard for yourself. I- don't- believe they are traitors. <strong>In my capacity as commander</strong>, I judge them <strong>not</strong> deserving of death. Are you in <strong>agreement</strong>, Consul?"</p>
+<p>Noah: "The Consul's here?" And he/she teleported in from behind, making a teleporting sound that attracted the group's attention.</p>
+<p>Sena: "<strong>AHHHH!!!</strong>"</p>
+<p>Lanz: "<strong>So this is</strong> where you were hiding!"</p>
+<p>And he, consul G, just folded his arms, "What a <em>lovely fiction</em>. <strong>Bravo</strong>. The fact <em>remains</em>, Ouroboros will <strong>destroy</strong> the world."</p>
+<p>Teach: "But that's just <strong>one</strong> possibility. Still, people <strong>can</strong> change. I <strong>choose</strong> to believe them."</p>
+<p>"Like the old you...?"</p>
+<p>And his head dropped. "<em>Yes.</em> I had no will, no resolution. <em>Only shame.</em> But they aren't me. They will walk a different path."</p>
+<p>"You, shall persist, no matter what?"</p>
+<p>"You gave me a chance to fix it. I have an obligation. <em>So let's stop doing things your way. Let's end that here.</em>"</p>
+<p>"...Very well. Then I shall make <strong>you</strong> and the traitors <strong>recant</strong> your folly." And he transformed, "...with the power of Moebius!"</p>
+<p>Teach walked in front to do the fighting, Mio calling out, "Commander...!"</p>
+<p>He therefore said, "Right, you lot. <strong>Time to walk the walk. Prove that this power leads to light!</strong>"</p>
+<p>And after a short pause, "<strong>We will!</strong>" And they summoned their blades to join the fight.</p>
+<hr />
+<p>After destroying the Moebius (or maybe it has escaped? We don't know), there was a moment of pause when Teach was sorting out things in his head, not looking at the guys and gals, and the others waited for him... "<em>Hrrr</em>..."</p>
+<p>"<em>Hrrr...</em> Commander, we..."</p>
+<p>"...Not yet, Mio."</p>
+<p>"What?"</p>
+<p>"<em>It's not over yet.</em>" And he turned around, 'remind' them, "There's <strong>one thing</strong> you still have to do. Isn't there?"</p>
+<p>And she knew what he meant. "...There is."</p>
+<p>"Let's go back to the colony, and decide our next steps from there."</p>
+<hr />
+<p>In front of the Colony's Flame Clock, Mio, Noah, and Teach watched it for the last time while it burns. The two turned to look at Teach, asking for his permission. And he nodded thereafter. Both exchanged glance, "Here we go," and smashed it into pieces. One shard of it fell under gravity and crashed into the ground below, sending dirt splashing few meters high.</p>
+<hr />
+<p>The group were back, gathering in a half-circle around Teach. Mio: "Commander... You knew from the start."</p>
+<p>"Not. At. All. I was <strong>serious</strong>, Mio. I was ready to <strong>die</strong> to take you down."</p>
+<p>Noah: "So what you mean is, you were <strong>testing</strong> us?"</p>
+<p>And he lowered glance, explained, "<em>Such power can drive people mad.</em> I needed to be sure about you. I needed to know you hadn't fallen into the trap of being <strong>enthralled</strong> by power, <strong>that you had retained</strong> your own will."</p>
+<p>Lanz threw his hands up in the air, "So that's why you had to try to <strong>kill</strong> us for real?"</p>
+<p>"Determining the true nature of power is a kind of power in itself. <em>That's how I do things.</em>"</p>
+<p>Shaking his head in unacceptance of his standing, "<strong>You're... surprisingly</strong> violent."</p>
+<p>Mio: "<em>But just one slip and you'd be...</em>"</p>
+<p>And he shook his head, dropped his head, thinking of how to phrase his words, "I... once got to see how power can destroy a person <em>up close</em>. I knew a soldier who was lost in it, and lost to it. <em>I don't want to see that happen to you. Nor does anyone in the colony.</em> It was... no choice at all to put my <em>life on the line to prevent it.</em>"</p>
+<p>"Hurrr..."</p>
+<p>Taion agreed with him, "You're right that being an Ouroboros comes with huge power, but it's full of danger too."</p>
+<p>Sena self-convinced, "Yeah, but... we're fine? We use it right, so..." But the rest were thinking and recalling whether they really did use their powers correctly so far.</p>
+<p>"...<em>The reason I became an instructor was to teach people how to confront power.</em>  But... there was always a niggling <em>doubt at the back of my mind.</em> That people are, at heart, stupid creatures that power makes a <strong>mockery</strong> of."</p>
+<p>Mio: "<em>That's...</em>"</p>
+<p>"<em>But</em>, if you were to ask me whether I still thought that way, <em>I'd say no.</em>"</p>
+<p>Taion therefore asked, "So you have hope?"</p>
+<p>"I do. Hmph...Now that I've crossed Blades with you, I understand. So... <strong>the maelstrom hasn't become a raging torrent</strong>, <em>but a clear, strong current</em>."</p>
+<p>Mio invited, "Commander, if that's what you think, then I'd like you to come with us."</p>
+<p>"<strong>Oh!!? And...</strong> may I ask why?"</p>
+<p>"I want you to see with your own eyes... that your faith in us isn't misplaced. You want something from us. More than just words, right?"</p>
+<p>"Yes. <strong><em>The stream becomes the flow of life itself</em></strong>, bringing <em>change</em> and <em>upheaval</em> to the world... And you want me to be the one to watch over your futures. That's it, <em>isn't it?</em>"</p>
+<p>"Yes. Well, something like that."</p>
+<p>"<em>Hmph...</em>" And after he considered for a while, he replied, "OK then. I'll do it. I accept the job. But... what have those of you from Keves to say <em>on this matter?</em>"</p>
+<p>Noah: "Yes, of course."</p>
+<p>Lanz: "The more the merrier, especially <em>if they're as strong as you.</em>"</p>
+<p>Eunie: "Fine by me. Assuming we never have to fight it out like this again."</p>
+<p>"<strong>WELL</strong>, that all depends on how well you <strong>train</strong>, doesn't it?" And everyone was so scared of the word 'train' they all took a step back.</p>
+<p>Taion: "<em>Ugh, why?</em>"</p>
+<p>"<strong>HAHAHAH, I was only joking ha ha...</strong> Ahh, before I forget, <strong>Mio</strong>. I'd like to ask you a favor <em>in return for this.</em>"</p>
+<p>"Anything."</p>
+<p>"<em>Thank you.</em> I'll run through the particulars later." And looking up, he was reminded, "<strong>Oh, wait.</strong> I actually know a very good place for talking. It's just-"</p>
+<p>Mio was so scared of the 'very good place' that she had to cut nervously, "<strong>Yea-Yeah, I think I'll pass on that part...</strong>" The others were also nervous hearing that word.</p>
+<blockquote>
+<p><strong>Note from translator:</strong> The particulars were on second part of the story, which wouldn't be included in this book.</p>
+</blockquote>
+<h3 id="footnotes"><a class="header" href="#footnotes">Footnotes:</a></h3>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="88_guernica.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="86_zeon.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="88_guernica.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="86_zeon.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>
