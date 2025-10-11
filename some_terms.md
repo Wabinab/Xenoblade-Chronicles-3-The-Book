@@ -1857,7 +1857,7 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - turds: a piece of solid waste. (Def 2: a rude word for someone who you think is unpleasant.)
 - polyp: a small, simple, tube-shaped water animal. (Def 2: a small mass of cells that grows in the body, and is usually not harmful.)
 - innards (compulsory 's' at the back): the organs inside a person/animal, or the inside parts of a machine. 
-- founts: plural of 'font', as in 'font size'. 
+- founts (differ from 'fount' w/o 's'): plural of 'font', as in 'font size'. 
 - reggae: a type of popular music from Jamaica, with a strong 2nd and 4th beat. 
 - deified: to make someone/something into a god. 
 - pallid: very pale, in a way that looks unhealthy and not attractive. (Def 2: shoing no enthusiasm or excitement.)
@@ -2229,5 +2229,19 @@ Shirt: https://blog.kamiceria.com/2013/02/what-are-the-parts-of-a-men-shirt/
 - anomie: a state of no moral/social principles in a person or in society.
 - sorrel: a plant with sour leaves that're used in cooking and salads. 
 - leleshwa: Tarchonanthus camphoratus, camphor bush, a shrub/small tree, widespread in Africa south of the Sahel. 
-- trawled: 
+- trawled: to pull a large, cone-shaped net through the sea at a deep level behind a special boat in order to catch fish. (Def 2: to search among a large no. or many different places in order to find people or info you want.)
+- opprobrium: severe criticism and blame. 
+- autarky: economic independence. 
+- bibliophiles: a person who loves or collects books. 
+- fount: (the fount of all knowledge, gossip, wisdom, etc.) the person/place from which all info on a particular subject comes. (Def 2: a set of letters and symbols in a particular design and size.)
+- bemused: slightly confused; not knowing what to do or how to understand something. 
+- haberdashery (in US: notions): cloth, pins, threads, etc. used for sewing, or a shop or a department of a large store that sells these. (Def 2: (US old-fashioned) clothing for men, or a shop/department in a large store that sells this.)
+- patriciate: a noble order/class. 
+- coquettish: trying to attract attention by pretending to be sexually interested in someone, in a pleasant but not serious way. 
+- plight: an unpleasant condition, esp. a serious, sad, or difficult one. (Def 2 (plight your troth): to (promise to) marry.)
+- irascible: short-tempered/bad-tempered, made angry easily. 
+- repartee: quick and usually funny answers and remarks in conversation. 
+- friable: easily broken into small pieces. 
+- galumph: to move in an awkward, heavy way. 
+- snicker: to laugh at someone/something in a silly and often unkind way. 
 - 
